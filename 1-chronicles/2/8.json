@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tt",
   "chapter": 2,
-  "translation": "Һәм Эйтан улы: Аҙария.",
+  "translation": "Һәм Эйтан улы: Азария.",
   "tokens": [
     {
       "surface": "ובני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עזריה",
-      "gloss": "Аҙария"
+      "gloss": "Азария"
     }
   ],
   "timestamp": "2026-10-05T01:55:44.544034934Z",
