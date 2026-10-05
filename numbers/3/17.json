@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм болар Леви уллары иде, исемнәре буенча: Гершон, Ҡеһат һәм Мерари.",
+  "tokens": [],
+  "timestamp": "2026-10-04T22:06:59.499210663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Яһвәнең сүзе миңа килде, болай дип:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "болай дип"
+    }
+  ],
+  "timestamp": "2026-10-04T23:47:09.329559159Z",
+  "model": "glm-5.3"
+}

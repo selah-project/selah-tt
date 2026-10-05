@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Мин алар өстенә бәләләр төйермен, Минем укларымны аларда тукатырмын.",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "төйермен"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "алар өстенә"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "бәләләр"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "Минем укларымны"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "тукатырмын"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аларда"
+    }
+  ],
+  "timestamp": "2026-10-04T22:31:02.959467403Z",
+  "model": "glm-5.3"
+}

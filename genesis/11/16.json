@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Эвер утыз дүрт ел яшәде һәм ⟨את⟩ Пелегны тудырды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "һәм утыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пелегны"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Пелегны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:17.976539519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Һәм Йосеф җавап биреп әйтте: Моның аңлатмасы шул: өч җәймә — өч көн.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "җавап биреп"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "זה",
+      "gloss": "моның"
+    },
+    {
+      "surface": "пתרנו",
+      "gloss": "аңлатмасы"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "җәймә"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨шул⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T21:36:25.860419882Z",
+  "model": "glm-5.3"
+}

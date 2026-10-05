@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 20:7",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Һәм Яһвә Мошега сөйләде ⟨дип⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "һәм сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "э"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨дип⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T22:13:32.668071804Z",
+  "model": "glm-5.3"
+}

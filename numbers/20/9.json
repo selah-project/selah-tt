@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Һәм Моше ⟨את⟩ таякны Яһвә алдыннан алды, аңа кушылганча.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "таякны"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "таякны"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "алдыннан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кушылганча"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "аңа кушылган"
+    }
+  ],
+  "timestamp": "2026-10-04T22:13:06.947994538Z",
+  "model": "glm-5.3"
+}

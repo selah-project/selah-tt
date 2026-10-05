@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 22:1",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм Яһвә сүзе миңа килде, дип әйтергә:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип әйтергә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:14:54.360593948Z",
+  "model": "glm-5.3"
+}

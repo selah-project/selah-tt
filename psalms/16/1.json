@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Давид миктамы. Сакла мине, Эл, чөнки Сиңа сыендым.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "миктам"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидкә"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "сакла мине"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "сыендым"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Сиңа"
+    }
+  ],
+  "timestamp": "2026-10-05T00:43:21.423111377Z",
+  "model": "glm-5.3"
+}

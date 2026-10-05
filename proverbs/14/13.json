@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Хәтта көлүдә дә йөрәк авырта, ә шатлыкның ахыры — кайгы.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "хәтта"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "көлүдә дә"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "авырта"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ә ахыры"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "шатлыкның"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "кайгы"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:04.807209123Z",
+  "model": "glm-5.3"
+}

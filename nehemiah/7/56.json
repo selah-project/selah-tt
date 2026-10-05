@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Нециаһ уллары, Һатифа уллары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "Нециаһ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "Һатифа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:19.545156606Z",
+  "model": "glm-5.3"
+}

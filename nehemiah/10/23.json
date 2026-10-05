@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Пелатйаһ, Ханан, Анайаһ,",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "Пелатйаһ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "Анайаһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:54:09.402699919Z",
+  "model": "glm-5.3"
+}

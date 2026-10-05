@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Әгәр юмаса һәм тәнен юымаса, үз гөнаһын йөрлер.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…маса"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "юмаса"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "һәм аның тәне"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "юымаса"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "йөрлер"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "үз гөнаһын"
+    }
+  ],
+  "timestamp": "2026-10-04T22:01:04.145338492Z",
+  "model": "glm-5.3"
+}

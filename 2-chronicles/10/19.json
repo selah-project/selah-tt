@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Йисраэл Давид йортына каршы бүгенге көнгә кадәр баш күтәреп килә.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "баш күтәреп килә"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "йортына"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгенге көнгә"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-05T02:08:28.582352737Z",
+  "model": "glm-5.3"
+}

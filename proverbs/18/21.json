@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Үлем һәм тормыш тел кулында, һәм аны яратучылар аның җимешен ашый.",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "Үлем"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "һәм тормыш"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "кулда"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тел"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "һәм аны яратучылар"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашый"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "аның җимешен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:01.440440680Z",
+  "model": "glm-5.3"
+}

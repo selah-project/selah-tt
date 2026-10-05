@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Моше — Элоһим кешесе; аның уллары Леви кабиләсе өстенә язылдылар.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Моше исә"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешесе"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "аның уллары"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "язылдылар"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "кабиләсе"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Леви"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:30.696013834Z",
+  "model": "glm-5.3"
+}

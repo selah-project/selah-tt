@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Чөнки халыкларның барлык аллалары — потлар, ә Яһвә күкләрне ясады.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "аллалары"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "халыкларның"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "потлар"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ә Яһвә"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "күкләрне"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ясады"
+    }
+  ],
+  "timestamp": "2026-10-05T02:48:00.314950665Z",
+  "model": "glm-5.3"
+}

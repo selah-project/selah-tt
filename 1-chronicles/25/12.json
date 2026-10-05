@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "бишенче Нэтаньяһу — аның уллары һәм кардәшләре, ун ике.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "бишенче"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "Нэтаньяһу"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "аның уллары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "һәм кардәшләре"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ун"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ике"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:11.702746495Z",
+  "model": "glm-5.3"
+}

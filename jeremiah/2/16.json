@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Шулай ук Ноф һәм Тахпанес уллары синең баш тәҗеңне көтә.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "шулай ук"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Ноф"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "Тахпанес"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "көтә"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "баш тәҗеңне"
+    }
+  ],
+  "timestamp": "2026-10-04T23:46:28.834687178Z",
+  "model": "glm-5.3"
+}

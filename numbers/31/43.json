@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Һәм җәмәгатьнең яртысы булды: көтүдән өч йөз мең һәм утыз мең, җиде мең һәм биш йөз сарык.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "яртысы"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "җәмәгатьнең"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−дан"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "көтүдән"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "һәм утыз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мең"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "һәм биш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:13.963630408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Аның аяклары үлемгә төшә, Шеолны аның адымнары эләктерә.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "аның аяклары"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "төшә"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлемгә"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолны"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "аның адымнары"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "эләктерә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:01.991860791Z",
+  "model": "glm-5.3"
+}

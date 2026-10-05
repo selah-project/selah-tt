@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм Шамшерай, һәм Шәһарияһ, һәм Атәлияһ.",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "һәм Шамшерай"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "һәм Шәһарияһ"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "һәм Атәлияһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:30.741377295Z",
+  "model": "glm-5.3"
+}

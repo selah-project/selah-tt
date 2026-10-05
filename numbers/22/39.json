@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм Билгам Билгам белән китте, һәм алар Кирьят-Хуцотка килделәр.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "һәм китте"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билгам"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Билгам"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "һәм килделәр"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирьят-"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "Хуцот"
+    }
+  ],
+  "timestamp": "2026-10-04T22:14:22.433427062Z",
+  "model": "glm-5.3"
+}

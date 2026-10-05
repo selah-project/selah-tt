@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм ул Аүнәргә сүз җавап бирә алмады, аныңнан куркып.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "һәм … түгел"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "алкалады"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "инде"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "җавап бирергә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аүнәргә"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Аүнәр"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "аныңнан куркып"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨аны⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T22:59:31.289782685Z",
+  "model": "glm-5.3"
+}

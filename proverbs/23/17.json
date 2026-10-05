@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Йөрәгең гөнаһ кылучыларны көнләшмәсен, ә Яһвә куркуында булсын бөтен көн буе.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "көнләшмәсен"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "йөрәгең"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "гөнаһ кылучыларны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ә"
+    },
+    {
+      "surface": "אם",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "куркуында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:04.926748149Z",
+  "model": "glm-5.3"
+}

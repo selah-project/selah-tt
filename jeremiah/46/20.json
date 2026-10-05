@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 46,
+  "translation": "Мицраим — матур гәүдәле сыер бәрәнсе; төньяктан бетерүче килә, килә.",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "сыер бәрәнсе"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "матур"
+    },
+    {
+      "surface": "пיה",
+      "gloss": "гәүдәле"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "бетерүче"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "төньяктан"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:02:35.006405475Z",
+  "model": "glm-5.3"
+}

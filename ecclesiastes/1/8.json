@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Барча сүзләр арыта; кеше ⟨аларны⟩ сөйләп бетерә алмый; күз карап туймый, һәм колак ишетүдән тулмый.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барча"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сүзләр"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "арыта"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ала"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "сөйләп бетерргә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "туя"
+    },
+    {
+      "surface": "עין",
+      "gloss": "күз"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "карап"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "тула"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "колак"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ишетүдән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:56.567098543Z",
+  "model": "glm-5.3"
+}

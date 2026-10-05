@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм Моше бу сүзләрнең ⟨את⟩ барысын да әйтеп бетерде, барысына да Йисраэлгә.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "әйтеп бетерде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "сөйләргә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "барысын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысын"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сүзләрнең"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "барысына да"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлгә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:30:39.690885456Z",
+  "model": "glm-5.3"
+}

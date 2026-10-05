@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Ә Мин Үз патшамны Цийон тавына, Үз изге тавыма майладым.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ә Мин"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "майладым"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Үз патшамны"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийон тавына"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тавы"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "Үз изге"
+    }
+  ],
+  "timestamp": "2026-10-05T02:40:53.065471781Z",
+  "model": "glm-5.3"
+}

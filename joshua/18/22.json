@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм Бет-Һаараваһ, һәм Цемараим, һәм Бет-Эл.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Һаараваһ"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "Цемараим"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-10-04T22:37:00.245912376Z",
+  "model": "glm-5.3"
+}

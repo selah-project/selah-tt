@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 122,
+  "translation": "Яһвә Элоһимыбызның өе өчен мин синең яхшылыгыңны эзләрмен.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоһимыбызның"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "эзләрмен"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшылыгыңны"
+    },
+    {
+      "surface": "לך",
+      "gloss": "синең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:04.186689393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 118,
+  "translation": "Миңа цедек капкаларын ачыгыз, мин алар аша керермен, Яһны мактаярмын.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "ачыгыз"
+    },
+    {
+      "surface": "ли",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "капкаларын"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "керермен"
+    },
+    {
+      "surface": "בם",
+      "gloss": "алар аша"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "мактаярмын"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:30.868862705Z",
+  "model": "glm-5.3"
+}

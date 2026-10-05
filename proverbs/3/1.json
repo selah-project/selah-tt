@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Улым, Торамны онытма, әмрләремне йөрәгең сакласын.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Торамны"
+    },
+    {
+      "surface": "אל",
+      "gloss": "онытма"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "⟨онытма⟩"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "әмрләремне"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "сакласын"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "йөрәгең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:25.847689280Z",
+  "model": "glm-5.3"
+}

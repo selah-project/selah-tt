@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Авыз җимешеннән кеше ⟨את⟩ яхшылыкны ашар, ә хыянәтчеләрнең җаны — золым.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "җимешеннән"
+    },
+    {
+      "surface": "пי",
+      "gloss": "авыз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашар"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшылыкны"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ә җаны"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "хыянәтчеләрнең"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "золым"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:38.299258434Z",
+  "model": "glm-5.3"
+}

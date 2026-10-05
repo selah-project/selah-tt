@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 32:14",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм Яһвә үз халкына эшләргә сөйләгән яманлыктан ваз кичте.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ваз кичте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "על",
+      "gloss": "-тан"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "яманлыктан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "үзе"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйләгән"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "эшләргә"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "үз халкына"
+    }
+  ],
+  "timestamp": "2026-10-04T21:51:41.195894097Z",
+  "model": "glm-5.3"
+}

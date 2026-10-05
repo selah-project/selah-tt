@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Шеломоһның улы Рәһабәам, Абија аның улы, Аса аның улы, Йеһошафат аның улы.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "һәм улы"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоһның"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рәһабәам"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Абија"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йеһошафат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:00.688409842Z",
+  "model": "glm-5.3"
+}

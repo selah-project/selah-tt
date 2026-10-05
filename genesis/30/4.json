@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм ул аңа үз көңе Билһаны хатынлыкка бирде, һәм Яаков аңа керде.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "бирде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Билһаны"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билһа"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "көңе"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "хатынлыкка"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "керде"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:23.226312428Z",
+  "model": "glm-5.3"
+}

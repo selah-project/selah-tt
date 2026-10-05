@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Кешенең бүләге аңа урын киңәйтә һәм бөекләр алдына аны алып бара.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "бүләге"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "киңәйтә"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "һәм алдына"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "бөекләр"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "алып бара"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:05.821660794Z",
+  "model": "glm-5.3"
+}

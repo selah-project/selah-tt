@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм Яһвәнең ачуланып, шул көнне ант итте, болай дип:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ачуланып"
+    },
+    {
+      "surface": "Аף",
+      "gloss": "ачуы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ант итте"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "болай дип"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:19.631426439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Аз гына йокы, аз гына масаю, аз гына кулларны эләктереп ятырга.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "аз гына"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "йокы"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз гына"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "масаю"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз гына"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "эләктерү"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "кулларны"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ятырга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:03.095995039Z",
+  "model": "glm-5.3"
+}

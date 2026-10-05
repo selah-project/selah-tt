@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Яһүшуа кинәттән алар янына килде — төн буе Гилгалдан менде.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "һәм килде"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "алар янына"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Яһүшуа"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "кинәттән"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "төн буе"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "менде"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Гилгал"
+    }
+  ],
+  "timestamp": "2026-10-04T22:34:31.678982151Z",
+  "model": "glm-5.3"
+}

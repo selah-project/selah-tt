@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 17:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Ә Авраһам туксан тугыз яшендә иде, ул тәненең тиресен сөндергәндә.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "яшендә"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "туксан"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "тугыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яшь"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "сөндергәндә"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тәненең"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "тиресен"
+    }
+  ],
+  "timestamp": "2026-10-04T21:27:48.680704269Z",
+  "model": "glm-5.3"
+}

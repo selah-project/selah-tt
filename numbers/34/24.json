@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Һәм Эфраим балалары кабиләсеннән — башлык Кемуэл, Шифтан улы.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "Һәм кабиләсеннән"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "башлык"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "Шифтан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:18:31.913726939Z",
+  "model": "glm-5.3"
+}

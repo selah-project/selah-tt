@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Ул өч мең мәсәл сөйләде, һәм аның җырлары биш мең булды.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "һәм сөйләде"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мең"
+    },
+    {
+      "surface": "משל",
+      "gloss": "мәсәл"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "аның җырлары"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "биш"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "һәм мең"
+    }
+  ],
+  "timestamp": "2026-10-04T23:10:11.420757795Z",
+  "model": "glm-5.3"
+}

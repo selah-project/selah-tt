@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Сүзнең ахыры аның башыннан яхшы; озак көтүче рух биек рухтан яхшы.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ахыры"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзнең"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "аның башыннан"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "озак көтүче"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "биек"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухтан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:35.288043156Z",
+  "model": "glm-5.3"
+}

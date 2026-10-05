@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 86,
+  "translation": "Миңа мәрхәмәт күрсәт, Адонай, чөнки Сиңа мин көн буе эндәшәм.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "миңа мәрхәмәт күрсәт"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сиңа"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "эндәшәм"
+    },
+    {
+      "surface": "כל",
+      "gloss": "көн буе"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:22.847204161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Һәм алар бер-берсенә әйттеләр: Моны карагыз, төш иясенең үзе килә.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "һәм әйттеләр"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бер-берсе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…на"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "абыйсына"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "моны карагыз"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "иясе"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "төшләр"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "мене"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:35:01.355624279Z",
+  "model": "glm-5.3"
+}

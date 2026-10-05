@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Яһвә Мошега сөйләде, әйтеп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "һәм сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-05T02:20:36.267075435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Аның тәмле ашларына теләк теләмә, чөнки ул — ялган икмәк.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "теләмә"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "аның тәмле ашларына"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "чөнки ул"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ялган"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:50.291198271Z",
+  "model": "glm-5.3"
+}

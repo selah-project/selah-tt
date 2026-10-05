@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм Элоһим Билгамга әйтте: Алар белән барма, ⟨את⟩ халыкны каргама, чөнки ул фәйрәзле.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билгам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "барма"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "алар белән"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "каргама"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халыкны"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "фәйрәзле"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T22:13:53.714807243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Яһвәгә шөкер итегез, чөнки Ул яхшы, чөнки Аның хеседе мәңгегә.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "шөкер итегез"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "тוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгегә"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседе"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:41.234076578Z",
+  "model": "glm-5.3"
+}

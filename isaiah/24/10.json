@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "һәлакәт шәһәре ватылды, керүдән һәр өй ябылды.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ватылды"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "шәһәре"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "һәлакәт"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ябылды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өй"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "керүдән"
+    }
+  ],
+  "timestamp": "2026-10-04T23:34:10.567145250Z",
+  "model": "glm-5.3"
+}

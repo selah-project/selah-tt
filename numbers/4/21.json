@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Яһвә Мошега әйтте:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "―га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:00.838162315Z",
+  "model": "glm-5.3"
+}

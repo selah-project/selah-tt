@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Ознидан — Ознилар нәселе, Эриджән — Эриләр нәселе.",
+  "tokens": [
+    {
+      "surface": "лאזни",
+      "gloss": "Ознидан"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "нәселе"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "Ознилар"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "Эридан"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "нәселе"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "Эрилар"
+    }
+  ],
+  "timestamp": "2026-10-04T22:15:06.632835050Z",
+  "model": "glm-5.3"
+}

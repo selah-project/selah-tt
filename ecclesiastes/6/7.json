@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Кешенең бөтен мәшәкатьле хезмәте аның авызы өчен, ә җан тулмый.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "мәшәкатьле хезмәт"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "аның авызы өчен"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ә инде"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "тулмый"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "тула"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:18.113098245Z",
+  "model": "glm-5.3"
+}

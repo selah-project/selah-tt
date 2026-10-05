@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Ул сиңа бурыч бирәчәк, ә син аңа бурыч бирә алмаячаксың; ул баш булачак, ә син койрык буласың.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "бырыч бирәчәк"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ә син"
+    },
+    {
+      "surface": "לא",
+      "gloss": "алмаячаксың"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "бырыч бирә"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буласың"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "баш"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ә син"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буласың"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "койрык"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:53.702522420Z",
+  "model": "glm-5.3"
+}

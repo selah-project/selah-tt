@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Хәйләкәр явызлыкны күрә — яшеренә, ә наивлар узып китә һәм җазалана.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "хәйләкәр"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "явызлыкны"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "яшеренә"
+    },
+    {
+      "surface": "пתאים",
+      "gloss": "наивлар"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "узып китә"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "җазалана"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:30.692371831Z",
+  "model": "glm-5.3"
+}

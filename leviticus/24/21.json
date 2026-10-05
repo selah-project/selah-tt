@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм хайван суккан ⟨моны⟩ түләп куяр, ә кешене суккан үтерелер.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "һәм суккан"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "хайван"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "түләп куяр"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "ә суккан"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешене"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "үтерелер"
+    }
+  ],
+  "timestamp": "2026-10-04T22:03:42.292117174Z",
+  "model": "glm-5.3"
+}

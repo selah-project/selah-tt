@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Җиде яхшы сыер — җиде ел ⟨ул⟩, һәм җиде яхшы башак — җиде ел ⟨ул⟩; бер төш ⟨ул⟩.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "сыер"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ел"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨ул⟩"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "һәм җиде"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "башаклар"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ел"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨ул⟩"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "төш"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ул⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T21:36:21.348444481Z",
+  "model": "glm-5.3"
+}

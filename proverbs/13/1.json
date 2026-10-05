@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Хаким улы атасының тарбиясен тыңлый, ләкин мыскыллаучы сүгүне ишетмәс.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хаким"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тарбиясен"
+    },
+    {
+      "surface": "אב",
+      "gloss": "атасының"
+    },
+    {
+      "surface": "וולץ",
+      "gloss": "ләкин мыскыллаучы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңлый"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "сүгүне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:38.298945729Z",
+  "model": "glm-5.3"
+}

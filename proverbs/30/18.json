@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Өчәү алар миңа карап гаҗәеп, һәм дүртесен мин белмим.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "өчәү"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "гаҗәеп"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "миңа карап"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "һәм дүрт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "аларны белмим"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:38.268288574Z",
+  "model": "glm-5.3"
+}

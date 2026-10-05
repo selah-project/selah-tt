@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм ⟨את⟩ өйне кыйммәтле таш белән каплады матурлык өчен, һәм алтын — Парваим алтыны.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "каплады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өйне"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "өй"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "кыйммәтле"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "матурлык өчен"
+    },
+    {
+      "surface": "והזהб",
+      "gloss": "һәм алтын"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтыны"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Парваим"
+    }
+  ],
+  "timestamp": "2026-10-05T02:07:07.399567064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Шеломоһ Хамат-Цовага барды һәм аны үзенә буйсындырды.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "барды"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоһ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат-"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цова"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "буйсындырды"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T02:09:15.808371394Z",
+  "model": "glm-5.3"
+}

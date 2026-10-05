@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Ашһур, Текоа атасының, ике хатыны булды: Хелаһ һәм Наараһ.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "һәм Ашһур"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Текоа"
+    },
+    {
+      "surface": "היו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ике"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "хатыны"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Хелаһ"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "һәм Наараһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:09.875051198Z",
+  "model": "glm-5.3"
+}

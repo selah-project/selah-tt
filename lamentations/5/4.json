@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Суыбызны көмешкә эчтек, агачыбыз бәһа белән килә.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "суыбызны"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "көмешкә"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "эчтек"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "агачыбыз"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "бәһа белән"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "килә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:06.380585162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Аттай — алтынчы, Элиэл — җиденче.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "Аттай"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "алтынчы"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "Элиэл"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "җиденче"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:29.416152867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 136,
+  "translation": "Барча иткә икмәк бирүче, чөнки аның хеседе мәңге.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "бирүче"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "барча"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "иткә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "аның хеседе"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:19.098921978Z",
+  "model": "glm-5.3"
+}

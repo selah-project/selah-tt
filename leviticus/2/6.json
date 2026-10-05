@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Аны кисәк-кисәк итеп бүлергә һәм аның өстенә май коярға — ул минһа.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "бүлергә"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "кисәк-кисәк"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "коярға"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "аның өстенә"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минһа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T21:55:02.931618160Z",
+  "model": "glm-5.3"
+}

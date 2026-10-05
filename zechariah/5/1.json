@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Мин кире борылдым, күзләремне күтәрдем һәм күрдем, һәм менә очучы төргәк.",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "кире борылдым"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "күтәрдем"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "күзләремне"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "күрдем"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "төргәк"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "очучы"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:26.010884044Z",
+  "model": "glm-5.3"
+}

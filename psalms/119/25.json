@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Тузанга ябышты моңа ⟨минем⟩ җаным, Сүзеңә күрә мине терелт.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ябышты"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "тузанга"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җаным"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "терелт"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Сүзеңә күрә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:54.263254128Z",
+  "model": "glm-5.3"
+}

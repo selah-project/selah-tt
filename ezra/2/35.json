@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Сенаа уллары: өч мең һәм алты йөз һәм утыз.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Сенаа"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мең"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "һәм алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "һәм утыз"
+    }
+  ],
+  "timestamp": "2026-10-05T02:46:41.073021458Z",
+  "model": "glm-5.3"
+}

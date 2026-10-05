@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 38:36",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Кем эчке әгъзаларга хикмәт куйды, әллә кем шерга аң бирде?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кем"
+    },
+    {
+      "surface": "שת",
+      "gloss": "куйды"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "эчке әгъзаларга"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәтне"
+    },
+    {
+      "surface": "או",
+      "gloss": "әллә"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "бирде"
+    },
+    {
+      "surface": "לשכוי",
+      "gloss": "шерга"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "аң"
+    }
+  ],
+  "timestamp": "2026-10-05T01:27:56.011097963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Аннан рух үтеп китә һәм узып бара, һәм гөнаһлы була — бу аның көче, аның Элоһымы.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "үтеп китә"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "узып бара"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "гөнаһлы була"
+    },
+    {
+      "surface": "זו",
+      "gloss": "бу"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "көче"
+    },
+    {
+      "surface": "לאלהו",
+      "gloss": "Элоһымы"
+    }
+  ],
+  "timestamp": "2026-10-05T00:34:30.099686707Z",
+  "model": "glm-5.3"
+}

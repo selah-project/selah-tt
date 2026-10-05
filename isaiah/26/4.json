@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Яһвәгә мәңге ышаныгыз, чөнки Яһ Яһвә — гасырлар ташы.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "ышаныгыз"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "עד",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Яһ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "צור",
+      "gloss": "таш"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "гасырлар"
+    }
+  ],
+  "timestamp": "2026-10-04T23:34:53.634715798Z",
+  "model": "glm-5.3"
+}

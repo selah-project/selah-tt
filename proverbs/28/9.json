@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Тораны ишетүдән колагын читләштерүче кешенең догасы да жиренкен эш.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "читләштерүче"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "колагын"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ишетүдән"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тораны"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "догасы"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "жиренкен эш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:57.112501080Z",
+  "model": "glm-5.3"
+}

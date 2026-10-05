@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "ул ⟨את⟩ Авраһам белән кискен килешү, һәм Йицхакка ант.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "кискен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраһам"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "һәм аның анты"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Йицхакка"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:07.764273665Z",
+  "model": "glm-5.3"
+}

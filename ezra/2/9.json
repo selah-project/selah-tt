@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Заккай уллары: житөз йөз һәм алтмыш.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Заккай"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "житөз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "һәм алтмыш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:10.385479970Z",
+  "model": "glm-5.3"
+}

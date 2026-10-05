@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Надаб уллары: Селед һәм Аппаим; һәм Селед улларыз үлде.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надаб"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Селед"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "һәм Аппаим"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "һәм үлде"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Селед"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ула"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "улларыз"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:30.355996129Z",
+  "model": "glm-5.3"
+}

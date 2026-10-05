@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Ул миңа өй төзер, һәм мин аның ⟨את⟩ тәхетен мәңгегә нигезләрмен.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "төзер"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өй"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "һәм нигезләрмен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тәхетен"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "тәхетен"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-05T02:02:03.647631464Z",
+  "model": "glm-5.3"
+}

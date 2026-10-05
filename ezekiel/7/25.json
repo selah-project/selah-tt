@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Куркыныч килә; һәм алар тынычлык эзләрләр, һәм ⟨ул⟩ булмас.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "Куркыныч"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "эзләрләр"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынычлык"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм булмас"
+    }
+  ],
+  "timestamp": "2026-10-05T00:07:25.701704759Z",
+  "model": "glm-5.3"
+}

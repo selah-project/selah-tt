@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм сез Миңа халык буласыз, һәм Мин сезгә Элоһим булырмын.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "һәм буласыз"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Миңа"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "һәм Мин"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "булырмын"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элоһим"
+    }
+  ],
+  "timestamp": "2026-10-04T23:56:29.736786666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Һәм Һейкал өчен дә, изге урын өчен дә ике ишек булды.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "һәм ике"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ишек"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "Һейкал өчен"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "һәм изге урын өчен"
+    }
+  ],
+  "timestamp": "2026-10-05T00:22:42.505210716Z",
+  "model": "glm-5.3"
+}

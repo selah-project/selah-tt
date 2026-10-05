@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 41:50",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Һәм Йосефкә ачлык елы килгәнче ике ул туды, аларны аңа Он шәһәре каһине Поти-Фера кызы Аснат тудырды.",
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "Йосефкә"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ике"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ул"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "…ганча"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "кил"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "елы"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ачлык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларны"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Аснат"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Поти-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "Фера"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "און",
+      "gloss": "Он"
+    }
+  ],
+  "timestamp": "2026-10-04T21:37:22.065945430Z",
+  "model": "glm-5.3"
+}

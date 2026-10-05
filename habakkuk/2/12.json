@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәй! Каннар белән шәһәр коручы, явызлык белән шәһәр нигезләүче!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Һәй"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "коручы"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "каннар белән"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "нигезләүче"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "явызлык белән"
+    }
+  ],
+  "timestamp": "2026-10-05T00:35:00.448678663Z",
+  "model": "glm-5.3"
+}

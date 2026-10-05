@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Яһвә Мошегә сөйләде, әйтеп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошегә"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:19.047705888Z",
+  "model": "glm-5.3"
+}

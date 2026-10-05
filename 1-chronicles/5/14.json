@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Болар Абиһайл уллары — Һури улы, Яроаһ улы, Гилгад улы, Микаел улы, Йешишай улы, Йаһдо улы, Буз улы.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "Абиһайл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "Һури"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "Яроаһ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилгад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Микаел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "Йешишай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "Йаһдо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Буз"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:34.959496298Z",
+  "model": "glm-5.3"
+}

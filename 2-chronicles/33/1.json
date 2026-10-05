@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 33:1",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Ун ике яшьтә Менашше тәхеткә утырды, һәм Йерушалаимда илле биш ел хөкем сөрде.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яшь"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашше"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "тәхеткә утырды"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хөкем сөрде"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалаимда"
+    }
+  ],
+  "timestamp": "2026-10-05T02:15:54.788392499Z",
+  "model": "glm-5.3"
+}

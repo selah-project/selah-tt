@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Хак шаһит җаннарны коткара, ә ялганнар тынлаган кеше — хәйлә.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "коткара"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "җаннарны"
+    },
+    {
+      "surface": "עד",
+      "gloss": "шаһит"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "хак"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "тынлаган"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ялганнарны"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "хәйлә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:34.508503210Z",
+  "model": "glm-5.3"
+}

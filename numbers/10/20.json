@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Гад уллары кабиләсенең гаскәре өстеннән — Эльясаф, Дэуэл улы.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "һәм өстеннән"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "гаскәре"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "кабиләсенең"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Эльясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Дэуэл"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:19.967255752Z",
+  "model": "glm-5.3"
+}

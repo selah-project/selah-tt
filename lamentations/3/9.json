@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ул юлларымны киселгән таш белән томалады, сукмакларымны бөкрәйтте.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "томалады"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "юлларымны"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "киселгән таш белән"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "сукмакларымны"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "бөкрәйтте"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:01.533042980Z",
+  "model": "glm-5.3"
+}

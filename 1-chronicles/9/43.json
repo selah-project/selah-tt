@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Моца ⟨את⟩ Бинеаны тудырды; Рефайа аның улы, Эләса аның улы, Ацел аның улы.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "һәм Моца"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бинеаны"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Бинеаны"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "Рефайа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Эләса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Ацел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:32.478864696Z",
+  "model": "glm-5.3"
+}

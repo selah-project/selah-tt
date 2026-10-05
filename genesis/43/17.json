@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 43,
+  "translation": "Һәм кеше Йосеф әйткәнчә эшләде, һәм кеше ⟨את⟩ ирләрне Йосеф өенә кертте.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "эшләде"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "әйткәнчә"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кертте"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ирләрне"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ирләрне"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "өенә"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-10-05T02:20:42.478320375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 108,
+  "translation": "Кем мине ныгытмалы шәһәргә кертер? Кем мине Эдомга кадәр җитәкләр?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "мине кертер"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шәһәргә"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ныгытмалы"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "мине җитәкләр"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:28.840863326Z",
+  "model": "glm-5.3"
+}

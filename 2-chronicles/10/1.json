@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Рехавам Шехемга барды, чөнки Шехемга бөтен Йисраэл аны патша итәргә килгән иде.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "барды"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Шехемга"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шехемга"
+    },
+    {
+      "surface": "באו",
+      "gloss": "килгән иде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "патша итәргә"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T02:09:22.562507725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Шаббат көнен ⟨את⟩ истә төк, аны изгеләндерер өчен.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "истә төк"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "көнен"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көнен"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шаббат"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "аны изгеләндерер өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:32.007897349Z",
+  "model": "glm-5.3"
+}

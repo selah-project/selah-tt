@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Яаков үзе генә калды; һәм бер ир аның белән таң атканчы көрәште.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "калды"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "үзе генә"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "көрәште"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бер ир"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "аның белән"
+    },
+    {
+      "surface": "עד",
+      "gloss": "канчы"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "атканчы"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "таң"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:48.402875118Z",
+  "model": "glm-5.3"
+}

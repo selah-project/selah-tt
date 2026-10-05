@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Ач, Ливан, ишекләреңне, һәм ут сәедләреңне ашасын.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Ач"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливан"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "ишекләреңне"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "һәм ашасын"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ут"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "сәедләреңне"
+    }
+  ],
+  "timestamp": "2026-10-05T00:39:36.469587063Z",
+  "model": "glm-5.3"
+}

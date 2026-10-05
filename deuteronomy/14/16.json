@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "⟨את⟩ кече ябалакны, һәм ⟨את⟩ зур ябалакны, һәм тиншәмәтне.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кече ябалакны"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "кече ябалакны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "зур ябалакны"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "зур ябалакны"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "тиншәмәтне"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:56.210581570Z",
+  "model": "glm-5.3"
+}

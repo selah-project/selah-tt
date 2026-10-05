@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Яһвәнең йөзе сиңа балкыйн һәм ул сиңа рәхимле булсын.",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "балкыйн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "йөзе"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "рәхимле булсын"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:29.711810902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "һәм Авраһам җир халкы алдында баш ия булды.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "баш ия булды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "лфни",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халкы"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:03.138249101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Чөнки Ул әйтте, һәм булды; Ул кушты, һәм ⟨ул⟩ басып тора.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "кушты"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "һәм басып тора"
+    }
+  ],
+  "timestamp": "2026-10-05T00:46:23.681628352Z",
+  "model": "glm-5.3"
+}

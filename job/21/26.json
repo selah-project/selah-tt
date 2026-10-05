@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Бергә тузан өстендә яталар, һәм корт аларны каплый.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "бергә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "тузан"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "яталар"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "һәм корт"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "каплый"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "аларны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:23:27.533598121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "һәм Йибһар, һәм Элишуа, һәм Элпалет,",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "һәм Йибһар"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "һәм Элишуа"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "һәм Элпалет"
+    }
+  ],
+  "timestamp": "2026-10-05T02:00:34.966214427Z",
+  "model": "glm-5.3"
+}

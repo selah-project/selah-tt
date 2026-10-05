@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 21:18",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Чөнки сыну бар, һәм ни диярсең, әгәр таяк та кире кагылса — ул булмас, диде Адонай Яһвә.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "һәм ни"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "таяк"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "кире кагылса"
+    },
+    {
+      "surface": "לא",
+      "gloss": "булмас"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булмас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "диде"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:14:44.095811839Z",
+  "model": "glm-5.3"
+}

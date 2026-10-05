@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Бу көндә аңа җавап бирегез: сөенечле виноград бакчасы.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "бу көндә"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "виноград бакчасы"
+    },
+    {
+      "surface": "חמд",
+      "gloss": "сөенечле"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "җавап бирегез"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T23:35:21.308377858Z",
+  "model": "glm-5.3"
+}

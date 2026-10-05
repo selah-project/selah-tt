@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Йисаскар коленесыннан — Йосеф улы Йигал.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "коленесыннан"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йисаскар"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "Йигал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:57.221459029Z",
+  "model": "glm-5.3"
+}

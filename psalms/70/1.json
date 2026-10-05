@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 70,
+  "translation": "Хор җитәкчесенә, Давидтан, искә төшерү өчен.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хор җитәкчесенә"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидтан"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "искә төшерү өчен"
+    }
+  ],
+  "timestamp": "2026-10-05T00:53:31.443781133Z",
+  "model": "glm-5.3"
+}

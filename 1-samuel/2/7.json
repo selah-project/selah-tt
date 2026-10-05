@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Яһвә ярлылый һәм байлата, түбәнсетә, хәтта биекләтә.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "ярлылый"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "һәм байлата"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "түбәнсетә"
+    },
+    {
+      "surface": "אף",
+      "gloss": "хәтта"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "биекләтә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:47:43.228053639Z",
+  "model": "glm-5.3"
+}

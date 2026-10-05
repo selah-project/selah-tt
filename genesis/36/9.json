@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Һәм болар Эсавның нәселе — Эдомның атасы, Сеир тавында.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "һәм болар"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "нәселе"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсавның"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомның"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тавында"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:08.032913413Z",
+  "model": "glm-5.3"
+}

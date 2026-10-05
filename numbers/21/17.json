@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Ул чакта Йисраэл ⟨את⟩ бу җырны җырлады: Күтәрел, коез, аңа җавап бирегез!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ул чакта"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "җырлады"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу җырны"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "җырны"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "күтәрел"
+    },
+    {
+      "surface": "באר",
+      "gloss": "коез"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "җавап бирегез"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T22:13:11.672964023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 137,
+  "translation": "Ничек җырлыйк ⟨את⟩ Яһвә җырын чит җир тупрагында?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "җырлыйк"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвә җырын"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыры"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "тупрагы"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чит җир"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:50.246406155Z",
+  "model": "glm-5.3"
+}

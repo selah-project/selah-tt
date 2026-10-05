@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 33:1",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Һәм Яһвәнең сүзе миңа килде, дип әйтергә:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип әйтергә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:19:03.629414808Z",
+  "model": "glm-5.3"
+}

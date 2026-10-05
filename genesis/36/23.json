@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Болар Шовал уллары: Алван, Манаһат, Эйвал, Шефо һәм Онам.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовал"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "Алван"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "һәм Манаһат"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "һәм Эйвал"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "Шефо"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "һәм Онам"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:11.096821416Z",
+  "model": "glm-5.3"
+}

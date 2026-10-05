@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "genesis 41:49",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Һәм Йосеф диңгез комы кебек бик күп бөртек җыйды, хәтта саный алмый калганчы, чөнки саны юк иде.",
+  "tokens": [
+    {
+      "surface": "ויצבר",
+      "gloss": "җыйды"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "בר",
+      "gloss": "бөртек"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "комы кебек"
+    },
+    {
+      "surface": "הים",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "күп"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хәтта"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "туктады"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "санарга"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "саны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:37:22.065675192Z",
+  "model": "glm-5.3"
+}

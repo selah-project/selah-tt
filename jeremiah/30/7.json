@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 30:7",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Аһ! Чөнки бөек шул көн, аның тиңе юк; һәм бу Яаков өчен бәла вакыты, ләкин аннан котылыр ⟨ул⟩.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Аһ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "היום",
+      "gloss": "шул көн"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "аниң тиңе"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "һәм вакыт"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "бәланың"
+    },
+    {
+      "surface": "היא",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаков өчен"
+    },
+    {
+      "surface": "וממנה",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "котылыр"
+    }
+  ],
+  "timestamp": "2026-10-04T23:57:13.828984427Z",
+  "model": "glm-5.3"
+}

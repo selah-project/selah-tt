@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Чөнки хакимгә ахмактан ни артык? Фәкыйргә, тере алдында йөри белгәнгә, ни бар?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "артык"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "хакимгә"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-тан"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ахмак"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "фәкыйргә"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "белүче"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "йөрергә"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "тере"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:18.113257566Z",
+  "model": "glm-5.3"
+}

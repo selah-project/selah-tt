@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Күрдем, һәм меңа, кеше юк, һәм күкнең барлык кошлары очып китте.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Күрдем"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "һәм меңа"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм барлык"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "кошлары"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күкнең"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "очып китте"
+    }
+  ],
+  "timestamp": "2026-10-04T23:47:49.573725176Z",
+  "model": "glm-5.3"
+}

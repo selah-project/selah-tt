@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "һәм Давид аңа әйтте: әгәр минең белән үтсәң, син миңа йөк буласың.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "үтсәң"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "минем белән"
+    },
+    {
+      "surface": "והית",
+      "gloss": "буласың"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "йөк булып"
+    }
+  ],
+  "timestamp": "2026-10-04T23:03:54.599230834Z",
+  "model": "glm-5.3"
+}

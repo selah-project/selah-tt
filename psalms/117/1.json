@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 117,
+  "translation": "⟨את⟩ Яһвәне мактагыз, бар халыклар; Аны данлагыз, бар милләтләр.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "мактагыз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвәне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәне"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "халыклар"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "данлагыз"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "милләтләр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:16.921966848Z",
+  "model": "glm-5.3"
+}

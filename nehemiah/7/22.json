@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Хашум балалары — өч йөз егерме сигез.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хашум"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "һәм сигез"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:07.771509768Z",
+  "model": "glm-5.3"
+}

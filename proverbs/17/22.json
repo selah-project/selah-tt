@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Шат йөрәк дәва китерә, ә басылган рух сөякне корыта.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "шат"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "яҡшы итә"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "дәва"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ә рух"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "басылган"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "корыта"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "сөякне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:52.943108552Z",
+  "model": "glm-5.3"
+}

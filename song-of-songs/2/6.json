@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Аның сул кулы башым астында, уң кулы исә мине кочып ала.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "аның сул кулы"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "башым"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "уң кулы"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "кочып ала мине"
+    }
+  ],
+  "timestamp": "2026-10-05T01:29:13.665826823Z",
+  "model": "glm-5.3"
+}

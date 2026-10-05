@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Танып бел сарыкларыңның йөзен, көтүләргә йөрәгеңне ку.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "бел"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "танып бел"
+    },
+    {
+      "surface": "пני",
+      "gloss": "йөзен"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "сарыкларыңның"
+    },
+    {
+      "surface": "שית",
+      "gloss": "ку"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "йөрәгеңне"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "көтүләргә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:13.491404520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Абыеңа үсәк өстәмә — көмеш үсәге, ризык үсәге, үсәк алына торган теләсә нинди нәрсә ⟨юк⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "үсәк өстәмә"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "абыеңа"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "үсәге"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "көмеш"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "үсәге"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ризык"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "үсәге"
+    },
+    {
+      "surface": "כל",
+      "gloss": "теләсә нинди"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "үсәк алына торган"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:03.910719700Z",
+  "model": "glm-5.3"
+}

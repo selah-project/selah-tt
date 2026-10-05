@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм патша әйтте: Үлергә үләрсең, Аһимелех, син һәм атaңның бөтен өе.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлергә"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "үләрсең"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Аһимелех"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм бөтен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өе"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңның"
+    }
+  ],
+  "timestamp": "2026-10-04T22:56:18.902148131Z",
+  "model": "glm-5.3"
+}

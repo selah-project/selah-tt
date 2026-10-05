@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Ун тугызынчысы Патахияга, егерменчесе Йехезкелга.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "Патахияга"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "тугызынчысы"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "Йехезкелга"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "егерменчесе"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:17.068338919Z",
+  "model": "glm-5.3"
+}

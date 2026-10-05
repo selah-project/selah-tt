@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 78,
+  "translation": "Ул искә төшерде: алар тән, үтеп баручы җил, кире кайтмый",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Ул искә төшерде"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тән"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "җил"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "үтеп баручы"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "кире кайтмый"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "кире кайтмый"
+    }
+  ],
+  "timestamp": "2026-10-05T00:55:16.305015856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 118,
+  "translation": "Ташны, коручылар түбән күргән ⟨את⟩, ул почмак башы булды.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Ташны"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "түбән күргән"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "коручылар"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "башы"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "почмак"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:20.097107434Z",
+  "model": "glm-5.3"
+}

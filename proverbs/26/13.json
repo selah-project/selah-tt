@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Ялкау әйтте: Юлда арыслан бар, эссле арыслан урамнар арасында.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ялкау"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "арыслан"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "юлда"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "арыслан"
+    },
+    {
+      "surface": "בין",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "урамнар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:05.380839645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Һәм тузан, булган кебек үк, җиргә кайтарачак, һәм рух аны биргән Элоһимга кайтарачак.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "һәм кайтарачак"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "тузан"
+    },
+    {
+      "surface": "על",
+      "gloss": "...гә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "булган кебек үк"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "һәм рух"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "кайтарачак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...га"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "биргән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:37:23.378983751Z",
+  "model": "glm-5.3"
+}

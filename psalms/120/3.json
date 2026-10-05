@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 120,
+  "translation": "Нәрсә бирер ⟨Ул⟩ сиңа, һәм нәрсә өстерәр ⟨Ул⟩ сиңа, э хәйләкәр тел?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бирер"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "һәм нәрсә"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "өстерәр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тел"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "хәйләкәр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:13.386232177Z",
+  "model": "glm-5.3"
+}

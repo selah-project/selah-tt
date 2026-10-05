@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Башка Элам уллары, мең ике йөз илле дүрт.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Элам"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ике йөз"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "дүрт"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:09.914487692Z",
+  "model": "glm-5.3"
+}

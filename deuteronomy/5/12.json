@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Шаббат ⟨את⟩ көнен сакла, аны изгеләндерер өчен, ничек Яһвә, Элоһимың, сиңа боерган.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "сакла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "көнен"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көнен"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шаббат"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ани изгеләндерер өчен"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "сиңа боерган"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоһимың"
+    }
+  ],
+  "timestamp": "2026-10-04T22:21:02.366463510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм Яһвә Моше­гә сөйләде, дип:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Һәм сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-гә"
+    },
+    {
+      "surface": "мשה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    }
+  ],
+  "timestamp": "2026-10-04T22:04:21.383580372Z",
+  "model": "glm-5.3"
+}

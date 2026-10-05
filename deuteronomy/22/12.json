@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Үзеңә үрелмәләр эшлә, үзең ябуның дүрт канатына, аның белән үзеңне ябасың.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "үрелмәләр"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "эшлә"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "על",
+      "gloss": "-га"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "канатына"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "үзеңнең ябуның"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аның белән"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ябасың"
+    },
+    {
+      "surface": "בה",
+      "gloss": "үзеңне"
+    }
+  ],
+  "timestamp": "2026-10-04T22:25:40.592854506Z",
+  "model": "glm-5.3"
+}

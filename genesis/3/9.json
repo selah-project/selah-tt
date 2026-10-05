@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Яһвә Элоһим кешене чакырды һәм аңа әйтте: Син кайда?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кешене"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "кайда"
+    }
+  ],
+  "timestamp": "2026-10-04T21:23:30.341432109Z",
+  "model": "glm-5.3"
+}

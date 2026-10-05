@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Яһвәгә таян һәм яхшылык эшлә, җирдә яшә һәм тугрылыкны көт.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "таян"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "һәм эшлә"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшылык"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "яшә"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җирдә"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "һәм көт"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "тугрылыкны"
+    }
+  ],
+  "timestamp": "2026-10-05T00:47:23.178948522Z",
+  "model": "glm-5.3"
+}

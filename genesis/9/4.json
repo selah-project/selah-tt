@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Ләкин итне — аның җаны булган кан белән — ашамаска.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ләкин"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "итне"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "аның җаны булган"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "кан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ашамаска"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ашамаска"
+    }
+  ],
+  "timestamp": "2026-10-05T02:20:06.695583777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Йериһо патшасы — бер; Һаай патшасы, ул Бәет-Эл янында урнашкан, — бер;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Йериһо"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Һаай"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "янында"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бәет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-04T22:35:13.376712647Z",
+  "model": "glm-5.3"
+}

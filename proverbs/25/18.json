@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Чүкеч, һәм кылыч, һәм үткен ук — дустына ялган шаһитлык итүче кеше.",
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "чүкеч"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "һәм кылыч"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "һәм ук"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "үткен"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "шаһитлык итүче"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "дустына"
+    },
+    {
+      "surface": "עד",
+      "gloss": "шаһит"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ялган"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:50.286088823Z",
+  "model": "glm-5.3"
+}

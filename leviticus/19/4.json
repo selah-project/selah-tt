@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Потларга борылмагыз һәм коелган аллаларны үзегезгә ясамагыз; мин — Яһвә, Элоһимегез.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "борылмагыз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "һәм"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "потларга"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "һәм аллаларны"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "коелган"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ясамагыз"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "үзегезгә"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоһимегез"
+    }
+  ],
+  "timestamp": "2026-10-04T22:01:19.573095817Z",
+  "model": "glm-5.3"
+}

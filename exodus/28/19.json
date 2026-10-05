@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Һәм өченче рәттә — лешем, шево һәм ахламаһ.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "һәм рәт"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "өченче"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "лешем"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "шево"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "һәм ахламаһ"
+    }
+  ],
+  "timestamp": "2026-10-04T21:49:27.982550769Z",
+  "model": "glm-5.3"
+}

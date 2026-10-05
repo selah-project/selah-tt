@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 31:31",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Һәм Моше белән каһин Элазар Яһвә Мошега ⟨את⟩ нәрсә кушкан — шулай эшләде.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "эшләде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "кушкан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошене"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошега"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:50.759051706Z",
+  "model": "glm-5.3"
+}

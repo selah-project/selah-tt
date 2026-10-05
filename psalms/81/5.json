@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 81,
+  "translation": "Чөнки ул Йисраэл өчен кагыйдә, Яаковның Элоһимы өчен хөкем.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "חק",
+      "gloss": "кагыйдә"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Йисраэл өчен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкем"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Элоһимы өчен"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковның"
+    }
+  ],
+  "timestamp": "2026-10-05T00:56:09.416247913Z",
+  "model": "glm-5.3"
+}

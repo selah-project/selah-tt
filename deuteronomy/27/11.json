@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм Моше ⟨את⟩ халыкка шул көнне боерган, дип әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "боерды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халыкка"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халыкка"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:36.126016922Z",
+  "model": "glm-5.3"
+}

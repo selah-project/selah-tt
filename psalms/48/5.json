@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Чөнки карагыз, патшалар җыелды, бергә үттеләр.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "карагыз"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "патшалар"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "җыелды"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "үттеләр"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бергә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:44.129808801Z",
+  "model": "glm-5.3"
+}

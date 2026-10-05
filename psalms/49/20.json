@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 49,
+  "translation": "Ул үз аталарының буынына керер; мәңге алар яктылык күрмәсләр.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "керер"
+    },
+    {
+      "surface": "עד",
+      "gloss": "−на"
+    },
+    {
+      "surface": "דור",
+      "gloss": "буынына"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "үз аталарының"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-гә кадәр"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "−мәс"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "күрмәсләр"
+    },
+    {
+      "surface": "אור",
+      "gloss": "яктылык"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:40.020533943Z",
+  "model": "glm-5.3"
+}

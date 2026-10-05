@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм әгәр бу өчесен аңа эшләмәсә, ул бушлай чыгып китәр, көммисез.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "һәм әгәр"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өчесен"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "эшләмәсә"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "чыгып китәр"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бушлай"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "көммисез"
+    }
+  ],
+  "timestamp": "2026-10-04T21:46:59.621649691Z",
+  "model": "glm-5.3"
+}

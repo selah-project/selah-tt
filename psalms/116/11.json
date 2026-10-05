@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 116,
+  "translation": "Мин, ашыгучанлыгымда, әйттем: һәр кеше ялганчы.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "әйттем"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ашыгучанлыгымда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ялганчы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:19.774628539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Аһиам, Сакарның улы, Һарадан; Элифал, Урның улы.",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "Аһиам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "Сакар"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "Һарадан"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "Элифал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Ур"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:18.495048622Z",
+  "model": "glm-5.3"
+}

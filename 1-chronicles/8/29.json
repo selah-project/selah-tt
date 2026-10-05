@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Гивъонда Гивъон атасы яшәде, һәм аның хатынының исеме Мааха булды.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "Гивъонда"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивъон"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "һәм исеме"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "аның хатынының"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:40.972485764Z",
+  "model": "glm-5.3"
+}

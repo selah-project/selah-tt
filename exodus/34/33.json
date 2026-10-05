@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Һәм Моше алар ⟨белән⟩ сөйләшүен тәмамлады, һәм йөзенә пәрдә салды.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "тәмамлады"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "сөйләшүен"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "алар белән"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "салды"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "йөзенә"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "пәрдә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:51:34.397338173Z",
+  "model": "glm-5.3"
+}

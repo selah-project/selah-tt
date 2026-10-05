@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 64,
+  "translation": "Көй коючыга мәдхия, Давидка.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "көй коючыга"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхия"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидка"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:32.825436952Z",
+  "model": "glm-5.3"
+}

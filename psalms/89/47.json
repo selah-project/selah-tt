@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 89,
+  "translation": "Кайчанга кадәр, әй Яһвә, үзеңне мәңгегә яшерәсең? Ачуың ут кебек кабынырмы?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кайчанга"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "яшерәсең"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңгегә"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "кабынырмы"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "кебек"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ут"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ачуың"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:10.228539055Z",
+  "model": "glm-5.3"
+}

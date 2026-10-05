@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм Яһвә Мошега сөйләде, әйтеп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "һәм сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T22:00:23.565915754Z",
+  "model": "glm-5.3"
+}

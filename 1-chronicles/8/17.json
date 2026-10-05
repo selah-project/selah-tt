@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм Зәбадья, һәм Мәшуллам, һәм Хизки, һәм Хавер —",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "һәм Зәбадья"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "һәм Мәшуллам"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "һәм Хизки"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "һәм Хавер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:20.736199882Z",
+  "model": "glm-5.3"
+}

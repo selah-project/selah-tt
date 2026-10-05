@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Нециаһ балалары, Һәтифа балалары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "Нециаһ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "Һәтифа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:47:43.503537094Z",
+  "model": "glm-5.3"
+}

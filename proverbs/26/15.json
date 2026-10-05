@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Ялкау кулын чүләктә яшерде, аны авызына кире китерергә арыды.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "яшерде"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ялкау"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колын"
+    },
+    {
+      "surface": "בצלachath",
+      "gloss": "чүләктә"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "арыды"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "кире китерергә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "авызына"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:05.381479444Z",
+  "model": "glm-5.3"
+}

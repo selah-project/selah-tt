@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Явез цадикны күзәтеп тора һәм аны үтерергә тырыша.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "күзәтеп тора"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явез"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "цадикны"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "һәм тырыша"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "аны үтерергә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:47:44.099759122Z",
+  "model": "glm-5.3"
+}

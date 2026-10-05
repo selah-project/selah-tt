@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Йеһоякимның уллары: Йехоняһу ⟨аның улы⟩, Цидкияһу ⟨аның улы⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Йеһоякимның"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Йехоняһу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Цидкияһу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-05T02:47:44.127250727Z",
+  "model": "glm-5.3"
+}

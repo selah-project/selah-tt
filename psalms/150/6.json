@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 150,
+  "translation": "Һәр сулыш иясе Яһны мактасын! Яһне мактагыз!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "сулыш иясе"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "мактасын"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "мактагыз"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:06:40.533548694Z",
+  "model": "glm-5.3"
+}

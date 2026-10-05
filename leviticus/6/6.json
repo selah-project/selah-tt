@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Ут даими рәвештә мизбәх өстендә янып торыр, сүнмәс.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Ут"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "даими рәвештә"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "янып торыр"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "мизбәх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "сүнмәс"
+    }
+  ],
+  "timestamp": "2026-10-04T21:56:15.761994304Z",
+  "model": "glm-5.3"
+}

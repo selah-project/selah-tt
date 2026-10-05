@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм Яһвә Мошега сөйләде:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "һәм сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:41.553817618Z",
+  "model": "glm-5.3"
+}

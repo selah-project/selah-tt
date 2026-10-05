@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Йәһуданың уллары — Әер һәм Онан; Әер белән Онан Кенаан җирендә үлделәр.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йәһуда"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Әер"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "һәм Онан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үлделәр"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Әер"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "белән Онан"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җирендә"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:15:05.993707746Z",
+  "model": "glm-5.3"
+}

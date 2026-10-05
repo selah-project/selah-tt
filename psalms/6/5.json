@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Кайт, эй Яһвә, җанымны тартып ал, мине хеседең өчен коткар.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Кайт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "тартып ал"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җанымны"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "мине коткар"
+    },
+    {
+      "surface": "למען",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседең"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:48.626883350Z",
+  "model": "glm-5.3"
+}

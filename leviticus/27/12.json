@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Каһин аны бәяли, яхшы мы, начар мы; син, каһин, ничек бәяләсәң, шулай булыр.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "бәяли"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "בין",
+      "gloss": "якты"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "якты"
+    },
+    {
+      "surface": "רע",
+      "gloss": "начар"
+    },
+    {
+      "surface": "кערכך",
+      "gloss": "син ничек бәяләсәң"
+    },
+    {
+      "surface": "הכһин",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:24.447409379Z",
+  "model": "glm-5.3"
+}

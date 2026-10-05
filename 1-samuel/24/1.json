@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм Давид аннан менеп, Эйн-Геди ташкалаларында яшәде.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "менеп"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "משם",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "ташкалаларында"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Эйн"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Геди"
+    }
+  ],
+  "timestamp": "2026-10-04T22:56:05.653614057Z",
+  "model": "glm-5.3"
+}

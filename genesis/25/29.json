@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Яаков аш пешерде, һәм Гайсав кырдан кайтты, һәм ул арыган иде.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "аш пешерде"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "аш"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кайтты"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Гайсав"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "кырдан"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "һәм ул"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "арыган"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:01.889561786Z",
+  "model": "glm-5.3"
+}

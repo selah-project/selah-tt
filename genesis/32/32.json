@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм ⟨את⟩ Пениелне узган чагында аңа кояш чыкты, һәм ул бот сөягендә аксап барды.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "һәм чыкты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояш"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "чагында"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "узды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пениелне"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Пениелне"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "һәм ул"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "аксап барды"
+    },
+    {
+      "surface": "על",
+      "gloss": "сөягендә"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "бот"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:12.392612878Z",
+  "model": "glm-5.3"
+}

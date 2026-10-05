@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Шунда Аңардан кул учы җибәрелде, һәм бу язу язылды.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "шунда"
+    },
+    {
+      "surface": "מן",
+      "gloss": "дан"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "Аңардан алдан"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "җибәрелде"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "кул учы"
+    },
+    {
+      "surface": "די",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "кулның"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "һәм язуы"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "язылды"
+    }
+  ],
+  "timestamp": "2026-10-05T01:41:29.837586327Z",
+  "model": "glm-5.3"
+}

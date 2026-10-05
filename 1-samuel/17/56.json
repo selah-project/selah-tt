@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәм патша әйтте: Сораш син, бу яшүсмер кеме улы.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "сора"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кеме"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "яшүсмер"
+    }
+  ],
+  "timestamp": "2026-10-04T22:54:03.321669415Z",
+  "model": "glm-5.3"
+}

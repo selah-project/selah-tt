@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 18:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Теләк өчен аерылган ⟨кеше⟩ эзли, һәм бөтен түшияда үзен каты тота.",
+  "tokens": [
+    {
+      "surface": "לתאוה",
+      "gloss": "теләк өчен"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "эзли"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "аерылган"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "түшия"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "үзен каты тота"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:46.022958593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм Шемуэл Шаул артыннан кайтты, һәм Шаул Яһвәгә баш иде.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "кайтты"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артыннан"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "баш иде"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:52:40.279983602Z",
+  "model": "glm-5.3"
+}

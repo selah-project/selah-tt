@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Тыңла, эй Яһвә, һәм миңа мәрхәмәт кыл; эй Яһвә, миңа ярдәмче бул.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Тыңла"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "һәм миңа мәрхәмәт кыл"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "היה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ярдәмче"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:30.559002739Z",
+  "model": "glm-5.3"
+}

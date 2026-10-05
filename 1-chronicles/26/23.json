@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 26:23",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "амрамлылардан, ицһарлылардан, һевронлылардан, узzielлылардан.",
+  "tokens": [
+    {
+      "surface": "לעמרמי",
+      "gloss": "амрамлылардан"
+    },
+    {
+      "surface": "ליצהרי",
+      "gloss": "ицһарлылардан"
+    },
+    {
+      "surface": "לחברוני",
+      "gloss": "һевронлылардан"
+    },
+    {
+      "surface": "לעזיאלי",
+      "gloss": "узzielлылардан"
+    }
+  ],
+  "timestamp": "2026-10-05T02:04:30.265756545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 5:2",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Ул миңа әйтте: Нәрсә күрәсең? Мин әйттем: Мин очучы төргәк күрәм; аның озынлыгы — егерме ама, киңлеге — ун ама.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ул әйтте"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрәсең"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "мин әйттем"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрәм"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "төргәк"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "очучы"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "озынлыгы"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ама"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "киңлеге"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ама"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:26.011158822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Авинадав улы — бөтен Нафат-Дор; Тафат, Шеломоның кызы, аңа хатын булган.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "Аבינדב",
+      "gloss": "Авинадав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "Нафат"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Дор"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "Тафат"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "булган"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "хатын"
+    }
+  ],
+  "timestamp": "2026-10-04T23:08:38.728980510Z",
+  "model": "glm-5.3"
+}

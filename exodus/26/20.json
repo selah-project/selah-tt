@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "һәм Мишканның икенче ягы өчен, төньяк якта — егерме такта.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "һәм ягы өчен"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишканның"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "якта"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "төньяк"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "такта"
+    }
+  ],
+  "timestamp": "2026-10-04T21:49:14.531867717Z",
+  "model": "glm-5.3"
+}

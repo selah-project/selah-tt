@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм мин күрдем, һәмә — миңа җибәрелгән ⟨бер⟩ кул, һәмә — анда китап төргәге.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "күрдем"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "һәмә"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кул"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "җибәрелгән"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "һәмә"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анда"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "төргәге"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "китап"
+    }
+  ],
+  "timestamp": "2026-10-05T00:07:23.279935931Z",
+  "model": "glm-5.3"
+}

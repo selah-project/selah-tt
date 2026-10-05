@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Агур, Йакеһ угылының сүзләре — йөк. Кешенең сүзе Итиелгә, Итиелгә һәм Укалга.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "сүзләре"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "Агур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "угылы"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "Йакеһ"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "йөк"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "Итиелгә"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "Итиелгә"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "һәм Укалга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:42.595687487Z",
+  "model": "glm-5.3"
+}

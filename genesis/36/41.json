@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Оһоливама кенәзе, Эла кенәзе, Пинон кенәзе.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "кенәзе"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Оһоливама"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "кенәзе"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "кенәзе"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "Пинон"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:02.472443351Z",
+  "model": "glm-5.3"
+}

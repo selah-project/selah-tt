@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Йокыны яратма, ярлыга төшмәс өчен; күзләреңне ач, икмәккә туй.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "әйтмә"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "яратма"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "йокыны"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ярлыга төшмәс өчен"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "йолдырылырсың"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ач"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "күзләреңне"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "туй"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәккә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:41.682904510Z",
+  "model": "glm-5.3"
+}

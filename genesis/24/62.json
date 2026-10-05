@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "genesis 24:62",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм Йицхак Беэр-Лаһай-Роидан килү юлы белән килде, чөнки ул Негев илендә яшәде.",
+  "tokens": [
+    {
+      "surface": "ויצחק",
+      "gloss": "һәм Йицхак"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килде"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "килү юлы белән"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Лаһай"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Рои"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "һәм ул"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "илендә"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Негев"
+    }
+  ],
+  "timestamp": "2026-10-04T21:30:50.721245712Z",
+  "model": "glm-5.3"
+}

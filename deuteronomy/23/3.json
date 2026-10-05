@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Мамзер Яһвә җыенына кермәс; унынчы буынына кадәр аның нәселе Яһвә җыенына кермәс.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "кермәс"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "мамзер"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "җыенына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "גם",
+      "gloss": "хәтта"
+    },
+    {
+      "surface": "דור",
+      "gloss": "буыны"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "унынчы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "кермәс"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аның"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "җыенына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:01.549013288Z",
+  "model": "glm-5.3"
+}

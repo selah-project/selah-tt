@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Әгәр синең куылганың күкнең читендә булса, аннан Яһвә Элоһимең сине җыяр һәм аннан сине алыр.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Әгәр"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булса"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "куылганың"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "читендә"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күкнең"
+    },
+    {
+      "surface": "משם",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "җыяр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоһимең"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "һәм аннан"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "алыр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:30:06.708897451Z",
+  "model": "glm-5.3"
+}

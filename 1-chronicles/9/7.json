@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Бинйамин улларыннан: Саллу, Мешуллам улы, Һодавйаһ улы, Һасенуаһ улы.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "һәм ... нан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинйамин"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Саллу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешуллам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Һодавйаһ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Һасенуаһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:26.557373722Z",
+  "model": "glm-5.3"
+}

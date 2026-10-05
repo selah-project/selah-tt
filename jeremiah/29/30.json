@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм Яһвә сүзе Йирмәяһуга килде, болай дип:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–га"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмәяһу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "болай дип"
+    }
+  ],
+  "timestamp": "2026-10-04T23:57:43.890323049Z",
+  "model": "glm-5.3"
+}

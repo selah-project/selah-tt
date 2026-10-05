@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "бер тәкә кәҗә, гөнаһ корбаны өчен.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "тәкә кәҗә"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "кәҗәләрнең"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "гөнаһ корбаны өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T22:08:04.276408221Z",
+  "model": "glm-5.3"
+}

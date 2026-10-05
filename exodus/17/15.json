@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәм Моше корбан урыны төзеде һәм аның исен Яһвә Нисси дип атады.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "төзеде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "корбан урыны"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "атады"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "исен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Нисси"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:27.712047138Z",
+  "model": "glm-5.3"
+}

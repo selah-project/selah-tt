@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Иардан аръягында, Моаб җирендә Моше бу Тораны аңлатырга кереште, әйтеп:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "аръягында"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иардан"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җирендә"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "кереште"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "באר",
+      "gloss": "аңлатырга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу Тораны"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T22:20:08.718122844Z",
+  "model": "glm-5.3"
+}

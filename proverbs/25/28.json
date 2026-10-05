@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Җимерелгән, диуары юк шәһәр — рухына тыйнык булмаган кеше шундый.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "җимерелгән"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "диуар"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ул⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "тыйнык"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "рухына"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:12.062955709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Имерның балалары: мең илле ике.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Имер"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "һәм ике"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:08.742687305Z",
+  "model": "glm-5.3"
+}

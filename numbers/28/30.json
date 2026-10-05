@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Һәм бер тәкә кәҗә — сезгә ярлыкау булыр өчен.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "тәкә"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "кәҗә"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ярлыкау өчен"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "сезгә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:42.027013354Z",
+  "model": "glm-5.3"
+}

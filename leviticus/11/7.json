@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм ⟨את⟩ дуңгыз — чөнки ул туяк бүлә, туякны ярып тора, ләкин кайтарып чәйнәми — ул сезгә тәмәсез.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Һәм ⟨את⟩",
+      "marks": "дуңгыз"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "дуңгыз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "бүлә"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "туяк"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "һәм яра"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ярык"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "туяк"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "⟨чәйнәнгән азык⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "чәйнәми"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "тәмәсез"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:52.614177095Z",
+  "model": "glm-5.3"
+}

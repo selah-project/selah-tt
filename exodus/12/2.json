@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Бу ай сезнең өчен айлар башы: ул сезнең өчен ел айларының беренчесе.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "бу ай"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезнең өчен"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башы"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "айларның"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "беренче"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезнең өчен"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "айларының"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ел"
+    }
+  ],
+  "timestamp": "2026-10-04T21:43:49.452046067Z",
+  "model": "glm-5.3"
+}

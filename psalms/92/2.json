@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 92,
+  "translation": "Яһвәгә шөкрәнә кылу яхшы, һәм Гали Исемеңә зэмэр әйтие.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Яхшы"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "шөкрәнә кылу"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "һәм зэмэр әйтие"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Исемеңә"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Гали"
+    }
+  ],
+  "timestamp": "2026-10-05T00:58:10.084936398Z",
+  "model": "glm-5.3"
+}

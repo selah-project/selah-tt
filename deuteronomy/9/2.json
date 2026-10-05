@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 9:2",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Зур һәм буйлы халык — Ганак уллары; син аларны беләсең, һәм син ишеткәнсең: кем Ганак уллары алдында тора ала?",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "зур"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "һәм буйлы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "Ганак"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларны"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "беләсең"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "һәм син"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ишеткәнсең"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "тора ала"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "Ганак"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:31.188089973Z",
+  "model": "glm-5.3"
+}

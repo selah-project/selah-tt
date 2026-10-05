@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Аның әтисе Йицхак аңа әйтте: Син кем? Ул әйтте: Мин сиңа беренче туган улың Эсав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әтисе"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "улың"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "беренче туган"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:02.660384019Z",
+  "model": "glm-5.3"
+}

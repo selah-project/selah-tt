@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 44,
+  "translation": "Һәм шәраб эчмәс бер каһин дә, эчке ихатага кергәндә.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "һәм шәраб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "יִשְׁתּוּ",
+      "gloss": "эчмәс"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бер ... дә"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "кергәндә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨эчке⟩"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ихатага"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "эчке"
+    }
+  ],
+  "timestamp": "2026-10-05T00:24:49.962854872Z",
+  "model": "glm-5.3"
+}

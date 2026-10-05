@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Шимоннеке — Шелумиэл, Цуришаддай улы.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "Шимоннеке"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шелумиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "Цуришаддай"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:27.023054916Z",
+  "model": "glm-5.3"
+}

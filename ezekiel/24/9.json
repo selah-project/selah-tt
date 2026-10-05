@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Шуңа күрә Адонай Яһвә болай диде: Әй, каннар шәһәре! Мин дә ут өемеңне зурайтырмын.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Шуңа күрә"
+    },
+    {
+      "surface": "כה",
+      "gloss": "болай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Әй"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шәһәре"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "каннарның"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дә"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "зурайтырмын"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "ут өемең"
+    }
+  ],
+  "timestamp": "2026-10-05T02:37:36.890731879Z",
+  "model": "glm-5.3"
+}

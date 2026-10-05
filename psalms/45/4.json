@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 45,
+  "translation": "Көчле, кылычыңны саныңа бәл; зинәтең һәм бөеклегең.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "бәл"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "кылычыңны"
+    },
+    {
+      "surface": "על",
+      "gloss": "саныңа"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "сан"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Көчле"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "зинәтең"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "бөеклегең"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:49.700393434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 16:4",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм Йусуф балалары — Менаше һәм Эфраим — мирасларын алды.",
+  "tokens": [
+    {
+      "surface": "וינחלו",
+      "gloss": "мирас алды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йусуф"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "һәм Эфраим"
+    }
+  ],
+  "timestamp": "2026-10-04T22:37:02.857551441Z",
+  "model": "glm-5.3"
+}

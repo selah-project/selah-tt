@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Сулар башым өстеннән агып үтте, мин әйттем: мин киселдем.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "агып үтте"
+    },
+    {
+      "surface": "מים",
+      "gloss": "сулар"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "башым"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "мин әйттем"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "киселдем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:15.927642727Z",
+  "model": "glm-5.3"
+}

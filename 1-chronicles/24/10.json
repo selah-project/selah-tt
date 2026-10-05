@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Җиденче Һаkoцка, сигезенче Авијага.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "Һаkoцка"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "җиденче"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "Авијага"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "сигезенче"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:10.140918018Z",
+  "model": "glm-5.3"
+}

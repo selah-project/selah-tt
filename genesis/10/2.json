@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Яфәт уллары: Гомер, Магог, Мадай, Яван, Тувал, Мешек һәм Тирас.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Яфәт"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "Магог"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "Мадай"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "Яван"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "Тувал"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "Мешек"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "Тирас"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:48.133566530Z",
+  "model": "glm-5.3"
+}

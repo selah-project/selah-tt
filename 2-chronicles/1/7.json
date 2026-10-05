@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Төннең шул вакытында Элоһим Шеломаһка күренде һәм аңа әйтте: Сора, нәрсә бирим сиңа.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "төндә"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "күренде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломаһка"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "сора"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "бирим"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-05T02:48:52.558466712Z",
+  "model": "glm-5.3"
+}

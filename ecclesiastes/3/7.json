@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Вакыт ертырга һәм вакыт тегергә; вакыт дәшмәскә һәм вакыт сөйләшергә.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "вакыт"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "ертырга"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "һәм вакыт"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "тегергә"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вакыт"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "дәшмәскә"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "һәм вакыт"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "сөйләшергә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:44.589769042Z",
+  "model": "glm-5.3"
+}

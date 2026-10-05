@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 115,
+  "translation": "Яһвә сезгә, сезгә һәм балаларыгызга өсти.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "өсти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "һәм ... өстенә"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "балаларыгызга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:20.474817212Z",
+  "model": "glm-5.3"
+}

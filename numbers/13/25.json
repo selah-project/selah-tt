@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 13:25",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм алар җирне үзләп карап кырык көннән соң кайттылар.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "кайттылар"
+    },
+    {
+      "surface": "מתור",
+      "gloss": "үзләп карап"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "азагыннан"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көннән"
+    }
+  ],
+  "timestamp": "2026-10-04T22:10:08.527182587Z",
+  "model": "glm-5.3"
+}

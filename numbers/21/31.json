@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Йисраэл эморлылар илендә яшәде.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Һәм яшәде"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "илендә"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "эморлылар"
+    }
+  ],
+  "timestamp": "2026-10-04T22:13:34.165414493Z",
+  "model": "glm-5.3"
+}

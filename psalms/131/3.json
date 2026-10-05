@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 131,
+  "translation": "Өметләнсен Йисраэл Яһвәгә — хәзердән һәм мәңгегә.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Өметләнсен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "мעתה",
+      "gloss": "хәзердән"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "һәм"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңгегә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:26.513974072Z",
+  "model": "glm-5.3"
+}

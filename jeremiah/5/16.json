@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Аның җәя капчыгы ачык кабер кебек, барысы да баһадирлар.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "аның җәя капчыгы"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "кабер кебек"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ачык"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "барысы да"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "баһадирлар"
+    }
+  ],
+  "timestamp": "2026-10-04T23:48:35.843413177Z",
+  "model": "glm-5.3"
+}

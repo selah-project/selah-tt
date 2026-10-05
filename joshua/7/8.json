@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Әй, Адонай, Йисраэл дошманнары алдыннан артын боргач, ни дияй мин?",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "Әй"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дияй"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "оргач"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הפך",
+      "gloss": "боргач"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "артын"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдыннан"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "дошманнары"
+    }
+  ],
+  "timestamp": "2026-10-04T22:34:14.981457540Z",
+  "model": "glm-5.3"
+}

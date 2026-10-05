@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Ялган үлчәү ташлары Яһвә өчен оҗах, ә тулы таш — Аның рәзәлеге.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "үлчәү ташлары"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "оҗах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ә таш"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "Аның рәзәлеге"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:06.982862714Z",
+  "model": "glm-5.3"
+}

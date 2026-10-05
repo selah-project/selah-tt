@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм ⟨את⟩ Һадорамны, һәм ⟨את⟩ Узалны, һәм ⟨את⟩ Диклаһны.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Һадорамны"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Һадорамны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Узалны"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Узалны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Диклаһны"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Диклаһны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:07.764114246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Камчы атка, йөгән ишәккә, ә таяк ахмаклар аркасына.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "камчы"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "атка"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "йөгән"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "ишәккә"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ә таяк"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "аркасына"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ахмаклар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:18.551842496Z",
+  "model": "glm-5.3"
+}

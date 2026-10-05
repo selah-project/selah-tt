@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Яһвә сүзе Шемаияуга, Элоһим кешесенә килде, әйтик:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "келәде"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шемаияуга"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешесенә"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтик"
+    }
+  ],
+  "timestamp": "2026-10-05T02:09:44.008950797Z",
+  "model": "glm-5.3"
+}

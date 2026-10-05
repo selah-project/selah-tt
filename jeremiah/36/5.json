@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Һәм Йирмәйәһу ⟨את⟩ Барухны әйтеп боерды: Мин тыелганмын, Яһвәнең өенә керә алмыйм.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "боерды"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмәйәһу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Барухны"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "тыелган"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "аламыйм"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "керергә"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    }
+  ],
+  "timestamp": "2026-10-04T23:59:23.505908073Z",
+  "model": "glm-5.3"
+}

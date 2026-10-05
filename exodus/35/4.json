@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 35:4",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 35,
+  "translation": "Һәм Моше Йисраэл улларының бөтен җыенына сөйләде: былай дип — моны Яһвә боерды, былай дип.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "җыенына"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларының"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай дип"
+    },
+    {
+      "surface": "זה",
+      "gloss": "моны"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צוה",
+      "gloss": "боерды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "былай дип"
+    }
+  ],
+  "timestamp": "2026-10-04T21:52:23.165086979Z",
+  "model": "glm-5.3"
+}

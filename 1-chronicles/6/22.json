@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Таһатның улы, Ассирнең улы, Эвйасафның улы, Корахның улы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Таһат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Ассир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "Эвйасаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:05.346717869Z",
+  "model": "glm-5.3"
+}

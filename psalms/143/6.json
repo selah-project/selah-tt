@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 143,
+  "translation": "Кулларымны Сина сузып җәйдем, җаным Сина талган җир кебек. Села.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "сузып җәйдем"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "кулларымны"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сина"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җаным"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "җир кебек"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "талган"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сиңа"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-05T01:06:40.388015561Z",
+  "model": "glm-5.3"
+}

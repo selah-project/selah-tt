@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Тупыл һәр сүзгә ышана, ә акыллы үз адымына игътибар итә.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "тупыл"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "ышана"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзгә"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "ә акыллы"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "игътибар итә"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "үз адымына"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:18.280919998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 44,
+  "translation": "Һәм ул аларга иреште һәм аларга бу сүзләрне ⟨את⟩ әйтте.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "иреште"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу сүзләрне"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сүзләрне"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T21:37:47.055674624Z",
+  "model": "glm-5.3"
+}

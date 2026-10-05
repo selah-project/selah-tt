@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "⟨את⟩ кемгә әйттең сүзләрне? Һәм кемнең рухы чыкты синнән?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кем"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "әйттең"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "сүзләр"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "һәм рух"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кемнең"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "синнән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:24:22.515740893Z",
+  "model": "glm-5.3"
+}

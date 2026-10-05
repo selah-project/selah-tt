@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм аның хатыны артыннан карады һәм ул тоз баганасы булып китте.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "һәм карады"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "аның хатыны"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "артыннан"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "багана"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "тоз"
+    }
+  ],
+  "timestamp": "2026-10-04T21:28:16.754983589Z",
+  "model": "glm-5.3"
+}

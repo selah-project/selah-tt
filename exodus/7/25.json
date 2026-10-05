@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Яһвә ⟨את⟩ елганы сукканнан соң җиде көн тулды.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "тулды"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "соң"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "сукканнан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "елганы"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "елганы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:42:42.008757198Z",
+  "model": "glm-5.3"
+}

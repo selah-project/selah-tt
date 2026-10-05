@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 89,
+  "translation": "Өйрәтүче шигырь — Эзраһи Ейтаннан.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "өйрәтүче шигырь"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Ейтанга"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Эзраһи"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:06.155700155Z",
+  "model": "glm-5.3"
+}

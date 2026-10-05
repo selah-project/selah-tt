@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "һәм Гедор, һәм Аһйо, һәм Зхарья, һәм Миклот.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "һәм Гедор"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "һәм Аһйо"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "һәм Зхарья"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "һәм Миклот"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:24.486959486Z",
+  "model": "glm-5.3"
+}

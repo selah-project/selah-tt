@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Ялкау кул эшләүче ярлылана, ә тырыш кул баета.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ярлылана"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "эшләүче"
+    },
+    {
+      "surface": "כף",
+      "gloss": "кул"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ялкау"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "һәм кул"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "тырыш"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "баета"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:10.991528075Z",
+  "model": "glm-5.3"
+}

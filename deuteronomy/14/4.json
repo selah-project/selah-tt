@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Менә сез ашарга яраган мал: үгезе, сарык бәрәне һәм кәҗә бәрәне.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "менә"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ашарга яраган"
+    },
+    {
+      "surface": "שור",
+      "gloss": "үгезе"
+    },
+    {
+      "surface": "שה",
+      "gloss": "бәрән"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "сарык"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "һәм бәрәне"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "кәҗә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:52.450169759Z",
+  "model": "glm-5.3"
+}

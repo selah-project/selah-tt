@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "омердан ⟨һәм⟩ омер — һәр бәрәнгә, җиде бәрән өчен.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "омер"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "омер"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "бәрәнгә"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "җиде өчен"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "бәрәннәр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:42.026755758Z",
+  "model": "glm-5.3"
+}

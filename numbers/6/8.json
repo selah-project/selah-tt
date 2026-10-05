@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Барлык багышлану көннәрендә ул Яһвәгә изге.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәрендә"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "аның багышлануы"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "изге"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:29.787416157Z",
+  "model": "glm-5.3"
+}

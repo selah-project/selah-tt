@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Һәм син күзләрең белән күргән күренештән акылдан язып әйләнәсең.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "һәм буласың"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "акылдан язып"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "күренештән"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "күзләрең"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "күргән"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "күрәсең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:29:21.411217764Z",
+  "model": "glm-5.3"
+}

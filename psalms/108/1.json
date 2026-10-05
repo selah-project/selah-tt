@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 108,
+  "translation": "Җыр, Давидның мизморы.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидның"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:23.302497636Z",
+  "model": "glm-5.3"
+}

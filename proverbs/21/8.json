@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Бөгелгән-чәчрәгән гөнаһлы кешенең юлы, ә сафныкы туры — аның эше.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "бөгелгән-чәчрәгән"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юлы"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "гөнаһлы"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "ә сафныкы"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "туры"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "аның эше"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:19.845095215Z",
+  "model": "glm-5.3"
+}

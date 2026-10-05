@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Менә алар миңа әйтәләр: Кайда Яһвә сүзе? килсен инде.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Менә"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "әйтәләр"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Кайда"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "килсен"
+    },
+    {
+      "surface": "נא",
+      "gloss": "инде"
+    }
+  ],
+  "timestamp": "2026-10-04T23:52:55.846494929Z",
+  "model": "glm-5.3"
+}

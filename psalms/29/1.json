@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Давид мәзмүре. Яһвәгә бирегез, Эл уллары, Яһвәгә бирегез дан һәм көч.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмүр"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "бирегез"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "бирегез"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "һәм көч"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:40.781871345Z",
+  "model": "glm-5.3"
+}

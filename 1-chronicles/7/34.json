@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Шомернең уллары: Аһи, Роһга, Йеһуббаһ һәм Арам.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Шомер"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Аһи"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "һәм Роһга"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "Йеһуббаһ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "һәм Арам"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:19.851689508Z",
+  "model": "glm-5.3"
+}

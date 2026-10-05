@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм Аса аталары белән ятты һәм үз патшалыгының кырык беренче елында үлде.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ятты"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "аталары"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "һәм үлде"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "елында"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "һәм беренче"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "патшалыгының"
+    }
+  ],
+  "timestamp": "2026-10-05T02:10:33.519043128Z",
+  "model": "glm-5.3"
+}

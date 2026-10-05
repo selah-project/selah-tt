@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 96,
+  "translation": "Чөнки Яһвә бөек һәм бик мактауга лаек, ул бөтен аллалардан куркыныч.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "мактауга лаек"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "куркыныч"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "על",
+      "gloss": "дан"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "аллалардан"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:59.625312102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Аһимац ⟨את⟩ Азарьяны туды, һәм Азарья ⟨את⟩ Йоһананны туды.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "һәм Аһимац"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азарьяны"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарьяны"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "һәм Азарья"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоһананны"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Йоһананны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:30.493748996Z",
+  "model": "glm-5.3"
+}

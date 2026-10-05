@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Арып-талган җан үзе өчен арып-тала, чөнки аның авызы аңарга этә.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "арып-талган"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "арып-тала"
+    },
+    {
+      "surface": "לו",
+      "gloss": "үзе өчен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "этә"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аңарга"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "аның авызы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:57.913432903Z",
+  "model": "glm-5.3"
+}

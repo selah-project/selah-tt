@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Һәм алар ике алтын чылбырны ике йөзеккә, хошеннең ике очына куйдылар.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "һәм куйдылар"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ике"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "чылбыр"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ике"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "йөзек"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "очларына"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошен"
+    }
+  ],
+  "timestamp": "2026-10-04T21:54:36.369764690Z",
+  "model": "glm-5.3"
+}

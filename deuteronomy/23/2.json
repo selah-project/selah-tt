@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Тешләре яралган, ватылган яки әгъзасы киселгән кеше Яһвә җыенына кермәс.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "кермәс"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "яралган"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ватылган"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "яки киселгән"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "әгъзасы"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "җыенына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:01.548883233Z",
+  "model": "glm-5.3"
+}

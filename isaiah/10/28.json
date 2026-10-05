@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Ул Айатка килә, Мигрон аша үтә, Михмашта үз әйберләрен тапшыра.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "על",
+      "gloss": "ка"
+    },
+    {
+      "surface": "עית",
+      "gloss": "Айат"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "үтә"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "Мигрон аша"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "Михмашта"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "тапшыра"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "үз әйберләрен"
+    }
+  ],
+  "timestamp": "2026-10-04T23:31:29.512304670Z",
+  "model": "glm-5.3"
+}

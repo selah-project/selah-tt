@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Чөнки аның бөтен көннәре авыртулар һәм ачы, аның шөгыле — хәтта төнлә дә аның йөрәге ял итми; шулай ук бу тын ул.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "аның көннәре"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "авыртулар"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "һәм ачы"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "аның шөгыле"
+    },
+    {
+      "surface": "גם",
+      "gloss": "хәтта"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "төнлә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ял итми"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "аның йөрәге"
+    },
+    {
+      "surface": "גם",
+      "gloss": "шулай ук"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "тын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:57.669011871Z",
+  "model": "glm-5.3"
+}

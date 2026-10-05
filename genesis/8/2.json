@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм тәһом чишмәләре һәм күк тәрәзәләре ябылды, һәм күктән яңгыр туктады.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "ябылды"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "чишмәләре"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "тәһом"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "тәрәзәләре"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күк"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "туктады"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "яңгыр"
+    },
+    {
+      "surface": "מן",
+      "gloss": "тән"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күктән"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:42.504159111Z",
+  "model": "glm-5.3"
+}

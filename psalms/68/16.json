@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 68,
+  "translation": "Элоһим тавы — Башан тавы, калку тавылар тавы — Башан тавы.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "тавы"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тавы"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башан"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тавы"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "калку тавылар"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тавы"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башан"
+    }
+  ],
+  "timestamp": "2026-10-05T00:53:19.896438901Z",
+  "model": "glm-5.3"
+}

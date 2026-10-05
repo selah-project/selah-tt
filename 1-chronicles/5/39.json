@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Шаллум ⟨את⟩ Һилкияне тудырды, һәм Һилкия ⟨את⟩ Әзарияне тудырды.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "һәм Шаллум"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Һилкияне"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Һилкия"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "һәм Һилкия"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Әзарияне"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Әзария"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:02.626064897Z",
+  "model": "glm-5.3"
+}

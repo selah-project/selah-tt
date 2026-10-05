@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Кеше улы, Йерушалаимга аның жирәнүлекләрен белдер:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "белдер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йерушалаим"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалаим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жирәнүлекләрен"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "аның жирәнүлекләре"
+    }
+  ],
+  "timestamp": "2026-10-05T00:11:19.490582955Z",
+  "model": "glm-5.3"
+}

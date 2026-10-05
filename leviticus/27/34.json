@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Болар Яһвәнең ⟨את⟩ Мошегә Йисраэл балаларына Синай тавында биргән боерыклары.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Болар"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "боерыклары"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые-ның"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "биргән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошегә"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошегә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балаларына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тавында"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-10-04T22:04:53.636099540Z",
+  "model": "glm-5.3"
+}

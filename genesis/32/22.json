@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм минха аның алдыннан үтеп китте, ә ул шул төнне лагерьда калды.",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "һәм үтеп китте"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "על",
+      "gloss": "алдыннан"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "аның йөзе"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ә ул"
+    },
+    {
+      "surface": "לן",
+      "gloss": "калды"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "төнне"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "лагерьда"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:47.443485179Z",
+  "model": "glm-5.3"
+}

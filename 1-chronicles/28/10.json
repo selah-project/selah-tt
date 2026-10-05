@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Кара хәзер: Яһвә сине изге урын өчен йорт төзергә сайлады; көчле бул һәм эшлә.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "кара"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "хәзер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "сайлады"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сине"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "төзергә"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорт"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "изге урын өчен"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "көчле бул"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "һәм эшлә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:05:15.596479087Z",
+  "model": "glm-5.3"
+}

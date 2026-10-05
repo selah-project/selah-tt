@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Яңгырның атасы бармые? Әллә кем чык тамчыларын тудырган?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "бармые"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "яңгырның"
+    },
+    {
+      "surface": "אב",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "או",
+      "gloss": "әллә"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырган"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "тамчыларын"
+    },
+    {
+      "surface": "טל",
+      "gloss": "чык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:27:44.804911665Z",
+  "model": "glm-5.3"
+}

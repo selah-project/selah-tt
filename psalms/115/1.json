@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 115,
+  "translation": "Безгә түгел, Яһвә, безгә түгел, чөнки исемеңә дан бир — хеседең өчен, хаклыгың өчен.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "исемеңә"
+    },
+    {
+      "surface": "תן",
+      "gloss": "бир"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "дан"
+    },
+    {
+      "surface": "על",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседең"
+    },
+    {
+      "surface": "על",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "хаклыгың"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:03.213304800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 41:20",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Укчы аны качыра алмый; һаван ташлары аңа салам булып әверелә.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "алмый"
+    },
+    {
+      "surface": "יבריחנו",
+      "gloss": "качыра"
+    },
+    {
+      "surface": "בן",
+      "gloss": "укчы"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "җәя"
+    },
+    {
+      "surface": "לקש",
+      "gloss": "салам"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "әверелә"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ташлары"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "һаван"
+    }
+  ],
+  "timestamp": "2026-10-05T01:28:45.899455082Z",
+  "model": "glm-5.3"
+}

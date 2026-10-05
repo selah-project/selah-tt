@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Ә хәзер, улым, миңа тыңла һәм минем авыз сүзләреннән тайпылма.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ә хәзер"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "улым"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "тыңла"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм -ма"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "тайпылма"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "сүзләреннән"
+    },
+    {
+      "surface": "פי",
+      "gloss": "минем авыз"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:01.992294890Z",
+  "model": "glm-5.3"
+}

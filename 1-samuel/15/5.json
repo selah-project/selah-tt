@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм Шаул Амаләк шәһәренә килде һәм үзәндә пәйда булып алды.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "килде"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амаләк"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "пәйда булды"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "үзәндә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:52:54.672787628Z",
+  "model": "glm-5.3"
+}

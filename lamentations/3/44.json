@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Болыт белән үзеңне капладың — дога үтмәсен дия.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "капладың"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "болыт белән"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңне"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "үтмәсен дия"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "дога"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:30.790578795Z",
+  "model": "glm-5.3"
+}

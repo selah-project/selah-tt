@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Кыяларда җиде көн яшәгез; Йисраэлдә туган барысы да кыяларда яшәсен.",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "кыяларда"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "яшәгез"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысы да"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "туган"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлдә"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "яшәсен"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "кыяларда"
+    }
+  ],
+  "timestamp": "2026-10-04T22:03:42.146340183Z",
+  "model": "glm-5.3"
+}

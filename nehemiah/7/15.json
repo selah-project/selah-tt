@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Биннуиның уллары — алты йөз кырык сигез.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Биннуи"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "һәм сигез"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:09.989370894Z",
+  "model": "glm-5.3"
+}

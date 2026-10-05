@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 13:35",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм Йонадав патшага әйтте: Меңгә, патша уллары килде; колың әйткәнчә булды.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Йонадав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "меңгә"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "באו",
+      "gloss": "килде"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "әйткәнчә"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "колың"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булды"
+    }
+  ],
+  "timestamp": "2026-10-04T23:02:55.133543891Z",
+  "model": "glm-5.3"
+}

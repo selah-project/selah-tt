@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Ялган хәбәр таратма; җинәятчене яклап җәбәр шаһиты булу өчен кулыңны аның белән кушма.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "таратма"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "хәбәр"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кушма"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "кулыңны"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "кулыңны"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "җинәятче"
+    },
+    {
+      "surface": "להית",
+      "gloss": "булу өчен"
+    },
+    {
+      "surface": "עד",
+      "gloss": "шаһит"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "җәбәр"
+    }
+  ],
+  "timestamp": "2026-10-04T21:47:38.350172705Z",
+  "model": "glm-5.3"
+}

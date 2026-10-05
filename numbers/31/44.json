@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "һәм эре терлек — алты һәм утыз мең баш.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "һәм эре терлек"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "алты"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "һәм утыз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:13.963779881Z",
+  "model": "glm-5.3"
+}

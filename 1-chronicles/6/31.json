@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Амцинең улы, Банинең улы, Шемерның улы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "Амци"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Шемер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:05.591666874Z",
+  "model": "glm-5.3"
+}

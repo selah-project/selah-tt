@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 92,
+  "translation": "Ләкин Син, әй Яһвә, югарысы мәңге.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ләкин Син"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "югарысы"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:54.833597160Z",
+  "model": "glm-5.3"
+}

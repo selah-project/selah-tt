@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 19:22",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Ашык, анда котыл, чөнккә Мин сиңа анда барганчы берни дә эшли алмыйм. Шуңа күрә шәһәргә Цоар дигән исем кушылды.",
+  "tokens": [
+    {
+      "surface": "מהр",
+      "gloss": "ашык"
+    },
+    {
+      "surface": "המлט",
+      "gloss": "котыл"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "алам"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "эшләргә"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "берни"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хәтле"
+    },
+    {
+      "surface": "באך",
+      "gloss": "барганчы"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "шуңа күрә"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "кушылды"
+    },
+    {
+      "surface": "שם",
+      "gloss": "исем"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шәһәргә"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цоар"
+    }
+  ],
+  "timestamp": "2026-10-04T21:28:42.974670322Z",
+  "model": "glm-5.3"
+}

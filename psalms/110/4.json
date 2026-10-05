@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 110,
+  "translation": "Яһвә ант итте һәм үкенмәс: син мәңге каһинсиң, Малки-Цедек рәвешендә.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ант итте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм үкенмәс"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "каһинсиң"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "рәвешендә"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Малки-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Цедек"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:51.876732624Z",
+  "model": "glm-5.3"
+}

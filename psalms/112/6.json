@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 112,
+  "translation": "Чөнки мәңге какшамас; гадел кеше мәңгелек истәлегендә булыр.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "какшамас"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "истәлегендә"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңгелек"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гадел кеше"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:31.718416299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Һәм чумадан соң булды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "соң"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "чумадан"
+    }
+  ],
+  "timestamp": "2026-10-05T02:24:05.495278808Z",
+  "model": "glm-5.3"
+}

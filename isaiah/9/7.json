@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Адонай сүз җибәрде Яаковка, һәм ул Йисраэлгә төште.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "җибәрде"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Яаковка"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "һәм төште"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлгә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:32:18.400345080Z",
+  "model": "glm-5.3"
+}

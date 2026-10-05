@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 18:14",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Кыр ташыннан Ливан кары туктамыймы? ерактан аккан суык сулар корыймы?",
+  "tokens": [
+    {
+      "surface": "היעזב",
+      "gloss": "туктамыймы"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ташыннан"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "кыр"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "кар"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливан"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әллә"
+    },
+    {
+      "surface": "ינתשו",
+      "gloss": "корыймы"
+    },
+    {
+      "surface": "מים",
+      "gloss": "сулар"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ерактан"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "суык"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "аккан"
+    }
+  ],
+  "timestamp": "2026-10-04T23:52:57.518583089Z",
+  "model": "glm-5.3"
+}

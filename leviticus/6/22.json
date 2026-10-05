@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Коһеннәрдән булган һәр ир ⟨את⟩ аны ашар; ул изге изгелектер.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ир"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "коһеннәрдән"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашар"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ аны",
+      "marks": "аны (минханы)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "изге"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "изгелек"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T21:55:38.986402500Z",
+  "model": "glm-5.3"
+}

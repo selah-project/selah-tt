@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Һәм Хананья пәйгамбәр шул ук елда, җиденче айда үлде.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "һәм үлде"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Хананья"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пәйгамбәр"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "елда"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "шул ук"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "айда"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "җиденче"
+    }
+  ],
+  "timestamp": "2026-10-04T23:56:10.266416746Z",
+  "model": "glm-5.3"
+}

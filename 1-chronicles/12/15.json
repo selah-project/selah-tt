@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Болар Гад улларыннан, гаскәр башлыклары: кечесе ⟨бер⟩ йөзгә, һәм зуры меңгә.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "улларыннан"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "башлыклары"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "гаскәр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "йөзгә"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "кечесе"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "һәм зуры"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "меңгә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:00.996952412Z",
+  "model": "glm-5.3"
+}

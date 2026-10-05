@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм бу эштә дә сез Яһвәгә, сезнең Элоһимеңезгә ышанмадыгыз.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "һәм бу эштә"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "сез түгел"
+    },
+    {
+      "surface": "мאמינים",
+      "gloss": "ышанмадыгыз"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "сезнең Элоһимеңезгә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:20:07.674139126Z",
+  "model": "glm-5.3"
+}

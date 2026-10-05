@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм Яһвә Синай тавына, тау башына төште, һәм Яһвә Мошене тау башына чакырды, һәм Моше менде.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "төште"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тавына"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "башына"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башына"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тау"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Мошене"
+    },
+    {
+      "surface": "אל",
+      "gloss": "башына"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башына"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тау"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "менде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:41.315773379Z",
+  "model": "glm-5.3"
+}

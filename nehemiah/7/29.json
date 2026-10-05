@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Кирьят-Йеарим, Кефира һәм Берот ирләре: җиде йөз кырык өч.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ирләре"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирьят-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Йеарим"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Кефира"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "һәм Берот"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "һәм өч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:18.249640187Z",
+  "model": "glm-5.3"
+}

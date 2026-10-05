@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Әнә, бу төн буш булсын; шатлык кычкыруы аңа килмәсен.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "әнә"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "төн"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "бу"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "булсын"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "буш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "килмәсен"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "шатлык кычкыруы"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:17:31.462961069Z",
+  "model": "glm-5.3"
+}

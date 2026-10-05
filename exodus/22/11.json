@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "әгәр аңардан урлап алынса — ул хуҗасына түләр.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "урлап"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "алынса"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "аңардан"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "түләр"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "хуҗасына"
+    }
+  ],
+  "timestamp": "2026-10-04T21:47:14.889625305Z",
+  "model": "glm-5.3"
+}

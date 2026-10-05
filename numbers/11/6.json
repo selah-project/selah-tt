@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Ә хәзер безнең җаныбыз корыды, берни дә юк, күзебез алдында маннадан башка.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ә хәзер"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "җаныбыз"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "корыды"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юка"
+    },
+    {
+      "surface": "כל",
+      "gloss": "берни дә"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "башка"
+    },
+    {
+      "surface": "אל",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "המן",
+      "gloss": "маннадан"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "күзебез"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:46.103839513Z",
+  "model": "glm-5.3"
+}

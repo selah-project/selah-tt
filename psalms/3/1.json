@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Давид мәдхиясе, улы Авшалом йөзеннән качкан вакытта.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхия"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиднең"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "качкан вакытта"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "йөзеннән"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "улы"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:36.724530197Z",
+  "model": "glm-5.3"
+}

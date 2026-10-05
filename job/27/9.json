@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Әгәр бәла аңар килгәндә, Эл аның кычкыруын ишетерме?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "аның кычкыруын"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ишетер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "килгәндә"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аңар"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "бәла"
+    }
+  ],
+  "timestamp": "2026-10-05T01:23:53.653532211Z",
+  "model": "glm-5.3"
+}

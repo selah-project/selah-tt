@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 85,
+  "translation": "Җитәкчегә, Корах улларына, мәзмүр",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "җитәкчегә"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмүр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:56:36.656517326Z",
+  "model": "glm-5.3"
+}

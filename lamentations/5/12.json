@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Өлкәннәр кулларыннан асылдылар, картларның йөзләре олынылмады.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "өлкәннәр"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "кулларыннан"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "асылдылар"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзләре"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "картларның"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-мады"
+    },
+    {
+      "surface": "недhrarу",
+      "gloss": "олынылмады"
+    }
+  ],
+  "timestamp": "2026-10-05T01:33:47.408386646Z",
+  "model": "glm-5.3"
+}

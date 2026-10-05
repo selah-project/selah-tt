@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 71,
+  "translation": "Авзым Синең мактауың белән тулсын, бөтен көн Синең даның белән.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "тулсын"
+    },
+    {
+      "surface": "פי",
+      "gloss": "авзым"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "Синең мактауың"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "Синең даның"
+    }
+  ],
+  "timestamp": "2026-10-05T00:53:15.100795455Z",
+  "model": "glm-5.3"
+}

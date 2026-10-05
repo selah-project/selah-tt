@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 21:14",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Яшерелгән бүләк ачуды басар, һәм койнына салынган салым көчле ачуды басар.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "бүләк"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "яшерелгән"
+    },
+    {
+      "surface": "יכפה",
+      "gloss": "басар"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ачуны"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "һәм салым"
+    },
+    {
+      "surface": "בחק",
+      "gloss": "койнына салынган"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ачуны"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "көчле"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:55.533667685Z",
+  "model": "glm-5.3"
+}

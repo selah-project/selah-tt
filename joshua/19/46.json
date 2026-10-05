@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "һәм Мей-һа-Яркон, һәм һа-Ракон, Яфо каршындагы чик белән бергә.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "һәм Мей"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "һа-Яркон"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "һәм һа-Ракон"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "чик"
+    },
+    {
+      "surface": "מול",
+      "gloss": "каршында"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "Яфо"
+    }
+  ],
+  "timestamp": "2026-10-04T22:38:00.840231591Z",
+  "model": "glm-5.3"
+}

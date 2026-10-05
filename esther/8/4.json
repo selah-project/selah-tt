@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм патша Эстергә алтын ⟨את⟩ таяк сузды, һәм Эстер торды һәм патша алдында басты.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "сузды"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Эстергә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "таяк"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "таяк"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "торды"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "басты"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    }
+  ],
+  "timestamp": "2026-10-05T01:39:24.696448548Z",
+  "model": "glm-5.3"
+}

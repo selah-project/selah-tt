@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Чөнки аны сөргенгә җибәргән урында ул үләчәк, һәм ⟨את⟩ бу җирне инде күрәчәк түгел.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "урында"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "сөргенгә җибәргәннәр"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "Шаллум"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "үләчәк"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "бу җирне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "күрәчәк"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "инде"
+    }
+  ],
+  "timestamp": "2026-10-04T23:54:15.218198422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Боаз ⟨את⟩ Овидны тудырды, һәм Овид ⟨את⟩ Йишайны тудырды.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Һәм Боаз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Овидны"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овидны"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "һәм Овид"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йишайны"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Йишайны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:05.689424239Z",
+  "model": "glm-5.3"
+}

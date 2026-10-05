@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Шуңа күрә, зина кылучы, тыңла Яһвә сүзен.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "шуңа күрә"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "зина кылучы"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "тыңла"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:12:26.636517863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм алар Миңа халык булып булалар, һәм Мин аларга Элоһим буламын.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "булалар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Миңа"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "буламын"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элоһим"
+    }
+  ],
+  "timestamp": "2026-10-04T23:58:18.029171181Z",
+  "model": "glm-5.3"
+}

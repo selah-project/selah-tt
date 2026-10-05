@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Унберенче көнне Ашер балалары башлыгы, Окран улы Пагьиел ⟨корбан китерде⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "унберенче"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "унберенче"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "башлык"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "балаларына"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Пагьиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Окран"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:06.273495551Z",
+  "model": "glm-5.3"
+}

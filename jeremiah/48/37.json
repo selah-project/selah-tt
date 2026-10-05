@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 48:37",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Чөнки һәр баш ялангач, һәм һәр сакал кырылган; һәр кул өстендә яралар, бил өстендә сүсәк.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "баш"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ялангачлык"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм һәр"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "сакал"
+    },
+    {
+      "surface": "גרעה",
+      "gloss": "кырылган"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "кул"
+    },
+    {
+      "surface": "גדדת",
+      "gloss": "яралар"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "һәм өстендә"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "бил"
+    },
+    {
+      "surface": "שק",
+      "gloss": "сүсәк"
+    }
+  ],
+  "timestamp": "2026-10-05T00:03:41.951861511Z",
+  "model": "glm-5.3"
+}

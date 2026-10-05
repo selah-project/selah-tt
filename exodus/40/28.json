@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Һәм ул Мишкан ишеге алдына пәрдәне элде.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "элде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пәрдә"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "пәрдә"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ишеге"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Мишкан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:54:25.919389547Z",
+  "model": "glm-5.3"
+}

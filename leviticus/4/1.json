@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Яһвә Мошега сөйләде, дип әйтеп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "һәм сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T21:55:26.286239555Z",
+  "model": "glm-5.3"
+}

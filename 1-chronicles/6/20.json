@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Цуп улы, Элкана улы, Маһат улы, Амасай улы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "Цуп"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "Маһат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Амасай"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:22.532279922Z",
+  "model": "glm-5.3"
+}

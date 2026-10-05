@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 32:27",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм Яһизкияһуга бик күп байлык һәм дан булды, һәм ул үзенә хәзинәләр ясады — көмешкә, алтынга, кыйммәтле ташка, ыйислы майларга, калканнарга һәм бар теләнгән әйберләргә.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "häм buldı"
+    },
+    {
+      "surface": "ליחזקיהו",
+      "gloss": "Яһизкияһуга"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "baylıq"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "häm dan"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "bik küp"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bik"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "häm xäzinälär"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yasadı"
+    },
+    {
+      "surface": "לו",
+      "gloss": "üzеñä"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "kömeşkä"
+    },
+    {
+      "surface": "ולזהב",
+      "gloss": "häm altınğa"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "häm taşqa"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "qımmätle"
+    },
+    {
+      "surface": "ולבשמים",
+      "gloss": "häm ыйисlı maylarğa"
+    },
+    {
+      "surface": "ולמגנים",
+      "gloss": "häm qalqannarğa"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "häm bar"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "äyberlär"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "telängän"
+    }
+  ],
+  "timestamp": "2026-10-05T02:16:52.156823683Z",
+  "model": "glm-5.3"
+}

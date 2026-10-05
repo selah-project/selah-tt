@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Мин сиңа өч тапкыр киңәшләр һәм белем белән язмадыммы?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "түгелме"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "язмадыммы"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "өч тапкыр"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "киңәшләр белән"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "һәм белем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:56.056935823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Чөнки зина кылучы хатын — тирән чокыр, чит хатын — тар коез.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "чокыр"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "тирән"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "зина кылучы хатын"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "һәм коез"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "тар"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "чит хатын"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:13.462955657Z",
+  "model": "glm-5.3"
+}

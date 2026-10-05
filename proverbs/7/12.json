@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бераз тышта, бераз киң урамнарга, һәм һәр почмак янында яшеренеп тора.",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "бераз"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "тышта"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "бераз"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "киң урамнарга"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "һәм янында"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "почмак"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "яшеренеп тора"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:19.101143109Z",
+  "model": "glm-5.3"
+}

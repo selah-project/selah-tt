@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Шовалга — Кирьят-Йеарим атасына — уллар булды: Һароһ һәм Менухот яртысы.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уллар"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "Шовалга"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирьят"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Йеарим"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "Һароһ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "яртысы"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "Менухот"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:06.806720677Z",
+  "model": "glm-5.3"
+}

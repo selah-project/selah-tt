@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Җыя ит җыемыңны илдән, ⟨син⟩ камалышта яшәүче!",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "җыя ит"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "илдән"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "җыемыңны"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "яшәүче"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "камалышта"
+    }
+  ],
+  "timestamp": "2026-10-04T23:49:55.778678577Z",
+  "model": "glm-5.3"
+}

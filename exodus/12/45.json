@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Торак һәм ялланган хезмәтче аңардан ашамас.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "торак"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ялланган хезмәтче"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашамас"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңардан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:44:16.267280022Z",
+  "model": "glm-5.3"
+}

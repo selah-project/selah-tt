@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Каргышлы — юлда сукырны адаштыручы. Һәм бөтен халык әйтер: Әмин.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Каргышлы"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "адаштыручы"
+    },
+    {
+      "surface": "עור",
+      "gloss": "сукырны"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "юлда"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Һәм бөтен халык әйтер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Әмин"
+    }
+  ],
+  "timestamp": "2026-10-05T02:26:36.502119913Z",
+  "model": "glm-5.3"
+}

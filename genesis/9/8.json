@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Элоһим Нойга һәм ⟨את⟩ аның улларына, аның белән, сүз әйтте:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нойга"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "аның улларына"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аның белән"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "сүз әйтте"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:56.963485656Z",
+  "model": "glm-5.3"
+}

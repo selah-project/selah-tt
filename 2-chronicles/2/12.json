@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм хәзер мин аң белүче акыллы ир җибәрдем, Хурам абыйма.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Һәм хәзер"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "мин җибәрдем"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ир"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "акыллы"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "белүче"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "аң"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "Хурам"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "абыйм"
+    }
+  ],
+  "timestamp": "2026-10-05T02:07:15.526662431Z",
+  "model": "glm-5.3"
+}

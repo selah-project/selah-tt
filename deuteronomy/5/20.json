@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм якыныңа каршы ялган шәһадәт әйтмә.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "һәм ... -ма"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "җавап бир"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "якыныңа каршы"
+    },
+    {
+      "surface": "עד",
+      "gloss": "шәһадәт"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ялган"
+    }
+  ],
+  "timestamp": "2026-10-04T22:20:48.169556960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм Моше Корахка әйтте: Тыңлагыз инде, Леви уллары!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "тыңлагыз"
+    },
+    {
+      "surface": "נא",
+      "gloss": "инде"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    }
+  ],
+  "timestamp": "2026-10-04T22:11:36.998818386Z",
+  "model": "glm-5.3"
+}

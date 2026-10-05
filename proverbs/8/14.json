@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Миңа киңәш һәм тугры акыл; мин — аңлау; миңа көч.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "киңәш"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "һәм тугры акыл"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "вינה",
+      "gloss": "аңлау"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "көч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:46.494196645Z",
+  "model": "glm-5.3"
+}

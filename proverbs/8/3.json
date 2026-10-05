@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Капкалар янында, шәһәр авзы каршында, ишекләр керүендә ⟨ул⟩ кычкыра.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "янында"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "капкалар"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "авзы каршында"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "керүендә"
+    },
+    {
+      "surface": "פתחим",
+      "gloss": "ишекләр"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "кычкыра"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:47.970795218Z",
+  "model": "glm-5.3"
+}

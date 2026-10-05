@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Яһвә миңа сөйләде, дип әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:56.473561378Z",
+  "model": "glm-5.3"
+}

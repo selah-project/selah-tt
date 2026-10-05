@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Уңыш җыю узды, җәй тәмам булды, һәм без коткарылмадык.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "узды"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "уңыш җыю"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "тәмам булды"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "җәй"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "һәм без"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "נושענу",
+      "gloss": "коткарылмадык"
+    }
+  ],
+  "timestamp": "2026-10-04T23:50:16.427625419Z",
+  "model": "glm-5.3"
+}

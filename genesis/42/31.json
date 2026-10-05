@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 42,
+  "translation": "Һәм без аңа: «Тугры кешеләрбез, без тыңчы түгел», — дидек.",
+  "tokens": [
+    {
+      "surface": "וונאמר",
+      "gloss": "дидек"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "тугры"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "без"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "булдык"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "тыңчы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:38:20.374058031Z",
+  "model": "glm-5.3"
+}

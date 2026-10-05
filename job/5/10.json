@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Җир өстенә яңгыр бирүче һәм тышкы яклар өстенә су җибәрүче.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "бирүче"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "яңгыр"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "פני",
+      "gloss": "өске"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "һәм җибәрүче"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "פני",
+      "gloss": "өске"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "тышкы яклар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:18:49.432139975Z",
+  "model": "glm-5.3"
+}

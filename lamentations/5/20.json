@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Ни өчен безне мәңге онытаһың, безне күп көннәргә калдыраһың?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ни өчен"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "онытаһың безне"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "калдыраһың безне"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "күп көннәргә"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көннәргә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:56.996637608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Киленеңнең ялангачлыгын ачма — ул улның хатыны, аның ялангачлыгын ачмассың.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ялангачлыгын"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "киленеңнең"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ачма"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ачма"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "хатыны"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "улның"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ачмассың"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ачмассың"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ялангачлыгын"
+    }
+  ],
+  "timestamp": "2026-10-05T02:23:46.600697340Z",
+  "model": "glm-5.3"
+}

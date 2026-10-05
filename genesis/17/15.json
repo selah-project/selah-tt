@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "һәм Элоһим Авраһамга әйтте: Сарай, хатының — аңа Сарай дип endәмә, чөнки Сараһ аның исеме.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сарай"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "хатының"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ма"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "endә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аның исемен"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "исемен"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сарай дип"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сараһ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "аның исеме"
+    }
+  ],
+  "timestamp": "2026-10-04T21:27:53.235493225Z",
+  "model": "glm-5.3"
+}

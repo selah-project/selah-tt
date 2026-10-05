@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 76,
+  "translation": "Көйчегә, кыллы кораллар өстенә. Асаф мәзмуне, җыр.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Көйчегә"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "кыллы кораллар өстенә"
+    },
+    {
+      "surface": "мזמור",
+      "gloss": "мәзмуне"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафка"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:54:19.893546124Z",
+  "model": "glm-5.3"
+}

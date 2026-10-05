@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Буын бар: үз әтисен хурлый, ⟨ә⟩ ⟨את⟩ үз анасын алкышламый.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "буын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "үз әтисен"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "хурлый"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "үз анасын"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "үз анасын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "алкышламый"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:01.830798998Z",
+  "model": "glm-5.3"
+}

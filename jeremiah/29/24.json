@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "һәм Шемајаһуга, Нәһәламлыга, әйтәсең, болай дип:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "һәм Шемајаһуга"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шемајаһу"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "Нәһәламлы"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "әйтәсең"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "болай дип"
+    }
+  ],
+  "timestamp": "2026-10-04T23:57:18.320438122Z",
+  "model": "glm-5.3"
+}

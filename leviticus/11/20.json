@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Барлык оялыучы оча торганнарның дүрт аякта йөрүчесе — сез өчен жекес ул",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "оялыучы бөҗәкләр"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "оча торган"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "йөрүче"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дүрт аяк"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "жекес"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "лכם",
+      "gloss": "сез өчен",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:47.523687203Z",
+  "model": "glm-5.3"
+}

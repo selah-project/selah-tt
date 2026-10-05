@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Өлешне җидегә дә, шулай ук сигезгә дә бир, чөнки җир өстендә нинди явызлык буласын белмисең.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "бир"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "өлешне"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "җидегә"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "шулай ук"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "сигезгә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "белмисең"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нинди"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буласын"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-05T02:46:17.086211296Z",
+  "model": "glm-5.3"
+}

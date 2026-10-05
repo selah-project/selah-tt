@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Барлык куллар йомшарыр, һәм барлык тезләр су булып түгелер.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "куллар"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "йомшарыр"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм барлык"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "тезләр"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "түгелер"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    }
+  ],
+  "timestamp": "2026-10-05T00:08:17.808009036Z",
+  "model": "glm-5.3"
+}

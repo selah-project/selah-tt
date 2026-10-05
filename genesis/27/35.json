@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Ул әйтте: Синең абыең хәйлә белән килде һәм синең алкышыңны алды.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килде"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "абыең"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "хәйлә белән"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "алкышыңны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:59.118353878Z",
+  "model": "glm-5.3"
+}

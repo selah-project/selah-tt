@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Элиел, һәм Овед, һәм Йаасиел — мэцовалы.",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "Элиел"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "һәм Овед"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "һәм Йаасиел"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "мэцовалы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:08.615319122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Тугызынчы Йешуага, унынчы Шханјаһуга.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "Йешуага"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "тугызынчы"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "Шханјаһуга"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "унынчы"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:10.141065884Z",
+  "model": "glm-5.3"
+}

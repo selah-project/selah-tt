@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Елда өч мәртәбә барлык ир-атың Адонай Яһвә йөзенә күренер.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "мәртәбә"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "елда"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "күренер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "ир-атың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−га"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзенә"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:47:43.124208709Z",
+  "model": "glm-5.3"
+}

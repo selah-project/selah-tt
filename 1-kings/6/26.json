@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Бер керубның биеклеге ун амыш, һәм шулай ук икенче керуб.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "биеклеге"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керуб"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "амыш"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "һәм шулай ук"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керуб"
+    },
+    {
+      "surface": "השני",
+      "gloss": "икенче"
+    }
+  ],
+  "timestamp": "2026-10-04T23:10:57.172252874Z",
+  "model": "glm-5.3"
+}

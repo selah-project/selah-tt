@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Бер кеше күкрәгенә ут аламы, һәм аның киемнәре пешмәсме?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "аламы"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бер кеше"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ут"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "күкрәгенә"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "һәм аның киемнәре"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "пешмәсме"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:02.220166652Z",
+  "model": "glm-5.3"
+}

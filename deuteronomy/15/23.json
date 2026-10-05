@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Тик ⟨את⟩ аның канын ашама; җир өстенә су кебек түкәрсең.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тик"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аның канын"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "аның канын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ашама"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "түкәрсең"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "су кебек"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:47.222731592Z",
+  "model": "glm-5.3"
+}

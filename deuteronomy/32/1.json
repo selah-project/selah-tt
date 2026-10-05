@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Күкләр, колак салегыз, һәм мин сөйләрмен; җир тыңласын авызым сүзләрен.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "колак салегыз"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күкләр"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "һәм мин сөйләрмен"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "тыңласын"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "сүзләрен"
+    },
+    {
+      "surface": "פי",
+      "gloss": "авызым"
+    }
+  ],
+  "timestamp": "2026-10-04T22:31:07.275279449Z",
+  "model": "glm-5.3"
+}

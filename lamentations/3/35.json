@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "читкә авылдырырга кешенең хөкемен Иң Биюкнең йөзе каршында —",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "читкә авылдырырга"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкем"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ирнең"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "карышында"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзе"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Иң Биюк"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:17.332364908Z",
+  "model": "glm-5.3"
+}

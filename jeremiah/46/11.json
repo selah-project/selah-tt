@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 46:11",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 46,
+  "translation": "Менә Гилгадка һәм бальзам ал, Мисыр кызы, кыз; бушка күбәйттең дәвалар — савынуың юк сиңа.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "менә"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилгадка"
+    },
+    {
+      "surface": "וקחי",
+      "gloss": "һәм ал"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "бальзам"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "кыз"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мисыр"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "бушка"
+    },
+    {
+      "surface": "הרביתי",
+      "gloss": "күбәйттең"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "дәвалар"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "савыну"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-05T00:02:03.301626137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Шулай итеп Элоһим һәм кеше күзендә рәхим һәм яхшы акыл тапарсың.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "тапарсың"
+    },
+    {
+      "surface": "חן",
+      "gloss": "рәхим"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "акыл"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "күзендә"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "кеше"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:25.848281024Z",
+  "model": "glm-5.3"
+}

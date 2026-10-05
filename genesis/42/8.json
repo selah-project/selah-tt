@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 42,
+  "translation": "Һәм Йосеф ⟨את⟩ кардашларын таныды, ә алар аны танымадылар.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "таныды"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кардашларын"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "кардашларын"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ә алар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "танымадылар"
+    }
+  ],
+  "timestamp": "2026-10-04T21:37:34.038285836Z",
+  "model": "glm-5.3"
+}

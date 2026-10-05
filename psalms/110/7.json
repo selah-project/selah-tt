@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 110,
+  "translation": "Ул юл буйлап барганда инештән эчер, шуңа күрә башын күтәрер.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "инештән"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "юл буйлап"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "эчер"
+    },
+    {
+      "surface": "על",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "күтәрер"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башын"
+    }
+  ],
+  "timestamp": "2026-10-05T02:42:11.100905708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Яман кешенең юлы Яһвә өчен жирле, ә цедекны куучыны ул ярата.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "жирле"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юлы"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "яман кешенең"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ә ... куучыны"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедекны"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ул ярата"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:56.187122080Z",
+  "model": "glm-5.3"
+}

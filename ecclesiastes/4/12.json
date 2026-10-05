@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм әгәр берсә өстен килсә, икәүсе аңа каршы торыр; ә өч бөркәлгән җеп тиз өзелмәс.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "һәм әгәр"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "өстен килсә"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "берсә"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "икәүсе"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "торыр"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "аңа каршы"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "һәм җеп"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "өч бөркәлгән"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "тиз"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "өзелер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:23.061854308Z",
+  "model": "glm-5.3"
+}

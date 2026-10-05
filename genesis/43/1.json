@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 43,
+  "translation": "Һәм ачлык җирдә авыр булды.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "Һәм ачлык"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "авыр булды"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җирдә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:38:08.798439610Z",
+  "model": "glm-5.3"
+}

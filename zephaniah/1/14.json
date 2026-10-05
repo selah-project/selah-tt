@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 1:14",
+  "book": "zephaniah",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Якын Яһвәнең бөек көне, якын һәм бик тиз; Яһвә көненең тавышы — ачы; анда көчле ир кычкырыр.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "якын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "якын"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "һәм тиз"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    },
+    {
+      "surface": "קול",
+      "gloss": "тавышы"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көненең"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ачы"
+    },
+    {
+      "surface": "צרח",
+      "gloss": "кычкырыр"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "көчле ир"
+    }
+  ],
+  "timestamp": "2026-10-05T00:36:35.938735799Z",
+  "model": "glm-5.3"
+}

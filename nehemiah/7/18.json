@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 7:18",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Адоникам балалары: алты йөз алтмыш җиде.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "Адоникам"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "алтмыш"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "һәм җиде"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:10.378083709Z",
+  "model": "glm-5.3"
+}

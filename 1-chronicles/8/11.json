@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Һушимнан ул тудырды ⟨את⟩ Авитувны һәм ⟨את⟩ Элпалны.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "Һәм Һушимнан"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ул тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авитув"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Авитув"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Элпал"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Элпал"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:08.484591861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Бар алтын һәм күп энҗеләр, ә белем иреннәре — кыйммәтле савыт.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "һәм күп"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "энҗеләр"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ә савыт"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "кыйммәтле"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "иреннәре"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:41.683523913Z",
+  "model": "glm-5.3"
+}

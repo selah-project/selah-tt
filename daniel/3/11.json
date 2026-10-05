@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "һәм кем егылмый һәм сәҗдә кылмый — ул яндыручы ут миченең эченә ташлана.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "һәм кем"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ул⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "егылмый"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "һәм сәҗдә кылмый"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "ташла"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "эченә"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "ут миче"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ут"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "яндыручы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:41:31.090659270Z",
+  "model": "glm-5.3"
+}

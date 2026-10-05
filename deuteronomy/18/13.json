@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Тамим булып тор Яһвә белән, Элоһимең белән.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "тамим"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "булып тор"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоһимең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:26:06.493352655Z",
+  "model": "glm-5.3"
+}

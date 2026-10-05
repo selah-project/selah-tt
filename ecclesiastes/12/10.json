@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Көһәләт рәхәт сүзләр табарга тырышты, һәм язылганы туры ⟨иде⟩ — хакыйкать сүзләре.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "тырышты"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Көһәләт"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "табарга"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сүзләр"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "рәхәт"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "язылганы"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "туры"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сүзләр"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "хакыйкать"
+    }
+  ],
+  "timestamp": "2026-10-05T01:37:10.008213495Z",
+  "model": "glm-5.3"
+}

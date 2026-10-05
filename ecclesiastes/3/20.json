@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Барысы бердәм урынга бара; барысы тузаннан барлыкка килгән, һәм барысы тузанга кире кайта.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "барысы"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "бара"
+    },
+    {
+      "surface": "אל",
+      "gloss": "уррынга"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "урынга"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бердәм"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "барысы"
+    },
+    {
+      "surface": "היה",
+      "gloss": "барлыкка килгән"
+    },
+    {
+      "surface": "מן",
+      "gloss": "тузаннан"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "тузаннан"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "һәм барысы"
+    },
+    {
+      "surface": "שב",
+      "gloss": "кире кайта"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тузанга"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "тузанга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:38.610336361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәм булды шул төндә: Элоһим сүзе Нәтанга килде, болай дип:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "төндә"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ел"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нәтанга"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "болай дип"
+    }
+  ],
+  "timestamp": "2026-10-05T02:02:02.167651153Z",
+  "model": "glm-5.3"
+}

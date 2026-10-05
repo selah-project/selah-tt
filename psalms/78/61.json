@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 78,
+  "translation": "һәм үз көчен әсирлеккә бирде, үз данын душман кулына.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "бирде"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "әсирлеккә"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "үз көчен"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "үз данын"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "кулына"
+    },
+    {
+      "surface": "צר",
+      "gloss": "душман"
+    }
+  ],
+  "timestamp": "2026-10-05T00:55:16.010814547Z",
+  "model": "glm-5.3"
+}

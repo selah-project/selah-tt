@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Чөнки бозык кеше Яһвә өчен жирлек, ә ⟨Аның⟩ сере — ⟨את⟩ турылар белән.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "жирлек"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "бозык кеше"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "турылар белән"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "турылар"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "Аның сере"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:55.495174211Z",
+  "model": "glm-5.3"
+}

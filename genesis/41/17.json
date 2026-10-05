@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Һәм Паръо Йосефка сөйләде: Тышымда мин елга яры башында торамын.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефка"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "тышымда"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "менә"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "торамын"
+    },
+    {
+      "surface": "על",
+      "gloss": "башында"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "яры"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "елга"
+    }
+  ],
+  "timestamp": "2026-10-05T02:21:09.440502324Z",
+  "model": "glm-5.3"
+}

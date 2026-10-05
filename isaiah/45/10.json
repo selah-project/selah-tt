@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 45,
+  "translation": "Әй, атага әйтүчегә: ни тудырасың? һәм хатынга: ни бала табасың?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Әй"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтүче"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "атага"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "тудырасың"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "һәм хатынга"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "бала табасың"
+    }
+  ],
+  "timestamp": "2026-10-04T23:41:09.782143184Z",
+  "model": "glm-5.3"
+}

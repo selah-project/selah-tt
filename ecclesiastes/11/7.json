@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм яктылык тәмле, ә күзләргә ⟨את⟩ кояшны күрү яхшы.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "һәм тәмле"
+    },
+    {
+      "surface": "האור",
+      "gloss": "яктылык"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "күзләргә"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "күрү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кояшны"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояшны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:36.109911204Z",
+  "model": "glm-5.3"
+}

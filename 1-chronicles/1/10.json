@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Куш ⟨את⟩ Нимродны туды; ул җирдә батыр булып башлады.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Һәм Куш"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нимродны"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Нимрод"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "החל",
+      "gloss": "башлады"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "булып"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "батыр"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җирдә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:07.341368135Z",
+  "model": "glm-5.3"
+}

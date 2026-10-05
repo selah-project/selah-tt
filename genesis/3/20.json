@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм кеше үз хатынына Хавва дигән исем куйды, чөнки ул бөтен яшәүчеләрнең әнисе булды.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "һәм куйды"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "שם",
+      "gloss": "исем"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "үз хатынына"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Хавва"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әнисе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "חי",
+      "gloss": "яшәүчеләрнең"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:32.631809168Z",
+  "model": "glm-5.3"
+}

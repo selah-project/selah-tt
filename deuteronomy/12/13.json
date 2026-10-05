@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Үзеңә сак бул, яндыру корбаннарыңны һәр урында, күргән җиреңдә күтәрмә.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "сак бул"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "פן",
+      "gloss": "…ма"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "күтәрмә"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "яндыру корбаннарыңны"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "урында"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "күргән"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "җиреңдә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:10.754175262Z",
+  "model": "glm-5.3"
+}

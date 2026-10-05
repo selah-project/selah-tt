@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Һәм Дан турында әйтте: Дан — арыслан бәсере, ул Башаннан сикереп чыга.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "һәм Дан турында"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "גור",
+      "gloss": "бәсере"
+    },
+    {
+      "surface": "אрיה",
+      "gloss": "арыслан"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "сикереп чыга"
+    },
+    {
+      "surface": "מן",
+      "gloss": "нан"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:30:17.707159171Z",
+  "model": "glm-5.3"
+}

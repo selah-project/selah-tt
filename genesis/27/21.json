@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм Йицхак Яаковка әйтте: Якын кил, зинһар, һәм сиңа тияем, улым. Син төгелме менә, улым Эсавмы?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "якын кил"
+    },
+    {
+      "surface": "נא",
+      "gloss": "зинһар"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "һәм сиңа тияем"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "זה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әллә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:23.989401510Z",
+  "model": "glm-5.3"
+}

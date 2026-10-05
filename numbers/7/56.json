@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "бер алтын алкан, ун шекел, төтөнле тәмәке белән тулы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "алкан"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "төтөнле тәмәке"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:47.190251560Z",
+  "model": "glm-5.3"
+}

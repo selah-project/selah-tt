@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Яһвә Мошега әйтте: Парһнең йөрәге авыр, ул халыкны җибәрүдән баш тарта.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...а"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошег"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "авыр"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәге"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парһнең"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "баш тарта"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "җибәрүдән"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халыкны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:41:56.606317883Z",
+  "model": "glm-5.3"
+}

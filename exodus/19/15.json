@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм ул халыкка әйтте: Өч көнгә әзер булыгыз; хатынга якын бармагыз.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "халыкка"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халыкка"
+    },
+    {
+      "surface": "היו",
+      "gloss": "булыргыз"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "әзер"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көнгә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "якын бармагыз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "якын"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатынга"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:40.519306081Z",
+  "model": "glm-5.3"
+}

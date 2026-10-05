@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм мәҗлес йортына кермә, алар белән утырып ⟨את⟩ ашарга һәм эчәргә.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "һәм йортына"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "мәҗлес"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "кермә"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "утырырга"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ашарга"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ашарга"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "һәм эчәргә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:51:47.914408422Z",
+  "model": "glm-5.3"
+}

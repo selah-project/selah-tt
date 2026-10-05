@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Кыр өстенә егылырсың, чөнки Мин сөйләдем, Адонай Яһвә сүзе.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзеңә"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "кыр"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "егылырсың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "сөйләдем"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:22:07.748258192Z",
+  "model": "glm-5.3"
+}

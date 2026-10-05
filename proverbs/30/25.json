@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Кыргавыллар — көчле булмаган халык, ләкин җәен үз икмәкләрен әзерлиләр;",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "кыргавыллар"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "עז",
+      "gloss": "көчле"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "әзерлиләр"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "җәен"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "икмәкләрен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:55.177034588Z",
+  "model": "glm-5.3"
+}

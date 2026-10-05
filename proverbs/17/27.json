@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 17:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Сүзләрен тыюче — белем иясе, һәм салкын рухлы кеше — аң иясе.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "тыюче"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "сүзләрен"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "белүче"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белем"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "һәм салкын"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "аң"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:32.453953864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Уззиел улларыннан: Амминадав башлык, һәм аның туганнары йөз унике.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "улларыннан"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Уззиел"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Амминадав"
+    },
+    {
+      "surface": "השר",
+      "gloss": "башлык"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "һәм аның туганнары"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "һәм ике"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    }
+  ],
+  "timestamp": "2026-10-05T02:00:34.231585840Z",
+  "model": "glm-5.3"
+}

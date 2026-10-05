@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Шелаһ утыз ел яшәде һәм ⟨את⟩ Эверны тудырды.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "һәм Шелаһ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "утыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эверны"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эверны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:17.976232471Z",
+  "model": "glm-5.3"
+}

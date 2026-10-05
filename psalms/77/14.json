@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 77,
+  "translation": "Элоһим, изгелектә юлың; кадерле Эл, Элоһим кебек бөегә кем?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "изгелектә"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "юлың"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем?"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөе"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "Элоһим кебек"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:36.320684154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Килегез, уллар, тыңлагыз мине: Яһвә хөрмәтен сезгә өйрәтәм.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Килегез"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уллар"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "тыңлагыз"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мине"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "хөрмәтен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "сезгә өйрәтәм"
+    }
+  ],
+  "timestamp": "2026-10-05T00:46:24.278220344Z",
+  "model": "glm-5.3"
+}

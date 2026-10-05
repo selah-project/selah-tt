@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм дүрт бөек хайван диңгездән менде, берсе икенчесеннән аерылып.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "һәм дүрт"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "хайван"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "менде"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–дән"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "аерылып"
+    },
+    {
+      "surface": "דא",
+      "gloss": "берсе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–ннән"
+    },
+    {
+      "surface": "דא",
+      "gloss": "икенчесеннән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:44:14.526716688Z",
+  "model": "glm-5.3"
+}

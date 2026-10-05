@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Рама һәм Гава уллары — алты йөз егерме бер.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "һәм Гава"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:45:50.398904443Z",
+  "model": "glm-5.3"
+}

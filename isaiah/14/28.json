@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Патша Аһаз үлгән елда бу йөк булган.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "елда"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлгән"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Аһаз"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булган"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "йөк"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T23:31:50.722498475Z",
+  "model": "glm-5.3"
+}

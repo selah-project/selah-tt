@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Каргышлы — үзенең якынының чиген күчерүче. Һәм бөтен халык әйтер: Әмин.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Каргышлы"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "күчерүче"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чиген"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "үзенең якынының"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Һәм бөтен халык әйтер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Әмин"
+    }
+  ],
+  "timestamp": "2026-10-05T02:26:36.501882084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Хәтта бала үз гамәлләре буенча билгеле: аның эше пакьме, дөресме икәне.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "хәтта"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "үз гамәлләре буенча"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "билгеле"
+    },
+    {
+      "surface": "נער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "אם",
+      "gloss": "мы"
+    },
+    {
+      "surface": "זך",
+      "gloss": "пакь"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "дөресме"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "дөрес"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "аның эше"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:58.194322233Z",
+  "model": "glm-5.3"
+}

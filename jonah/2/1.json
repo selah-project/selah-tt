@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Яһвә Йонаны йоту өчен зур балык билгеләде, һәм ⟨את⟩ Йона балык эчендә өч көн һәм өч төн булды.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "билгеләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "דג",
+      "gloss": "балык"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "зур"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "йоту өчен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йона"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "эчендә"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "балык"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "өч"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "һәм өч"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "төн"
+    }
+  ],
+  "timestamp": "2026-10-05T00:32:52.921752237Z",
+  "model": "glm-5.3"
+}

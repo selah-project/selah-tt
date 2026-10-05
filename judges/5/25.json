@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Су сорады, сөт бирде; зинәтле савытта май китерде.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "сорады"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "сөт"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "бирде"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "савытта"
+    },
+    {
+      "surface": "אדירим",
+      "gloss": "зинәтле"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "китерде"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "май"
+    }
+  ],
+  "timestamp": "2026-10-04T22:41:21.983893494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Йоел, Нгатанның туганы, Мивхар, Һагри улы.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Йоел"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "туганы"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нгатан"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "Мивхар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "Һагри"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:00.804662023Z",
+  "model": "glm-5.3"
+}

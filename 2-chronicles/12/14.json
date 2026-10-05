@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Һәм ул явызлык эшләде, чөнки ⟨את⟩ Яһвәне эзләргә үз йөрәген әзерләмәгән ⟨иде⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "эшләде"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "әзерләмәгән"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "үз йөрәген"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "эзләргә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвәне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәне"
+    }
+  ],
+  "timestamp": "2026-10-05T02:49:22.404386396Z",
+  "model": "glm-5.3"
+}

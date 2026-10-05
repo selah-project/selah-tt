@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Ялган сүзне гадел кеше нәфрәт итә, ә явыз тузан булып ис сибә һәм ояла.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "сүзне"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "нәфрәт итә"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гадел кеше"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ә явыз"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "ис сибә"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "һәм ояла"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:41.819394444Z",
+  "model": "glm-5.3"
+}

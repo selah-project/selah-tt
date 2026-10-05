@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Йеруббаал, Йоашның улы, китте һәм үз өендә яшәде.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "китте"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Йеруббаал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "үз өендә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:42:26.181897143Z",
+  "model": "glm-5.3"
+}

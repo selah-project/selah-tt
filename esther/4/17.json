@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Мордехай узды һәм Эстер аңа боерган барлык нәрсәне эшләде.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "узды"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехай"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "һәм эшләде"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "барлык нәрсәне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ны"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "боерган"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:44.410977732Z",
+  "model": "glm-5.3"
+}

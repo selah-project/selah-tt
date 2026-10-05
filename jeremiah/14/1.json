@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Яһвә сүзе, Яһвәнең Йирмәяһуга булган сүзе, корлыклар турында.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "〈ул〉"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булган"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кә"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмәяһуга"
+    },
+    {
+      "surface": "על",
+      "gloss": "турында"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "эшләре"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "корлыкларның"
+    }
+  ],
+  "timestamp": "2026-10-04T23:52:06.101492261Z",
+  "model": "glm-5.3"
+}

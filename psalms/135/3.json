@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 135,
+  "translation": "Мактагыз Яһны, чөнки Яһвә яхшы; Аның исеменә көй уйнагыз, чөнки ул якты.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Мактагыз"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "көй уйнагыз"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "Аның исеменә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "נעим",
+      "gloss": "якутлы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:04.883019889Z",
+  "model": "glm-5.3"
+}

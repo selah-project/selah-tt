@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм булса, ул сиңа әйтсә: Мин синнән чыгып китмәм, чөнки ул сине һәм ⟨את⟩ өеңне ярата, чөнki аңа синнән яхшы:",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "һәм булса"
+    },
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ул әйтсә"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "Мин чыгып китмәм"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "синнән"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "ул ярата сине"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "һәм өеңне"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "өеңне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "синнән"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:09.187669254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Сакла тәмам кешене һәм кара төзне, чөнки тыныч кешенең ахыры — тынычлык.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "сакла"
+    },
+    {
+      "surface": "תם",
+      "gloss": "тәмам"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "һәм кара"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "төз"
+    },
+    {
+      "surface": "кӣ... "
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ахыры"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынычлык"
+    }
+  ],
+  "timestamp": "2026-10-05T00:48:01.593145167Z",
+  "model": "glm-5.3"
+}

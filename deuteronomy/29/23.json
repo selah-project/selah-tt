@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм бөтен халыклар әйтер: Ни өчен Яһвә бу җиргә шулай эшләде? Бу бөек ачуның кайнарлыгы нәрсә?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "һәм әйтер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "халыклар"
+    },
+    {
+      "surface": "על",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "җиргә"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "кайнарлыгы"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ачуның"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T22:29:30.587684606Z",
+  "model": "glm-5.3"
+}

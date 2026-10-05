@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Яһвә, безнең Элоһимыбыз, Хоребта безгә сөйләде, әйтеп: бу тавыда яшәвеґезгә җитәр.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "безнең Элоһимыбыз"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Хоребта"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "רב",
+      "gloss": "җитәр"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "яшәү"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тавыда"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T22:20:08.718383373Z",
+  "model": "glm-5.3"
+}

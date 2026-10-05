@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Кешенең йөрәгендә күп уйлар бар, ләкин Яһвәнең киңәше — ул тора.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "күп"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "уйлар"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "йөрәгендә"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "һәм киңәше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "тора"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:07.163832967Z",
+  "model": "glm-5.3"
+}

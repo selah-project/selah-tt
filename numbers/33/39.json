@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Ә Аһарон үлгәндә, Хор тавында, йөз егерме өч яшендә иде.",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "Ә Аһарон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨яшендә⟩"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яшь"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "үлгәндә"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тавында"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Хор"
+    }
+  ],
+  "timestamp": "2026-10-04T22:18:43.936984942Z",
+  "model": "glm-5.3"
+}

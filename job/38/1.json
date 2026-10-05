@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Һәм Яһвә давыл эченнән ⟨את⟩ Айوبка җавап бирде һәм әйтте:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "җавап бирде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Айуб"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Айуб"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "эченнән"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "давыл"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:09.393252603Z",
+  "model": "glm-5.3"
+}

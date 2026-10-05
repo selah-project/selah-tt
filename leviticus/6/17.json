@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Яһвә Мошегаәйтте: әйтеп",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T21:56:00.032957017Z",
+  "model": "glm-5.3"
+}

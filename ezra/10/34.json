@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Бани улларыннан: Маадай, Амрам һәм Уэл.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "улларыннан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "Маадай"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "һәм Уэл"
+    }
+  ],
+  "timestamp": "2026-10-05T01:49:40.774751018Z",
+  "model": "glm-5.3"
+}

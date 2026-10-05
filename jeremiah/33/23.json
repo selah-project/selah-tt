@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Һәм Яһвә сүзе Йирмәяһуга килде, әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кә"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмәяһу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T23:58:31.602330601Z",
+  "model": "glm-5.3"
+}

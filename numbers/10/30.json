@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Ул аңа әйтте: Бармын — әйе, үз җиремә һәм туган якыма барам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Һәм әйтте"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "бармын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ләкин"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әйе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "үз җирем"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм -га"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "туган якыма"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "барам"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:47.432417206Z",
+  "model": "glm-5.3"
+}

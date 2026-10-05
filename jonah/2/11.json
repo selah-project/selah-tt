@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Яһвә балыкка сөйләде, һәм ул Йонаны ⟨את⟩ коры җиргә косты.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Һәм ... сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "балыкка"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "һәм ... косты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йонаны"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "אל",
+      "gloss": "җиргә"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "коры"
+    }
+  ],
+  "timestamp": "2026-10-05T00:32:32.398035695Z",
+  "model": "glm-5.3"
+}

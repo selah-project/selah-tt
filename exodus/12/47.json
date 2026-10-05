@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Йисраэл җәмгыятенең барысы да ⟨את⟩ аны үтәр.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барысы да"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "җәмгыяте"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "үтәр"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны (Песах)"
+    }
+  ],
+  "timestamp": "2026-10-04T21:44:16.267662365Z",
+  "model": "glm-5.3"
+}

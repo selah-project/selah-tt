@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Бу — төш, һәм аның аңлатмасын без патша алдында әйтәрбез.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "төш"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "һәм аның аңлатмасын"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "әйтәрбез"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "патша"
+    }
+  ],
+  "timestamp": "2026-10-05T01:41:00.494951100Z",
+  "model": "glm-5.3"
+}

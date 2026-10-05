@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Йеһошуа ⟨את⟩ каһиннәрне боерды, әйтеп: Ярденнан менегез.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "боерды"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "каһиннәрне"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "каһиннәрне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "менегез"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−нан"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярденнан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:32:17.644858297Z",
+  "model": "glm-5.3"
+}

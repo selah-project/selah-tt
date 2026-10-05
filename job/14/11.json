@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Су диңгездән китә, һәм елга корый һәм какрый.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "китә"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "מני",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ים",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "һәм елга"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "корый"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "һәм какрый"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:09.959548683Z",
+  "model": "glm-5.3"
+}

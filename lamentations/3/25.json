@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Яһвә яхшы Уны көткәнгә, җанга — Уны эзләгән җанга.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "Уны көткәнгә"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "җанга"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "Уны эзлый"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:19.224057718Z",
+  "model": "glm-5.3"
+}

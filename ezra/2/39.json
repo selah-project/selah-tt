@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Харимның балалары: мең һәм җиде ун.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харим"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "һәм җиде"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:08.743037448Z",
+  "model": "glm-5.3"
+}

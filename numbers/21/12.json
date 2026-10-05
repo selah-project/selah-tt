@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Аннан юлга чыктылар һәм Зәред үзәнендә лагерь кордылар.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "Аннан"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "юлга чыктылар"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагерь кордылар"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "үзәнендә"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зәред"
+    }
+  ],
+  "timestamp": "2026-10-04T22:12:47.560911365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Кем аның үлчәүләрен куйды — син беләсеңме? Кем аңа үлчәү бавын җәйде?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "שם",
+      "gloss": "куйды"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "аның үлчәүләрен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "беләсеңме"
+    },
+    {
+      "surface": "או",
+      "gloss": "ким"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "җәйде"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "קו",
+      "gloss": "үлчәү бавын"
+    }
+  ],
+  "timestamp": "2026-10-05T01:27:16.072555459Z",
+  "model": "glm-5.3"
+}

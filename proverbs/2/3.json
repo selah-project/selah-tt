@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "чынлап та, әгәр аң өчен кычкырсаң, аңлау өчен тавышыңны күтәрсәң,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чынлап та"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "аң өчен"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "кычкырсаң"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "аңлау өчен"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "күтәрсәң"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "тавышыңны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:50.735088748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Өй юлларын күзәтә, һәм ялкаулык икмәген ашамый.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "күзәтә"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "юлларын"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "аниң өе"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "һәм икмәген"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "ялкаулык"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ашамый"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ашамый"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:49.612206906Z",
+  "model": "glm-5.3"
+}

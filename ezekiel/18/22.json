@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 18:22",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Үз кылган бөтен баш күтәрүләре аңа искә алынмас; үз кылган цедеге белән ул яшәр.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "баш күтәрүләре"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "үз"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылган"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "искә алынмас"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "בצדקתו",
+      "gloss": "цедеге белән"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "үз"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылган"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "яшәр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:14:31.993603351Z",
+  "model": "glm-5.3"
+}

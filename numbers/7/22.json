@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "бер эчәне — эчәкеләрдән — гөнаһ корбаны өчен.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "эчәне"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "эчәкеләрдән"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "гөнаһ корбаны өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:51.647029778Z",
+  "model": "glm-5.3"
+}

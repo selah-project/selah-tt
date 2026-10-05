@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм ⟨את⟩ бөтен җәмәгатьне Очрашу чатыры ишеге алдына җыеп ал.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "бөтен җәмәгатьне"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "җәмәгать"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "җыеп ал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ишеге алдына"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатыры"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Очрашуның"
+    }
+  ],
+  "timestamp": "2026-10-04T21:56:49.327730290Z",
+  "model": "glm-5.3"
+}

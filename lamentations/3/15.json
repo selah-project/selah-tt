@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ул мине әчеүлекләр белән туйдырды, мине әчтанага батырды.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "туйдырды"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "әчеүлекләр белән"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "батырды"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "әчтанага"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:00.001979820Z",
+  "model": "glm-5.3"
+}

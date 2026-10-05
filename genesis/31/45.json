@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Һәм Яаков ⟨את⟩ ташны алды һәм аны багана итеп куйды.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "һәм алды"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "күтәрде һәм куйды"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "багана"
+    }
+  ],
+  "timestamp": "2026-10-05T02:19:35.662815059Z",
+  "model": "glm-5.3"
+}

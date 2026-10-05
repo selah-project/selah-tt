@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 111,
+  "translation": "Аның эшенең үзе — дан һәм зурлык, һәм аның цедегы мәңге тора.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "дан"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "һәм зурлык"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "эшенең үзе"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "һәм аның цедегы"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "тора"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:44.126591012Z",
+  "model": "glm-5.3"
+}

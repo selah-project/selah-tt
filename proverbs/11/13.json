@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Йөрүче-гайбәтче серне ача, ә рухи тугры кеше эшне яшерә.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "йөрүче"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "гайбәтче"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ача"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "серне"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "ә тугры"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухи"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "яшерә"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "эшне"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:01.852108596Z",
+  "model": "glm-5.3"
+}

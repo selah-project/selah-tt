@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм икенче айда, айның йигерме беренче ⟨җиде⟩ көнендә җир корыды.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "һәм айда"
+    },
+    {
+      "surface": "השני",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "һәм йигерме"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көнендә"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айның"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "корыды"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:18.143686065Z",
+  "model": "glm-5.3"
+}

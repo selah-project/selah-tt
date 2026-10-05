@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм шул булды: Йисраэл уллары Мидьян өчен Яһвәгә кычкыргач,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "шул булды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ачы"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "кычкыргач"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "сәбәпле"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидьян"
+    }
+  ],
+  "timestamp": "2026-10-04T22:41:21.030498494Z",
+  "model": "glm-5.3"
+}

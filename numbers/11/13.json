@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 11:13",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Кайдан миндә бөтен бу халыкка бирергә ит булсын? Чөнки алар мине үкеп: Безгә ит бир, ашыйк, диләр.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "кайдан"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миндә"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ит"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "бирергә"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халыкка"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "алар үкыйлар"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мине"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "диләр"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "бир"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ит"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "ашыйк"
+    }
+  ],
+  "timestamp": "2026-10-04T22:11:02.281366598Z",
+  "model": "glm-5.3"
+}

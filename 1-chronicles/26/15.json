@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Габид-Эдомга көньякта; ә аның улларына — Җыелышлар Йорты.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "Габид-Эдомга"
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "көньякта"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ә аның улларына"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Йорты"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "Җыелышлар"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:54.943139025Z",
+  "model": "glm-5.3"
+}

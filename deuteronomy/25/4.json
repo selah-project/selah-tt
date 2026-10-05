@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Ашлык сабанда таптаган үгезнең авызын бөкләмә.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бөкләмә"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "авызын бөкләү"
+    },
+    {
+      "surface": "שור",
+      "gloss": "үгез"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ашлык сабанында"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:39.376293226Z",
+  "model": "glm-5.3"
+}

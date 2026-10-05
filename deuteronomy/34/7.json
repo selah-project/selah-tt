@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Моше үлгәндә йөз егерме яшь иде; аның күзе тоныкланмаган, тәмле көче дә бетмәгән.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בן",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "мאה",
+      "gloss": "⟨йөз⟩"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яшь иде"
+    },
+    {
+      "surface": "бמתו",
+      "gloss": "үлгәндә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "тоныкланмаган"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "аның күзе"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "נס",
+      "gloss": "бетмәгән"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "тәмле көче"
+    }
+  ],
+  "timestamp": "2026-10-04T22:31:28.714171629Z",
+  "model": "glm-5.3"
+}

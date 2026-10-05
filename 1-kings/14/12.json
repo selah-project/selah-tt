@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Ә син, тор, үз йортыңа кайт; аягың шәһәргә кергәндә, бала үлер.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ә син"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "тор"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "кайт"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "үз йортыңа"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "кергәндә"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "аягың"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "шәһәргә"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "үлер"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "бала"
+    }
+  ],
+  "timestamp": "2026-10-04T23:14:25.935928364Z",
+  "model": "glm-5.3"
+}

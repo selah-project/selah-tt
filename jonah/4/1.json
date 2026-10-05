@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм бу Йунага бик зур яманлык булды, һәм аңа ачудан янып китте.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "яманлык булды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ана"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йуна"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "яманлык"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "бик зур"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ачудан янып китте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T00:33:13.863386713Z",
+  "model": "glm-5.3"
+}

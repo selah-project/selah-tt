@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 49,
+  "translation": "Һәм ул мәңге яшәр, чокырны күрмәс.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "һәм яшәр"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тагын"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "күрмәс"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "чокырны"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:28.727556111Z",
+  "model": "glm-5.3"
+}

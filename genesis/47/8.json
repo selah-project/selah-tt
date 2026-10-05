@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 47,
+  "translation": "Һәм Паръоһ Яаковка әйтте: Тормышыңның елларының көннәре ничә?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръоһ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ничә"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәре"
+    },
+    {
+      "surface": "שני",
+      "gloss": "елларының"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "тормышыңның"
+    }
+  ],
+  "timestamp": "2026-10-04T21:39:25.044911170Z",
+  "model": "glm-5.3"
+}

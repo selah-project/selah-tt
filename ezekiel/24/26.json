@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Шул көнне котылучы сиңа килер, колагыңны ишеттерергә.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "шул көнне"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "килер"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "котылучы"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "ишеттерергә"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "колаклар"
+    }
+  ],
+  "timestamp": "2026-10-05T00:15:27.160535412Z",
+  "model": "glm-5.3"
+}

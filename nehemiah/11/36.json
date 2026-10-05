@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм ләвиләрнең бүлекләре Юдада, Биньяминга ⟨бирелгән⟩.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "һәм …дан"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ләвиләр"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "бүлекләре"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юда"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "Биньяминга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:02.862724720Z",
+  "model": "glm-5.3"
+}

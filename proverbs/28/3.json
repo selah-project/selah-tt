@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Ярлы ир, көчсезләрне изүче — икмәк калдырмый торган сүдерүче яңгыр кебек.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ир"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ярлы"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "ә изүче"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "көчсезләрне"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "яңгыр"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "сүдерүче"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм ⟨ул⟩ юк"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:36.954147947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 31:2",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Һәм аларга әйтте: Йөз егерме яшем бар бүген, мин инде чыгып һәм керә алмыйм, ә Яһвә миңа әйтте: Син бу Йарденны ⟨את⟩ чыкмаслык.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "һәм егерме"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мин"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүген"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "алам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "инде"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "чыгып"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "һәм керергә"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ә Яһвә"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "чыкмаслык"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йарденны"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йарденны"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T22:31:16.099314550Z",
+  "model": "glm-5.3"
+}

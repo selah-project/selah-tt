@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Давид мәдһиясе, искә төшерү өчен.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мәдһия"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиднең"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "искә төшерү өчен"
+    }
+  ],
+  "timestamp": "2026-10-05T00:48:21.178311924Z",
+  "model": "glm-5.3"
+}

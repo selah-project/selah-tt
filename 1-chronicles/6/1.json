@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Леви уллары: Гершом, Кеһат һәм Мерари.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеһат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "һәм Мерари"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:50.447084263Z",
+  "model": "glm-5.3"
+}

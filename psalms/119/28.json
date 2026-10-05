@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Кайгыдан тама моңа ⟨минем⟩ җаным, Сүзеңә күрә мине тергез.",
+  "tokens": [
+    {
+      "surface": "дלפה",
+      "gloss": "тама"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җаным"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "кайгыдан"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "тергез"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Сүзеңә күрә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:54.263734326Z",
+  "model": "glm-5.3"
+}

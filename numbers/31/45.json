@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "һәм ишәкләр — отыз мең биш йөз,",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "һәм ишәкләр"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "һәм биш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:06.153652217Z",
+  "model": "glm-5.3"
+}

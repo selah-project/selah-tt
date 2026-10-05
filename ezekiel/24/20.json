@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм мин аларга әйттем: Яһвә сүзе миңа килде, дип әйтеп:",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "һәм әйттем"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "היה",
+      "gloss": "килде"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-05T00:15:15.199641340Z",
+  "model": "glm-5.3"
+}

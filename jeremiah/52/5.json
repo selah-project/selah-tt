@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 52,
+  "translation": "Һәм шәһәр камалышта калды, Цидкияһу патшаның унберенче елына кадәр.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "керде"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "камалышта"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "унберенче"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "елына"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкияһу"
+    }
+  ],
+  "timestamp": "2026-10-05T00:05:55.754854033Z",
+  "model": "glm-5.3"
+}

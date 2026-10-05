@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәммуказның җыры — җырларның җыры, ул Җәмәгатьнең.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "җыры"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "җырларның"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Җәмәгатьнең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:29:05.688074103Z",
+  "model": "glm-5.3"
+}

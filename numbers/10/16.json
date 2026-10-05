@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Зебулун кабиләсе балалары гаскәре өстеннән Элиав, Хелон улы.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "һәм өстеннән"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "гаскәре"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "кабиләсе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Хелон"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:06.879710659Z",
+  "model": "glm-5.3"
+}

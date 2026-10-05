@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "бер алтын кәсә, ун шекел авырлыгында, үтә тулы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кәсә"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "үтә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:08:54.600308365Z",
+  "model": "glm-5.3"
+}

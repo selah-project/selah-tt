@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 26:28",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Йосеф уллары, үз ыруглары буенча: Менаше һәм Эфраим.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "үз ыруглары буенча"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "һәм Эфраим"
+    }
+  ],
+  "timestamp": "2026-10-04T22:15:10.041898113Z",
+  "model": "glm-5.3"
+}

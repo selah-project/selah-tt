@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Һәм тудыру көннәре тулды, һәм меңә — аның кыарында игезәкләр ⟨бар⟩.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "тулды"
+    },
+    {
+      "surface": "ימיה",
+      "gloss": "көннәре"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "тудыру"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "меңә"
+    },
+    {
+      "surface": "תומם",
+      "gloss": "игезәкләр"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "кыарында"
+    }
+  ],
+  "timestamp": "2026-10-04T21:30:18.816014898Z",
+  "model": "glm-5.3"
+}

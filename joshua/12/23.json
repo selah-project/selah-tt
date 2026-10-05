@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Дор төбәгендәге Дор патшасы — бер; Гилгалдагы гыйraйләр патшасы — бер.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Дор"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "төбәгендәге"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Дор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "гыйraйләр"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "Гилгалдагы"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-04T22:35:17.388553857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Яһвә сез өчен сугышыр, ә сез тын торыгыз.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "сугышыр"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сез өчен"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ә сез"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "тын торыгыз"
+    }
+  ],
+  "timestamp": "2026-10-04T21:44:55.530753418Z",
+  "model": "glm-5.3"
+}

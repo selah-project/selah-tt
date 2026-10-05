@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Җырлар булды миңа хөкемнәрең, юлчылыгым өендә.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "җырлар"
+    },
+    {
+      "surface": "היו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "хөкемнәрең"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "өендә"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "юлчылыгым"
+    }
+  ],
+  "timestamp": "2026-10-05T01:03:00.676401825Z",
+  "model": "glm-5.3"
+}

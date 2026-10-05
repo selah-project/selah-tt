@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Яһвә Мошега һәм Аһаронга әйтте, дип:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм -га"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһаронга"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    }
+  ],
+  "timestamp": "2026-10-04T21:41:18.224433530Z",
+  "model": "glm-5.3"
+}

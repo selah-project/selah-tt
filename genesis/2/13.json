@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм икенче елганың исеме Гиһон — ул ⟨את⟩ бөтен Куш җирен әйләп узучы.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "һәм исеме"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "елганың"
+    },
+    {
+      "surface": "השני",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Гиһон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул ⟨ул⟩"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "әйләп узучы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен Куш җирен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җирен"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    }
+  ],
+  "timestamp": "2026-10-04T21:23:45.417389584Z",
+  "model": "glm-5.3"
+}

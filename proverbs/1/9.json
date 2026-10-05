@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Чөнки алар башыңа рәхимлек тажы, һәм тамагыңа чылбырлар.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "таж"
+    },
+    {
+      "surface": "חן",
+      "gloss": "рәхимлек"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "башыңа"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "һәм чылбырлар"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "тамагыңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:26.933554574Z",
+  "model": "glm-5.3"
+}

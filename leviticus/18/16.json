@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Аганың хатынының ялангачлыгын ачма — ул аганың ялангачлыгы.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ялангачлыгын"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "хатынының"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "аганың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ачма"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ачма"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ялангачлыгы"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "аганың"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-05T02:23:46.600938731Z",
+  "model": "glm-5.3"
+}

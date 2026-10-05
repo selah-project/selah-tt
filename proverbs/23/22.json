@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Тыңла сине тудырган әтиеңне, һәм анаң өлкәнәйгәч аны түбән күрмә.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "тыңла"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "әтиеңә"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "сине тудырган"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "түбән күрмә"
+    },
+    {
+      "surface": "кי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "өлкәнәйгәч"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "анаңны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:19.239900772Z",
+  "model": "glm-5.3"
+}

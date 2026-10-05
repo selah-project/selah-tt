@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 57,
+  "translation": "Уянырга, даным, уянырга, набал һәм киннор! Мин таңны уятам.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "уянырга"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "даным"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "уянырга"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "набал"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "һәм киннор"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "уятам"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "таңны"
+    }
+  ],
+  "timestamp": "2026-10-05T00:50:46.482604187Z",
+  "model": "glm-5.3"
+}

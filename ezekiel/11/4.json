@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Шуңа күрә аларга пәйгамбәрлек ит, пәйгамбәрлек ит, кеше улы.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "шуңа күрә"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пәйгамбәрлек ит"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пәйгамбәрлек ит"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешенең"
+    }
+  ],
+  "timestamp": "2026-10-05T00:10:40.345349646Z",
+  "model": "glm-5.3"
+}

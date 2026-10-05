@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һарим балалары: мең унҗиде.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Һарим"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:09.484429364Z",
+  "model": "glm-5.3"
+}

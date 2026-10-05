@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Чөнки золым хәкимне аңыннан яздыра, һәм рәшвәт ⟨את⟩ йөрәкне җимерә.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "золым"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "аңыннан яздыра"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хәкимне"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "һәм җимерә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "йөрәкне"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәкне"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "рәшвәт"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:35.287770752Z",
+  "model": "glm-5.3"
+}

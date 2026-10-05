@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм патша Шимига әйтте: Үлмәрсең. Һәм патша аңа ант итте.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "үлмәрсең"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ант итте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    }
+  ],
+  "timestamp": "2026-10-04T23:05:57.255349725Z",
+  "model": "glm-5.3"
+}

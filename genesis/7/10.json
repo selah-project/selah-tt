@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм җиде көннән соң булды, һәм ташкын сулары җир өстенә булдылар.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "җиде көннән соң"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "көннәр"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "һәм сулары"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ташкын"
+    },
+    {
+      "surface": "היו",
+      "gloss": "булдылар"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:58.745249353Z",
+  "model": "glm-5.3"
+}

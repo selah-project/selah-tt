@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Гыра әл-Йисри, Гариб әл-Йисри.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Гыра"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "әл-Йисри"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гариб"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "әл-Йисри"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:00.807074958Z",
+  "model": "glm-5.3"
+}

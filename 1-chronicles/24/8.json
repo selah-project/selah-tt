@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Өченчесе Харимга, дүртенчесе Сеоримга.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "Харимга"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "өченче"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "Сеоримга"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "дүртенче"
+    }
+  ],
+  "timestamp": "2026-10-05T02:48:41.995124079Z",
+  "model": "glm-5.3"
+}

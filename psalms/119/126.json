@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Вакыт Яһвә өчен эшләргә: алар Тораңны җимерделәр.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Вакыт"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "эшләргә"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвә өчен"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "җимерделәр"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Тораңны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:03:31.354238196Z",
+  "model": "glm-5.3"
+}

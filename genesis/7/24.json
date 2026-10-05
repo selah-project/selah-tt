@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм сулар җир өстендә йөз илле көн өстен чыктылар.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "һәм өстен чыктылар"
+    },
+    {
+      "surface": "המים",
+      "gloss": "сулар"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "һәм йөз"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:38.995218051Z",
+  "model": "glm-5.3"
+}

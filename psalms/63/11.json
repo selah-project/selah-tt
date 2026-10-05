@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 63,
+  "translation": "Аны кылыч кулы өстенә түгәрләр, шакалларның өлеше булырлар.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "Аны түгәрләр"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "кулы"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "өлеше"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "шакалларның"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "булырлар"
+    }
+  ],
+  "timestamp": "2026-10-05T00:51:49.719603735Z",
+  "model": "glm-5.3"
+}

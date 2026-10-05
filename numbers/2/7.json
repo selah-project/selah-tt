@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Зебулун кабиләсе, һәм Зебулун улларының юлбашчысы — Элиав, Һелон улы.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "кабиләсе"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "юлбашчысы"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "улларының"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Һелон"
+    }
+  ],
+  "timestamp": "2026-10-04T22:06:11.957176447Z",
+  "model": "glm-5.3"
+}

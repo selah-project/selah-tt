@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Белага уллар туды: Аддар, һәм Гера, һәм Авиһуд.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уллар"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "Белага"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Аддар"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "һәм Гера"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "һәм Авиһуд"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:30.020501361Z",
+  "model": "glm-5.3"
+}

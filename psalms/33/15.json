@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Ул аларның йөрәкләрен бергә ясый, аларның барлык гамәлләрен дә аңлый.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "ясый"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бергә"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "йөрәкләрен"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "аңлый"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "гамәлләрен"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:35.602434790Z",
+  "model": "glm-5.3"
+}

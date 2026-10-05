@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 92,
+  "translation": "Хайван кеше буны белми, һәм ахмак буны аңламый —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "בער",
+      "gloss": "хайван"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белми"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "һәм ахмак"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "аңламый"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "буны"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "буны"
+    }
+  ],
+  "timestamp": "2026-10-05T00:58:17.659114942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм Ашер кызының исеме — Сараһ.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Һәм … исеме"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызының"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "Сараһ"
+    }
+  ],
+  "timestamp": "2026-10-04T22:15:55.023924412Z",
+  "model": "glm-5.3"
+}

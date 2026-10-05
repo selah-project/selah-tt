@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 35,
+  "translation": "Һәм Элиһу җавап бирде һәм әйтте:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "җавап бирде"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элиһу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    }
+  ],
+  "timestamp": "2026-10-05T01:26:20.107137274Z",
+  "model": "glm-5.3"
+}

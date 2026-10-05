@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм ул әйтте: Менә ⟨инде⟩ мин картайдым, үлемем көнен белмим.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм ул әйтте"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨инде⟩"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "картайдым"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "белмим"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "үлемем"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:16.800125817Z",
+  "model": "glm-5.3"
+}

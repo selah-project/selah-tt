@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Ялкаулык тирән йокога төшерә, һәм ялкау җан ачыгач кичерер.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "Ялкаулык"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "төшерә"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "тирән йокога"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "һәм җан"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ялкау"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "ачыгач кичерер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:26.096748250Z",
+  "model": "glm-5.3"
+}

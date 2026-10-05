@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Җәяргә таш бәйләгән кеше кебек, шулай ук ахмакка дан бирүче дә.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "бәйләгән кеше кебек"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "җәяргә"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай ук"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "бирүче"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ахмакка"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:10.561514910Z",
+  "model": "glm-5.3"
+}

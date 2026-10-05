@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Аларны бармакларыңа бәйлә, йөрәгең тактасына яз.",
+  "tokens": [
+    {
+      "surface": "קָשְׁרֵם",
+      "gloss": "аларны бәйлә"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…-га"
+    },
+    {
+      "surface": "אֶצְבְּעֹתֶיךָ",
+      "gloss": "бармакларыңа"
+    },
+    {
+      "surface": "כָּתְבֵם",
+      "gloss": "яз"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…-га"
+    },
+    {
+      "surface": "לוּחַ",
+      "gloss": "тактасына"
+    },
+    {
+      "surface": "לִבֶּךָ",
+      "gloss": "йөрәгең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:06.187964997Z",
+  "model": "glm-5.3"
+}

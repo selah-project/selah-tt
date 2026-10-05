@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Үлән корый, чәчәк селәгә, ә безнең Элоһимның сүзе мәңге торыр.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "корый"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "үлән"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "селәгә"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "чәчәк"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ә сүзе"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоһимның безнең"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "торыр"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-04T23:39:33.967173377Z",
+  "model": "glm-5.3"
+}

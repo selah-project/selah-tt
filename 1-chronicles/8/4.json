@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Авишуа, һәм Нааман, һәм Аһоаһ.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "һәм Авишуа"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "һәм Нааман"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "һәм Аһоаһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:30.020706152Z",
+  "model": "glm-5.3"
+}

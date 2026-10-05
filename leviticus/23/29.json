@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Чөнки һәр җан, кайсы шул көнне үзе түбәнәйтелмәсә, ул үз халкы арасыннан киселер.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "түбәнәйтелер"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "үзе...эчендә"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "һәм киселер"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "үз халкыннан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:03:50.403482533Z",
+  "model": "glm-5.3"
+}

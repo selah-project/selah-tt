@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Мин сине чүлдә белдем, корылык илендә.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "сине белдем"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чүлдә"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "илендә"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "корылык"
+    }
+  ],
+  "timestamp": "2026-10-05T02:39:44.816897221Z",
+  "model": "glm-5.3"
+}

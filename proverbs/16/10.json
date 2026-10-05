@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Патша иреннәрендә кәсем ⟨бар⟩; хөкемдә аның авызы хыянәт итмәс.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "кәсем"
+    },
+    {
+      "surface": "על",
+      "gloss": "эчендә"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "иреннәрендә"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "хөкемдә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ימעал",
+      "gloss": "хыянәт итмәс"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "аның авызы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:03.727963353Z",
+  "model": "glm-5.3"
+}

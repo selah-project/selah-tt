@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ачулык белән куарсың һәм аларны Яһвә күкләренең астыннан юк итәрсең.",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "куарсың"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ачулык белән"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "һәм аларны юк итәрсең"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "астыннан"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "күкләрнең"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:31:53.672428229Z",
+  "model": "glm-5.3"
+}

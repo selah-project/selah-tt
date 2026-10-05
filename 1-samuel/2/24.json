@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Юк, улымнар, чөнки мин ишеткән хәбәр яхшы түгел: Яһвә халкын ваетасыз.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "юк"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улымнар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "хәбәр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мин"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ишеткән"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "ваятасыз"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халкын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:48:22.029790739Z",
+  "model": "glm-5.3"
+}

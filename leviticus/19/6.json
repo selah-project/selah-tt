@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Сез аны суйган көнне һәм иртәгәсен ашау <span>кирәк<\/span>, ә өченче көнгә кадәр калганы утта яндырылыр.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "сезнең суеганыгыз"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашалу <span>кирәк<\/span>"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "һәм иртәгәсен"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ә калганы"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "өченче"
+    },
+    {
+      "surface": "באש",
+      "gloss": "утта"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "яндырылыр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:00:43.614050749Z",
+  "model": "glm-5.3"
+}

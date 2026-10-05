@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Микалга, Шаул кызына, үлем көненә кадәр бала тудырылмады.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "һәм Микалга"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аның"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "бала"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көне"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "үлем"
+    }
+  ],
+  "timestamp": "2026-10-04T23:00:30.722694065Z",
+  "model": "glm-5.3"
+}

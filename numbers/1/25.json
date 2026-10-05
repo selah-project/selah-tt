@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Исәпләнгәннәре Гад коленыннан: кырк биш мең алты йөз илле.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "исәпләнгәннәре"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "коленыннан"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "биш"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "һәм кырк"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "һәм алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "һәм илле"
+    }
+  ],
+  "timestamp": "2026-10-05T02:24:02.568627741Z",
+  "model": "glm-5.3"
+}

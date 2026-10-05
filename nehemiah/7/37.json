@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Лод уллары, Хадид һәм Оно ⟨уллары⟩: җиде йөз егерме бер.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "Хадид"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "һәм Оно"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "һәм бер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:18.430295439Z",
+  "model": "glm-5.3"
+}

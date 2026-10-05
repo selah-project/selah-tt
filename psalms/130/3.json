@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 130,
+  "translation": "Әгәр гөнаһларны сакласаң, әй, Яһ, әй, Адонай, кем басып тора алыр?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "гөнаһларны"
+    },
+    {
+      "surface": "тשמר",
+      "gloss": "сакласаң"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "басып тора алыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:26.929681669Z",
+  "model": "glm-5.3"
+}

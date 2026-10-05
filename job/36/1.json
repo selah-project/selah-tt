@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Элиһу ⟨дәвам итте⟩ һәм әйтте:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "дәвам итте"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Элиһу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    }
+  ],
+  "timestamp": "2026-10-05T01:26:50.644097973Z",
+  "model": "glm-5.3"
+}

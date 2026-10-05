@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Чөнки ⟨את⟩ кемне Яһвә ярата, шуны тәрбияли, әти үз улына ⟨את⟩ риза булган кебек.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кемне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кемне"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ярата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "тәрбияли"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "әти кебек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үз улына"
+    },
+    {
+      "surface": "בן",
+      "gloss": "үз улына"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "риза булган"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:05.196931428Z",
+  "model": "glm-5.3"
+}

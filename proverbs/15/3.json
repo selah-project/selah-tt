@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәр җирдә Яһвәнең күзләре, начарларны һәм яхшыларны күзәтә.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "җирдә"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "күзләре"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "күзәтә"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "начарларны"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "һәм яхшыларны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:09.730460318Z",
+  "model": "glm-5.3"
+}

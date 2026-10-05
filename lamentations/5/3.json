@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Без ятимнәр булдык, атабыз ⟨юк⟩; аналарыбыз тол хатыннар кебек.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "ятимнәр"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "булдык"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨юк⟩"
+    },
+    {
+      "surface": "אב",
+      "gloss": "атабыз"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "аналарыбыз"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "тол хатыннар кебек"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:06.380392663Z",
+  "model": "glm-5.3"
+}

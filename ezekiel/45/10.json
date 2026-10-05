@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 45,
+  "translation": "Цедек үлчәү тәразылары, цедек эфа һәм цедек бат булсын сезгә.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "үлчәү тәразылары"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "һәм эфа"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "һәм бат"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "булсын"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:24:28.801117311Z",
+  "model": "glm-5.3"
+}

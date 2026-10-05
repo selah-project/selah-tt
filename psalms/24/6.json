@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Бу — Аңа йөз эзләүче буын, Синең йөзеңне эзләүчеләр — Яаков. Селә.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "דור",
+      "gloss": "буын"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "эзләүче"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "эзләүчеләр"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "йөзеңне"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:54.069146259Z",
+  "model": "glm-5.3"
+}

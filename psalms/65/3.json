@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 65,
+  "translation": "Доганы ишетүче Сиңа бөтен тән килер.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ишетүче"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "дога"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тән"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "килер"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:27.473924291Z",
+  "model": "glm-5.3"
+}

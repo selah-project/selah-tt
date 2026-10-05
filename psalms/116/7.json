@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 116,
+  "translation": "Кайт, җаным, ял урыныңа, чөнки Яһвә сиңа игелек кылды.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Кайт"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җаным"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "ял урыныңа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "игелек кылды"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:53.174459333Z",
+  "model": "glm-5.3"
+}

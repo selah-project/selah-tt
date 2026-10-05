@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "һәм Лаванга өченче көнне хәбәр ителде, чөнки Яаков качкан.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "хәбәр ителде"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Лаванга"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "השלили",
+      "gloss": "өченче"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "качкан"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-10-04T21:33:18.806405495Z",
+  "model": "glm-5.3"
+}

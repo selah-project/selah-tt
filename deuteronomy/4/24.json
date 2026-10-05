@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Чөнки Яһвә Элоһимең — ашыгучы ут, Ул көнчел Эл.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоһимең"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ут"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ашыгучы"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "көнчел"
+    }
+  ],
+  "timestamp": "2026-10-04T22:21:32.642024416Z",
+  "model": "glm-5.3"
+}

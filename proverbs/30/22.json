@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "кол патша булып калганда, һәм ахмак икмәк белән туйганда;",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "аstyнда"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "כי",
+      "gloss": "булганда"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "патша булып"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "һәм ахмак"
+    },
+    {
+      "surface": "כי",
+      "gloss": "булганда"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "туйганда"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк белән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:46.493493268Z",
+  "model": "glm-5.3"
+}

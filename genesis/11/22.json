@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Сруг отыз ел яшәде һәм ⟨את⟩ Нахорны тудырды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Сруг"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахор"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:05.245747945Z",
+  "model": "glm-5.3"
+}

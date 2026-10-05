@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Һәм кич җиткәч, ул суда юынер, һәм кояш баюы белән лагерь эченә керер.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "һәм булыр"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "җиткәч"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кич"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "юынар"
+    },
+    {
+      "surface": "במים",
+      "gloss": "суда"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "һәм баюы белән"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояш"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "керер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эченә"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "эче"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерь"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:19.857783226Z",
+  "model": "glm-5.3"
+}

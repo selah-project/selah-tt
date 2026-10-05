@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм ул җаны ачы булып, Яһвә⟨гә⟩ дога кылды һәм елап-еллады.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "һәм ул"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "ачы булып"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "дога кылды"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨гә⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "һәм елап"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "еллады"
+    }
+  ],
+  "timestamp": "2026-10-04T22:48:00.518496085Z",
+  "model": "glm-5.3"
+}

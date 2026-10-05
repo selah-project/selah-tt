@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Икәүсе бердән яхшы, чөнки аларның үз хезмәтләрендә яхшы хезмәт хакы бар.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "икәүсе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "дән"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларның"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "хезмәт хакы"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "хезмәтләрендә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:23.060011463Z",
+  "model": "glm-5.3"
+}

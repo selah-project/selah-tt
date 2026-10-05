@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Һәм Шими уллары: Йаһат, Зина, Йеуш һәм Берия — бу дүртесе Шими уллары иде.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Йаһат"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "Зина"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "һәм Йеуш"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "һәм Берия"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дүрт"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:14.418636665Z",
+  "model": "glm-5.3"
+}

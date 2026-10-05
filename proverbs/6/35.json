@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Ул һичбер кыйммәтнең ⟨битен⟩ күтәрмәс, һәм ришвәтне күбәйтсәң дә риза булмас.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "күтәрмәс"
+    },
+    {
+      "surface": "פני",
+      "gloss": "битен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һичбер"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "кыйммәтнең"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм ... түгел"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "риза булмас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "дә"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "күбәйтсәң"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ришвәт"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:10.719518115Z",
+  "model": "glm-5.3"
+}

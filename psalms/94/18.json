@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 94,
+  "translation": "Әйткәндем: аягым тайгана, — Синең хеседең, Яһвә, мине тотып тора.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "әйткәндем"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "тайгана"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "аягым"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседең"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "таят мине"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:59.945749772Z",
+  "model": "glm-5.3"
+}

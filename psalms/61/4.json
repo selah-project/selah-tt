@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 61,
+  "translation": "Чөнки син миңа сыену урыны булдың, көчле манара дошман йөзенә каршы.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "היית",
+      "gloss": "булдың"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "сыену урыны"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "манара"
+    },
+    {
+      "surface": "עז",
+      "gloss": "көчле"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "йөзенә каршы"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "дошман"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:14.209889907Z",
+  "model": "glm-5.3"
+}

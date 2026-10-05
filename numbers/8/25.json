@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм илле яшьтән ул хезмәт сагыннан кайтыр һәм бүтән хезмәт итмәс.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "яшьтән"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яшь"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "кайтыр"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "сагыннан"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "хезмәт"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм бүтән"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "хезмәт итмәс"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨бүтән⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T22:08:51.584406189Z",
+  "model": "glm-5.3"
+}

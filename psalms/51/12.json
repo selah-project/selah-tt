@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 51,
+  "translation": "Чиста йөрәк ярәт миндә, эй Элоһим, һәм туры рухны минең эчтә яңарт.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чиста"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ярәт"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миндә"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "һәм рухны"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "туры"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "яңарт"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "минең эчтә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:50:37.239151596Z",
+  "model": "glm-5.3"
+}

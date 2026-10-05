@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Яһвә сүзе Йуна икенче тапкыр килде:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кешесенә"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йуна"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "икенче тапкыр"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "диеп"
+    }
+  ],
+  "timestamp": "2026-10-05T00:33:10.798124681Z",
+  "model": "glm-5.3"
+}

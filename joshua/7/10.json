@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Яһвә Йеһошуага әйтте: Тор синең өчен, ни өчен син йөзең өстенә егылып ятасың?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуага"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Тор"
+    },
+    {
+      "surface": "לך",
+      "gloss": "синең өчен"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ни өчен"
+    },
+    {
+      "surface": "זה",
+      "gloss": "был"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "егылып ятасың"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "йөзең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:33:47.283569668Z",
+  "model": "glm-5.3"
+}

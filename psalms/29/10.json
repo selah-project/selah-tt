@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Яһвә су ташкыны өстенә утырды, Яһвә патша булып мәңге утыра.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "су ташкыны өстенә"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "утырды"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "утыра"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша булып"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:13.680341507Z",
+  "model": "glm-5.3"
+}

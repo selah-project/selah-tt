@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Вә Билдад Шуһи җавап бирде һәм әйтте:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "җавап бирде"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "Билдад"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "Шуһи"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    }
+  ],
+  "timestamp": "2026-10-05T01:24:09.745934170Z",
+  "model": "glm-5.3"
+}

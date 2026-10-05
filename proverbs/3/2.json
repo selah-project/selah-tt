@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Чөнки көннәрнең озынлыгы, тормыш еллары һәм тынычлык сиңа өстәлер.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "озынлыгы"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көннәрнең"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "еллары"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тормыш"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "тынычлык"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "өстәлер"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:25.847926550Z",
+  "model": "glm-5.3"
+}

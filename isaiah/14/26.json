@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Бу — бөтен җир өстенә корылган киңәш, һәм бу — бөтен халыклар өстенә сузылган кул.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "киңәш"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "корылган"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "һәм бу"
+    },
+    {
+      "surface": "היד",
+      "gloss": "кул"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "сузылган"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "халыклар"
+    }
+  ],
+  "timestamp": "2026-10-04T23:31:50.722243673Z",
+  "model": "glm-5.3"
+}

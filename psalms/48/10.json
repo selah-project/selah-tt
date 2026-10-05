@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Элоһим, Синең хеседың турында уйладык Синең сарайың эчендә.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "уйладык"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседың"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "эчендә"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "сарайың"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:26.257444040Z",
+  "model": "glm-5.3"
+}

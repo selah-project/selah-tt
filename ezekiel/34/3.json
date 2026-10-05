@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "⟨את⟩ майны ашыйсыз һәм ⟨את⟩ йонны киясез, семезне суйсыз, сөрүне көтмисез.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "майны"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "майны"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ашыйсыз"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "йонны"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "йонны"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "киясез"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "семезне"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "суйсыз"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "сөрүне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "көтмисез"
+    }
+  ],
+  "timestamp": "2026-10-05T00:20:16.126496225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Һәм икенче рәттә — нофех, саппир һәм йаһалом.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "һәм рәт"
+    },
+    {
+      "surface": "השני",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "нофех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "саппир"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "һәм йаһалом"
+    }
+  ],
+  "timestamp": "2026-10-04T21:49:27.982384952Z",
+  "model": "glm-5.3"
+}

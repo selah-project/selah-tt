@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Ул йөрәгендә әйтте: Эл онытты, Үз йөзен яшерде, мәңге һич күрмәс.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "йөрәгендә"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "онытты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "яшерде"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Үз йөзен"
+    },
+    {
+      "surface": "בל",
+      "gloss": "һич"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрмәс"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-05T00:42:58.370401315Z",
+  "model": "glm-5.3"
+}

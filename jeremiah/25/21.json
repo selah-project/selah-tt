@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "⟨את⟩ Эдомны, һәм ⟨את⟩ Моабны, һәм ⟨את⟩ Аммон улларын",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эдомны"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Моабны"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Аммон улларын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларын"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммон"
+    }
+  ],
+  "timestamp": "2026-10-04T23:54:26.045686172Z",
+  "model": "glm-5.3"
+}

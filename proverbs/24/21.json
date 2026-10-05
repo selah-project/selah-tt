@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Улым, ⟨את⟩ Яһвәне һәм патшаны куркы; үзгәрүчәннәр белән аралашма.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "куркы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвәне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәне"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "һәм патшаны"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "үзгәрүчәннәр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "аралашма"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:37.774313486Z",
+  "model": "glm-5.3"
+}

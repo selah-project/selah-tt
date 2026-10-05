@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 31:35",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "һәм кешеләр җаннары — хатыннардан, ир кеше белән ятмыйча йөрүчеләр — барлык җан ике мең утыз мең",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "һәм җан"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "хатыннардан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...ма"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "белүчеләр"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "ятмау"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ир кеше"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "утыз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:34.013603777Z",
+  "model": "glm-5.3"
+}

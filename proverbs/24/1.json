@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Яман кешеләргә көнләшмә, һәм алар белән ⟨את⟩ булырга теләмә.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "көнләшмә"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "кешеләргә"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "яман"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм -ма"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "теләмә"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "булырга"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ белән",
+      "marks": "алар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:48.123839608Z",
+  "model": "glm-5.3"
+}

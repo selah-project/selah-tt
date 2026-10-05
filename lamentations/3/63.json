@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Аларның утыруларын һәм торуларын кара ⟨ачык⟩; мин аларның мыскыл җыры.",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "утыруларын"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "һәм торуларын"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "кара"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "мыскыл җыры"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:26.274391708Z",
+  "model": "glm-5.3"
+}

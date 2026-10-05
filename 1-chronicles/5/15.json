@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Аһи, Абдиел улы, Гуни улы — аларның аталары йортының башлыгы.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Аһи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Абдиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Гуни"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башлыгы"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "йортының"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "аларның аталары"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:34.959702207Z",
+  "model": "glm-5.3"
+}

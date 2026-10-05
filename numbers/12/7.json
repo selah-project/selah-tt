@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Ләкин минем кол Моше шулай түгел: минем бөтен өемдә ул тугры.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ләкин … түгел"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "минем кол"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "минем өемдә"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "тугры"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T22:10:47.352891685Z",
+  "model": "glm-5.3"
+}

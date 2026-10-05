@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Перец уллары: Хецрон һәм Хамул.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "һәм Хамул"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:44.542479930Z",
+  "model": "glm-5.3"
+}

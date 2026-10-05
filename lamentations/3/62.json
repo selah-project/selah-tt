@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Миңа каршы торучыларның иреннәре һәм пышылдаулары миңа каршы бөтен көн.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "иреннәре"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "миңа каршы торучыларның"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "һәм пышылдаулары"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "миңа каршы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:26.273869252Z",
+  "model": "glm-5.3"
+}

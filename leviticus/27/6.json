@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 27:6",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Әгәр бер айдан биш яшькә кадәр булса, ир кешенең бәясең биш шекел көмеш, ә хатын-кызның бәясең өч шекел көмеш булыр.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "бер айдан"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ай"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "яшь"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "бәясең"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "ир кеше"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "биш"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "шекел"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "көмеш"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "хатын-кыз өчен"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "бәясең"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "шекел"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "көмеш"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:36.561603210Z",
+  "model": "glm-5.3"
+}

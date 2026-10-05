@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Азгад уллары: мең ике йөз егерме ике.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Азгад"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ике йөз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "һәм ике"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:10.385937608Z",
+  "model": "glm-5.3"
+}

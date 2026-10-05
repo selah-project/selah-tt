@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 81,
+  "translation": "Сиңа чит Эл булмасын, һәм чит Элгә сәҗдә килмә.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "булмасын"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨булмасын⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чит"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм ... кире"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "сәҗдә килмә"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Элгә"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чит"
+    }
+  ],
+  "timestamp": "2026-10-05T00:55:32.263159513Z",
+  "model": "glm-5.3"
+}

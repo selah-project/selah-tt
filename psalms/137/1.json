@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 137,
+  "translation": "Бабил елгалары буенда утырдык, шулай ук еладык, ⟨את⟩ Сионны искә алгач.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "буенда"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "елгалары"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабил"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "утырдык"
+    },
+    {
+      "surface": "גם",
+      "gloss": "шулай ук"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "еладык"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "искә алгач"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сионны"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:50.245844725Z",
+  "model": "glm-5.3"
+}

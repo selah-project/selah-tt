@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 42,
+  "translation": "Һәм Айып үлде, картайып, көннәргә туйган хәлдә.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "һәм үлде"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Айып"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "картайып"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "туйган"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көннәргә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:28:17.387503242Z",
+  "model": "glm-5.3"
+}

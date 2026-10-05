@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Җыр җитәкчесенә. Давид мәдхиясе.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "җыр җитәкчесенә"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхия"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-05T00:44:39.913038425Z",
+  "model": "glm-5.3"
+}

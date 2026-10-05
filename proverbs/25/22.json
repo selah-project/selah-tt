@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Чөнки син аның башына күмер җыясың, һәм Яһвә сиңа әйләп кире кайтарыр.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "күмер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "җыясың"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "аның башы"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "һәм Яһвә"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "әйләп кире кайтарыр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:19.119846213Z",
+  "model": "glm-5.3"
+}

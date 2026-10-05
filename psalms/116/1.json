@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 116,
+  "translation": "Яраттым, чөнки Яһвә ишетә ⟨את⟩ тавышымны, ялваруларымны.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Яраттым"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ишетә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тавышымны"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "тавышымны"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ялваруларымны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:47.628774582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм иртә булганда Давид Йоавка хат язды һәм аны Урия кулы белән җибәрде.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булганда"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "иртә"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "язды"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "хат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Йоавка"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "җибәрде"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "кулы белән"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    }
+  ],
+  "timestamp": "2026-10-04T23:02:32.272603467Z",
+  "model": "glm-5.3"
+}

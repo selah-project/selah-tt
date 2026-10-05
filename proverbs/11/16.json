@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Рәхимле хатын абруйны тота, ә зорлык итүчеләр байлык тота.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "חן",
+      "gloss": "рәхимле"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "тота"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "абруйны"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ә зорлык итүчеләр"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "тота"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "байлык"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:30.434033747Z",
+  "model": "glm-5.3"
+}

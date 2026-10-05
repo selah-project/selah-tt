@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 35,
+  "translation": "Шаббат көнне сезнең торакларыгызның берсендә дә ут якмаска.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "якмаска"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "ут"
+    },
+    {
+      "surface": "אש",
+      "gloss": "берсендә дә"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "торакларыгызның"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "Шаббат"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "השבת",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T21:52:23.164970404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Һәм болар Эсавның тарихы: ул — Эдом.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Һәм болар"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "тарихы"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсавның"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:24.119786218Z",
+  "model": "glm-5.3"
+}

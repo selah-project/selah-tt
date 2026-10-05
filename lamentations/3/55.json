@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Мин Синең исемеңне, Яһвә, түбән чокырдан чакырдым.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "чакырдым"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "исемеңне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "чокырдан"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "түбән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:15.927841930Z",
+  "model": "glm-5.3"
+}

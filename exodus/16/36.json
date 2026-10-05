@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Ә омер — эфаның унынчы өлеше ⟨ул⟩.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "ә омер"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "унынчы өлеше"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ул⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:46.031226291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Бәрәннәр — киемең өчен, ә кыр бәһасе — такалар.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "бәрәннәр"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "киемең өчен"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "ә бәһасе"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "кыр"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "такалар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:35.956626229Z",
+  "model": "glm-5.3"
+}

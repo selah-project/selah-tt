@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм ул әйтте: Сиңа әйтәсем бар бер сүз. Ул: Әйт, — диде.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ул әйтте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ул диде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Әйт"
+    }
+  ],
+  "timestamp": "2026-10-04T23:08:40.433662095Z",
+  "model": "glm-5.3"
+}

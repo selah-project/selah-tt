@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Сынаш көнендә йомшарсаң — көчең тар.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "йомшарсаң"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнендә"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "сынаш"
+    },
+    {
+      "surface": "צר",
+      "gloss": "тар"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "көчең"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:52.036494708Z",
+  "model": "glm-5.3"
+}

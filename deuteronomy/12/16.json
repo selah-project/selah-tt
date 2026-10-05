@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Әмма каннарны ашамассыз; аны җиргә су кебек түгәрсең.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "әмма"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "каннарны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ашамассыз"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ашамассыз"
+    },
+    {
+      "surface": "על",
+      "gloss": "…гә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җиргә"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "түгәрсең"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "су кебек"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:10.754771337Z",
+  "model": "glm-5.3"
+}

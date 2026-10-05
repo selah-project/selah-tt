@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Үз суйган итен әзерләде, үз винусын болгады, тагын үз өстәлен җәйде.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "суйды"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "үз суйганын"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "болгады"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "үз винусын"
+    },
+    {
+      "surface": "אף",
+      "gloss": "тагын"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "җәйде"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "үз өстәлен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:02.298419666Z",
+  "model": "glm-5.3"
+}

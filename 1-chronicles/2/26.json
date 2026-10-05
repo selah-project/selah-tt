@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Йерахмеэлгә башка хатын булды, аның исеме Атарах; ул — Онамның анасы.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "башка"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "Йерахмеэлгә"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "аның исеме"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "Атарах"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "אם",
+      "gloss": "анасы"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Онамның"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:11.924644026Z",
+  "model": "glm-5.3"
+}

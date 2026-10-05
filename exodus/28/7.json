@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Аңа ике иңбаш кисәге була, ике очында тоташкан, һәм ул ⟨totаштырылган⟩ була.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "ике"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "иңбаш кисәге"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "тоташкан"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "була"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ала"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ике"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "очында"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "һәм тоташтырыла"
+    }
+  ],
+  "timestamp": "2026-10-04T21:49:40.108886016Z",
+  "model": "glm-5.3"
+}

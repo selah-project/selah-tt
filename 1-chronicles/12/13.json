@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Йоһанан ⟨ул⟩ сигезенче, Элзавад ⟨ул⟩ тугызынчы.",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "Йоһанан"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "сигезенче"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "Элзавад"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "тугызынчы"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:00.996389515Z",
+  "model": "glm-5.3"
+}

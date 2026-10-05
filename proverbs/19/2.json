@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Шулай ук белемсез җан яхшы түгел, һәм аягы белән ашыгучы гөнаһ кыла.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "шулай ук"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "белемсез"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белем"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "һәм ашыгучы"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "аягы белән"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "гөнаһ кыла"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:37.095673741Z",
+  "model": "glm-5.3"
+}

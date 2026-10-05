@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм болар Гершом улларының исемнәре: Ливни һәм Шими.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "һәм болар"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "исемнәре"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларының"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "һәм Шими"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:50.447386211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 39:8",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Менә килә һәм булыр, Адонай Яһвә сүзе; ул — Мин сөйләгән көн.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Менә"
+    },
+    {
+      "surface": "באה",
+      "gloss": "килә"
+    },
+    {
+      "surface": "ונהיתה",
+      "gloss": "һәм булыр"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ган"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Мин сөйләгән"
+    }
+  ],
+  "timestamp": "2026-10-05T00:22:07.748986694Z",
+  "model": "glm-5.3"
+}

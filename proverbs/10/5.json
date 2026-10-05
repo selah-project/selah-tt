@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Җәйдә җыючы — акыллы ул; уңыш җыю вакытында йоклаучы — оялу китергән ул.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "җыючы"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "җәйдә"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "акыллы"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "йоклаучы"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "уңыш җыю вакытында"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "оялу китергән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:13.450216164Z",
+  "model": "glm-5.3"
+}

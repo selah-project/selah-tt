@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 27:43",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Ә хәзер, улым, тавышыма колак сал, тор һәм үзеңә kaç, минем абым Лаван янына, Һаранга.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ә хәзер"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "колак сал"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "тавышыма"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "тор"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kц"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "абамның"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "Һаранга"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:31.164920099Z",
+  "model": "glm-5.3"
+}

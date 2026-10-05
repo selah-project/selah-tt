@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм хәзер сезгә, эй каһиннәр, бу боерык.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "һәм хәзер"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "боерык"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "эй каһиннәр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:00.655243974Z",
+  "model": "glm-5.3"
+}

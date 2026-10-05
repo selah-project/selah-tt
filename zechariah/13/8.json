@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 13:8",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "һәм бөтен җирдә булачак, Яһвә сүзе: өлешенең икесе киселер, үләр, ә өченчесе анда калачак.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "һәм булачак"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирдә"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "פי",
+      "gloss": "өлешенең"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "икесе"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "киселер"
+    },
+    {
+      "surface": "יגועу",
+      "gloss": "үләр"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "ә өченчесе"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "калачак"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    }
+  ],
+  "timestamp": "2026-10-05T00:40:08.985744174Z",
+  "model": "glm-5.3"
+}

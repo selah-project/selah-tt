@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бер тәкә, кәҗәләрнең, гөнаһ корбаны өчен.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "тәкә"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "кәҗәләрнең"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "гөнаһ корбаны өчен"
+    }
+  ],
+  "timestamp": "2026-10-05T02:23:50.619795447Z",
+  "model": "glm-5.3"
+}

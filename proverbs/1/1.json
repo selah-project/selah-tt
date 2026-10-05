@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Шеломоһның, Давид улының, Йисраэл патшасының мәсәлләре.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "мәсәлләре"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоһның"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улының"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасының"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:33.941272640Z",
+  "model": "glm-5.3"
+}

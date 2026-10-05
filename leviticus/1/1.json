@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Яһвә Моше чакырды һәм очрашу чатырыннан аңа сөйләде, дип әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨аңа⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "һәм сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "чатыр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "очрашу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T21:55:25.594693461Z",
+  "model": "glm-5.3"
+}

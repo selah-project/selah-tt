@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Паръо кызы аңа әйтте: Бар. Һәм кыз барды һәм баланың ⟨את⟩ әнисен чакырды.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "һәм … әйтте"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "барды"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "кыз"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "әнисен"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әнисен"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "баланың"
+    }
+  ],
+  "timestamp": "2026-10-04T21:40:51.170529513Z",
+  "model": "glm-5.3"
+}

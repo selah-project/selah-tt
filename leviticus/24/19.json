@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм кеше, әгәр үз иптәшенә зарар салса, ничек эшләгән, шулай аңа эшләнер.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "һәм кеше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "салса"
+    },
+    {
+      "surface": "мום",
+      "gloss": "зарар"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "үз иптәшенә"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшләгән"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "эшләнер"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T22:03:57.606922650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Кыекланган туры ителә алмый, җитмәгән исәпләнә алмый.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "кыекланган"
+    },
+    {
+      "surface": "לא",
+      "gloss": "алмый"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "туры ителә"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "җитмәгән"
+    },
+    {
+      "surface": "לא",
+      "gloss": "алмый"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "исәпләнә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:09.009915834Z",
+  "model": "glm-5.3"
+}

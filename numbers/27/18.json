@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 27:18",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм Яһвә Мошега әйтте: Үзеңә Йеһошуаны, Нун улын, эчендә рух булган ирне ал һәм ҡулыңны аңар салып төрә.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йеһошуаны"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуаны"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улын"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нун"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ирне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "בו",
+      "gloss": "эчендә"
+    },
+    {
+      "surface": "וסמכת",
+      "gloss": "һәм салырсың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кулыңны"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "кулыңны"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аңар"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:45.669478572Z",
+  "model": "glm-5.3"
+}

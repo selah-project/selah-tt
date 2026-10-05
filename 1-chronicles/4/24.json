@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Шимон уллары: Немуэл, һәм Ямин, Ярив, Зерах, Шаул.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "Немуэл"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "һәм Ямин"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "Ярив"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:22.289786609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Кеше улы, аңа әйт: син — чистартылмаган җир, ул ачулану көнендә яңгыр алмаган.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Кеше"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйт"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "את",
+      "gloss": "син"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "чистартылмаган"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "яңгыр алмаган"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнендә"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ачулану"
+    }
+  ],
+  "timestamp": "2026-10-05T00:15:08.112398721Z",
+  "model": "glm-5.3"
+}

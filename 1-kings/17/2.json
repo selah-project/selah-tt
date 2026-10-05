@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәм Яһвәнең сүзе аңа килде, әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T23:15:11.340326535Z",
+  "model": "glm-5.3"
+}

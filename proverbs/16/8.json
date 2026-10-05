@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Яхшы — аз цедек белән, хөкем булмаган күп уңыштан.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "цедек белән"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "күп"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "уңыштан"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "булмаган"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкем"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:12.813527129Z",
+  "model": "glm-5.3"
+}

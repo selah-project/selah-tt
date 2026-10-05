@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Тор, Ниневә зур шәһәренә бар һәм аңа ⟨את⟩ әйтелмәне әйт, минем сиңа әйткәнемне.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Тор"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневә"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шәһәренә"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "зур"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "һәм әйт"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "әйтелмәне"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "әйтелмәне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ны"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "минем"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "әйткәнемне"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-05T00:33:10.798432845Z",
+  "model": "glm-5.3"
+}

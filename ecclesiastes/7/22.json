@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Чөнки күп тапкыр син үзең дә башкаларны каргаганыңны йөрәгең белә.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "גם",
+      "gloss": "шулай ук"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "тапкыр"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "күп"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белә"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "йөрәгең"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "גם",
+      "gloss": "үзең дә"
+    },
+    {
+      "surface": "את",
+      "gloss": "үзең"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "каргаганыңны"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башкаларны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:42.983364258Z",
+  "model": "glm-5.3"
+}

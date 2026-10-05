@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 35,
+  "translation": "һәм зәңгәр, һәм кызыл-миләүшә, һәм кызыл cochineal җеп, һәм нечкә киндер, һәм кәҗә йоны",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "һәм зәңгәр"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "һәм кызыл-миләүшә"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "һәм cochineal җебе"
+    },
+    {
+      "surface": "שני",
+      "gloss": "кызыл"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "һәм нечкә киндер"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "һәм кәҗә йоны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:51:14.772893316Z",
+  "model": "glm-5.3"
+}

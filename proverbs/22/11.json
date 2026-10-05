@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Чиста йөрәкне яратучы — иреннәрендә рәхимлектән, аның дусты патша.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "яратучы"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чиста"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәкне"
+    },
+    {
+      "surface": "חן",
+      "gloss": "рәхимлек"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "иреннәрендә"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "дусты"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:17.911021554Z",
+  "model": "glm-5.3"
+}

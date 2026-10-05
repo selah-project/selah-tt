@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Чөнки Яһвә хикмәт бирә, Аның авызыннан белем һәм аң килеп тора.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бирә"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "Аның авызыннан"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белем"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "һәм аң"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:57.262662388Z",
+  "model": "glm-5.3"
+}

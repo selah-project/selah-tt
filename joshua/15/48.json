@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм тауда: Шамир, һәм Яттир, һәм Соко",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "һәм тауда"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "Шамир"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "һәм Яттир"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "һәм Соко"
+    }
+  ],
+  "timestamp": "2026-10-04T22:36:45.261697900Z",
+  "model": "glm-5.3"
+}

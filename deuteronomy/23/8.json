@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Әдәмине жирләмә — чөнки ул сиңа туганың; Мицраимлыны жирләмә — чөнки син аның җирендә чит кеше булдың.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תתעб",
+      "gloss": "жирләмә"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Әдәмине"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "туганың"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "жирләмә"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Мицраимлыны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "גר",
+      "gloss": "чит кеше"
+    },
+    {
+      "surface": "היית",
+      "gloss": "булдың"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "аның җирендә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:39.547552957Z",
+  "model": "glm-5.3"
+}

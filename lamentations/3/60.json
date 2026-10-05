@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Син күрдең аларның бөтен үч алуларын, минем туралы бөтен уйларын.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Син күрдең"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "аларның үч алуларын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "уйларын"
+    },
+    {
+      "surface": "לי",
+      "gloss": "минем турында"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:09.049684892Z",
+  "model": "glm-5.3"
+}

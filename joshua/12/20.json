@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Шимрон-Мерон патшасы, бер; Ахшаф патшасы, бер.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шимрон-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Мерон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Ахшаф"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-04T22:35:19.931744917Z",
+  "model": "glm-5.3"
+}

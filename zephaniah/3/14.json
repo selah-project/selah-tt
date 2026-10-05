@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 3:14",
+  "book": "zephaniah",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Җырла, Цыйын кызы! Кычкыр, Йисраэл! Шатлан һәм сөен бөтен йөрәгең белән, Йерушалаим кызы!",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "җырла"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цыйын"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "кычкыр"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "шатлан"
+    },
+    {
+      "surface": "ועלזי",
+      "gloss": "һәм сөен"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәгең"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-05T00:36:39.619810009Z",
+  "model": "glm-5.3"
+}

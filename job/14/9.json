@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 14:9",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Су исеннән бөрелир, һәм үсемлек кебек бутак үстерер.",
+  "tokens": [
+    {
+      "surface": "מריח",
+      "gloss": "исеннән"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "бөрелир"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "һәм үстерер"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "бутак"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "кебек"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "үсемлек"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:47.796345467Z",
+  "model": "glm-5.3"
+}

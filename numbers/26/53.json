@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 26:53",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Шуларга җир мирас буларак, исемнәр саны буенча бүленер.",
+  "tokens": [
+    {
+      "surface": "לאלה",
+      "gloss": "шуларга"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "бүленер"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "мирас буларак"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "саны буенча"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "исемнәр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:03.334148150Z",
+  "model": "glm-5.3"
+}

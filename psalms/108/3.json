@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 108,
+  "translation": "Уяныгыз, невел һәм киннор! Мин таңны уятам.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Уяныгыз"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "невел"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "һәм киннор"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "уятам"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "таңны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:23.302894297Z",
+  "model": "glm-5.3"
+}

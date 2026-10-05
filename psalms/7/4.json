@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Яһвә, Элоһимым, әгәр мин моны эшләсәм, әгәр кулларымда гаделсезлек булса —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһимым"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "эшләсәм"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "моны"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יש",
+      "gloss": "булса"
+    },
+    {
+      "surface": "עול",
+      "gloss": "гаделсезлек"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "кулларымда"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:55.646070627Z",
+  "model": "glm-5.3"
+}

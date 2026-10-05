@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Чөнки Ул кешегә өстәп салмый — Эл хозурына хөкемгә барырга.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "салмый"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "өстәп"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "барырга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "хозурына"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "хөкемгә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:26:10.891268349Z",
+  "model": "glm-5.3"
+}

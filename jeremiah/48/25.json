@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Киселгән Моабның мөгезе, һәм аның кулы сынган — Яһвә сүзе.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "киселгән"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "мөгезе"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабның"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "һәм аның кулы"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "сынган"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:03:32.769073653Z",
+  "model": "glm-5.3"
+}

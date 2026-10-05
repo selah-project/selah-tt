@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Мерариның уллары: Маһли һәм Муши; Яазыяһуның улы — Бено.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерариның"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Маһли"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "һәм Муши"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "Яазыяһу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "улы Бено"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:13.078003279Z",
+  "model": "glm-5.3"
+}

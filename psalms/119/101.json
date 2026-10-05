@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Һәр явыз юлдан аякларымны тыйдым, сүзеңне саклар өчен.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "һәр ... дан"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "юл"
+    },
+    {
+      "surface": "רע",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "тыйдым"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "аякларымны"
+    },
+    {
+      "surface": "למען",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "саклар"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "сүзеңне"
+    }
+  ],
+  "timestamp": "2026-10-05T02:42:45.577895071Z",
+  "model": "glm-5.3"
+}

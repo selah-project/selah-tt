@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Явыз илчегә бәла җитәр, ә тугрылыклы илче — шифа.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "илче"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "бәлага калкый"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "бәлага"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "ә илче"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "тугрылыклы"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "шифа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:05.312916397Z",
+  "model": "glm-5.3"
+}

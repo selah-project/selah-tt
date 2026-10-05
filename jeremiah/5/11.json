@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Чөнки Исраил йорты да, Йеһуда йорты да Миңа карата хыянәт иттеләр, — Яһвә сүзе.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "хыянәт"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "иттеләр"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Миңа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорты"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "һәм йорты"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеһуда"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:48:12.908577291Z",
+  "model": "glm-5.3"
+}

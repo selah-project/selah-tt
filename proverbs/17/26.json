@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Шулай ук гаделне җәзалау яҡшы түгел, турылык өчен бөек кешеләрне сукру.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "шулай ук"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "җәзалау"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "гаделне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яҡшы"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "сукру"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "бөек кешеләрне"
+    },
+    {
+      "surface": "על",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "турылык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:32.453776732Z",
+  "model": "glm-5.3"
+}

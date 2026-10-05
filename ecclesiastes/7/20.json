@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Чөнки җир өстендә гадел эшләп һәм гөнаһ кылмый торган бер кеше дә юк.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гадел"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җир өстендә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ул⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "эшләп"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "гадел"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм... кылмый"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "гөнаһ"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:56.563726451Z",
+  "model": "glm-5.3"
+}

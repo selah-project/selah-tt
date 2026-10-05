@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм кояш баткач ул чистарыр, аннары изге нәрсәләрдән ашар, чөнки бу ⟨аниң⟩ азыгы.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "һәм баткач"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояш"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ул чистарыр"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "аннары"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашар"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дән"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "изге нәрсәләр"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "азыгы"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бу ⟨аниң⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T22:02:18.066354323Z",
+  "model": "glm-5.3"
+}

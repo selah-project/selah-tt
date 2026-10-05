@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 28:19",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Барысы да язуда, Яһвәнең кулыннан, мин аңладым: табигать эшләренең барысы.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "барысы"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "язуда"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "кулыннан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "השכил",
+      "gloss": "аңлатты"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысын"
+    },
+    {
+      "surface": "מלאכות",
+      "gloss": "эшләренең"
+    },
+    {
+      "surface": "התבנית",
+      "gloss": "табигать"
+    }
+  ],
+  "timestamp": "2026-10-05T02:49:28.158526961Z",
+  "model": "glm-5.3"
+}

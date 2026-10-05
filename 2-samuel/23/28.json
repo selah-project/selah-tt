@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Цалмон һааһоһи, Маһрай һантофати,",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "Цалмон"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "һааһоһи"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "Маһрай"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "һантофати"
+    }
+  ],
+  "timestamp": "2026-10-04T23:07:17.937275240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 139,
+  "translation": "Һәм миңа ничек кадерле Синең уйларың, Эл! Ничек күп аларның башы!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "һәм миңа"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "кадерле"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "Синең уйларың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "күп"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "аларның башы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:54.858492814Z",
+  "model": "glm-5.3"
+}

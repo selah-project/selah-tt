@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 94,
+  "translation": "Һәм алар әйтәләр: Яһ күрми, Яаковның Элоһиме аңламый, дип.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Һәм алар әйтәләр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...ма"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "күрми"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм ...ма"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "аңламый"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһиме"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковның"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:42.089986575Z",
+  "model": "glm-5.3"
+}

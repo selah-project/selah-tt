@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Курку һәм тоткын-чамадыр безгә булган; һәлакәт һәм вата-сыну.",
+  "tokens": [
+    {
+      "surface": "פַּחַד",
+      "gloss": "курку"
+    },
+    {
+      "surface": "וָפַחַת",
+      "gloss": "һәм тоткын-чама"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "булган"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "הַשֵּׁאת",
+      "gloss": "һәлакәт"
+    },
+    {
+      "surface": "וְהַשָּׁבֶר",
+      "gloss": "һәм вата-сыну"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:15.429708830Z",
+  "model": "glm-5.3"
+}

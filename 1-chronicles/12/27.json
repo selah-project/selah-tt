@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Леви улларыннан дүрт мең һәм алты йөз.<dontpanic>",
+  "tokens": [
+    {
+      "surface": "мן",
+      "gloss": "…ннан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мең"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "һәм алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    }
+  ],
+  "timestamp": "2026-10-05T02:00:38.719689494Z",
+  "model": "glm-5.3"
+}

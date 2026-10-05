@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм Моше килде һәм бу җырның бөтен сүзләрен ⟨את⟩ халык колагына сөйләде — үзе һәм Һошеа, Нун улы.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "килде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен сүзләрен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сүзләрен"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "җырның"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "колагына"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "үзе"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "Һошеа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нун"
+    }
+  ],
+  "timestamp": "2026-10-04T22:30:21.555499476Z",
+  "model": "glm-5.3"
+}

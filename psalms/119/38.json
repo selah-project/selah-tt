@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Үз колыңа Синең сүзеңне беркет, аны Синең куркынычың өчен ⟨谓⟩.",
+  "tokens": [],
+  "timestamp": "2026-10-05T01:02:38.147445449Z",
+  "model": "glm-5.3"
+}

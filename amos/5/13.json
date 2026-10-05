@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Шуңа күрә зирәк кеше ул вакытта тынлык саклар, чөнки ул явыз вакыт.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Шуңа күрә"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "зирәк кеше"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "вакытта"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "тынлык саклар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вакыт"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-05T00:32:15.033963791Z",
+  "model": "glm-5.3"
+}

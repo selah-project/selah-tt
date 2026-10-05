@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Яһвә миңа әйтеп әйтте: Мин ⟨את⟩ бу халыкны күрдем, һәм менә, бу — каты муенлы халык.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "күрдем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу халыкны"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халыкны"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "һәм менә"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "каты"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "муенлы"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул ⟨бу⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:04.965071198Z",
+  "model": "glm-5.3"
+}

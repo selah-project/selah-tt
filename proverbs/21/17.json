@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Шатлыкны яратучы ир — фәкыйрь; җинне һәм майны яратучы бай булмый.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ир"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "фәкыйрь"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "яратучы"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "шатлыкны"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "яратучы"
+    },
+    {
+      "surface": "יין",
+      "gloss": "җинне"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "һәм майны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...маен"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "бай булмый"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:35.732206752Z",
+  "model": "glm-5.3"
+}

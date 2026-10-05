@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Чишмә — бакчаларның, коез — тере суларның, һәм Ливаннан аккан агымнар.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "чишмә"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "бакчаларның"
+    },
+    {
+      "surface": "באר",
+      "gloss": "коез"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суларның"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тере"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "һәм аккан агымнар"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:28:57.460658310Z",
+  "model": "glm-5.3"
+}

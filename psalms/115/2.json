@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 115,
+  "translation": "Ник халыклар әйтер: кайда инде аларның Элоһимы?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ник"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "әйтер"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "халыклар"
+    },
+    {
+      "surface": "איה",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "נא",
+      "gloss": "инде"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "аларның Элоһимы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:03.213511408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 144,
+  "translation": "Кеше үтүче җилгә охшаш, аның көннәре үтүче күләгә кебек.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "җилгә"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "охшаш"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "аның көннәре"
+    },
+    {
+      "surface": "кצל",
+      "gloss": "күләгә кебек"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "үтүче"
+    }
+  ],
+  "timestamp": "2026-10-05T01:06:11.927013795Z",
+  "model": "glm-5.3"
+}

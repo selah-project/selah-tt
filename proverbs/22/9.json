@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Яхшы күзле ул фәйезләнер, чөнки ул ⟨үз⟩ икмәгеннән ярлыга бирә.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "עין",
+      "gloss": "күзле"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "фәйезләнер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "бирә"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "икмәгеннән"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "ярлыга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:17.910624473Z",
+  "model": "glm-5.3"
+}

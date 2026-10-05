@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Мәраринең уллары: Махли һәм Муши. Махлинең уллары: Эләзар һәм Киш.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мәраринең"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "һәм Муши"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махлинең"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Эләзар"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "һәм Киш"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:36.259120304Z",
+  "model": "glm-5.3"
+}

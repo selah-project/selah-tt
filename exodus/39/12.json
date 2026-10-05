@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Һәм өченче рәт — лешем, шево һәм аһлама.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "һәм рәт"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "өченче"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "лешем"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "шево"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "һәм аһлама"
+    }
+  ],
+  "timestamp": "2026-10-04T21:53:32.410696808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Чөнки Мин — Яһвә, Мин үзгәрмәдем, һәм сез, Яаков уллары, бетмәдегез.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "үзгәртәдем"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "һәм сез"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "беттегез"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:33.707084567Z",
+  "model": "glm-5.3"
+}

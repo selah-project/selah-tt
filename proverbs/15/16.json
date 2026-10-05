@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Яһвә куркынында булган аз яхшы, зур хәзинә һәм анда булган буталчыклыктан.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "куркынында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "хәзинәдән"
+    },
+    {
+      "surface": "רב",
+      "gloss": "зур"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "буталчыклык"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анда"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:59.700255674Z",
+  "model": "glm-5.3"
+}

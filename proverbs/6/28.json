@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Яки кеше кызыл күмерләр өстендә йөрсә, аның аяклары пешмәсме?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "яки"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "йөрсә"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "кызыл күмерләр"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "һәм аның аяклары"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "пешмәсме"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:02.220527621Z",
+  "model": "glm-5.3"
+}

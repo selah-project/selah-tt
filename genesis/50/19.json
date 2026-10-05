@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 50,
+  "translation": "Һәм Йосеф аларга әйтте: «Куркмагыз, чөнки мин Элоһымның урынындамыни?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨юк⟩"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "куркмагыз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "урынында"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһымның"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    }
+  ],
+  "timestamp": "2026-10-04T21:40:37.028422161Z",
+  "model": "glm-5.3"
+}

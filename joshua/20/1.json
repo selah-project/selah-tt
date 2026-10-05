@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Һәм Яһвә Йеһошуага сөйләде:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    }
+  ],
+  "timestamp": "2026-10-04T22:38:13.639291796Z",
+  "model": "glm-5.3"
+}

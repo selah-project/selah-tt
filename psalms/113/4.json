@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 113,
+  "translation": "Яһвә барлык халыклардан югары, Аның даны күкләрдән югары.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "югары"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "халыклардан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күкләрдән"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "Аның даны"
+    }
+  ],
+  "timestamp": "2026-10-05T02:42:11.123741053Z",
+  "model": "glm-5.3"
+}

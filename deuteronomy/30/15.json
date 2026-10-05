@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Кара, мин сиңа бүгез алдында куйдым: тормышны һәм яхшылыкны, үлемне һәм явызлыкны.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "кара"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "койдым"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "сиңа алдында"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүген"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тормышны"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "тормыш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "яхшылыкны"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "яхшылык"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "үлемне"
+    },
+    {
+      "surface": "המות",
+      "gloss": "үлем"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "явызлыкны"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "явызлык"
+    }
+  ],
+  "timestamp": "2026-10-04T22:29:13.395394027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Көньякка бара һәм төньякка борыла; борыла-борыла йөри рух, һәм үз әйләннәре буйлап кире кайта рух.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "бара"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ка"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "көньяк"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "һәм борыла"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ка"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "төньяк"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "борыла"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "борыла"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "йөри"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "һәм ... буйлап"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "үз әйләннәре"
+    },
+    {
+      "surface": "שב",
+      "gloss": "кире кайта"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "рух"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:56.566615900Z",
+  "model": "glm-5.3"
+}

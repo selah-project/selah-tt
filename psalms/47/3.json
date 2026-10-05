@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 47,
+  "translation": "Чөнки Яһвә — бик югары, куркыныч, бөтен җир өстеннән бөек патша.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "бик югары"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "куркыныч"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:57.926079093Z",
+  "model": "glm-5.3"
+}

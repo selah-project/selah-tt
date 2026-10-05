@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 90,
+  "translation": "Чөнки ачуыңда бетәбез, һәм ярсуыңда тетрәнәбез.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "бетәбез"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ачуыңда"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "һәм ярсуыңда"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "тетрәнәбез"
+    }
+  ],
+  "timestamp": "2026-10-05T00:58:18.688293247Z",
+  "model": "glm-5.3"
+}

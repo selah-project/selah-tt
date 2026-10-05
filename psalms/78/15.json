@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 78,
+  "translation": "У чүлдә кыяларны ярды һәм тәһомнар кебек күп су эчкерде.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "ярды"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "кыяларны"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чүлдә"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "һәм эчкерде"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "тәһомнар кебек"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "күп"
+    }
+  ],
+  "timestamp": "2026-10-05T00:55:01.518142843Z",
+  "model": "glm-5.3"
+}

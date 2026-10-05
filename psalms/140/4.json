@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 140,
+  "translation": "Телләрен елан теле кебек үткәрделәр, иреннәре астында эфа агуы. Села.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "үткәрделәр"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "телләрен"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "кебек"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "елан"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "агу"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "иреннәре"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:51.350197404Z",
+  "model": "glm-5.3"
+}

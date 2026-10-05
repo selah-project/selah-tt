@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Имер улларыннан: Һанани һәм Зәвадьяһ.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "улларыннан"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Имер"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Һанани"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "һәм Зәвадьяһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:49:46.604447091Z",
+  "model": "glm-5.3"
+}

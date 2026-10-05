@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Хатын тапкан кеше яхшылык тапкан һәм Яһвәдән ризаулыгын чыгара.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "тапкан"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "тапкан"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшылык"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "һәм чыгара"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ризаулыгын"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яһвәдән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:01.440684516Z",
+  "model": "glm-5.3"
+}

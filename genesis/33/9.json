@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Һәм Эсав әйтте: Миңа күп бар, туганым; сиңа булган нәрсә сиңа калсын.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм ул әйтте"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "רב",
+      "gloss": "күп"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "туганым"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "булсын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа булганы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:33:25.708955968Z",
+  "model": "glm-5.3"
+}

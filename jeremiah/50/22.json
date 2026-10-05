@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 50,
+  "translation": "Сугыш тавышы җирдә һәм бөек ватылу.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "тавышы"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "сугыш"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җирдә"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "һәм ватылу"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    }
+  ],
+  "timestamp": "2026-10-05T00:04:00.364374511Z",
+  "model": "glm-5.3"
+}

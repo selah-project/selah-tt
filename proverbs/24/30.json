@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Ялкау ирнең кыры яныннан үттем, һәм йөрәге җитмәгән кешенең йөзереге яныннан.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "яныннан"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "кыр"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ирнең"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ялкау"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "үттем"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "һәм яныннан"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "йөзлек"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "җитмәгән"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:02.062800775Z",
+  "model": "glm-5.3"
+}

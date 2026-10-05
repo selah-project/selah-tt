@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Кеше улы, йөзеңне Сидонга юнәлт һәм аңа каршы пәйгамбәрлек ит.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "שים",
+      "gloss": "юнәлт"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "йөзеңне"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ингә"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Сидон"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "һәм пәйгамбәрлек ит"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "аңа каршы"
+    }
+  ],
+  "timestamp": "2026-10-05T02:38:18.168671492Z",
+  "model": "glm-5.3"
+}

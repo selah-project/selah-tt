@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Аларны йөрәгеңә һәрвакыт бәйлә, муеныңа бәйләп куй.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "аларны бәйлә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "лבך",
+      "gloss": "йөрәгеңә"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "һәрвакыт"
+    },
+    {
+      "surface": "ענдם",
+      "gloss": "аларны урап бәйлә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "גרгרתך",
+      "gloss": "муеныңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:10.814998402Z",
+  "model": "glm-5.3"
+}

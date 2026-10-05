@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 77,
+  "translation": "Җитәкчегә, Йедутун буенча, Асапка, мизмор.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "җитәкчегә"
+    },
+    {
+      "surface": "על",
+      "gloss": "буенча"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Йедутун"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асапка"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    }
+  ],
+  "timestamp": "2026-10-05T00:54:53.273619118Z",
+  "model": "glm-5.3"
+}

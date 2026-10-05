@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Аның йорты — Шеол юллары, үлем бүлмәләренә төшүче юллар.",
+  "tokens": [
+    {
+      "surface": "דִּרְכֵי",
+      "gloss": "юллары"
+    },
+    {
+      "surface": "שְׁאוֹל",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "בֵּיתָהּ",
+      "gloss": "аның йорты"
+    },
+    {
+      "surface": "יֹרְדוֹת",
+      "gloss": "төшүче"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "тура"
+    },
+    {
+      "surface": "חַדְרֵי",
+      "gloss": "бүлмәләренә"
+    },
+    {
+      "surface": "מָוֶת",
+      "gloss": "үлем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:10.914584435Z",
+  "model": "glm-5.3"
+}

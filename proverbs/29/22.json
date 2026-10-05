@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Ачулы кеше тартышу кузгата, һәм ачу-чибәрлек иясе күп тәртип бозуга ия.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ачулы"
+    },
+    {
+      "surface": "יגрה",
+      "gloss": "кузгата"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "тартышу"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "һәм иясе"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ачу-чибәрлек"
+    },
+    {
+      "surface": "רב",
+      "gloss": "күп"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "тәртип бозуга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:49.570771982Z",
+  "model": "glm-5.3"
+}

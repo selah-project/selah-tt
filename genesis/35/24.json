@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 35,
+  "translation": "Рахильнең уллары: Йосеф һәм Бинйамин.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахильнең"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Бинйамин"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:09.190841688Z",
+  "model": "glm-5.3"
+}

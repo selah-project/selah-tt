@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм каһин себетне синең кулыңнан алыр һәм аны Яһвә Элоһимең михрабы алдына куяр.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "һәм алыр"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "себетне"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "синең кулыңнан"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "һәм куяр"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "михраб"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоһимең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:17.386152586Z",
+  "model": "glm-5.3"
+}

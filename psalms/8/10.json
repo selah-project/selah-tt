@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Яһвә, безнең Адонай, ни кадәр бөек Исеңнең бөтен җирдә!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "безнең Адонай"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни кадәр"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Исеңнең"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирдә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:42:30.318341102Z",
+  "model": "glm-5.3"
+}

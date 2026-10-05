@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 107,
+  "translation": "Чөнки Ул теләгән җанны тукландырды, ач җанны яхшылык белән тулдырды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "тукландырды"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "теләгән"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "ач"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "тулдырды"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшылык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:00:08.855720695Z",
+  "model": "glm-5.3"
+}

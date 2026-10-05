@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Ахмакның юлы аның күзләрендә ⟨тура⟩, ә киңәш тыңлаучы хикмәтле.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "юлы"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ахмакның"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "тура"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "аның күзләрендә"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ә тыңлаучы"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "киңәш"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хикмәтле"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:54.926122396Z",
+  "model": "glm-5.3"
+}

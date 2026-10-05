@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Элкана, аның улы Элкана, Софай аның улы, Нәһат аның улы.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "Софай"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "һәм Нәһат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:44.869299874Z",
+  "model": "glm-5.3"
+}

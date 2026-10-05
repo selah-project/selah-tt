@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Рәшә борыч ала, әмма түләми; ә цадик шәфкать кыла һәм бирә.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "борыч ала"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "рәшә"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "әмма түгел"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "түли"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "һәм цадик"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "шәфкать кыла"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "һәм бирә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:47:49.858057914Z",
+  "model": "glm-5.3"
+}

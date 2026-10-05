@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 146,
+  "translation": "Мактагыз Яһны, макта, җаным, ⟨את⟩ Яһвәне.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "мактагыз"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһны"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "макта"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җаным"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвәне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:07.228462997Z",
+  "model": "glm-5.3"
+}

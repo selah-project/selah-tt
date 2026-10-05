@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Ун өченчесе Шувәлгә, уллыры һәм туганнары — унике булды.",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "өченче өлеше"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Шувәл"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "һәм туганнары"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:18.480693658Z",
+  "model": "glm-5.3"
+}

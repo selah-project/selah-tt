@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Син якынсың, эй Яһвә, һәм синең бөтен бойрыкларың хаклык.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "якынсың"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм бөтен"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "бойрыкларың"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "хаклык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:03:12.857037059Z",
+  "model": "glm-5.3"
+}

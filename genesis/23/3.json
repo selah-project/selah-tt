@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Һәм Авраһам үленең алдыннан торды һәм Һет улларына сөйләде, әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "торды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "алдыннан"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзеннән"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "үленең"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Һет"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:39.106012685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Икмәгеңне суның өстенә җибәр, чөнки күп көннәр үткәч аны табарсың.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "җибәр"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "икмәгеңне"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзенә"
+    },
+    {
+      "surface": "המים",
+      "gloss": "суның"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "күп"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "көннәр"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "аны табарсың"
+    }
+  ],
+  "timestamp": "2026-10-05T02:46:17.085941128Z",
+  "model": "glm-5.3"
+}

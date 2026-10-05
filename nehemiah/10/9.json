@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Маазия, Билгай, Шемаия: болар коһеннәр булды.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "Маазия"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "Билгай"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаия"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коһеннәр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:54:12.605400372Z",
+  "model": "glm-5.3"
+}

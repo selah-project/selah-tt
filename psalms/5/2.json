@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Сүзләремә колак сал, әй Яһвә, пышылдавымны аңла.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "сүзләремә"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "колак сал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "аңла"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "пышылдавымны"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:43.476743471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 57,
+  "translation": "Иң Бөек Элоһимга эндәшәм — миңа ⟨әһен⟩ тәмамлаучы Элгә.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "эндәшәм"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Иң Бөек"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "тәмамлаучы"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "миңа ⟨әһен⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T00:51:37.161044930Z",
+  "model": "glm-5.3"
+}

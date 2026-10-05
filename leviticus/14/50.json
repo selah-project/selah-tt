@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәм кошларның берсен терегөмес сулар өстендә балчык савытка суюлар.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "суюлар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кошларның берсен"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "кошның"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "берсен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эчеңә"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "савыт"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "балчык"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "מים",
+      "gloss": "сулар"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "терегөмес"
+    }
+  ],
+  "timestamp": "2026-10-04T21:58:39.889979979Z",
+  "model": "glm-5.3"
+}

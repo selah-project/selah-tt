@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм кич булгач, ⟨את⟩ Ләаны, кызын алды һәм ⟨את⟩ аны аңа кертте, һәм ул аңа керде.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булгач"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "кич"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ләаны"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Ләаны"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "кызын"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кертте"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "керде"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:31.573755361Z",
+  "model": "glm-5.3"
+}

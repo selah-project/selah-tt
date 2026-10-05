@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Аның өстенә Даниел патша белән сөйләште: Патша, мәңге яшә!",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Аның өстенә"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "патша"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "сөйләште"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Патша"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "яшә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:44:11.102778354Z",
+  "model": "glm-5.3"
+}

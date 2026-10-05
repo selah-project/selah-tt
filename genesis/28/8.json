@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Шулай ук Эсав күрде: Ханаан кызлары әтисе Йицхакның күзләрендә яман.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "яман"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кызлары"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Ханаан"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "күзләрендә"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхакның"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әтисе"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:37.529336003Z",
+  "model": "glm-5.3"
+}

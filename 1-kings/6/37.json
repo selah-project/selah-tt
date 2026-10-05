@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Дүртенче елда Яһвәнең өе нигезләнде, Зив аенда.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "елда"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "дүртенче"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "нигезләнде"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "аенда"
+    },
+    {
+      "surface": "זו",
+      "gloss": "Зив"
+    }
+  ],
+  "timestamp": "2026-10-04T23:09:54.468101529Z",
+  "model": "glm-5.3"
+}

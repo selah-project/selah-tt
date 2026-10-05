@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 45,
+  "translation": "Шулай ди Яһвә, Йисраэл Элоһиме, сәнә, эй Бәрук:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһиме"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сәнә"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Бәрук"
+    }
+  ],
+  "timestamp": "2026-10-05T00:02:06.335345876Z",
+  "model": "glm-5.3"
+}

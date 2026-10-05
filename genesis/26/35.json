@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм алар Йицхак өчен дә, Ривкага да рух әче булдылар.",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "булдылар"
+    },
+    {
+      "surface": "мרת",
+      "gloss": "әче"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Йицхак өчен"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "Ривкага да"
+    }
+  ],
+  "timestamp": "2026-10-04T21:30:33.695610811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Фәкыйрне талама, чөнки ул фәкыйр, һәм капка алдында мескенне таптама.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "талама"
+    },
+    {
+      "surface": "דל",
+      "gloss": "фәкыйрне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "דל",
+      "gloss": "фәкыйр"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "таптама"
+    },
+    {
+      "surface": "עני",
+      "gloss": "мескенне"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "капка алдында"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:21.078627347Z",
+  "model": "glm-5.3"
+}

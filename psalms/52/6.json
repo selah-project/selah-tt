@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 52,
+  "translation": "Син йотучы сүзләрнең барысын да яратасың, эй мәкерле тел!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Син яратасың"
+    },
+    {
+      "surface": "кал",
+      "gloss": "барысын да"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сүзләрнең"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "йотучы"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тел"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "мәкерле"
+    }
+  ],
+  "timestamp": "2026-10-05T00:51:19.017904914Z",
+  "model": "glm-5.3"
+}

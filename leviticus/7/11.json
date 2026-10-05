@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм бу — Яһвәгә китерелә торган тынычлык корбаннарының Тора́сы.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "һәм бу"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Торасы"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "корбаны"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "тынычлык корбаннарының"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "китерелә"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:55:50.486225879Z",
+  "model": "glm-5.3"
+}

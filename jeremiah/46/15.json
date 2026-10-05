@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 46,
+  "translation": "Ни өчен синең көчлеләрең кубарылды? Ул тормады, чөнки Яһвә аны этәрде.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ни өчен"
+    },
+    {
+      "surface": "נסחף",
+      "gloss": "кубарылды"
+    },
+    {
+      "surface": "אביריך",
+      "gloss": "көчлеләрең"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "тормады"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "этәрде"
+    }
+  ],
+  "timestamp": "2026-10-05T00:02:00.984214009Z",
+  "model": "glm-5.3"
+}

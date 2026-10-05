@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 102,
+  "translation": "Чөнки Яһвә Ционны төзегән, Үз даны белән күренгән.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "төзегән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ционны"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "күренгән"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "Үз даны белән"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:11.127983910Z",
+  "model": "glm-5.3"
+}

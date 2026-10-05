@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәм Яһвә әйтте: Синең сүзең буенча гафу иттем.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "гафу иттем"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "синең сүзең буенча"
+    }
+  ],
+  "timestamp": "2026-10-04T22:10:38.635616686Z",
+  "model": "glm-5.3"
+}

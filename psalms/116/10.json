@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 116,
+  "translation": "Мин ышандым, шуңа күрә сөйләймен: мин бик күп җәфа чектем.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "ышандым"
+    },
+    {
+      "surface": "כי",
+      "gloss": "шуңа күрә"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "сөйләймен"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "җәфа чектем"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик күп"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:19.774472641Z",
+  "model": "glm-5.3"
+}

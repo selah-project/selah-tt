@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Яһвә барысын да Үз максаты өчен эшләде, явызны да — начар көн өчен.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барысын"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "эшләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "Үз максаты өчен"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "да"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явызны да"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "көн өчен"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "начар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:11.962422482Z",
+  "model": "glm-5.3"
+}

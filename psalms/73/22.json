@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 73,
+  "translation": "Һәм мин надан идем һәм белмәдем; хайван булдым Синең белән.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Һәм мин"
+    },
+    {
+      "surface": "בער",
+      "gloss": "надан идем"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "белмәдем"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "хайван"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "булдым"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Синең белән"
+    }
+  ],
+  "timestamp": "2026-10-05T00:54:00.188599786Z",
+  "model": "glm-5.3"
+}

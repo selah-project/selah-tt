@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 25:19",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Сынган теш һәм урыннан чыккан аяк — бәла көнендә хыянәтчегә таяну.",
+  "tokens": [
+    {
+      "surface": "שן",
+      "gloss": "теш"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "сынган"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "һәм аяк"
+    },
+    {
+      "surface": "מועדת",
+      "gloss": "урыннан чыккан"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "таяну"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "хыянәтчегә"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнендә"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "бәла"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:50.286252684Z",
+  "model": "glm-5.3"
+}

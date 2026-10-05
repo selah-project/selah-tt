@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Барлык хезмәттә табыш бар, ә ирен сүзе бары тик җиткәнлеккә ⟨алып килә⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "хезмәт"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "табыш"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ә ... сүзе"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ирен"
+    },
+    {
+      "surface": "אך",
+      "gloss": "бары тик"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "җиткәнлеккә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:34.709139132Z",
+  "model": "glm-5.3"
+}

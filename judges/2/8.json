@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Яһвәнең колы Нун улы Йеһошуа йөз ун яшьлек булып үлде.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "үлде"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нун"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "колы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул булып"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "яшь"
+    }
+  ],
+  "timestamp": "2026-10-04T22:39:38.525403827Z",
+  "model": "glm-5.3"
+}

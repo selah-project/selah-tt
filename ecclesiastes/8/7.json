@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Чөнки киләчәкне ул белми; чөнки булгач, аңа кем хәбәр итәр?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ул... түгел"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белми"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "булгач"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булганда"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "хәбәр итәр"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:28.138438401Z",
+  "model": "glm-5.3"
+}

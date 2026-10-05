@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Яһвә миңа әйтте: Төньяктан яманлык бөтен җир халкы өстенә ачылыр.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "төньяктан"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ачылыр"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "яманлык"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "халкы"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирнең"
+    }
+  ],
+  "timestamp": "2026-10-05T02:35:40.946171696Z",
+  "model": "glm-5.3"
+}

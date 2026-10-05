@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм халык Йеһошуага әйтте: Юк, ⟨әйтергә⟩ ⟨את⟩ Яһвәгә хезмәт итәрбез.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "אל",
+      "gloss": "каршысына"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨әйтергә⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "хезмәт итәрбез"
+    }
+  ],
+  "timestamp": "2026-10-04T22:39:14.110083024Z",
+  "model": "glm-5.3"
+}

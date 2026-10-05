@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Явызлыктан читләш һәм яхшылык кыл, тынычлык эзлә һәм аны ку.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "читләш"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "явызлыктан"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "һәм кыл"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшылык"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "эзлә"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынычлык"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "һәм аны ку"
+    }
+  ],
+  "timestamp": "2026-10-05T00:46:45.503133834Z",
+  "model": "glm-5.3"
+}

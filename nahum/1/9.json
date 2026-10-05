@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 1:9",
+  "book": "nahum",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Ни уйлыйсыз Яһвә турында? Ул тулы ахыр итәр: бәла ике тапкыр кабатланмас.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "תחשבון",
+      "gloss": "уйлыйсыз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "турында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "тулы ахыр"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "итәр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "кабатланмас"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ике тапкыр"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "бәла"
+    }
+  ],
+  "timestamp": "2026-10-05T00:34:32.529946075Z",
+  "model": "glm-5.3"
+}

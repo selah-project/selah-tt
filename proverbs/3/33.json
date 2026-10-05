@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Яһвәнең каргышы явыз өендә, ә ул гаделләрнең торагын алкышлый.",
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "каргыш"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "өендә"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "торагын"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "гаделләрнең"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "алкышлый"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:12.755882871Z",
+  "model": "glm-5.3"
+}

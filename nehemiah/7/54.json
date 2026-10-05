@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бацлит уллары, Меһида уллары, Һарша уллары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "Бацлит"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "Меһида"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "Һарша"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:19.544897055Z",
+  "model": "glm-5.3"
+}

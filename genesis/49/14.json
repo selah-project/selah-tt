@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 49,
+  "translation": "Йиссашар — сөякле ишәк, фермалар арасында ятучы.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "Йиссашар"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ишәк"
+    },
+    {
+      "surface": "грамм",
+      "gloss": "сөякле"
+    },
+    {
+      "surface": "рбц",
+      "gloss": "ятучы"
+    },
+    {
+      "surface": "бейн",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "hмшптим",
+      "gloss": "фермалар"
+    }
+  ],
+  "timestamp": "2026-10-04T21:39:59.509941067Z",
+  "model": "glm-5.3"
+}

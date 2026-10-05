@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Лотанның уллары: Хори һәм Һомам; Лотанның сеңлесе — Тимна.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Һәм ... уллары"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотанның"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Хори"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "һәм Һомам"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "сеңлесе"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотанның"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:45.302291740Z",
+  "model": "glm-5.3"
+}

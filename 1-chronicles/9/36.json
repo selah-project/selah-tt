@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Аның беренче туганы улы Абдон, һәм Цур, һәм Киш, һәм Баал, һәм Нер, һәм Надав.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "беренче туган"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Абдон"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "һәм Цур"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "һәм Киш"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "һәм Баал"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "һәм Нер"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "һәм Надав"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:40.286457106Z",
+  "model": "glm-5.3"
+}

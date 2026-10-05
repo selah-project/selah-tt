@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм Элоһим Леаһны ишетте, һәм ул бала көтте, һәм Яаковка бишенче улын туды.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ишетте"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨эле⟩"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леаһ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "бала көтте"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковка"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улын"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "бишенче"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:14.339294772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 71,
+  "translation": "Сиңа, әй Яһвә, мин сыеныр җир таптым; мәңге оялмасым.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "сыеныр җир таптым"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–масым"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "оял"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-05T00:53:20.052766929Z",
+  "model": "glm-5.3"
+}

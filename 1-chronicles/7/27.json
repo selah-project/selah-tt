@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Нун аның улы, Йеһошуа аның улы.",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "Нун"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:33.685629147Z",
+  "model": "glm-5.3"
+}

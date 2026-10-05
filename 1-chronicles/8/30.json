@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм аның беренче туганы — Абдон, һәм Цур, һәм Киш, һәм Баал, һәм Надав.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "һәм аның улы"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "беренче туган"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Абдон"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "һәм Цур"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "һәм Киш"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "һәм Баал"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "һәм Надав"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:40.972915742Z",
+  "model": "glm-5.3"
+}

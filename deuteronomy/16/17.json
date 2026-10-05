@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Ир үз кулы бүләге кадәр, Яһвә Элоһимең сиңа биргән фаразы буенча ⟨бирер⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ир"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "бүләге кадәр"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "үз кулы"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "фаразы буенча"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоһимең"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "биргән"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:29.954685762Z",
+  "model": "glm-5.3"
+}

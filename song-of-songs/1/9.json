@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Фираун арбаларындагы биямәгә тиңләдем сине, дустым.",
+  "tokens": [
+    {
+      "surface": "לסוסתי",
+      "gloss": "минем биямәгә"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "арбаларында"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фираун"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "тиңләдем сине"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "дустым"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:36.855059096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 122,
+  "translation": "Аягыбыз синең капкаларыңда тора, әй, Йерушалаим.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "тора"
+    },
+    {
+      "surface": "היו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Аягыбыз"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "капкаларыңда"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:39.765960733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Әгәр аның корбаны кәҗә булса, ул аны Яһвә алдында китерер.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "עז",
+      "gloss": "кәҗә"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "аның корбаны"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "китерер"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:54:54.627155281Z",
+  "model": "glm-5.3"
+}

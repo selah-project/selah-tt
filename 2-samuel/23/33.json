@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Шаммаһ һарарлы, Аһиам Шарар улы, һарарлы.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Шаммаһ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "һарарлы"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "Аһиам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "Шарар"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "һарарлы"
+    }
+  ],
+  "timestamp": "2026-10-04T23:07:24.854658371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Чөнки хикмәт күләгә, көмеш тә күләгә; ә белемнең өстенлеге — хикмәт аның ияләрен терелтә.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "күләгә"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "күләгә"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "көмеш"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ә өстенлеге"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белемнең"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "терелтә"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "аның ияләрен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:27.286269037Z",
+  "model": "glm-5.3"
+}

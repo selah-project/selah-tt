@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Эфраим потларга бәйләнгән — аны үзеңә калдыр.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "бәйләнгән"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "потларга"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "калдыр"
+    },
+    {
+      "surface": "לו",
+      "gloss": "үзеңә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:25:57.050095411Z",
+  "model": "glm-5.3"
+}

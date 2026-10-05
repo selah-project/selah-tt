@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Мишма, һәм Дума, Масса, Һадад, һәм Тейма.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "Мишма"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "һәм Дума"
+    },
+    {
+      "surface": "משא",
+      "gloss": "Масса"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "Һадад"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "һәм Тейма"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:03.753324879Z",
+  "model": "glm-5.3"
+}

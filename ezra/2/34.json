@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Йрихо уллары — өч йөз кырык биш.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Йрихо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "биш"
+    }
+  ],
+  "timestamp": "2026-10-05T02:46:29.815610195Z",
+  "model": "glm-5.3"
+}

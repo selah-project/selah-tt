@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Чөнки Мин бу җирдә үләрмен, Мин ⟨את⟩ Йардеңнан үтмәм, ә сез үтәрсез һәм бу яхшы ⟨את⟩ җирне мирас итеп алырсыз.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "מת",
+      "gloss": "үләрмен"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "бу җирдә"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "үтмәм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йардең"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йардеңнан"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ә сез"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "үтәрсез"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "һәм мирас итеп алырсыз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "җир"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T22:21:32.641729033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм каһин Цефанья бу ⟨את⟩ хатны пәйгамбәр Йирмәяһуның колагына укыды.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "укыды"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Цефанья"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу хатны"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "хатны"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "колагына"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмәяһу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пәйгамбәр"
+    }
+  ],
+  "timestamp": "2026-10-04T23:57:43.890060354Z",
+  "model": "glm-5.3"
+}

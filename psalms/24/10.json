@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Кем ул, бу дан патшасы? Яһвә Цеваот — Ул ул дан патшасы. Села.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "дан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "дан"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:08.666422244Z",
+  "model": "glm-5.3"
+}

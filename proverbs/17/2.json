@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Аңлы кол оятлы улына идарә итәр, һәм туганнар арасында мирас бүлер.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "аңлы"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "идарә итәр"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "уга"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "оятлы"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "һәм арасында"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "туганнар"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "бүлер"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "мирас"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:30.686307653Z",
+  "model": "glm-5.3"
+}

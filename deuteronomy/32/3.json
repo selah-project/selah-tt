@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Чөнки мин Яһвә исемен игълан итәрмен; безнең Элоһимга бөеклек бирегез.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "שם",
+      "gloss": "исемен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "игълан итәрмен"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "бирегез"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "бөеклек"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "безнең Элоһимга"
+    }
+  ],
+  "timestamp": "2026-10-04T22:31:07.275695109Z",
+  "model": "glm-5.3"
+}

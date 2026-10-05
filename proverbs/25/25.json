@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Арган җан өстенә салкын су кебек — ерак җирдән килгән яҡшы хәбәр дә шундый.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "салкын"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "арган"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "һәм хәбәр"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "яҡшы"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "җирдән"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ерак"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:12.062365152Z",
+  "model": "glm-5.3"
+}

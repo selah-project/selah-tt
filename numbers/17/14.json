@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәм тәүәккәлдә үлгәннәр ун дүрт мең һәм җиде йөз булды, Корах эше өчен үлгәннәрдән башка.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "үлгәннәр"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "тәүәккәлдә"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "башка"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "үлгәннәр"
+    },
+    {
+      "surface": "על",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "эш"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    }
+  ],
+  "timestamp": "2026-10-04T22:11:27.378199404Z",
+  "model": "glm-5.3"
+}

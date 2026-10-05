@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм халыктан анда өч мең кеше менде, һәм алар Һаи кешеләре алдыннан качтылар.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "менде"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-тан"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мең"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "качтылар"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдыннан"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "кешеләре"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Һаи"
+    }
+  ],
+  "timestamp": "2026-10-04T22:34:38.210740750Z",
+  "model": "glm-5.3"
+}

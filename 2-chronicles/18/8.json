@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм Йисраэл патшасы бер сарисны чакырды да әйтте: Тиз алып кил Михайаһуны, Йимланың улын.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "сарис"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "тиз"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "Михайаһуны"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "Йимла"
+    }
+  ],
+  "timestamp": "2026-10-05T02:11:46.533014311Z",
+  "model": "glm-5.3"
+}

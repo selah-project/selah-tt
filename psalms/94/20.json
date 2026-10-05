@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 94,
+  "translation": "Җәбер тәхете Сиңа күшәрме, канун буенча явызлык ясаган?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "күшәрме"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тәхет"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "җәбер"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ясаган"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "буенча"
+    },
+    {
+      "surface": "חק",
+      "gloss": "канун"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:59.946024829Z",
+  "model": "glm-5.3"
+}

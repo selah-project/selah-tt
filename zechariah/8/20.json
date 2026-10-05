@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Шулай диде Яһвә Цеваот: әле киләчәк халыклар һәм күп шәһәрләрнең кешеләре.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "әле"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "киләчәк"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "халыклар"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "һәм кешеләре"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шәһәрләрнең"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "күп"
+    }
+  ],
+  "timestamp": "2026-10-05T00:38:49.341199169Z",
+  "model": "glm-5.3"
+}

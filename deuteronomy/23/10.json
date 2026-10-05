@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Әгәр син дошманнарың өстенә лагерь белән чыксаң, һәр яман нәрсәдән саклан.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "чыксаң"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "лагерь"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "дошманнарың"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "һәм саклан"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "һәр…дан"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нәрсәдән"
+    },
+    {
+      "surface": "רע",
+      "gloss": "яман"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:19.857446214Z",
+  "model": "glm-5.3"
+}

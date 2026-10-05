@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 103,
+  "translation": "Чөнки җил аны үтә дә, ул юкка чыга, һәм аның урыны аны инде танымый.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "җил"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "үтә"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ул юкка чыга"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм … түгел"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "танымый"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "инде"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "аның урыны"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:11.465814185Z",
+  "model": "glm-5.3"
+}

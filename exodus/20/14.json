@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Уйнашлык кылма.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "тныאф",
+      "gloss": "койнашлык кылма"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:20.148040629Z",
+  "model": "glm-5.3"
+}

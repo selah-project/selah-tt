@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Гивонда яшәделәр: Гивон атасы Йеиел һәм аның хатынының исеме Мааха.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "һәм Гивонда"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "яшәделәр"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивон"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Йеиел"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "һәм исеме"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "аның хатынының"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:40.286131131Z",
+  "model": "glm-5.3"
+}

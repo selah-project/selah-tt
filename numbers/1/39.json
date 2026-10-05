@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Саналганнары — Дан кабиләсе буенча: алтмыш ике мең һәм җиде йөз.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "саналганнары"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "кабиләсе буенча"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "һәм алтмыш"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "һәм җиде"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:57.953883953Z",
+  "model": "glm-5.3"
+}

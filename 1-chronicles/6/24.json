@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм аның туганы Асаф — аның уң янында басып торучы; Асаф — Берехйаһуның улы, Шиманың улы.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "Һәм аның туганы"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "басып торучы"
+    },
+    {
+      "surface": "על",
+      "gloss": "өсте"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "аның уң янында"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "у"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "Берехйаһу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "у"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Шима"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:05.347308007Z",
+  "model": "glm-5.3"
+}

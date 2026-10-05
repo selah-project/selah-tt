@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Цедек, цедек куарсың — яшәрсең өчен һәм Яһвә Элоһимең сиңа бирә торган ⟨את⟩ җирне мирас итеп алырсың.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "куарсың"
+    },
+    {
+      "surface": "למען",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "яшәрсең"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "һәм мирас итеп алырсың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "җирне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоһимең"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "бирә"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:29.955397923Z",
+  "model": "glm-5.3"
+}

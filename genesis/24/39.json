@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Мин исә хујама әйттем: бәлки хатын минем артымнан бармас.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "һәм әйттем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янә"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "хуҗама"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "бәлки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "барыр"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артымнан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:30:29.197857057Z",
+  "model": "glm-5.3"
+}

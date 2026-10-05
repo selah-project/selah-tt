@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Яһвәнең исеме ⟨ул⟩ көч манарасы; аңа гадел йөгерә һәм югары күтәрелә.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "манара"
+    },
+    {
+      "surface": "עז",
+      "gloss": "көч"
+    },
+    {
+      "surface": "שם",
+      "gloss": "исеме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "йөгерә"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гадел"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "һәм югары күтәрелә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:35.168761556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Цедек тугры юлны саклый, ә явызлык гөнаһны боза.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "саклый"
+    },
+    {
+      "surface": "תם",
+      "gloss": "тугры"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юлны"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "ә явызлык"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "боза"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "гөнаһны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:41.819627802Z",
+  "model": "glm-5.3"
+}

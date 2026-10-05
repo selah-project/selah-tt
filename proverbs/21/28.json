@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Ялган шаһит һәлак була, ә тыңлаучы кеше мәңге сөйләр.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "шаһит"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "יאбד",
+      "gloss": "һәлак була"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ә кеше"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "тыңлаучы"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "сөйләр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:41.254933719Z",
+  "model": "glm-5.3"
+}

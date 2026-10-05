@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "⟨ה⟩ Эмимнар элек анда яшәгәннәр — бөек һәм күпсанлы һәм буйлы халык, Әнакимнар кебек.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Эмимнар"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "элек"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "яшәгәннәр"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "һәм күпсанлы"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "һәм буйлы"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "Әнакимнар кебек"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:29.393377616Z",
+  "model": "glm-5.3"
+}

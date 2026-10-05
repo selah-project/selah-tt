@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм шул шәһәр әлкәләре ⟨את⟩ кешене алалар һәм ⟨את⟩ аны җәзаларлар.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "һәм алалар"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "әлкәләре"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кешене"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "кешене"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "һәм җәзаларлар"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:23.712627542Z",
+  "model": "glm-5.3"
+}

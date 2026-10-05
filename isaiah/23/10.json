@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Үтәрсең илегә аша, елга кебек, Таршиш кызы; билбау юк инде.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Үтәрсең"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "илегә аша"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "елга кебек"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиш"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "билбау"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "инде"
+    }
+  ],
+  "timestamp": "2026-10-04T23:34:19.400115892Z",
+  "model": "glm-5.3"
+}

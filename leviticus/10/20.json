@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Моше ишетте, һәм аның күзендә яхшы булды.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ишетте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "яхшы булды"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "аның күзендә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:58:38.949820622Z",
+  "model": "glm-5.3"
+}

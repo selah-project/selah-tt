@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 37:3",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Һәм аңа дүрт алтын боҗра койды, аның дүрт почмагына, ике боҗра аның бер ягына, ике боҗра аның икенче ягына.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "койды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "боҗра"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "על",
+      "gloss": "−га"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "פעמתיו",
+      "gloss": "почмагына"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ике"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "боҗра"
+    },
+    {
+      "surface": "על",
+      "gloss": "−га"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "ягына"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ике"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "боҗра"
+    },
+    {
+      "surface": "על",
+      "gloss": "−га"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "ягына"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "икенче"
+    }
+  ],
+  "timestamp": "2026-10-04T21:53:29.312763847Z",
+  "model": "glm-5.3"
+}

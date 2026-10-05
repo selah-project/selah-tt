@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 103,
+  "translation": "Чөнки Ул безнең формабызны белә, Ул хәтерли: без тузанбыз.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белә"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "безнең формабызны"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "хәтерли"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "тузан"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "без"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:11.465525228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Көн көнгә сүз агыза, һәм төн төнгә белем күрсәтә.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "көнгә"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "агыза"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "һәм төн"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "төнгә"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "күрсәтә"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белем"
+    }
+  ],
+  "timestamp": "2026-10-05T00:44:33.682280999Z",
+  "model": "glm-5.3"
+}

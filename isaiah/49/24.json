@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 49,
+  "translation": "Көчледән талауны алып буламы, әллә изге әсирне коткарып буламы?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "алынырмы"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "көчледән"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "талау"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "әллә"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "әсир"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "изге"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "котылырмы"
+    }
+  ],
+  "timestamp": "2026-10-04T23:42:08.934182727Z",
+  "model": "glm-5.3"
+}

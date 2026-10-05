@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Куркыныч, һәм чокыр, һәм тозак — синең өстендә, Моаб яшәүчесе, Яһвә сүзе.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "Куркыныч"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "һәм чокыр"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "һәм тозак"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "синең өстендә"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "яшәүчесе"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:03:46.639870810Z",
+  "model": "glm-5.3"
+}

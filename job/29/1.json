@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм Эйүп үз мәсәлен күтәрергә өстәде һәм әйтте:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "өстәде"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Эйүп"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "күтәрергә"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "үз мәсәлен"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    }
+  ],
+  "timestamp": "2026-10-05T01:24:38.142548833Z",
+  "model": "glm-5.3"
+}

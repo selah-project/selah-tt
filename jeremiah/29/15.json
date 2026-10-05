@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Чөнки сез әйттегез: Яһвә безгә Бабилдә пәйгамбәрләр китәрде.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "сез әйттегез"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "китәрде"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "пәйгамбәрләр"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Бабилдә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:57:45.797442700Z",
+  "model": "glm-5.3"
+}

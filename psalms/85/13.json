@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 85,
+  "translation": "Шулай ук Яһвә изгелекне бирер, һәм җиребез үз уңышын бирер.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Шулай ук"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бирер"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "изгелекне"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "һәм җиребез"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бирер"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "үз уңышын"
+    }
+  ],
+  "timestamp": "2026-10-05T00:56:24.323695954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Һәм Ивцан үлде һәм Бәйт-Ләһәмдә күмелде.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "үлде"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ивцан"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "күмелде"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Бәйт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Ләһәмдә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:43:59.169837542Z",
+  "model": "glm-5.3"
+}

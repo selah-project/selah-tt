@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Яһвә мондый нәрсә өчен үкенде; булмас, диде Яһвә.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "үкенде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "мондый нәрсә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "булмас"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "булмас"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:32:10.969071314Z",
+  "model": "glm-5.3"
+}

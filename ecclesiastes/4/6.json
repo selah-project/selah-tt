@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Бер авуч тынычлык яхшы — ике йодрык тулы мәшәкатьтән һәм рух кайгысынан.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "כף",
+      "gloss": "бер авуч"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "тынычлык"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "тулыдан"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "ике йодрык"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "мәшәкать"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "һәм кайгысы"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:48.421426498Z",
+  "model": "glm-5.3"
+}

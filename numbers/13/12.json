@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Дан кабиләсеннән — Аммиэл, Гемаллиның улы.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "кабиләсеннән"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Аммиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "Гемалли"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:59.864621191Z",
+  "model": "glm-5.3"
+}

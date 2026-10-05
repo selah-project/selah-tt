@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Һәм син өстәл өстенә Йөз икмәге — ⟨Минем⟩ алдамда һаман торырлык — куярсың.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "куярсың"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "өстәл"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "Йөз"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдамда"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "һаман"
+    }
+  ],
+  "timestamp": "2026-10-04T21:49:16.917469372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Һәм Хизкияһу каһиннәр һәм ләвилеләр өстеннән өярләр турында сорашты.",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "sorаwtı"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизкияһу"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "каһиннәр"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "һәм ләвилеләр"
+    },
+    {
+      "surface": "על",
+      "gloss": "турында"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "өярләр"
+    }
+  ],
+  "timestamp": "2026-10-05T02:16:02.873265838Z",
+  "model": "glm-5.3"
+}

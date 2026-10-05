@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм каһин аны якын китерер һәм аны Яһвә алдына бастырыр.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "якын китерер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "והעמидה",
+      "gloss": "бастырыр"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:08:12.725586389Z",
+  "model": "glm-5.3"
+}

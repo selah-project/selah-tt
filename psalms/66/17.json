@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 66,
+  "translation": "Аңа авызым белән мин эндәштем, һәм телем астында мактау.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Аңа"
+    },
+    {
+      "surface": "פי",
+      "gloss": "авызым"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "эндәштем"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "мактау"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "течем"
+    }
+  ],
+  "timestamp": "2026-10-05T00:51:56.800818122Z",
+  "model": "glm-5.3"
+}

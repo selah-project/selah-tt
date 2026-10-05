@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Коюлган потларны — үзеңә алла и ясамассың.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "алла"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "коюлган пот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...массың"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ясамассың"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:51:19.646660306Z",
+  "model": "glm-5.3"
+}

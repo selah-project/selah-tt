@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Колак сал, эй Ийов, мине тыңла; тын ал һәм мин сөйләрмен.",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "колак сал"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңла"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мине"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "тын ал"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "һәм мин"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "сөйләрмен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:26:01.668221606Z",
+  "model": "glm-5.3"
+}

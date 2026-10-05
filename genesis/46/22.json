@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 46,
+  "translation": "Болар Раһиләнең уллары, алар Яаковка тудырылганнар; барысы ун дүрт җан.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Раһиләнең"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "тудырылганнар"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковка"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысы"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    }
+  ],
+  "timestamp": "2026-10-04T21:38:33.566726229Z",
+  "model": "glm-5.3"
+}

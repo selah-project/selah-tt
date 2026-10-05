@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм мин әйттем: Әһ, Адонай Яһвә! Менә, мин сөйләшергә белмим, чөнки мин яшь егетмен.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Һәм мин әйттем"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Әһ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "мин белмим"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйләшергә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "נער",
+      "gloss": "яшь егет"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мин"
+    }
+  ],
+  "timestamp": "2026-10-04T23:46:52.640748375Z",
+  "model": "glm-5.3"
+}

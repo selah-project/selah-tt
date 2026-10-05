@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм болар Шутелаһ уллары: Эраннан — эранилар ыруы.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Һәм болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "Шутелаһ"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "Эраннан"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ыруы"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "эранилар"
+    }
+  ],
+  "timestamp": "2026-10-05T02:24:34.167480212Z",
+  "model": "glm-5.3"
+}

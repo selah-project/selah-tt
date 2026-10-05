@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Һәм ул безгә ачкан кебек, шулай булды: мине үз урыныма кайтарды, ә аны асты.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кебек"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "ача"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мине"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "кайтарды"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстәнә"
+    },
+    {
+      "surface": "כני",
+      "gloss": "урыныма"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "асты"
+    }
+  ],
+  "timestamp": "2026-10-04T21:36:42.620641358Z",
+  "model": "glm-5.3"
+}

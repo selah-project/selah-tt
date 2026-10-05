@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бер алтын әвәс, ун шекел авырлыгында, ыҗлан белән тулы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "әвәс"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ыҗлан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:12.828352316Z",
+  "model": "glm-5.3"
+}

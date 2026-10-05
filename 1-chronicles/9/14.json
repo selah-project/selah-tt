@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "һәм Ливиләрдән — Шемайа, Хашшув улы, Әзрикәм улы, Хашавйа улы, Мерари улларыннан.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "һәм ... тан"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Ливиләрдән"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Хашшув"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Әзрикәм"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавйа"
+    },
+    {
+      "surface": "מן",
+      "gloss": "... тан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларыннан"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:25.775719014Z",
+  "model": "glm-5.3"
+}

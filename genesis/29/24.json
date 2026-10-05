@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм Лаван аңа ⟨את⟩ үз көле Зилпаны — Ләаның, үз кызының көле итеп бирде.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "бирде"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зилпаны"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпаны"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "үз көле"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Ләаның"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "үз кызының"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "көле итеп"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:31.573916498Z",
+  "model": "glm-5.3"
+}

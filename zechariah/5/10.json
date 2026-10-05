@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм мин миңа сөйләшүче фәрештәгә әйттем: алар ⟨את⟩ эфаны кая алып баралар?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "һәм әйттем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "фәрештә"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөйләшүче"
+    },
+    {
+      "surface": "בי",
+      "gloss": "минем белән"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "кая"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "алып баралар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эфаны"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфаны"
+    }
+  ],
+  "timestamp": "2026-10-05T00:38:01.439886009Z",
+  "model": "glm-5.3"
+}

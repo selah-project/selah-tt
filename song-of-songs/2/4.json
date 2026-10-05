@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Ул мине wine өенә кертте, һәм аның байрагы өстемдә — мәхәббәт.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "ул мине кертте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өе"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wine"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "һәм аның байрагы"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "өстемдә"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "мәхәббәт"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:36.095220485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Цедек һәм хөкем эшләү — Яһвә өчен корбаннан да сайланган.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "эшләү"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "һәм хөкем"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "сайланган"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвә өчен"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "корбаннан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:35.729405399Z",
+  "model": "glm-5.3"
+}

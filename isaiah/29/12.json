@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Әмма китап язуны белмәгән кешегә бирелә: «Моны укып чыг әле», дип, әмма ул: «Мин язу белмим», ди.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "бирелә"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "китап"
+    },
+    {
+      "surface": "על",
+      "gloss": "кешегә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аның"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белмәгән"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "язуны"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "укып чыг"
+    },
+    {
+      "surface": "נא",
+      "gloss": "әле"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Моны"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "әмма ул ди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "белмим"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "язу"
+    }
+  ],
+  "timestamp": "2026-10-04T23:36:14.208993343Z",
+  "model": "glm-5.3"
+}

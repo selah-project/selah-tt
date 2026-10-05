@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм чиге булды: Һелкат, Һали, Бетен һәм Аһшаф.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "чиге"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Һелкат"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "Һали"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "Бетен"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "Аһшаф"
+    }
+  ],
+  "timestamp": "2026-10-04T22:37:48.461429636Z",
+  "model": "glm-5.3"
+}

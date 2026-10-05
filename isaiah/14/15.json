@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Ләкин Син Шеолга төшереләсең, чокырның иң түбән буйларына.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ләкин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "―"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолга"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "төшереләсең"
+    },
+    {
+      "surface": "אל",
+      "gloss": "―"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "буйларына"
+    },
+    {
+      "surface": "בור",
+      "gloss": "чокырның"
+    }
+  ],
+  "timestamp": "2026-10-04T23:31:39.183831451Z",
+  "model": "glm-5.3"
+}

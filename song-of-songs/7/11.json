@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Мин — минем сөйгәнемнекем, һәм аның һәвәсе миңа юнәлгән.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "минем сөйгәнемнекем"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "һәм миңа"
+    },
+    {
+      "surface": "תשוקатו",
+      "gloss": "аның һәвәсе"
+    }
+  ],
+  "timestamp": "2026-10-05T01:30:28.411411474Z",
+  "model": "glm-5.3"
+}

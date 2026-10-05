@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Изгеләрнең ут-яктылыгы шатлана, ә явызларның чыграгы сүнә.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "ут-яктылыгы"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "изгеләрнең"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "шатлана"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "чыграгы"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "явызларның"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "сүнә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:33.894416506Z",
+  "model": "glm-5.3"
+}

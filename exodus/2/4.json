@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм аның сеңлесе ерактан басып торды, аңа нәрсә буласын белү өчен.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "басып торды"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "аның сеңлесе"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ерактан"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "белү өчен"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "буласын"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T21:41:00.172800342Z",
+  "model": "glm-5.3"
+}

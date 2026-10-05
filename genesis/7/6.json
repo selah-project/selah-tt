@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Ное алты йөз яшь улы ⟨иде⟩, һәм су ташкыны җир өстендә ⟨иде⟩.",
+  "tokens": [
+    {
+      "surface": "וונח",
+      "gloss": "һәм Ное"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яшь"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "һәм су ташкыны"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨иде⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-05T02:20:18.696517452Z",
+  "model": "glm-5.3"
+}

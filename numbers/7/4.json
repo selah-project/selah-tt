@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Яһвә Мошега эндәште һәм әйтте:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ендәште һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтте"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:21.340178422Z",
+  "model": "glm-5.3"
+}

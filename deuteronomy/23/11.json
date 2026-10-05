@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Әгәр синнән бер ир булса, ки төн вакыйгасыннан пакь булмаса, ул лагерьдан тышка чыгыр, лагерь эченә кермәс.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булса"
+    },
+    {
+      "surface": "בך",
+      "gloss": "синнән"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ир"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булса"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пакь"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "вакыйгасыннан"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "төн"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "һәм чыгыр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тышка"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "тышка"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "лагерьдан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-мас"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "кермәс"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эченә"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "эче"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерь"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:19.857621181Z",
+  "model": "glm-5.3"
+}

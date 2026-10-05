@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Элкананың уллары: Ғәмасай һәм Аһимот.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм ... уллары"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Ғәмасай"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "һәм Аһимот"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:44.869081393Z",
+  "model": "glm-5.3"
+}

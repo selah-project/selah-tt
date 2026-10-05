@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Гаделнең эш хакы тормышка ⟨ алып бара ⟩, явызның кереме гөнашка.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "эш хакы"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гаделнең"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "тормышка"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "кереме"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явызның"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "гөнашка"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:27.193410476Z",
+  "model": "glm-5.3"
+}

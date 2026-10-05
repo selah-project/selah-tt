@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Йада уллары — Шаммайның энесе: Йетер һәм Йонатан; һәм Йетер улларыз үлде.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Йада"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "энесе"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммайның"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "һәм Йонатан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "һәм үлде"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ула"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "улларыз"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:30.356397959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 21:29",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Яман кеше үз йөзен катыра, ә туры кеше үз юлын әзерли.",
+  "tokens": [
+    {
+      "surface": "העז",
+      "gloss": "катыра"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "яман"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "үз йөзен"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ә туры"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ул⟩"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "әзерли"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "үз юлын"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:42.120998786Z",
+  "model": "glm-5.3"
+}

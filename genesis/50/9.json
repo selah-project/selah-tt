@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 50,
+  "translation": "Һәм аның белән арбалар да, җайдаклар да менде; һәм лагерь бик авыр ⟨булды⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "менде"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "аның белән"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "арбалар"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "җайдаклар"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерь"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "авыр"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    }
+  ],
+  "timestamp": "2026-10-04T21:40:04.854778943Z",
+  "model": "glm-5.3"
+}

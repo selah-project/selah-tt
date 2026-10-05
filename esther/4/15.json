@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Эстер Мордехай янына җавап бирергә әйтте.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "җавап бирергә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехай"
+    }
+  ],
+  "timestamp": "2026-10-05T01:37:56.642912250Z",
+  "model": "glm-5.3"
+}

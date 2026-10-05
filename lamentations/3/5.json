@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ул минең өстемә төзеде һәм мине агу белән һәм михнәт белән уратып алды.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "төзеде"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "минең өстемә"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "һәм уратып алды"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "агу"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "һәм михнәт"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:12.838226233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 21:13",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Давид Гадка әйтте: миңа бик тар; Яһвә кулына төшәргә рөхсәт ит, чөнки аның рәхимнәре бик күп, ә кеше кулына төшмәскә.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "צר",
+      "gloss": "тар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "төшәргә рөхсәт ит"
+    },
+    {
+      "surface": "נא",
+      "gloss": "инде"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "кулына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "күп"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "аның рәхимнәре"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ә кулына"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-мәскә"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "төш"
+    }
+  ],
+  "timestamp": "2026-10-05T02:02:59.289737182Z",
+  "model": "glm-5.3"
+}

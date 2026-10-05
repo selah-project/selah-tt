@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Явызлык эшләргә шатланучылар, явыз бозыклыкта сөенәләр —",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "шатланучылар"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "эшләргә"
+    },
+    {
+      "surface": "רע",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "сөенәләр"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "бозыклыкта"
+    },
+    {
+      "surface": "רע",
+      "gloss": "явызлык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:10.096068208Z",
+  "model": "glm-5.3"
+}

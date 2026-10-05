@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Күзләремне ач, һәм Тораңнан ⟨тик⟩ гаҗәеп нәрсәләрне күрермен.",
+  "tokens": [],
+  "timestamp": "2026-10-05T01:02:55.223227317Z",
+  "model": "glm-5.3"
+}

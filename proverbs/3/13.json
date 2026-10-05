@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Бәхетле — хикмәт тапкан кеше, һәм аң китергән кеше.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Бәхетле"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "тапкан"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "һәм кеше"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "китергән"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "аң"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:32.821689941Z",
+  "model": "glm-5.3"
+}

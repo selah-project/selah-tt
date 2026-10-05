@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Йәһудәнеке — Нахшон, Амминадав улы.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "Йәһудәнеке"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Нахшон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Амминадав"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:27.023179244Z",
+  "model": "glm-5.3"
+}

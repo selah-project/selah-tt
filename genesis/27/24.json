@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм ул әйтте: Синме менә, улым Эсав? Һәм ул әйтте: Мин.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "זה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:23.989859987Z",
+  "model": "glm-5.3"
+}

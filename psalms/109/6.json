@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 109,
+  "translation": "Аның өстенә явыз ⟨куй⟩, һәм шайтан аның уң янында басып торсын.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "куй"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аның өстенә"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "һәм шайтан"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "басып торсын"
+    },
+    {
+      "surface": "על",
+      "gloss": "янында"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "аның уң"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:33.763581061Z",
+  "model": "glm-5.3"
+}

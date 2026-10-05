@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "һәм Элишамега, һәм Эльяда, һәм Элифелет — тугыз",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "һәм Элишамега"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "һәм Эльяда"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "һәм Элифелет"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "тугыз"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:00.349368248Z",
+  "model": "glm-5.3"
+}

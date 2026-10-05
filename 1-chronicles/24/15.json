@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Ун җиденчесе Хезирга, ун сигезенчесе Һапиццезга.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "Хезирга"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "җиденчесе"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "Һапиццезга"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "сигезенчесе"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:17.068148656Z",
+  "model": "glm-5.3"
+}

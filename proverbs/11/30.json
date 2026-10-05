@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Цадикның җимеше — тереклек агачы, һәм җаннарны алучы — хәким.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "җимеше"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "цадикның"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "агачы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тереклек"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "һәм алучы"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "җаннарны"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хәким"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:14.091051125Z",
+  "model": "glm-5.3"
+}

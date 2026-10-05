@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Мин — Яһвә, сиңа Элоһимең, Мин сине Мицраим иленнән, коллар өеннән чыгардым.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сиңа Элоһимең"
+    },
+    {
+      "surface": "אשר",
+      "gloss": " Мин"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "сине чыгардым"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "иленнән"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "өеннән"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "коллар"
+    }
+  ],
+  "timestamp": "2026-10-05T02:25:25.046455691Z",
+  "model": "glm-5.3"
+}

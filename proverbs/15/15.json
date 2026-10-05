@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Фәкыйрьнең бар көннәре яман, ә яхшы йөрәк өзлексез мәҗлес.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәре"
+    },
+    {
+      "surface": "עני",
+      "gloss": "фәкыйрьнең"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "яман"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "мәҗлес"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "өзлексез"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:59.700083851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 17:15",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Әйе, кайда ул минем өметем? Өметемне кем күрер?",
+  "tokens": [
+    {
+      "surface": "ואיה",
+      "gloss": "Әйе, кайда"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ул"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "минем өметем"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "Өметемне"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "күрер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:21:42.987877813Z",
+  "model": "glm-5.3"
+}

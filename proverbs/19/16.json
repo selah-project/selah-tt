@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Боерыкны саклаучы үз җанын саклый, ә үз юлын тәхкыйр итүче үләр.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "саклаучы"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "боерыкны"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "саклый"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "үз җанын"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "тәхкыйр итүче"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "үз юлын"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "үләр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:26.096859726Z",
+  "model": "glm-5.3"
+}

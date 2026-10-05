@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм Йифдияһ, һәм Пенуэл — Шашакның уллары.",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "һәм Йифдияһ"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "һәм Пенуэл"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "Шашакның"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:30.741090364Z",
+  "model": "glm-5.3"
+}

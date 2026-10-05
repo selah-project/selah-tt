@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Бәк Магдиэл, бәк Ирам. Болар — Эдомның бәкләре.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "бәк"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "Магдиэл"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "бәк"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "Ирам"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "бәкләре"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:46.465578318Z",
+  "model": "glm-5.3"
+}

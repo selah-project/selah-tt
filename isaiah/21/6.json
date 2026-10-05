@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Чөнки болай диде миңа Адонай: бар, сакчыны утырт, нәрсә күрсә, шуны хәбәр итсен.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כה",
+      "gloss": "болай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "утырт"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "сакчыны"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "күрсә"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "хәбәр итсен"
+    }
+  ],
+  "timestamp": "2026-10-05T02:34:10.743508038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 42,
+  "translation": "Һәм ул аларга әйтте: Юк, әйдә илнең ялангачлыгын күрергә килдегез.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "כי",
+      "gloss": "әйдә"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ялангачлыгын"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "илнең"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "килдегез"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "күрергә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:37:14.710545668Z",
+  "model": "glm-5.3"
+}

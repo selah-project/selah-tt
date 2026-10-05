@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Элоһим ⟨את⟩ Йисраэл улларын күрде, һәм Элоһим белде.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэл улларын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "белде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    }
+  ],
+  "timestamp": "2026-10-04T21:39:40.417734892Z",
+  "model": "glm-5.3"
+}

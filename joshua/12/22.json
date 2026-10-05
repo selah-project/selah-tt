@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Кадеш патшасы — бер; Кармил янындагы Йокнеам патшасы — бер.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Йокнеам"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "Кармил янындагы"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-04T22:35:17.388405991Z",
+  "model": "glm-5.3"
+}

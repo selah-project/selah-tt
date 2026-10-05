@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Ул ⟨את⟩ йөзен диварга борды һәм Яһвәгә дога кылды, әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "борды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "йөзен"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "йөзен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "диварга"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "дивар"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "һәм дога кылды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T23:27:10.361540241Z",
+  "model": "glm-5.3"
+}

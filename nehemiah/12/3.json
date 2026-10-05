@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Шеканйаһ, Рехум, Мерemoth.",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "Шеканйаһ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Рехум"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "Мерemoth"
+    }
+  ],
+  "timestamp": "2026-10-05T01:54:52.557275840Z",
+  "model": "glm-5.3"
+}

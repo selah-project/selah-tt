@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Яһвә Мошигә сөйләде, дип әйтеп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Һәм ... сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошигә"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T22:01:59.474070275Z",
+  "model": "glm-5.3"
+}

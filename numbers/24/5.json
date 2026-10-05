@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Ни кадәр яхшы чатырларың, әй Яаков, Мишканнарың, әй Йисраэл!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ни кадәр"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "чатырларың"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "Мишканнарың"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-04T22:14:33.720951572Z",
+  "model": "glm-5.3"
+}

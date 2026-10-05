@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 24:28",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Дусыңа каршы бушка шаһит булма, һәм иреннәрең белән алдама.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бул"
+    },
+    {
+      "surface": "עד",
+      "gloss": "шаһит"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бушка"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "дусыңа каршы"
+    },
+    {
+      "surface": "והפתית",
+      "gloss": "һәм алдама"
+    },
+    {
+      "surface": "בשפתיך",
+      "gloss": "иреннәрең белән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:28.295943724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 50:22",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 50,
+  "translation": "Йусуф Мицраимда яшәде — үзе һәм атасының өе; һәм Йусуф йөз ун ел яшәде.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йусуф"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Мицраимда"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "үзе"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "һәм өе"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасының"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йусуф"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ел"
+    }
+  ],
+  "timestamp": "2026-10-04T21:40:24.784808320Z",
+  "model": "glm-5.3"
+}

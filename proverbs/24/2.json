@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Чөнки аларның йөрәге җимерүне уйлый, һәм аларның иреннәре җәбер сөйли.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "שד",
+      "gloss": "җимерү"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "уйлый"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "йөрәге"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "һәм җәбер"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "иреннәре"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "сөйли"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:48.124087774Z",
+  "model": "glm-5.3"
+}

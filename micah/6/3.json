@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Халкым, сиңа нәрсә эшләдем, һәм нишләп сиңа арыттым? Миңа җавап бир.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Халкым"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "эшләдем"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "һәм нишләп"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "арыттым"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "җавап бир"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Миңа"
+    }
+  ],
+  "timestamp": "2026-10-05T00:35:26.820567878Z",
+  "model": "glm-5.3"
+}

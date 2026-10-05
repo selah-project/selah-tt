@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм булды җиде көн узгач, һәм булды Яһвә сүзе миңа килеп, әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "узгач"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-05T00:08:16.533705372Z",
+  "model": "glm-5.3"
+}

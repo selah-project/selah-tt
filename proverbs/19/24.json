@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Ялкау кеше ⟨את⟩ кулын чүмечкә яшерә, хәтта аузына да аны кайтармый.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "яшерә"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ялкау"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "кулын"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "чүмечкә"
+    },
+    {
+      "surface": "גם",
+      "gloss": "хәтта"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...на"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "аузына"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "кайтармый ⟨аны⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:07.164489249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 54,
+  "translation": "Элоһим, догамны ишет, авызым сүзләренә колак сал!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ишет"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "догамны"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "колак сал"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "сүзләренә"
+    },
+    {
+      "surface": "פי",
+      "gloss": "авызым"
+    }
+  ],
+  "timestamp": "2026-10-05T00:50:40.970682852Z",
+  "model": "glm-5.3"
+}

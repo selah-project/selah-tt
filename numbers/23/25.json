@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Һәм Балак Билгамга әйтте: аны каһәрләмә дә, аны фатыйха да бирмә.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ганә⟩"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билгам"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "קב",
+      "gloss": "каһәрләмә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "фатыйха бирмә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-04T22:14:31.859977188Z",
+  "model": "glm-5.3"
+}

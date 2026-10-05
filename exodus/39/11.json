@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Һәм икенче рәт — нофех, саппир һәм яһалом.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "һәм рәт"
+    },
+    {
+      "surface": "השני",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "нофех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "саппир"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "һәм яһалом"
+    }
+  ],
+  "timestamp": "2026-10-04T21:53:32.410587637Z",
+  "model": "glm-5.3"
+}

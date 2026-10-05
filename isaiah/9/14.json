@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Карый һәм ⟨мактаулы⟩ йөз — ул баш; һәм ялган өйрәтүче пәйгамбәр — ул койрык.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "карый"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "һәм күтәрелгән"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "баш"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "һәм пәйгамбәр"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "өйрәтүче"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "койрык"
+    }
+  ],
+  "timestamp": "2026-10-04T23:32:27.189518412Z",
+  "model": "glm-5.3"
+}

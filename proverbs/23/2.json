@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Үз түәләгеңә бычак төрт, әгәр җан иясе булсаң.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "бычак"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "үз түәләгеңә"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "иясе"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:50.291024003Z",
+  "model": "glm-5.3"
+}

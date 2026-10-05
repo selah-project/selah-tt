@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 45,
+  "translation": "Илнең бөтен халкы бу түләүгә кушылыр, Йисраэлдәге башлыкка.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халкы"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "илнең"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эль"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "түләүгә"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "башлыкка"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлдәге"
+    }
+  ],
+  "timestamp": "2026-10-05T00:24:41.011069132Z",
+  "model": "glm-5.3"
+}

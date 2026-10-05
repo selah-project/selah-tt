@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм ул аңа Шивга дип исем кушты; шуңа күрә шәһәрнең исеме Беэр-Шева бүгенге көнгә кадәр.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "исем кушты"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Шивга"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Шивга"
+    },
+    {
+      "surface": "על",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "שם",
+      "gloss": "исеме"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шәһәрнең"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгенге көнгә"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бүгенге"
+    }
+  ],
+  "timestamp": "2026-10-04T21:30:33.694431231Z",
+  "model": "glm-5.3"
+}

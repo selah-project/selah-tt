@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 44,
+  "translation": "Элоһим монны тикшермәсме? Чөнки Ул йөрәк серләрен белә.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "монсы... түгелме"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "тикшермәсме"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "монны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белә"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "серләрен"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:02.438446050Z",
+  "model": "glm-5.3"
+}

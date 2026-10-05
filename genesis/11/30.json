@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Сарай бала тудыра алмый иде, аның балаcагы юк иде.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "иде"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сарай"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "бala тудыра алмый"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аның"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "балаcагы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:27:09.436722539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 140,
+  "translation": "Беләм ки Яһвә мескеннәр өчен хөкем кылыр, фәкыйрләр өчен суд ⟨үткәрер⟩.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "беләм"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "кылыр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "דין",
+      "gloss": "хөкем"
+    },
+    {
+      "surface": "עני",
+      "gloss": "мескеннәр"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "фәкыйрләр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:25.888591549Z",
+  "model": "glm-5.3"
+}

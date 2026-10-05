@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Кешенең йөрәге үз юлын уйлый, ләкин Яһвә аның адымын беркетә.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "йөрәге"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "уйлый"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "үз юлын"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ләкин Яһвә"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "беркетә"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "аның адымын"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:03.727699261Z",
+  "model": "glm-5.3"
+}

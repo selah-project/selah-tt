@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Мин яшим — Адонай Яһвә сүзе — бу мәкаль Йисраэлдә сезгә арткы тапкыр кулланылмас.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "яшим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "арткы тапкыр"
+    },
+    {
+      "surface": "משל",
+      "gloss": "кулланыр"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "мәкальне"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлдә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:12:53.586652116Z",
+  "model": "glm-5.3"
+}

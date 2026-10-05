@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Чөнки Адонай Яһвә болай дип әйтте: Бавыл патшасының кылычы сиңа килер.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כה",
+      "gloss": "болай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дип әйтте"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылычы"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасының"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавыл"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "сиңа килер"
+    }
+  ],
+  "timestamp": "2026-10-05T00:18:54.761429743Z",
+  "model": "glm-5.3"
+}

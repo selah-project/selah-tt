@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Синең капчыгыңда таш һәм таш, зур һәм кечкенә, булмасын.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "булмасын"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "синең"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "капчыгыңда"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "һәм таш"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "зур"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "һәм кечкенә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:18.147853575Z",
+  "model": "glm-5.3"
+}

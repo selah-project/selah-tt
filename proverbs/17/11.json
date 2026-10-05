@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Тик баш күтәрүче начарлык эзли, һәм аңа рәхимсез илче җибәрелер.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "тик"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "баш күтәрүче"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "эзли"
+    },
+    {
+      "surface": "רע",
+      "gloss": "начарлык"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "һәм илче"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "рәхимсез"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "җибәрелер"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:07.648010130Z",
+  "model": "glm-5.3"
+}

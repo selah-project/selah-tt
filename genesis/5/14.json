@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Кейнанның бар көннәре тугыз йөз ун ел булды, һәм ул үлде.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәре"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Кейнанның"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "тугыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үлде"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:17.104473057Z",
+  "model": "glm-5.3"
+}

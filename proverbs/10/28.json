@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Цадекларның өмете шатлык, ә явызларның көтүе һәлак була.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "өмете"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "цадекларның"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "шатлык"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "көтүе"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "явызларның"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "һәлак була"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:20.111364279Z",
+  "model": "glm-5.3"
+}

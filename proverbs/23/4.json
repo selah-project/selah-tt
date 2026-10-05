@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Бай булырга арып талма, үз аңыңнан тукта.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "арып талма"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "бай булырга"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "үз аңыңнан"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "тукта"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:50.291362411Z",
+  "model": "glm-5.3"
+}

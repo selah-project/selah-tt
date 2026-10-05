@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бер үгез, көтү улы, бер тәкә, бер бәрән, яше бер ел, үтә яндыру корбаны өчен:",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "үгез"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "көтү"
+    },
+    {
+      "surface": "איל",
+      "gloss": "тәкә"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "бәрән"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "яше"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "бер ел"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "үтә яндыру корбаны өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:51.646786780Z",
+  "model": "glm-5.3"
+}

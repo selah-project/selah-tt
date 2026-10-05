@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Мин ятып йокладым, уяндым, чөнки Яһвә мине тотып тора.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "яттым"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "йокладым"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "уяндым"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "мине тотып тора"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:48.133698219Z",
+  "model": "glm-5.3"
+}

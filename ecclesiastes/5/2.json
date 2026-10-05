@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Чөнки төш күп мәшгульлектән килә, ә акылсыз тавышы — күп сүздән.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "төш"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "күп…тан"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "мәшгульлек"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "тавышы"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "акылсыз"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "күп…дан"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "сүз"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:01.521434780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Чөнки төшләр күплегендә, улар һәм сүзләр күп; ләкин ⟨את⟩ Элоһимнан куркы.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "күплегендә"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "төшләр"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "улар"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "һәм сүзләр"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "күп"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ләкин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элоһимнан"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "куркы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:25.736228709Z",
+  "model": "glm-5.3"
+}

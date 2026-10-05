@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Шеол һәм Һәлакәт туймыйлар, һәм кешенең күзләре дә туймыйлар.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "һәм Һәлакәт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "туймыйлар"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "һәм күзләре"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "туймыйлар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:31.787106827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Эй, Яаков йорты, килегез, Яһвә яктылыгында йөрик!",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "йорты"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "килегез"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "йөрик"
+    },
+    {
+      "surface": "באור",
+      "gloss": "яктылыгында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:28:39.505996239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Әгәр кардәшеңә бурыч бирсәң, нәрсә булса да, аның өенә кермә аның тәминатын алуга.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "бырыч бирсәң"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "кардәшеңә"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "урыч"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "нәрсә булса да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "кермә (юк)"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "керү"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эченә"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "аның өенә"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "алуга"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "аның тәминатын"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:17.493347168Z",
+  "model": "glm-5.3"
+}

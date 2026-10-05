@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Яһвә сезнең аталарыгызга ачуланды — бик каты ачуланды.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "ачуланды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "על",
+      "gloss": "уга"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "аталарыгызга"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ачу"
+    }
+  ],
+  "timestamp": "2026-10-05T00:37:40.095577932Z",
+  "model": "glm-5.3"
+}

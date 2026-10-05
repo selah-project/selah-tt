@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Яаков аларга әйтте: Энем, сез кайдан? Алар әйтте: Без Һаранныннан.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Энем"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "кайдан"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сез"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "әйттеләр"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Һаранныннан"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "без"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:10.769938447Z",
+  "model": "glm-5.3"
+}

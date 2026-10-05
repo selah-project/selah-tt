@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Шемның уллары: Элам, һәм Ашур, һәм Арпахшад, һәм Луд, һәм Арам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шемның"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Элам"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "һәм Ашур"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "һәм Арпахшад"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "һәм Луд"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "һәм Арам"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:08.310312666Z",
+  "model": "glm-5.3"
+}

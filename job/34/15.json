@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "бөтен ит бергә үләр, һәм кеше тузанга кайтыр.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "үләр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ит"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бергә"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "һәм кеше"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ ona ⟠"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "тузанга"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "кайтыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:26:16.947449572Z",
+  "model": "glm-5.3"
+}

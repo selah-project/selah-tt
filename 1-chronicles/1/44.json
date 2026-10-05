@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 1:44",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Бела үлде, һәм аның урынына Зерәх улы, Боцрадан Йовав патшалык итте.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "үлде"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "патшалык итте"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "аның урынына"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерәх"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "Боцрадан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:57.113212008Z",
+  "model": "glm-5.3"
+}

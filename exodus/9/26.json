@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Тик Гошен илендә генә, анда Йисраэл уллары булганлыктан, боз булмады.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тик"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "илендә"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Гошен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "боз"
+    }
+  ],
+  "timestamp": "2026-10-04T21:43:07.769159306Z",
+  "model": "glm-5.3"
+}

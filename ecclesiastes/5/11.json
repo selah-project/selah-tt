@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Эшләүченең йокысы татлы — аз ашаса да, күп ашаса да; ә байның туйганы аңа йокларга ирек бирми.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "татлы"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "йокысы"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "эшләүченең"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ашаса да"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ашаса да"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "күп"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашый"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "туйганы"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "байның"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "юк"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "ирек бирми"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ана"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "йокларга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:52.137665383Z",
+  "model": "glm-5.3"
+}

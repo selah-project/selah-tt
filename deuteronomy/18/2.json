@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм аның кардәшләре арасында мирас булмас; Яһвә Үзе аның мирасы, Аның аңа әйткәнече буенча.",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "һәм мирас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "булмас"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аның"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "кардәшләре"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Үзе"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "аның мирасы"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "буенча"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "әйткән"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T22:26:46.262367846Z",
+  "model": "glm-5.3"
+}

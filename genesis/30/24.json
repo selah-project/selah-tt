@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм ул ⟨את⟩ аның исемен Йосеф дип атады, сүзләп: Яһвә миңа тагын бер ул өстәсен.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "дип атады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аның исемен"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "аның исемен"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "сүзләп"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "өстәсен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "тагын бер"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:45.224640481Z",
+  "model": "glm-5.3"
+}

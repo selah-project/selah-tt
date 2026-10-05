@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Алар әйтәләр: Якын түгел — йортлар салыйк; бу ⟨шәһәр⟩ казан, ә без — ит.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "әйтә торганнар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "якын"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "салыйк"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "йортлар"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "казан"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ә без"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ит"
+    }
+  ],
+  "timestamp": "2026-10-05T00:10:40.345197450Z",
+  "model": "glm-5.3"
+}

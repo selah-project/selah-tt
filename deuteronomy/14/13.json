@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәм рааһны, һәм ⟨את⟩ аяһны, һәм даяны үз төренә карап.",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "рааһны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "аяһны"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "аяһны"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "дяяны"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "үз төренә карап"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:56.210130498Z",
+  "model": "glm-5.3"
+}

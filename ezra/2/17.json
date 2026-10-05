@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 2:17",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Бецай уллары: өч йөз егерме өч.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "Бецай"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "һәм өч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:09.710495492Z",
+  "model": "glm-5.3"
+}

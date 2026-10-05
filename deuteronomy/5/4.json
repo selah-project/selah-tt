@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Йөз Йөзгә каршы Яһвә сезнең белән тауда сөйләште, ут эченнән.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Йөз"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "Йөзгә каршы"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйләште"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "сезнең белән"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тауда"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "эченнән"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ут"
+    }
+  ],
+  "timestamp": "2026-10-05T02:26:02.461722768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм бу эш патшаның һәм бөтен җыелышның күзенә дөрес булып кылды.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "һәм дөрес булып кылды"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "эш"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "күзенә"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "һәм күзенә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "җыелышның"
+    }
+  ],
+  "timestamp": "2026-10-05T02:15:54.913621852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Ә сез, Яһвәгә, үз Элоһигезгә ябышканнар, барыгыз да тере бүген.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ә сез"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "ябышканнар"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоһигезгә"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тере"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "барыгыз да"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүген"
+    }
+  ],
+  "timestamp": "2026-10-04T22:21:17.703875785Z",
+  "model": "glm-5.3"
+}

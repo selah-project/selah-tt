@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм бөтен ит күрер: Мин — Яһвә — аны кабыздым, ул сүнмәс.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "һәм күрер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "вשר",
+      "gloss": "ит"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "аны кабыздым"
+    },
+    {
+      "surface": "לא",
+      "gloss": "‑мас"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "сүн"
+    }
+  ],
+  "timestamp": "2026-10-05T00:14:34.986994011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Арпахшад отыз биш ел яшәде һәм ⟨את⟩ Шелахны тудырды.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "һәм Арпахшад"
+    },
+    {
+      "surface": "חי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелахны"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелах"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:11.015340548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "бер үгезе, көтү улларыннан; бер тәкә; бер бәрән, беръеллык, үртәләнү корбаны өчен.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "үгезе"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "көтү"
+    },
+    {
+      "surface": "איל",
+      "gloss": "тәкә"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "бәрән"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "беръеллык"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "беръеллык"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "үртәләнү корбаны өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:28.174472546Z",
+  "model": "glm-5.3"
+}

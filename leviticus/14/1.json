@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәм Яһвә Моше-гә сөйләде әйтеп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп:"
+    }
+  ],
+  "timestamp": "2026-10-04T21:58:59.346484531Z",
+  "model": "glm-5.3"
+}

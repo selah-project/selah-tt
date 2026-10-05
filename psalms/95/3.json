@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 95,
+  "translation": "Чөнки Яһвә — бөек Эл, барлык аллалар өстеннән бөек патша.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "һәм патша"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "аллалар"
+    }
+  ],
+  "timestamp": "2026-10-05T00:58:20.325960452Z",
+  "model": "glm-5.3"
+}

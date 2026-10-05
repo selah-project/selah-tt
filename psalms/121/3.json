@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 121,
+  "translation": "Аягың тайгалмасын — сине саклаучы йокламасын.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "юк"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бирмәсен"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "тайгалдырырга"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "аягыңны"
+    },
+    {
+      "surface": "אל",
+      "gloss": "юк"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "йокламасын"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "саклаучың"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:39.968800763Z",
+  "model": "glm-5.3"
+}

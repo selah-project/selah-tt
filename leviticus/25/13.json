@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Бу Йовель елында һәркем үз биләмәсенә кайтыргыз.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "елында"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "Йовель"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "кайтыргыз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "һәркем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үз...ә"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "биләмәсе"
+    }
+  ],
+  "timestamp": "2026-10-04T22:04:13.645465614Z",
+  "model": "glm-5.3"
+}

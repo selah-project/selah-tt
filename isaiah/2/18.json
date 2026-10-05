@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм потлар тулысынча юк булырлар.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "һәм потлар"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "тулысынча"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "юк булырлар"
+    }
+  ],
+  "timestamp": "2026-10-04T23:28:34.718380117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Хакыйкатьне сатып ал һәм сатма: хикмәтне, тәрбияне һәм аңны.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "хакыйкатьне"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "сатып ал"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "сатма"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәтне"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "һәм тәрбияне"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "һәм аңны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:19.240054156Z",
+  "model": "glm-5.3"
+}

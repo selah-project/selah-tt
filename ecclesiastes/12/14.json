@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Чөнки Элоһим бөтен эшне ⟨את⟩ хөкемгә китерер, бөтен яшерелгән нәрсә өстеннән, яхшы булса да, яман булса да.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен эшне"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "эшне"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "китерер"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "хөкемгә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "яшерелгән нәрсә"
+    },
+    {
+      "surface": "אם",
+      "gloss": "я"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "я"
+    },
+    {
+      "surface": "רע",
+      "gloss": "яман"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:51.612359099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Һәм Яһвә сүзе миңа килде, әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאмר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-05T00:14:47.979827492Z",
+  "model": "glm-5.3"
+}

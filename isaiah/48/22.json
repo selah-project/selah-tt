@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Явызларга тынычлык юк, Яһвә сүзе.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынычлык"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "явызларга"
+    }
+  ],
+  "timestamp": "2026-10-04T23:40:43.063086315Z",
+  "model": "glm-5.3"
+}

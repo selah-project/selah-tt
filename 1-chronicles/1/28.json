@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Авраһамның уллары: Йицхак һәм Ишмаил.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһамның"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "һәм"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:51.531843102Z",
+  "model": "glm-5.3"
+}

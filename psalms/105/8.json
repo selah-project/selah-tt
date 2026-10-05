@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 105,
+  "translation": "Ул үлемсезгә Үз килешүен истә тота, мең буынга боерган сүзен.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "истә тота"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үлемсезгә"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "Үз килешүен"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзен"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "боерган"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "דור",
+      "gloss": "буынга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:00:05.980788146Z",
+  "model": "glm-5.3"
+}

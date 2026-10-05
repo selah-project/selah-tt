@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 42,
+  "translation": "Һәм Йосефның ун туганы Мицраимнан ашлык алырга төште.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "төште"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "туганы"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефның"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "алырга"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ашлык"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицраимнан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:38:21.616017277Z",
+  "model": "glm-5.3"
+}

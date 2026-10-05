@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 82,
+  "translation": "Мин әйттем: сез — Элоһим, һәм барыгыз да Эльон уллары.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "әйттем"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сез"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльон"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "барыгыз да"
+    }
+  ],
+  "timestamp": "2026-10-05T00:55:43.527456284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Яһвәнең тавышы ут ялкыннарын кисә.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "тавышы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "кисә"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ялкыннарын"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ут"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:21.745456773Z",
+  "model": "glm-5.3"
+}

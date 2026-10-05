@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Күзем түгелә һәм тынычланмаячак, тынычлык булмаганлыктан.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "күзем"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "түгелә"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгалмаячак"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "тынычланмаячак"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "булмаганлыктан"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "тынычлык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:13.529373906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм ул аннан Беэр-Шевага менде.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "менде"
+    },
+    {
+      "surface": "משם",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    }
+  ],
+  "timestamp": "2026-10-04T21:30:51.445727439Z",
+  "model": "glm-5.3"
+}

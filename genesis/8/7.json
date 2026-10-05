@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм ул ⟨את⟩ карганы җибәрде, һәм ул сулар җирдән корыганчы чыгып-кайтып йөрде.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "җибәрде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "карганы"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "карга"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "чыгып"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "кайтып"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "корыганчы"
+    },
+    {
+      "surface": "המים",
+      "gloss": "сулар"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирнең"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:19.904213833Z",
+  "model": "glm-5.3"
+}

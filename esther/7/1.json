@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм патша һәм Һаман Эстер патшабикә белән эчәргә килделәр.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "килделәр"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "һәм Һаман"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "эчәргә"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "патшабикә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:39:02.380045262Z",
+  "model": "glm-5.3"
+}

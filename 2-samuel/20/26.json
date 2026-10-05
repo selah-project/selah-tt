@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "һәм шулай ук Гыра Яири Давид өчен каһин булды.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "һәм шулай ук"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Гыра"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "Яири"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T23:05:17.226622783Z",
+  "model": "glm-5.3"
+}

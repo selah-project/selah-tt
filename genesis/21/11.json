@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм бу эш Авраһамның күзендә бик авыр булды, аның улы турында.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "авыр булды"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "эш"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "күзендә"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһамның"
+    },
+    {
+      "surface": "על",
+      "gloss": "турында"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "сәбәпле"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:22.527789270Z",
+  "model": "glm-5.3"
+}

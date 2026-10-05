@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәнәз, Яһвә өчен көн килә, һәм синең талаң синең уртаңда бүленәчәк.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Һәнәз"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвә өчен"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "һәм бүленәчәк"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "синең талаң"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "синең уртаңда"
+    }
+  ],
+  "timestamp": "2026-10-05T00:40:31.350311221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "һәм Яһвәдә ләззәтлән, ул сиңа йөрәгең сораганын бирер.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "ләззәтлән"
+    },
+    {
+      "surface": "על",
+      "gloss": "Яһвәдә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәдә"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ул бирер"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "сораганын"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "йөрәгең"
+    }
+  ],
+  "timestamp": "2026-10-05T00:47:23.179078786Z",
+  "model": "glm-5.3"
+}

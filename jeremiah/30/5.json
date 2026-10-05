@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Чөнки болай диде Яһвә: калтырав тавышын ишеттек — курку, һәм тынычлык юк.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "כה",
+      "gloss": "болай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "קול",
+      "gloss": "тавышын"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "калтыравның"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ишеттек"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "курку"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм юк"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынычлык"
+    }
+  ],
+  "timestamp": "2026-10-04T23:57:13.828474333Z",
+  "model": "glm-5.3"
+}

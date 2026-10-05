@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Синең бөтен агачларыңны һәм җиреңнең җимешләрен чикерткә басып алачак.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "агачларыңны"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "һәм җимешләрен"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "җиреңнең"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "басып алачак"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "чикерткә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:53.702178424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Аһ, юлларым нык булса иде, Синең үгетләреңне сакларга!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Аһ"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "нык булса иде"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "юлларым"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "сакларга"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "үгетләреңне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:33.371650538Z",
+  "model": "glm-5.3"
+}

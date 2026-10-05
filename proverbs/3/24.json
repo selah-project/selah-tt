@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ятканда куркмассың, ә яткансың икән — йокың татлы булыр.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ятканда икән"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ятканда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תפחд",
+      "gloss": "куркмассың"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "яткансың"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "һәм татлы булыр"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "йокың"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:49.539366208Z",
+  "model": "glm-5.3"
+}

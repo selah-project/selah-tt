@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 15:20",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм нәрсәгә ул аерылуында ятса, нәҗес булыр, һәм нәрсәгә ул утырса, нәҗес булыр.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "һәм нәрсә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эш"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ятса"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ана"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "аерылуында"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "нәҗес булыр"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм нәрсә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эш"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "утырса"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ана"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "нәҗес булыр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:01:03.461218124Z",
+  "model": "glm-5.3"
+}

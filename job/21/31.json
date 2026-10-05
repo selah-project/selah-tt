@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 21:31",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Кем аның юлын аның йөзенә әйтер? һәм ул нәрсә эшләгән — аңа кем түләр?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "әйтер"
+    },
+    {
+      "surface": "על",
+      "gloss": "кашына"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "аның йөзенә"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "аның юлын"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "һәм ул"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшләгән"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "түләр"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:23:32.213459977Z",
+  "model": "glm-5.3"
+}

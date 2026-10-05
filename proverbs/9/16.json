@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "«Кем аңгыра — монда борылсын!» һәм акылы җитмәгән кешегә ул шулай дия:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "аңгыра"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "борылсын"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "монда"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "җитмәгән"
+    },
+    {
+      "surface": "לב",
+      "gloss": "акылы"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "дия"
+    },
+    {
+      "surface": "לו",
+      "gloss": "кешегә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:52.600917159Z",
+  "model": "glm-5.3"
+}

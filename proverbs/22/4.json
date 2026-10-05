@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Түбәнлелекнең ахыры — Яһвәдән курыку ⟨ул⟩: байлык, дан һәм тормыш.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ахыры"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "түбәнлелекнең"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "корыку"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәдән"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "байлык"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "һәм дан"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "һәм тормыш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:55.963122782Z",
+  "model": "glm-5.3"
+}

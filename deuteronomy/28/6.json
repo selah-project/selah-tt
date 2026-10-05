@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Кергәндә син бәрәкәтле, чыкканда да син бәрәкәтле.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "бәрәкәтле"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "кергәндә"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "һәм бәрәкәтле"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "чыкканда"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:47.430598443Z",
+  "model": "glm-5.3"
+}

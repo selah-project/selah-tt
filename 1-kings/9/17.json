@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Шеломо ⟨את⟩ Гезерны, ⟨את⟩ Бет-Һороны түбәнге шәһәрне төзеде.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "төзеде"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гезерны"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Гезер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Бет-Һороны"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "-Һорон"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "түбәнге"
+    }
+  ],
+  "timestamp": "2026-10-04T23:12:14.906136425Z",
+  "model": "glm-5.3"
+}

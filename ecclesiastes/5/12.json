@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Кояш астында авыру явызлык бар, мин күрдем: хуҗасына аның зыянына сакланган байлык.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "авыру"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "күрдем"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояш"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "байлык"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "сакланган"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "хуҗасына"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "зыянына"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:52.137844890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм ул әйтте: Мин Авраһамның колы.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Һәм ул әйтте"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "колы"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһамның"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мин"
+    }
+  ],
+  "timestamp": "2026-10-04T21:30:16.359623581Z",
+  "model": "glm-5.3"
+}

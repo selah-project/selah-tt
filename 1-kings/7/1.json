@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм ⟨את⟩ үз өен Шломо унөч елда төзеде һәм ⟨את⟩ бөтен өен тәмамлады.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "үз өен"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үз өен"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "төзеде"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "унөч елда"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "унөч"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "тәмамлады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен өен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "өен"
+    }
+  ],
+  "timestamp": "2026-10-04T23:10:49.176228639Z",
+  "model": "glm-5.3"
+}

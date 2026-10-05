@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм Давид мең башлыклары һәм йөз башлыклары белән, һәр башлык белән киңәшләште.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "киңәшләште"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башлыклары"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "мең"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "һәм йөз"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "башлык"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:22.644034091Z",
+  "model": "glm-5.3"
+}

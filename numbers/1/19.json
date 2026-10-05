@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Яһвә ⟨את⟩ Мошега кушканча, Синай чүлендә аларны исәпкә алды.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "кушканча"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "кушкан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошега"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "исәпкә алды"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чүлендә"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-10-04T22:06:04.561173823Z",
+  "model": "glm-5.3"
+}

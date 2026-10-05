@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 132,
+  "translation": "күзләремә йокы бирмәсәм, керфекләремә малаю бирмәсәм —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "бирмәсәм"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "йокы"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "күзләремә"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "керфекләремә"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "малау"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:35.378633643Z",
+  "model": "glm-5.3"
+}

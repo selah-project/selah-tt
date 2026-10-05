@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Иреннәр үбә ⟨аны⟩ — туры сүзләрне кайтаручыны.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "иреннәр"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "үбә"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "кайтаручыны"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "сүзләрне"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "туры"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:28.295703381Z",
+  "model": "glm-5.3"
+}

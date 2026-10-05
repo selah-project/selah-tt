@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Урлаучыны кимсетмиләр: ул ач булганга, үз җанын туйдырыр өчен урлый.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "кимсетмиләр"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "урлаучыны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "урлый"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "туйдырыр өчен"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "үз җанын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "ач"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:37.137588776Z",
+  "model": "glm-5.3"
+}

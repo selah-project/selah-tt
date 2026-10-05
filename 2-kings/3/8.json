@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм ул әйтте: Кайсы юл белән менәбез? Һәм ул әйтте: Эдом чүлләре юлы белән.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אי",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "זה",
+      "gloss": "…"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "юл"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "менәбез"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юлы"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "чүлләре"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-10-04T23:19:29.145854836Z",
+  "model": "glm-5.3"
+}

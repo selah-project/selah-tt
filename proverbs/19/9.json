@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Ялган шаһит җәзасыз калмас, һәм ялган өргән кеше һәлак булыр.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "шаһит"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "җәзасыз калмас"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "һәм өргән"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "һәлак булыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:29.749168998Z",
+  "model": "glm-5.3"
+}

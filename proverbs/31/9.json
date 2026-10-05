@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Авызыңны ач, цедек белән хөкем ит, һәм мескенне һәм ярлыны судла.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ач"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "авызыңны"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "хөкем ит"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "һәм суд"
+    },
+    {
+      "surface": "עני",
+      "gloss": "мескенне"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "һәм ярлыны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:17:07.679972257Z",
+  "model": "glm-5.3"
+}

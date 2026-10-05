@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Җәенәр бер, гөнаһ корбаны өчен.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "җәенәр"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "кечәләрдән"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "гөнаһ корбаны өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T22:08:58.244973966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 99,
+  "translation": "Синең исемеңне мактыйлар — бөек һәм куркыныч; изге ⟨Ул⟩.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "мактыйлар"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "исемеңне"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "һәм куркыныч"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "изге"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:04.610461395Z",
+  "model": "glm-5.3"
+}

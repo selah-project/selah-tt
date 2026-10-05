@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "бер алтын җәяү, ун шекел, төтетү әтрефелә белән тулы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "җәяү"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "төтетү әтрефеле"
+    }
+  ],
+  "timestamp": "2026-10-04T22:08:04.275539672Z",
+  "model": "glm-5.3"
+}

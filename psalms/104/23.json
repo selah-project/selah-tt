@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 104,
+  "translation": "Кеше үз эшенә чыга һәм кичкә кадәр үз хезмәтенә.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "чыга"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "үз эшенә"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "һәм үз хезмәтенә"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кич"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:02.476889609Z",
+  "model": "glm-5.3"
+}

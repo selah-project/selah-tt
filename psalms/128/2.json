@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 128,
+  "translation": "Кулларың хезмәтен ашарсың: бәхетле буласың, һәм сиңа яхшы булыр.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "хезмәт"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "кулларың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ашарсың"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "бәхетле"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:15.415604441Z",
+  "model": "glm-5.3"
+}

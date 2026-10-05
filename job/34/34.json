@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 34:34",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Йөрәк ияләре миңа әйтер, һәм хикмәтле ир мине тыңлар.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ияләре"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "әйтер"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "һәм ир"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хикмәтле"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңлар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мине"
+    }
+  ],
+  "timestamp": "2026-10-05T01:26:36.331451171Z",
+  "model": "glm-5.3"
+}

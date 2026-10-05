@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Абиалбон, Арабатлы; Азмавет, Барһумлы.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Аби"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "албон"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "Арабатлы"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "Барһумлы"
+    }
+  ],
+  "timestamp": "2026-10-04T23:07:22.534675176Z",
+  "model": "glm-5.3"
+}

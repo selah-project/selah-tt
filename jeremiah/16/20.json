@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Әллә кеше үзенә аллалар ясармы? ә алар — алла түгел.",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Әллә ... ясармы"
+    },
+    {
+      "surface": "לו",
+      "gloss": "үзенә"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "аллалар"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ә алар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "алла"
+    }
+  ],
+  "timestamp": "2026-10-04T23:51:57.644060120Z",
+  "model": "glm-5.3"
+}

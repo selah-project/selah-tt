@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "һәм су мәйдан тирәли агыды, һәм ул ⟨את⟩ урымны да су белән тутырды.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "агыды"
+    },
+    {
+      "surface": "המים",
+      "gloss": "су"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тирәли"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "мәйдан"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "һәм да"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "урымны"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "урымны"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "тутырды"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су белән"
+    }
+  ],
+  "timestamp": "2026-10-04T23:17:03.586482728Z",
+  "model": "glm-5.3"
+}

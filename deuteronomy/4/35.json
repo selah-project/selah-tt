@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Сиңа күрсәтелде, белер өчен, ки Яһвә — Ул Элоһим, Аннан башка ⟨башка⟩ юк.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "күрсәтелде"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "белер өчен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "башка"
+    },
+    {
+      "surface": "мלבדו",
+      "gloss": "Аннан башка"
+    }
+  ],
+  "timestamp": "2026-10-04T22:21:54.792646472Z",
+  "model": "glm-5.3"
+}

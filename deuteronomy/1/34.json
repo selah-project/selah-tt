@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Яһвә сүзләрегезнең тавышын ⟨את⟩ ишетте, ачуланды һәм ант итте, әйтеп:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ишетте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тавышын"
+    },
+    {
+      "surface": "קול",
+      "gloss": "тавышын"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "сүзләрегезнең"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ачуланды"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ант итте"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T22:20:08.899420254Z",
+  "model": "glm-5.3"
+}

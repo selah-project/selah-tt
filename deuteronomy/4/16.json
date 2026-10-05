@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Ялгыш үзегезне бозарсыз һәм үзегезгә сын ясарсыз — һәрнинди рәсем сурәте, ир яки хатын төсе.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ялгыш"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "бозарсыз"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ясарсыз"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "үзегезгә"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "сын"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "сурәте"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәрнинди"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "рәсем"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "төс"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ир"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "хатын"
+    }
+  ],
+  "timestamp": "2026-10-04T22:21:16.683117997Z",
+  "model": "glm-5.3"
+}

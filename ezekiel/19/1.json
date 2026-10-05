@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм син Йисраэл башлыклары турында мәрсия күтәр.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "һәм син"
+    },
+    {
+      "surface": "שא",
+      "gloss": "күтәр"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "мәрсия"
+    },
+    {
+      "surface": "אל",
+      "gloss": "турында"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "башлыклары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T00:13:35.246079537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Күтәренке күзләр, ялган тел, һәм гаепсез кан түкүче куллар,",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "күзләр"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "күтәренке"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тел"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "һәм куллар"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "түкүче"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "гаепсез"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:27.929695160Z",
+  "model": "glm-5.3"
+}

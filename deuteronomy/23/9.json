@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Балалар, аларга туганнар, өченче буын, Яһвә җәмгыятенә керер.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "балалар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "туганныр"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "дור",
+      "gloss": "буын"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "өченче"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "керер"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "җәмгыятьенә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:19.857210829Z",
+  "model": "glm-5.3"
+}

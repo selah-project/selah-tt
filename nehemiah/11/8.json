@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм аның артыннан Габбай ⟨һәм⟩ Саллай — тугыз йөз егерме һәм сигез.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "һәм аның артыннан"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "Габбай"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "Саллай"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тугыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "һәм сигез"
+    }
+  ],
+  "timestamp": "2026-10-05T02:47:47.328975413Z",
+  "model": "glm-5.3"
+}

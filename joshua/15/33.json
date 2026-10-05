@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Түбән җирдә: Эштаол, һәм Цорга, һәм Ашна.",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "түбән җирдә"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "Эштаол"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "һәм Цорга"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "һәм Ашна"
+    }
+  ],
+  "timestamp": "2026-10-04T22:36:53.214903602Z",
+  "model": "glm-5.3"
+}

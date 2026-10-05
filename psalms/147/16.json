@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 147,
+  "translation": "Карны йон кебек бирүче, кырауны көл кебек чәчә.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "бирүче"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "Карны"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "йон кебек"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "кырауны"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "көл кебек"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "чәчә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:14.727904204Z",
+  "model": "glm-5.3"
+}

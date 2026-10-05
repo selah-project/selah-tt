@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Шул вакытта Яравәмнең улы Абыя авырый башлады.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "вакытта"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "авырый башлады"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Абыя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яравәмнең"
+    }
+  ],
+  "timestamp": "2026-10-04T23:14:30.558450167Z",
+  "model": "glm-5.3"
+}

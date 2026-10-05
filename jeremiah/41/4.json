@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Һәм булды икенче көнне, Гдльяны үтергәннән соң, һәм бер кеше дә белмәде.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "השני",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "үтерү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гдльяны"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Гдлья"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "һәм бер кеше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "да ... түгел"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белмәде"
+    }
+  ],
+  "timestamp": "2026-10-05T00:00:56.081311897Z",
+  "model": "glm-5.3"
+}

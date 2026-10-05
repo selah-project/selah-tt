@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Нинди көчем бар, көтәргә? Һәм ни ахырым бар, җанымны озайтырга?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "нинди"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "көчем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "көтәргә"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "һәм ни"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "ахырым"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "озайтырга"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җанымны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:18:42.755860286Z",
+  "model": "glm-5.3"
+}

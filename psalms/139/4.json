@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 139,
+  "translation": "Чөнки минем телемдә сүз юк, әче, Яһвә, Син аны тулысынча беләсең.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "минем телемдә"
+    },
+    {
+      "surface": "הן",
+      "gloss": "әче"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "беләсең"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "аны тулысынча"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:16.940125149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бер үгез, көтү уланы, бер тәкә, бер бәрән, бер еллык, үтә корбаны өчен.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "үгез"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уланы"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "көтү"
+    },
+    {
+      "surface": "איל",
+      "gloss": "тәкә"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "бәрән"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уланы"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "бер еллык"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "үтә корбаны өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:06.272930208Z",
+  "model": "glm-5.3"
+}

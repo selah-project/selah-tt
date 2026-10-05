@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Яһвә, безнең Элоһимыбыз, безнең белән Хоребта килешү кисеп-ясады.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "безнең Элоһимыбыз"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "кисеп-ясады"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "безнең белән"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "килешү"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Хоребта"
+    }
+  ],
+  "timestamp": "2026-10-05T02:26:10.849716313Z",
+  "model": "glm-5.3"
+}

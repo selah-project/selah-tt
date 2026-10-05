@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Чөнки алар — киңәшен югалткан халык, һәм аларда акыл юк.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "халык"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "югалткан"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "киңәшен"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм юк"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "аларда"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "акыл"
+    }
+  ],
+  "timestamp": "2026-10-05T02:26:52.979846658Z",
+  "model": "glm-5.3"
+}

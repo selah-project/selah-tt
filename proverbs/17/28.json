@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 17:28",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Хәтта акылсыз тын торса, зирәк дип исәпләнә; иреннәрен йомган — аңлы дип.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "хәтта"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "акылсыз"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "тын тора"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "зирәк"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "исәпләнә"
+    },
+    {
+      "surface": "אטם",
+      "gloss": "йома"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "иреннәрен"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "аңлы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:32.454129389Z",
+  "model": "glm-5.3"
+}

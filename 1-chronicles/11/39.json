@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Целек әл-Ғаммони, Нгахрай әл-Бероти — Йоав, Цруйя улының корал йөртүчесе.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "Целек"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "әл-Ғаммони"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "Нгахрай"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "әл-Бероти"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "йөртүчесе"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "корал"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруйя"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:00.806046251Z",
+  "model": "glm-5.3"
+}

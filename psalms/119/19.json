@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Мин җирдә ят кешем; әмерләреңне миннән яшермә.",
+  "tokens": [],
+  "timestamp": "2026-10-05T01:02:55.223367570Z",
+  "model": "glm-5.3"
+}

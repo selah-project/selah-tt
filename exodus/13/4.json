@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Бу көнне сез чыгып китәсез, Авив аенда.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "бу көнне"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сез"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "чыгып китәсез"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "аенда"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Авив"
+    }
+  ],
+  "timestamp": "2026-10-04T21:44:59.027258814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Шулай диде Адонай Яһвә Цеваот: бар, өй өстендәге идарәче Шебнага — бу идарәчегә барып кер һәм ⟨аңа⟩ әйт:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кер"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "идарәче"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендәге"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Шебна"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "өй"
+    }
+  ],
+  "timestamp": "2026-10-04T23:33:58.075417133Z",
+  "model": "glm-5.3"
+}

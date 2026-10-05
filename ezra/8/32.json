@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм килдек Йерушалаимга һәм тордык анда өч көн.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "һәм килдек"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалаимга"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "һәм тордык"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "өч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:50:32.908625570Z",
+  "model": "glm-5.3"
+}

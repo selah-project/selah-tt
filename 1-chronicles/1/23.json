@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "һәм ⟨את⟩ Офирны, һәм ⟨את⟩ Хавилаһны, һәм ⟨את⟩ Йовавны; болар барысы да Йоктан уллары.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Офир"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Офир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хавилаһ"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Хавилаһ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Йовав"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысы да"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Йоктан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:43.076560351Z",
+  "model": "glm-5.3"
+}

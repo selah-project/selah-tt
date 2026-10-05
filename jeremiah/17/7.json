@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Бәрекәтле ул кеше, Яһвәгә таянган, һәм Яһвә аның таянычы булыр.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "бәрекәтле"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ул кеше"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кем"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "таянган"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "һәм булыр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "аның таянычы"
+    }
+  ],
+  "timestamp": "2026-10-04T23:52:26.424638298Z",
+  "model": "glm-5.3"
+}

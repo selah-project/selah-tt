@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 52,
+  "translation": "Җитәкләүчегә. Давидның өйрәтү шигыре.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "җитәкләүчегә"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "өйрәтү шигыре"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидның"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:59.301780492Z",
+  "model": "glm-5.3"
+}

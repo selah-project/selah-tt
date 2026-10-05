@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Беренче айда, айның ундүртенче көнендә, кич аралыгында — Песах, Яһвәгә.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "беренче айда"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "беренче"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айның"
+    },
+    {
+      "surface": "בין",
+      "gloss": "аралыгында"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "кич"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:03:04.466976136Z",
+  "model": "glm-5.3"
+}

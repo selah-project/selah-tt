@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 70,
+  "translation": "Элоһим, мине коткар; Яһвә, ярдәмгә миңа, ашыгыр!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "мине коткарырга"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ярдәмгә миңа"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ашыгыр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:53:31.444049835Z",
+  "model": "glm-5.3"
+}

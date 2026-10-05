@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Чөнки Сиңа, өмет итәм, Син җавап бирерсең, Адонай, Элоһимы м.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сиңа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "өмет итәм"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "җавап бирерсең"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһимы м"
+    }
+  ],
+  "timestamp": "2026-10-05T00:48:13.757898894Z",
+  "model": "glm-5.3"
+}

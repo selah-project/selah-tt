@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Кирьат-Әрим, Кефира һәм Беерот уллары — җиде йөз кырык өч.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирьат-"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Әрим"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Кефира"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "һәм Беерот"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "өч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:45:50.398673808Z",
+  "model": "glm-5.3"
+}

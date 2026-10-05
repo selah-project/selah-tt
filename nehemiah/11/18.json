@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Изге шәһәрдә бөтен левилар — ике йөз дә сиксән дә дүрт.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левилар"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шәһәрдә"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "изге"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ике йөз"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "сиксән"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "һәм дүрт"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:11.297095090Z",
+  "model": "glm-5.3"
+}

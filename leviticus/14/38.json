@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "һәм каһин өйдән өй ишеге янына чыгыр, һәм ⟨את⟩ өйне җиде көнгә ябып куяр.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "чыгыр"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "өйдән"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ишеге"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "өй"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ябып куяр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өйне"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "өйне"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көнгә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:58:58.111008106Z",
+  "model": "glm-5.3"
+}

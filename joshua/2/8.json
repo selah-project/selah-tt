@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм алар ятканчы, ул алар янына түбәгә менгән иде.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "һәм алар"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "…ганчы"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "ятканчы"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "һәм ул"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "менгән иде"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "алар янына"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "түбә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:32:17.469160353Z",
+  "model": "glm-5.3"
+}

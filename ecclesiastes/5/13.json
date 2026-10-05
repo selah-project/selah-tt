@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "һәм байлык бөлгенлек белән һәлак була, һәм ул ул тудыра, ә аның кулында берни дә юк.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "һәлак була"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "байлык"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "бөлгенлектә"
+    },
+    {
+      "surface": "רע",
+      "gloss": "явызлык белән"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "тудыра"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "аның кулында"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "берни дә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:30.493913174Z",
+  "model": "glm-5.3"
+}

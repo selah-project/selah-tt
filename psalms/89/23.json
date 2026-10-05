@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 89,
+  "translation": "Дошман аның өстеннән түләтмәячәк, явызлык улы да аны измәячәк.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "түләтмәячәк"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "дошман"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аның өстеннән"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "аны измәячәк"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:25.655799631Z",
+  "model": "glm-5.3"
+}

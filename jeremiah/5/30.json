@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Җирдә хайран һәм куркыныч хәл булды.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "хайран"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "һәм куркыныч"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җирдә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:48:42.087370239Z",
+  "model": "glm-5.3"
+}

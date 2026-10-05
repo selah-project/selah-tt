@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 15:23",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "һәм Кедеш, һәм Хацор, һәм Итнан.",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "һәм Кедеш"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "һәм Хацор"
+    },
+    {
+      "surface": "ויתנן",
+      "gloss": "һәм Итнан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:36:41.124294739Z",
+  "model": "glm-5.3"
+}

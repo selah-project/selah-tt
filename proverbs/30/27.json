@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Чәкәнгә патша юк, ләкин барысы да төркемләп чыгалар;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "чәкәнгә"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "чыгалар"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "төркемләп"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "барысы да"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:55.177384242Z",
+  "model": "glm-5.3"
+}

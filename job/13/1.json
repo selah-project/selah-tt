@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Менә, күзәм барысын күрде, колагым ишетте һәм аны аңлады.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "менә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысын"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "күзәм"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ишетте"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "колагым"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "һәм аңлады"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:20:31.923575341Z",
+  "model": "glm-5.3"
+}

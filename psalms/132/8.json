@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 132,
+  "translation": "Тор, Яһвә, ял урыныңа — Син һәм көчеңнең Табуты.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Тор"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "ял урыныңа"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "һәм Табуты"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "көчеңнең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:51.153987565Z",
+  "model": "glm-5.3"
+}

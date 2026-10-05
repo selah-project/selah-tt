@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һа-Рама һәм Гава ирләре: алты йөз егерме бер.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ирләре"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Һа-Рама"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "һәм Гава"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "һәм бер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:18.249865863Z",
+  "model": "glm-5.3"
+}

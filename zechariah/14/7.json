@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәм бер көн буласы — ул Яһвәгә билгеле, көн түгел һәм түгел төн; һәм кич вакытында яктылык буласы.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "һәм буласы"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "билгеле"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "төн"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "һәм буласы"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "вакытында"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кич"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буласы"
+    },
+    {
+      "surface": "אור",
+      "gloss": "яктылык"
+    }
+  ],
+  "timestamp": "2026-10-05T00:40:21.387413615Z",
+  "model": "glm-5.3"
+}

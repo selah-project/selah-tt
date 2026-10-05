@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 140,
+  "translation": "Кормчыга. Давид мәдһиясе.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Кормчыга"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәдһия"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид ⟨өчен⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:51.349642050Z",
+  "model": "glm-5.3"
+}

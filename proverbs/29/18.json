@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 29:18",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Күрәзә булмагач, халык тыйналмый; ә Тораны саклаучы — бәхетле ул.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "булмагач"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "күрәзә"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "тыйналмый"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "саклаучы"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тораны"
+    },
+    {
+      "surface": "אשרהו",
+      "gloss": "бәхетле ул"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:53.465942195Z",
+  "model": "glm-5.3"
+}

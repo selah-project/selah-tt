@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Хәким ир — көчле, һәм белем исе көчен арттыра.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ир"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хәким"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "көчтә"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "һәм исе"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белем"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "ныгыта"
+    },
+    {
+      "surface": "כח",
+      "gloss": "көчен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:21.354408164Z",
+  "model": "glm-5.3"
+}

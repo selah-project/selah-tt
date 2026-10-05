@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Йирмәяһу аларга әйтте: Шулай әйтегез Цидкияһуга:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Һәм … әйтте"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмәяһу"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Шулай"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "әйтегез"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Цидкияһуга"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкияһу"
+    }
+  ],
+  "timestamp": "2026-10-04T23:54:11.380158310Z",
+  "model": "glm-5.3"
+}

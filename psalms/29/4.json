@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Яһвә тавышы көч белән, Яһвә тавышы зиннәт белән.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "тавышы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "көч белән"
+    },
+    {
+      "surface": "קול",
+      "gloss": "тавышы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "зиннәт белән"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:40.782374453Z",
+  "model": "glm-5.3"
+}

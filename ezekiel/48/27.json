@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Һәм Зебулун чиге буйлап, көнчыгыш ягыннан диңгез ягына кадәр — Гад бер ⟨өлеш⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Һәм ... буйлап"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чиге"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ягыннан"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "көнчыгыш"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ягына"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-05T00:26:02.201901419Z",
+  "model": "glm-5.3"
+}

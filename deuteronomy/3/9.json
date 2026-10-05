@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Цидонлылар аны Һәрмон дип Ширйон дип атыйлар, ә әмориләр аны Шнир дип атыйлар.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Цидонлылар"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "атыйлар"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "Һәрмонны"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Ширйон"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ә әмориләр"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "атыйлар"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Шнир"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:57.436692796Z",
+  "model": "glm-5.3"
+}

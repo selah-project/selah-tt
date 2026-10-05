@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Һәм Яһвә Менашегә һәм аның халкына сөйләде, ләкин алар колак салмадылар.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашегә"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "халкына"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ләкин алар"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "колак салмадылар"
+    }
+  ],
+  "timestamp": "2026-10-05T02:16:46.502212645Z",
+  "model": "glm-5.3"
+}

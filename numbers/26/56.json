@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Яшьмә ташы авызына карап аның мирасы бүленер — күпме, азмы.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "карап"
+    },
+    {
+      "surface": "פי",
+      "gloss": "авызына"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "яшьмә ташының"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "бүленер"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "аның мирасы"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ара"
+    },
+    {
+      "surface": "רב",
+      "gloss": "күпме"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "азмы"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:03.334785714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Мин дәшмәдем, авызымны ачмадым, чөнки Син ⟨аны⟩ эшләдең.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "дәшмәдем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…мый"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ачмый"
+    },
+    {
+      "surface": "פי",
+      "gloss": "авыз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "эшләдең"
+    }
+  ],
+  "timestamp": "2026-10-05T00:48:16.582773431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Каргышлы — үз атасының хатыны белән ятучы, чөнки ул атасының канатын ачкан. Һәм бөтен халык әйтер: Әмин.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Каргышлы"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ятучы"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "хатыны"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "үз атасының"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ачкан"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "канатын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасының"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "һәм әйтер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Әмин"
+    }
+  ],
+  "timestamp": "2026-10-05T02:26:38.774500215Z",
+  "model": "glm-5.3"
+}

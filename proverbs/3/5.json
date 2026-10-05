@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Яһвәгә бөтен йөрәгең белән таян, һәм үз аңыңа таянма.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "таян"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨-га⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "йөрәгең"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм ⟨-га⟩"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "аңың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨-ма⟩"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "таянма"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:22.123948525Z",
+  "model": "glm-5.3"
+}

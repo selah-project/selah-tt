@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Ике шаһит авызы буенча яки өч шаһит авызы буенча үлемгә таялган үтерелер; бер шаһит авызы буенча ул үтерелмәс.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "буенча"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузы"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "шаһитлар"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "өч"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "шаһитлар"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "үтерелер"
+    },
+    {
+      "surface": "המת",
+      "gloss": "үлемгә таялган"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "үтерелер"
+    },
+    {
+      "surface": "על",
+      "gloss": "буенча"
+    },
+    {
+      "surface": "פי",
+      "gloss": "аузы"
+    },
+    {
+      "surface": "עד",
+      "gloss": "шаһит"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-04T22:26:31.997862262Z",
+  "model": "glm-5.3"
+}

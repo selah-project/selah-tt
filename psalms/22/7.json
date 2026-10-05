@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Ә мин — корт, ә кеше түгел; кешеләр мыскыллыгы һәм халык түбәнлеге.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ә мин"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "корт"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ә түгел"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "мыскыллык"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешеләрнең"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "түбәнлек"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халык"
+    }
+  ],
+  "timestamp": "2026-10-05T00:43:54.192851395Z",
+  "model": "glm-5.3"
+}

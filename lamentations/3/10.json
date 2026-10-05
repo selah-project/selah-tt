@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ул миңа тозак коручы аю булды, яшерен урыннарда ялкынсыман арлан.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "аю"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "tozак коручы"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "арлан"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "яшерен урыннарда"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:01.533388024Z",
+  "model": "glm-5.3"
+}

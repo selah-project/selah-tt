@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәм Яһвә Мошега сөйләде, дип әйтергә:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "каршысына"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип әйтергә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:12:21.504475955Z",
+  "model": "glm-5.3"
+}

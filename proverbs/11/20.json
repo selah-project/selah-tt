@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Бөкрәнгән йөрәклеләр — Яһвә өчен кошмак, ә Аның ризалыгы — юлы тулы кешеләр.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "кошмак"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "бөкрәнгән"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "ә Аның ризалыгы"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юл"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:52.956753384Z",
+  "model": "glm-5.3"
+}

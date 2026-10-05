@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Моше әйтте: Шулай Яһвә сүзе: Төн уртасы якын Мин Мицраим уртасына чыгам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "якын"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "төн уртасы"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "чыгам"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "уртасына"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-04T21:44:07.800598956Z",
+  "model": "glm-5.3"
+}

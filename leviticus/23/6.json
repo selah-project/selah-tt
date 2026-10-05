@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Һәм бу айның унбишенче көнендә — Мацот бәйрәме, Яһвәгә; җиде көн мацот ашарсыз.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "һәм бишенче көнендә"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айның"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "חג",
+      "gloss": "бәйрәм"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "мацот"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "мацот"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ашарсыз"
+    }
+  ],
+  "timestamp": "2026-10-04T22:03:04.467350377Z",
+  "model": "glm-5.3"
+}

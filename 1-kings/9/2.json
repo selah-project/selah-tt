@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Яһвә Шеломоһга икенче тапкыр Гивондагы кебек күренде.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "күренде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоһ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "икенче тапкыр"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кеbek"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "күренгән"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аның яннарына"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Гивонда"
+    }
+  ],
+  "timestamp": "2026-10-04T23:12:23.771134584Z",
+  "model": "glm-5.3"
+}

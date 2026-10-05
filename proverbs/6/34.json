@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Чөнки көнчеллек — ир кешенең ачуы, һәм ул үч алу көнне рәһимлек кылмас.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "көнчеллек"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ачуы"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ир кешенең"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм ... түгел"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "рәһимлек кылмас"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "үч алу"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:10.719304802Z",
+  "model": "glm-5.3"
+}

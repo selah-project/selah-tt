@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Ноһ Элоһим ⟨את⟩ аңа боерганча барысын да эшләде — шулай эшләде.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "эшләде"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноһ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "барысын да"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нинди"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "боерган"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аңа",
+      "marks": "Ноһ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшләде"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:48.292379488Z",
+  "model": "glm-5.3"
+}

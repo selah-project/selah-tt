@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Син гадел, эй Яһвә, һәм Синең хөкемнәрең туры.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "гадел"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "һәм туры"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "хөкемнәрең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:03:52.678820058Z",
+  "model": "glm-5.3"
+}

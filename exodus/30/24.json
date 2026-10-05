@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "һәм касия биш йөз, изге шекел буенча, һәм зәйтүн мае — бер һин.",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "һәм касия"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "мאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "шекел буенча"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "изге"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "һәм мае"
+    },
+    {
+      "surface": "זית",
+      "gloss": "зәйтүн"
+    },
+    {
+      "surface": "הין",
+      "gloss": "бер һин"
+    }
+  ],
+  "timestamp": "2026-10-04T21:49:50.520862700Z",
+  "model": "glm-5.3"
+}

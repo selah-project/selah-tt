@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Һарим нәселеннән — Адна, Мерайот нәселеннән — Һелкай.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "Һарим нәселеннән"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "Адна"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "Мерайот нәселеннән"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "Һелкай"
+    }
+  ],
+  "timestamp": "2026-10-05T01:54:43.581203587Z",
+  "model": "glm-5.3"
+}

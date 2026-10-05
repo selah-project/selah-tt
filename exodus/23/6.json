@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Ярлыңның хөкемен аның судында тайпылдырма.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "⟨юк⟩"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "тайпылдырма"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкем"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "ярлыңның"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "аның судында"
+    }
+  ],
+  "timestamp": "2026-10-04T21:47:20.533481787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Элоһимның даны — сүзне яшерү, ә патшаларның даны — эшне өйрәнеп чыгу.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "даны"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһимның"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "яшерү"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзне"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "даны"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "патшаларның"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "өйрәнеп чыгу"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "эшне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:17.071903676Z",
+  "model": "glm-5.3"
+}

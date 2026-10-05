@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм Моше Аһаронга әйтте: Сиңа бу халык нәрсә эшләде ⟨ки⟩, син аңа шундый зур гөнаһ китердең?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Аһаронга"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшләде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "העם",
+      "gloss": "бу халык"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ки⟩"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "кидердең"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "гөнаһ"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "зур"
+    }
+  ],
+  "timestamp": "2026-10-04T21:51:17.354274025Z",
+  "model": "glm-5.3"
+}

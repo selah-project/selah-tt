@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Мин авызымны ачтым, һәм Ул миңа бу төргәкне ⟨את⟩ ашатты.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "һәм мин ачтым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "авызымны"
+    },
+    {
+      "surface": "פי",
+      "gloss": "авызымны"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "Ул миңа ашатты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу төргәкне"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "төргәкне"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-05T00:08:40.429211680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "⟨את⟩ Үгетләреңне саклармын; мине бөтенләй ташлама!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Үгетләреңне"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "Үгетләреңне"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "саклармын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ташлама"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "миние"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бөтенләй"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:33.372142889Z",
+  "model": "glm-5.3"
+}

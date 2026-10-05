@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 20:24",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Ул тимер коралдан кача, бакыр яя аны тишеп үтәр.",
+  "tokens": [
+    {
+      "surface": "יברח",
+      "gloss": "кача"
+    },
+    {
+      "surface": "מנשק",
+      "gloss": "коралдан"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "тимер"
+    },
+    {
+      "surface": "תחלפהו",
+      "gloss": "тишеп үтәр"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "яя"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "бакыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:22:59.649072140Z",
+  "model": "glm-5.3"
+}

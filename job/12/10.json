@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Аның кулында һәр тернең җаны һәм кешенең итенең рухы.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "аның"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "кулларында"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җаны"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тер"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "һәм рухы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "итенең"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешенең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:19:51.744043389Z",
+  "model": "glm-5.3"
+}

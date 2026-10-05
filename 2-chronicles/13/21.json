@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 13:21",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Әбијаһ куәтләнде һәм үзенә ун дүрт хатын алды, һәм ун ике ул һәм ун алты кыз тудырды.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "куәтләнде"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Әбијаһ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "алды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "үзенә"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "унынчы"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кыз"
+    }
+  ],
+  "timestamp": "2026-10-05T02:49:05.665555642Z",
+  "model": "glm-5.3"
+}

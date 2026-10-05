@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ул миңа әйтте: кеше улы, ни тапсаң аша — бу төргәкне ⟨את⟩ аша, һәм бар, Йисраэл йортына сөйлә.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ул әйтте"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ни тапсаң"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ни"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "тапсаң"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ашарга"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "аша"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу төргәкне"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "төргәкне"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "һәм бар"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйлә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "йортына"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T00:08:40.428945004Z",
+  "model": "glm-5.3"
+}

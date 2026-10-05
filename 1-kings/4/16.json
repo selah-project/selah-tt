@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Баана, Хушай улы, Ашерда һәм Беалотта ⟨булды⟩.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Баана"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушай"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "Ашерда"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "һәм Беалотта"
+    }
+  ],
+  "timestamp": "2026-10-05T02:30:50.614064604Z",
+  "model": "glm-5.3"
+}

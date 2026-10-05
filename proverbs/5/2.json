@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Максатларны сакларга һәм белемне иреннәрең сакларга.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "сакларга"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "максатларны"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "һәм белемне"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "иреннәрең"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "саклар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:44.254346667Z",
+  "model": "glm-5.3"
+}

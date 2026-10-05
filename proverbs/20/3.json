@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Кешегә дан — низагтан туктау; һәм һәр ахмак тартырынып йөри.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "дан"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "кешегә"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "туктау"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "низагтан"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм һәр"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ахмак"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "тартырынып йөри"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:51.267104891Z",
+  "model": "glm-5.3"
+}

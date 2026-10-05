@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Сиңа башка Элоһимнар булмасын Минем йөзем алдында.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "булмасын"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булмасын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сиңа"
+    },
+    {
+      "surface": "אלохим",
+      "gloss": "Элоһимнар"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "על",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзем"
+    }
+  ],
+  "timestamp": "2026-10-05T02:25:25.046705254Z",
+  "model": "glm-5.3"
+}

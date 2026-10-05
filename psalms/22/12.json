@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Миннән ераклашма, чөнки бәла якын, чөнки ярдәм итүче юк.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ераклашма"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "миннән"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "бәла"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "якын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ярдәм итүче"
+    }
+  ],
+  "timestamp": "2026-10-05T00:44:17.716658684Z",
+  "model": "glm-5.3"
+}

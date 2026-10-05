@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Яаков үз юлы белән барды, һәм Элоһим илчеләре аңа очрады.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "барды"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "үз юлы белән"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "очрады"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "илчеләре"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    }
+  ],
+  "timestamp": "2026-10-04T21:33:38.495335401Z",
+  "model": "glm-5.3"
+}

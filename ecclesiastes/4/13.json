@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Ярлы һәм хаким бала, инде искәрту кабул итә белмәгән карт һәм ахмак патшадан яхшы.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "бала"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "ярлы"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "һәм хаким"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "патшадан"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "карт"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "һәм ахмак"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белә"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "искәрту кабул итәргә"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "инде"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:33.449930166Z",
+  "model": "glm-5.3"
+}

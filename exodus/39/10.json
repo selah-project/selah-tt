@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Һәм аңа дүрт рәт таш тутырдылар: беренче рәт — одем, питда һәм барекет — бер рәт.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "тутырдылар"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "рәт"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "טור",
+      "gloss": "рәт"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одем"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "питда"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "һәм барекет"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "рәт"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-04T21:53:32.410450108Z",
+  "model": "glm-5.3"
+}

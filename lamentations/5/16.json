@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Башыбызның тәҗе төште. Әй, хәзер безгә, чөнки без гөнаһ кылдык!",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "төште"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "тәҗе"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "башыбызның"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "әй"
+    },
+    {
+      "surface": "נא",
+      "gloss": "хәзер"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "гөнаһ кылдык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:00.286859791Z",
+  "model": "glm-5.3"
+}

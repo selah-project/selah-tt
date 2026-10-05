@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 19:16",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Кыр өстендә кылычтан сугаракны я үлекене, я кеше сөяген, я каберне кагылган һәр кем җиде көн нәпак булыр.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "һәм һәр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кем"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "кагылган"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "פני",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "кыр"
+    },
+    {
+      "surface": "בחלל",
+      "gloss": "сугаракны"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылычтан"
+    },
+    {
+      "surface": "או",
+      "gloss": "я"
+    },
+    {
+      "surface": "במת",
+      "gloss": "үлекене"
+    },
+    {
+      "surface": "או",
+      "gloss": "я"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "сөяген"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "או",
+      "gloss": "я"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "каберне"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "нәпак булыр"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    }
+  ],
+  "timestamp": "2026-10-04T22:13:54.902234128Z",
+  "model": "glm-5.3"
+}

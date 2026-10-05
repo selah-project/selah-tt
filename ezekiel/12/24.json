@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Чөнки ялган күрәзә һәм йомшак фал тагын булмас Йисраэл йорты эчендә.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булмас"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тагын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "күрәзә"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "һәм фал"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "йомшак"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "эчендә"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорты"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T00:10:17.336580657Z",
+  "model": "glm-5.3"
+}

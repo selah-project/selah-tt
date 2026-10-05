@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Бигвай балалары: ике мең илле алты.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Бигвай"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ике мең"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "һәм алты"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:02.956604883Z",
+  "model": "glm-5.3"
+}

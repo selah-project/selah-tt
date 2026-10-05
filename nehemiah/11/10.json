@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Каһиннәрдән: Йедайа, Йоярив улы, Йахин.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "каһиннәр"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедайа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "Йоярив"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Йахин"
+    }
+  ],
+  "timestamp": "2026-10-05T01:54:41.376225761Z",
+  "model": "glm-5.3"
+}

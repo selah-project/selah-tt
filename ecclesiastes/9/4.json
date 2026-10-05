@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Чөнки бөтен терек иленә кушылган кешегә өмет бар: терән эт үле арсланнан яхшырак.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кешегә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨кушылган⟩"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "кушылган"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "терек иленә"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "өмет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "эткә"
+    },
+    {
+      "surface": "חי",
+      "gloss": "терән"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшырак"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ннан"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "арслан"
+    },
+    {
+      "surface": "המת",
+      "gloss": "үле"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:32.592077930Z",
+  "model": "glm-5.3"
+}

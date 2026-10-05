@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм ⟨את⟩ аның ике улын — аларның берсенең исеме Гершом иде, чөнки ул әйтте: чит җирдә ят булдым.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "ике улын"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ике"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "улын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "исеме"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "берсенең"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ят"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "булдым"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җирдә"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "чит"
+    }
+  ],
+  "timestamp": "2026-10-04T21:46:30.493526723Z",
+  "model": "glm-5.3"
+}

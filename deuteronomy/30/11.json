@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Чөнки бу боерык, минем сиңа бүген биргән боерыгым, синнән яшерелгән түгел һәм ул ерак түгел.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "боерык"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ны"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "минем"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "сиңа биргән боерыгым"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүген"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "яшерелгән"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "синнән"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "ерак"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:50.520648639Z",
+  "model": "glm-5.3"
+}

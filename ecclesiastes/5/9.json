@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Көмешне яратучы көмештән туймый, һәм байлыкны яратучыга керем юк; бу да һәвәл.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "яратучы"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "көмешне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "туймый"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "көмештән"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "һәм кем"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "яратучы"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "байлыкны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "кирем"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "һәвәл"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:52.137091450Z",
+  "model": "glm-5.3"
+}

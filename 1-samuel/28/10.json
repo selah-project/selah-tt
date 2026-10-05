@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Һәм Шаул аңа Яһвә белән ант итте, диеп: Яһвә яши — был эштә сиңа гөнаһ ⟨тимәс⟩.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "ант итте"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яһвә белән"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "диеп"
+    },
+    {
+      "surface": "חי",
+      "gloss": "яши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "тисә"
+    },
+    {
+      "surface": "עון",
+      "gloss": "гөнаһ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "эштә"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "был"
+    }
+  ],
+  "timestamp": "2026-10-04T22:57:22.524056248Z",
+  "model": "glm-5.3"
+}

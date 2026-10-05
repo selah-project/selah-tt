@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Күз урынына күз, теш урынына теш, кул урынына кул, аяк урынына аяк.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "күз"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "урынына"
+    },
+    {
+      "surface": "עין",
+      "gloss": "күз"
+    },
+    {
+      "surface": "שן",
+      "gloss": "теш"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "урынына"
+    },
+    {
+      "surface": "שן",
+      "gloss": "теш"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кул"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "урынына"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кул"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "аяк"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "урынына"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "аяк"
+    }
+  ],
+  "timestamp": "2026-10-04T21:47:03.506507827Z",
+  "model": "glm-5.3"
+}

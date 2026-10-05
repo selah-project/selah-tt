@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Кешенең авызы сүзләре — тирән сулар; акылның чишмәсе — йөгереп аккан инеш.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "сулар"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "тирән"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сүзләре"
+    },
+    {
+      "surface": "פי",
+      "gloss": "авызының"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "инеш"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "йөгереп аккан"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "чишмә"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "акылның"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:46.023692615Z",
+  "model": "glm-5.3"
+}

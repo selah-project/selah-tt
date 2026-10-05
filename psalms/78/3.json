@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 78,
+  "translation": "Нәрсә ишеттек һәм белдек, аны аталарыбыз безгә сөйләде.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Нәрсә"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ишеттек"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "һәм белдек"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "аталарыбыз"
+    },
+    {
+      "surface": "ספрו",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:55:00.194470353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Шуның өстенә Мин уяндым һәм күрдем, һәм йокым Миңа татлы булды.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "шуның"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "уяндым"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "һәм күрдем"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "һәм йокым"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "татлы булды"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Миңа"
+    }
+  ],
+  "timestamp": "2026-10-04T23:56:49.201997884Z",
+  "model": "glm-5.3"
+}

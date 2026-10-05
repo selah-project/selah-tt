@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "һәм мөгезле терлек — ике мең җитмеш мең",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "һәм мөгезле терлек"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "җитмеш"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:34.013151936Z",
+  "model": "glm-5.3"
+}

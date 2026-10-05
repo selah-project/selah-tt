@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм әгәр йөрәгеңдә әйтсәң: Ни рәвешле белербез ⟨את⟩ сүзне, ки аны Яһвә сөйләмәгән?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "һәм әгәр"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "әйтсәң"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "йөрәгеңдә"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ни рәвешле"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "белербез"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сүзне"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүзне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "сөйләмәгән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:25:31.924349321Z",
+  "model": "glm-5.3"
+}

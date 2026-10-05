@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Һәм алар сиңа билге һәм гаҗәеп булырлар, һәм синең нәселеңдә мәңге.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "һәм булырлар"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "билге"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "һәм гаҗәеп"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "һәм синең нәселеңдә"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:52.212325826Z",
+  "model": "glm-5.3"
+}

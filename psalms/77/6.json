@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 77,
+  "translation": "Мин элеккеге көннәрне уйладым, гасырлар буе елларны.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "уйладым"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көннәрне"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "элеккеге"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "елларны"
+    },
+    {
+      "surface": "עולמим",
+      "gloss": "гасырлар буе"
+    }
+  ],
+  "timestamp": "2026-10-05T00:54:14.317249406Z",
+  "model": "glm-5.3"
+}

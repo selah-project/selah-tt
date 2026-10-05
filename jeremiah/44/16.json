@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 44,
+  "translation": "Сүзне, син безгә Яһвә исеме белән сөйләгән сүзне, без сине тыңламыйбыз.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "сүзне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ны"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "сөйләгән"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "исеме белән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "без түгел"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "тыңлаучылар"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сине"
+    }
+  ],
+  "timestamp": "2026-10-05T00:02:39.076666071Z",
+  "model": "glm-5.3"
+}

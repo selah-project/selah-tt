@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Картылар капка туктадылар, яшьләр үз җырларыннан.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "картылар"
+    },
+    {
+      "surface": "משער",
+      "gloss": "капка"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "туктадылар"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "яшьләр"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "үз җырларыннан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:00.285584034Z",
+  "model": "glm-5.3"
+}

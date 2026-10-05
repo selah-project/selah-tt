@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Бер юл бар — кеше күзенә туры кебек, ләкин аның ахыры — үлем юллары.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Бер юл бар"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юл"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "туры кебек"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "кеше күзенә"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ләкин аның ахыры"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "юллары"
+    },
+    {
+      "surface": "модવеш",
+      "gloss": "үлем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:29.469152237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Михмас ирләре — йөз егерме ике.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ирләре"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "Михмас"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ике"
+    }
+  ],
+  "timestamp": "2026-10-05T01:45:50.399027793Z",
+  "model": "glm-5.3"
+}

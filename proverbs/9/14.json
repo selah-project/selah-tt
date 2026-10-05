@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Ул үз өенең ишеге төбендә утыра, каланың биек урынындагы тәхеттә.",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "утыра"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ишеге төбендә"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "үз өенең"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тәхеттә"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "биек урынындагы"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "кала"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:52.600611369Z",
+  "model": "glm-5.3"
+}

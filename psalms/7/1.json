@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Шигайон, Давидка, ул Яһвәгә җырлаган, Куш, Бинйәмин улы сүзләре өстенә.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Шигайон"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "שר",
+      "gloss": "җырлаган"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "дברי",
+      "gloss": "сүзләре"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Бинйәмин"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:55.640545032Z",
+  "model": "glm-5.3"
+}

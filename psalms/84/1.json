@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 84,
+  "translation": "Тәрҗемәче өчен, гиттим өстенә, Корах улларына, мәзмун.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "тәрҗемәче өчен"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "гиттим"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмун"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:49.665415382Z",
+  "model": "glm-5.3"
+}

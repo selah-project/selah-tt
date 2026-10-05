@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Ун көн үткәч, Яһвә ⟨את⟩ Навалны сукты, һәм ул үлде.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булгач"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "ун"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "һәм сукты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Навалны"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Навалны"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "һәм үлде"
+    }
+  ],
+  "timestamp": "2026-10-04T22:57:43.904698230Z",
+  "model": "glm-5.3"
+}

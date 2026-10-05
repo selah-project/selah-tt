@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Әнатот кешеләре: йөз егерме сигез.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "кешеләре"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Әнатот"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "һәм сигез"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:16.075507415Z",
+  "model": "glm-5.3"
+}

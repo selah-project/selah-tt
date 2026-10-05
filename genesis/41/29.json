@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Менә җиде ел килә — бөек тулылык бөтен Мицраим ирендә.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ел"
+    },
+    {
+      "surface": "באות",
+      "gloss": "килә"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "тулылык"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ирендә"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-04T21:36:41.178299199Z",
+  "model": "glm-5.3"
+}

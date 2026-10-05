@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Күзләреңә йокы бирмә, керпекләреңә уйкы бирмә.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "birмә"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бирмә"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "йокы"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "күзләреңә"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "уйкы"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "керпекләреңә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:54.830012382Z",
+  "model": "glm-5.3"
+}

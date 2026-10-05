@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "һәм Ивһар, һәм Элишамега, һәм Элифелет",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "һәм Ивһар"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "һәм Элишамега"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "һәм Элифелет"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:00.348990236Z",
+  "model": "glm-5.3"
+}

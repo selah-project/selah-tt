@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 46:19",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 46,
+  "translation": "Раһелнең — Яаковның хатынының — уллары: Йосеф һәм Биньямин.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Раһел"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "хатыны"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковның"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "һәм Биньямин"
+    }
+  ],
+  "timestamp": "2026-10-04T21:38:53.636459925Z",
+  "model": "glm-5.3"
+}

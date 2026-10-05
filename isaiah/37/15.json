@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Һәм Хизкияһу Яһвәгә дога кылды, болай дип:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "дога кылды"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияһу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨-гә⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "болай дип"
+    }
+  ],
+  "timestamp": "2026-10-04T23:37:59.206549521Z",
+  "model": "glm-5.3"
+}

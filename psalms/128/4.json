@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 128,
+  "translation": "Менә, чынлап та, шулай фатыйха алыр Яһвәдән куркучы ир.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чынлап та"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "фатыйха алыр"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ир"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "куркучы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәдән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:15.415903735Z",
+  "model": "glm-5.3"
+}

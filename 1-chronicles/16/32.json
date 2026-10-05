@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 16:32",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Диңгез гөрләсен һәм аның тулышы, кыр шатланыр һәм анда булган барысы да.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "гөрләсен"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Диңгез"
+    },
+    {
+      "surface": "ומלואו",
+      "gloss": "һәм аның тулышы"
+    },
+    {
+      "surface": "יעлץ",
+      "gloss": "шатланыр"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "кыр"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм барысы да"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аның"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анда булган"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:44.324340263Z",
+  "model": "glm-5.3"
+}

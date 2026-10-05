@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Һәм тыныч көтүлекләр тынып калды Яһвә ачуының ялкыны йөзеннән.",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "тынып калды"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "көтүлекләр"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "тыныч"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "йөзеннән"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ялкыны"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ачуының"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:54:23.763475788Z",
+  "model": "glm-5.3"
+}

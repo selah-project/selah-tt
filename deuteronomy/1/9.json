@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм мин шул вакытта сезгә әйттем, әйтеп: мин үзем генә ⟨את⟩ сезне күтәрә алмыйм.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "һәм мин әйттем"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "вакытта"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "алмыйм"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "үзем генә"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "күтәрергә"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "сезне"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:23.364999955Z",
+  "model": "glm-5.3"
+}

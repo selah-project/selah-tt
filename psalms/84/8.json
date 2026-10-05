@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 84,
+  "translation": "Алар көчтән көчкә баралар; Элоһимга Цийонда күренәчәкләр.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "баралар"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "көчтән"
+    },
+    {
+      "surface": "אל",
+      "gloss": "көчкә"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "көч"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "күренәчәкләр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элоһимга"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһимга"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Цийонда"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:22.059548382Z",
+  "model": "glm-5.3"
+}

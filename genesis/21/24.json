@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Авраһам әйтте: Мин ант итәм.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мин"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ант итәм"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:23.250311480Z",
+  "model": "glm-5.3"
+}

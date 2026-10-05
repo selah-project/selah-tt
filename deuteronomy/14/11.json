@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Барлык чиста кошларны ашый аласыз.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "кош"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "чиста"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ашый аласыз"
+    }
+  ],
+  "timestamp": "2026-10-05T02:25:57.653056638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Тунык йөрүче коткарылыр, ә юллары кәкре булган берьюлы егылыр.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "йөрүче"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "тунык"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "коткарылыр"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "ә кәкре"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "юллары"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "егылыр"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "берьюлы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:18.946561809Z",
+  "model": "glm-5.3"
+}

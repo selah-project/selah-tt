@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 109,
+  "translation": "Һәм белсеннәр: бу Синең кулың, Син, Яһвә, эшләдең ⟨аны⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Һәм белсеннәр"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Синең кулың"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "эшләдең ⟨аны⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:29.127827397Z",
+  "model": "glm-5.3"
+}

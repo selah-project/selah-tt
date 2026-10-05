@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Җаныбыз хәвефендә икмәгебезне китерәбез, чүл кылычы йөзеннән.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "җаныбыз"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "киитерәбез"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "икмәгебезне"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "йөзеннән"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "чүл"
+    }
+  ],
+  "timestamp": "2026-10-05T01:33:47.407663240Z",
+  "model": "glm-5.3"
+}

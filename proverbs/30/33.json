@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Чөнки сөтне кысу майны чыгарa, һәм борынны кысу канны чыгара, һәм ачудан кысу низагны чыгара.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "кысу"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "сөт"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "чыгара"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "май"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "һәм кысу"
+    },
+    {
+      "surface": "אף",
+      "gloss": "борын"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "чыгара"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "һәм кысу"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ачу"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "чыгара"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "низаг"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:43.431524036Z",
+  "model": "glm-5.3"
+}

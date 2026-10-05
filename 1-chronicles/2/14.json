@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Нетанэл ⟨ул⟩ дүртенче, Раддай ⟨ул⟩ бишенче.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанэл"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "дүртенче"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "Раддай"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "бишенче"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:18.780869906Z",
+  "model": "glm-5.3"
+}

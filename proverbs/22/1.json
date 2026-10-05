@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Исем сайланган зур байлык урынына, көмештән һәм алтыннан — яхшы рәхим.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "сайланган"
+    },
+    {
+      "surface": "שם",
+      "gloss": "исем"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "байлыктан"
+    },
+    {
+      "surface": "רב",
+      "gloss": "зур"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "көмештән"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "һәм алтыннан"
+    },
+    {
+      "surface": "חן",
+      "gloss": "рәхим"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:55.962527407Z",
+  "model": "glm-5.3"
+}

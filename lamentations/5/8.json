@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Коллар без өстендә хуҗалык итте; алар кулыннан коткаручы юк.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "коллар"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "хуҗалык итте"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "без өстендә"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "коткаручы"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "алар кулыннан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:33:46.884498473Z",
+  "model": "glm-5.3"
+}

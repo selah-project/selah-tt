@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Хатыннарны Сионда, кызларны Йиһудә шәһәрләрендә кимсеттеләр.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "хатыннарны"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Сионда"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "кимсеттеләр"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "кызларны"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "шәһәрләрендә"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йиһудә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:33:47.408165790Z",
+  "model": "glm-5.3"
+}

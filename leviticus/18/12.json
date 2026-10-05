@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Атаның сеңелесенең ялангайлыгын ачарга ярамый: ул атаның тукымасы.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ялангайлыгын"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "сеңелесенең"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаның"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ярамый"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ачарга"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "тукымасы"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаның"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T22:00:12.627372786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 13:36",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм каһин аны карый; һәм менә, нетек тәндә таралган — каһин сары чәч эзләмәс: ул сафсыз.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "аны карый"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "һәм менә"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "таралган"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "нетек"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "тәндә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "эзләмәс"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "чәч"
+    },
+    {
+      "surface": "הצהב",
+      "gloss": "сары"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "сафсыз"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T21:58:40.272202190Z",
+  "model": "glm-5.3"
+}

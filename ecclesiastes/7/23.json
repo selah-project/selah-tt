@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Барысын да мин хикмәт белән сынадым; әйттем: хикмәтле булырмын, — ә ул миннән бик ерак.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барысын"
+    },
+    {
+      "surface": "זה",
+      "gloss": "моның"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "сынадым"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "хикмәт белән"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "әйттем"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "хикмәтле булырмын"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ә ул"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "ерак"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "миннән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:42.983667603Z",
+  "model": "glm-5.3"
+}

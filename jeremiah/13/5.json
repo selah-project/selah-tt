@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм мин бардым һәм аны Ператта яшердем — Яһвә миңа ⟨את⟩ кушканча.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "һәм мин бардым"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "һәм аны яшердем"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "Ператта"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кушканча"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "кушты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "мине"
+    }
+  ],
+  "timestamp": "2026-10-05T02:35:57.368642736Z",
+  "model": "glm-5.3"
+}

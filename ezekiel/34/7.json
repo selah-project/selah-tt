@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Шуңа күрә, көтүчеләр, ишетегез ⟨את⟩ Яһвә сүзен!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "шуңа күрә"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "көтүчеләр"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ишетегез"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвә сүзен"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:19:00.420887751Z",
+  "model": "glm-5.3"
+}

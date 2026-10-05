@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 127,
+  "translation": "Менә, уллар — Яһвәнең мирасы; күкәкнең җимеше — ⟨бу⟩ хак.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "мирасы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уллар"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "хак"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "җимеше"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "күкәкнең"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:03.516769084Z",
+  "model": "glm-5.3"
+}

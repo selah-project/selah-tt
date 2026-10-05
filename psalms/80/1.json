@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 80,
+  "translation": "Көй остасына, шошанним көенә, шәһадәт — Асапка, мәзмун.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "көй остасына"
+    },
+    {
+      "surface": "אל",
+      "gloss": "көенә"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "шошанним"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "шәһадәт"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асапка"
+    },
+    {
+      "surface": "מזмור",
+      "gloss": "мәзмун"
+    }
+  ],
+  "timestamp": "2026-10-05T00:56:12.734830414Z",
+  "model": "glm-5.3"
+}

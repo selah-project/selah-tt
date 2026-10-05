@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 132,
+  "translation": "«Мин өемнең чатырына кермәсәм, мендәремә җыелмасам,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "кермәсәм"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "чатырына"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "өемнең"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "җыелмасам"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "мендәремә"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "үзең җәелгән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:35.378452041Z",
+  "model": "glm-5.3"
+}

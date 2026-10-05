@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ул вакытта юлыңны имин атларсың, һәм аягың тайпылмас.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ул вакытта"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "атларсың"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "имин"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "юлыңны"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "һәм аягың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "тайпылмас"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:49.539174827Z",
+  "model": "glm-5.3"
+}

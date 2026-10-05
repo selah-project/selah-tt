@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Һелес һапалти, Гыра улы Гъккеш һаткои,",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "Һелес"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "һапалти"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Гыра"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Гъккеш"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "һаткои"
+    }
+  ],
+  "timestamp": "2026-10-04T23:07:17.936943536Z",
+  "model": "glm-5.3"
+}

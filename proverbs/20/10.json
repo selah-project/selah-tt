@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Таш һәм таш, эфа һәм эфа — аларның икесе дә Яһвә өчен жирән нәрсә.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "һәм таш"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "һәм эфа"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "жирән нәрсә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дә"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "икесе"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:58.194075394Z",
+  "model": "glm-5.3"
+}

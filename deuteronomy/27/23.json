@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Теләндерелгән каенанасы белән булып ятучы. Һәм бөтен халык әйтер: Әмин.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Теләндерелгән"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ятучы"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "каенанасы"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "һәм әйтер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Әмин"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:37.930329122Z",
+  "model": "glm-5.3"
+}

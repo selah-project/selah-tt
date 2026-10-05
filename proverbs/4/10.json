@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 4:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Тыңла, улым, һәм минем сүзләремне ал, һәм сиңа тормыш еллары күбәер.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "тыңла"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "һәм ал"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "минем сүзләремне"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "һәм күбәер"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "еллары"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тормыш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:01.752821526Z",
+  "model": "glm-5.3"
+}

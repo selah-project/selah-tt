@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 103,
+  "translation": "Яһвә цедек кыла һәм бөтен изелгәннәргә хөкемнәр.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "кыла"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "һәм хөкемнәр"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "изелгәннәргә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:42:16.202007144Z",
+  "model": "glm-5.3"
+}

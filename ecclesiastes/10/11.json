@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Әгәр елан тылсымсыз тешләсә, тел иясенә өстенлек юк.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "тешләсә"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "елан"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "тылсымсыз"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "тылсым"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм юк"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "өстенлек"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "иясенә"
+    },
+    {
+      "surface": "הלששון",
+      "gloss": "тел"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:29.013879161Z",
+  "model": "glm-5.3"
+}

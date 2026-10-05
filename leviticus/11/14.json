@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "һәм ⟨את⟩ дааны, һәм ⟨את⟩ айаны — үз төре буенча.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "дааны"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "дааны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "айаны"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "айаны"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "үз төре буенча"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:22.913062183Z",
+  "model": "glm-5.3"
+}

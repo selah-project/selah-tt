@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Эсавның уллары: Элифаз, Реуэл, вә Йеуш, вә Йалам вә Корах.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсавның"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаз"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуэл"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "вә Йеуш"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "вә Йалам"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "вә Корах"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:22.479602515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 35,
+  "translation": "Һәм Раһел үлде һәм Эфрата юлында күмелде — ул Бейт-Ләхем.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "һәм үлде"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Раһел"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "һәм күмелде"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "юлында"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Эфрата"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Ләхем"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:45.485677056Z",
+  "model": "glm-5.3"
+}

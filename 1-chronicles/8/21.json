@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм Адая, һәм Бераия, һәм Шимрат — Шиме уллары.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "Адая"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "Бераия"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "Шимрат"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шиме"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:58.341897471Z",
+  "model": "glm-5.3"
+}

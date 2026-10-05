@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Яһвә миңа әйтте: Тагын үзеңә акылсыз көтүченең коралын ал.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тагын"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "коралын"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "көтүченең"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "акылсыз"
+    }
+  ],
+  "timestamp": "2026-10-05T00:40:23.827273206Z",
+  "model": "glm-5.3"
+}

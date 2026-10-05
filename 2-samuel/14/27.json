@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 14:27",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәм Авшаломга өч ул һәм бер кыз туды, аның исеме Тамар; ул кыз чибәр булды.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "туды"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "Авшаломга"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "өч"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "һәм кыз"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "аның исеме"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамар"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "кыз"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "чибәр"
+    },
+    {
+      "surface": "мראה",
+      "gloss": "кыяфәтле"
+    }
+  ],
+  "timestamp": "2026-10-04T23:03:43.920841299Z",
+  "model": "glm-5.3"
+}

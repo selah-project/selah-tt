@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Зәрахийәнең улы, Өзинең улы, Буккиның улы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зәрахийә"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Өзи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    }
+  ],
+  "timestamp": "2026-10-05T01:49:01.689892029Z",
+  "model": "glm-5.3"
+}

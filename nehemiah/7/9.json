@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Шефатйа балалары: өч йөз җитмеш ике.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатйа"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "җитмеш"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "һәм ике"
+    }
+  ],
+  "timestamp": "2026-10-05T01:52:17.529264732Z",
+  "model": "glm-5.3"
+}

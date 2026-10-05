@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "һәм Зиза, Шифьи улы, Аллон улы, Йедайа улы, Шимри улы, Шемайа улы.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "һәм Зиза"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "Шифьи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Аллон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "Йедайа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Шимри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:19.297145364Z",
+  "model": "glm-5.3"
+}

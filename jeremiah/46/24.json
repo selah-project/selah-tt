@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 46,
+  "translation": "Оялады Мисыр кызы, төньяк халкы кулына тапшырылды.",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "Оялады"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "мцрим",
+      "gloss": "Мисыр"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "тапшырылды"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "кулына"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халкы"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "төньяк"
+    }
+  ],
+  "timestamp": "2026-10-05T00:01:44.558498869Z",
+  "model": "glm-5.3"
+}

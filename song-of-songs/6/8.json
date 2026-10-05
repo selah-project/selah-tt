@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Алтмыш алар — патшабикәләр, сиксән кушбикә һәм кызлар, аларның саны юк.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "алтмыш"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "патшабикәләр"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "һәм сиксән"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "кушбикә"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "һәм кызлар"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "саны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:29:05.905414571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Эдомда патша юк иде; урынбасар патша булып тора иде.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк иде"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Эдомда"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "урынбасар"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша булып"
+    }
+  ],
+  "timestamp": "2026-10-04T23:18:38.512456909Z",
+  "model": "glm-5.3"
+}

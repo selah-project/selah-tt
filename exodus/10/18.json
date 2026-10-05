@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм ул Паръо яныннан чыкты һәм Яһвәгә ялварды.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "яныннан"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ялварды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Яһвәгә⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:43:35.698513891Z",
+  "model": "glm-5.3"
+}

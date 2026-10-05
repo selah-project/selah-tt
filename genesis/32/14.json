@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 32:14",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм шул төндә ул анда төнәп калды, һәм үз кулына килгәннән Ағаһы Эсавка минха алып,",
+  "tokens": [
+    {
+      "surface": "וילן",
+      "gloss": "төнәп калды"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "влйла",
+      "gloss": "төндә"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ннан"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "килгәннән"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "кулсына"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Эсавка"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "Ағаһы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:54.925234133Z",
+  "model": "glm-5.3"
+}

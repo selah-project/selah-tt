@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Бар, кырмыска янына, арыган, аның юлларын кара һәм зирәк бул.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "кырмыска"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "арыган"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "кара"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "аның юлларын"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "һәм зирәк бул"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:11.845223452Z",
+  "model": "glm-5.3"
+}

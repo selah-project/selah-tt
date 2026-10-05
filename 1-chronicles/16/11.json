@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Яһвәне һәм Аның көчен эзләгез, Аның йөзен һәрвакыт эзләгез.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "эзләгез"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәне"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "һәм көчен"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "эзләгез"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "йөзен"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "һәрвакыт"
+    }
+  ],
+  "timestamp": "2026-10-05T02:00:25.719174914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 44,
+  "translation": "Җитәкчегә, Корах улларына, маскил.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "җитәкчегә"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "маскил"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:04.598956204Z",
+  "model": "glm-5.3"
+}

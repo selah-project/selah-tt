@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ул аңа әйтте: Әйткән барысыңны да эшләрмен.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысыңны да"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "әйткән"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "эшләрмен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:30:45.845441758Z",
+  "model": "glm-5.3"
+}

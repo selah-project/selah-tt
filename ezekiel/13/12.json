@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм менә, дивар егылды! Сезгә әйтелмәсме: „Сезлаган сылау кайда?“",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "һәм менә"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "егылды"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "дивар"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "түгелме"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "әйтелер"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "איה",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "сылау"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "сылаган"
+    }
+  ],
+  "timestamp": "2026-10-05T00:10:34.543688916Z",
+  "model": "glm-5.3"
+}

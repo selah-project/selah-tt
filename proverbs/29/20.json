@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Сүзләрендә ашыгучы кешене күрдеңме? Ахмактан да өмет күбрәк — аннан.",
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "күрдеңме"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "ашыгучы"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "сүзләрендә"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "өмет"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ахмак өчен"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аннан"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:22.809598961Z",
+  "model": "glm-5.3"
+}

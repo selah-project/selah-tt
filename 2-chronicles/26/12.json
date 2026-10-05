@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Башлыкларның — көчле батырларның бөтен саны ике мең алты йөз булды.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "саны"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "башлыкларның"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ыру башлыкларының"
+    },
+    {
+      "surface": "лגבורי",
+      "gloss": "батырларның"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "көчле"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ике мең"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    }
+  ],
+  "timestamp": "2026-10-05T02:14:52.512845490Z",
+  "model": "glm-5.3"
+}

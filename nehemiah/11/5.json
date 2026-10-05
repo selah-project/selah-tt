@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 11:5",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "һәм Маасейа, Барух улы, Кол-Хозеһ улы, Хазайа улы, Адайа улы, Йоярив улы, Зехарья улы, Шилони улы.",
+  "tokens": [
+    {
+      "surface": "ומעשיה",
+      "gloss": "һәм Маасейа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Кол"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "Хозеһ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חזיה",
+      "gloss": "Хазайа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "Адайа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "Йоярив"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зехарья"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Шилони"
+    }
+  ],
+  "timestamp": "2026-10-05T02:48:10.831436274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм ⟨את⟩ таш куяны — чөнки ул кайтарып чәйнәй, ләкин туяк бүлми — ул сезгә тәмәсез.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Һәм ⟨את⟩",
+      "marks": "таш куяны"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "таш куян"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "кайтарып чәйнәй"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "⟨чәйнәнгән азык⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "туяк"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "бүлми"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "тәмәсез"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:52.613754171Z",
+  "model": "glm-5.3"
+}

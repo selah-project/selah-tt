@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 126,
+  "translation": "Яшьләр белән чәчүчеләр җырлашып урырлар.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "чәчүчеләр"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "яшьләр белән"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "җырлашып"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "урырлар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:29.979994345Z",
+  "model": "glm-5.3"
+}

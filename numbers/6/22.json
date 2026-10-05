@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 6:22",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Яһвә Моше белән сөйләште, әйтеп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Һәм ... сөйләште"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "белән"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:30.258317599Z",
+  "model": "glm-5.3"
+}

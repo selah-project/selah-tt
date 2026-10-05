@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Мин әйттем: Ул нәрсә? Ул әйтте: Бу — чыгып торган эфа. Аннары ул әйтте: Бу — бөтен җирдә аларның күзе.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "мин әйттем"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ул әйтте"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "чыгып торган"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ул әйтте"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "күзе"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирдә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:38:47.637630917Z",
+  "model": "glm-5.3"
+}

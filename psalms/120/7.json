@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 120,
+  "translation": "Мин — тынычлык ягында, ә мин сөйләшкәндә, алар сугыш өчен.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынычлык ягында"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ә"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "сөйләшкәндә"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "сугыш өчен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:04.737314074Z",
+  "model": "glm-5.3"
+}

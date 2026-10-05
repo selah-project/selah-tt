@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Чокыр казучы аңа егылыр, ә тишек-үткәргечне елан тешләр.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "казучы"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "чокыр"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "егылыр"
+    },
+    {
+      "surface": "ופорץ",
+      "gloss": "ә тишек-үткәргечне"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "капка тышын (диварны)"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "тешләр"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "елан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:40.188786730Z",
+  "model": "glm-5.3"
+}

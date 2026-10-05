@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Һәм бу айның унбишенче көнендә бәйрәм; җиде көн кабартмаган ипмәк ашалыр.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "һәм ... бишенче"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ай"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "חג",
+      "gloss": "бәйрәм"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ациз ипмәк"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашалыр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:27.537767628Z",
+  "model": "glm-5.3"
+}

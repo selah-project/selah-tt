@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "һәм җирнең файдасы — барысында ⟨ ул⟩; патша үзе кырга хезмәт ителә.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "һәм файдасы"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җирнең"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "барысында"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "кырга"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "хезмәт ителә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:25.736595965Z",
+  "model": "glm-5.3"
+}

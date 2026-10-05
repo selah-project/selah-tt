@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Яһвәгә каршы хикмәт юк, аңлау юк һәм киңәш тә юк.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "аңлау"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "тә юк"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "киңәш"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәгә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:42.121303668Z",
+  "model": "glm-5.3"
+}

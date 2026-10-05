@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Яшьне аның юлының авызы буенча тәрбиялә; ул картайганда да шуннан аерылмас.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "тәрбиялә"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "яшьне"
+    },
+    {
+      "surface": "על",
+      "gloss": "буенча"
+    },
+    {
+      "surface": "פי",
+      "gloss": "авызы"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "аның юлының"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "כי",
+      "gloss": "булганда"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "картайганда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "аерылмас"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "шуннан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:02.435023460Z",
+  "model": "glm-5.3"
+}

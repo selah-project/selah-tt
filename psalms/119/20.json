@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Җаным теләгәнгә өзелә — Синең хөкемнәреңә, һәрвакыт.",
+  "tokens": [],
+  "timestamp": "2026-10-05T01:02:55.223474995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Банай уллары: алты йөз кырык ике.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Банай"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "һәм ике"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:10.385690489Z",
+  "model": "glm-5.3"
+}

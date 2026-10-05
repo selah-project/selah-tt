@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бер алтын табак, ун шекел ⟨авырлыгында⟩, төтетү әтмәсе белән тулы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "табак"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "төтетү әтмәсе"
+    }
+  ],
+  "timestamp": "2026-10-04T22:08:59.193539545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм Билһа йөкле булды һәм Яаковка ул туды.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "йөкле булды"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билһа"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковка"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:07.173030904Z",
+  "model": "glm-5.3"
+}

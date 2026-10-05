@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Мицраимга кул сузылды, Ашшурга — икмәк туйганыбыз өчен.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраимга"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "сузылды"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кул"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшурга"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "туяр өчен"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк"
+    }
+  ],
+  "timestamp": "2026-10-05T01:33:46.883865728Z",
+  "model": "glm-5.3"
+}

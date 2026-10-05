@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Яһвә Шәмуэлне чакырды, һәм ул әйтте: Менә мин.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Шәмуэлне"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шәмуэл"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм ул әйтте"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Менә мин"
+    }
+  ],
+  "timestamp": "2026-10-04T22:48:39.633507740Z",
+  "model": "glm-5.3"
+}

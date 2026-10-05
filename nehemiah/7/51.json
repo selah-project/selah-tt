@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Газзам балалары, Узза балалары, Пасеаһ балалары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "Газзам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Узза"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Пасеаһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:08.109597956Z",
+  "model": "glm-5.3"
+}

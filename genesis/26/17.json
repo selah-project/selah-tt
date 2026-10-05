@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм Йицхак аннан китте, һәм Гәрәр үзәнендә лагерь корды һәм шунда яшәде.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "китте"
+    },
+    {
+      "surface": "משם",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "лагерь корды"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "үзәнендә"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "Гәрәр"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "שם",
+      "gloss": "шунда"
+    }
+  ],
+  "timestamp": "2026-10-04T21:30:57.664428819Z",
+  "model": "glm-5.3"
+}

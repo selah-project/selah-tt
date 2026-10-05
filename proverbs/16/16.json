@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 16:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Хикмәт алу — ничек яхшы алтыннан! һәм аңлау алу көмештән сайланган!",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "алу"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "алтыннан"
+    },
+    {
+      "surface": "וקנות",
+      "gloss": "һәм алу"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "аңлау"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "сайланган"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "көмештән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:10.510561259Z",
+  "model": "glm-5.3"
+}

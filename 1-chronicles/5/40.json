@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Әзария ⟨את⟩ Сәраяны тудырды, һәм Сәрая ⟨את⟩ Яһуцадакны тудырды.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "һәм Әзария"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сәраяны"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Сәрая"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "һәм Сәрая"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһуцадакны"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Яһуцадак"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:02.626269059Z",
+  "model": "glm-5.3"
+}

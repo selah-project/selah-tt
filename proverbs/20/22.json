@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Әйтмә: Мин яманлыкны үч итәрмен; Яһвәне көт, һәм Ул сине коткарыр.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "әйтмә"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "үч итәрмен"
+    },
+    {
+      "surface": "רע",
+      "gloss": "яманлыкны"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "көт"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәне"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "һәм Ул коткарыр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сине"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:27.792928692Z",
+  "model": "glm-5.3"
+}

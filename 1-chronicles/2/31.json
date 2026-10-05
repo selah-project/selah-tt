@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Аппаим уллары: Йиши; һәм Йиши уллары: Шешан; һәм Шешан уллары: Аһлай.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "Аппаим"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Йиши"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Йиши"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Аһлай"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:30.356205670Z",
+  "model": "glm-5.3"
+}

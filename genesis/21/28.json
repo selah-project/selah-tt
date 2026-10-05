@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Авраһам көтүдән ⟨את⟩ җиде бәрән тәнләрне аерым куены.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "куены аерым"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "җиде бәрәнне"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "бәрәнне"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "көтүдән"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "аерым"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:05.571060456Z",
+  "model": "glm-5.3"
+}

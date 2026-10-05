@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "һәм Билһада, һәм Эцэмда, һәм Толадта",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "һәм Билһада"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "һәм Эцэмда"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "һәм Толадта"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:39.266247978Z",
+  "model": "glm-5.3"
+}

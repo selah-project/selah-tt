@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Эзер — беренче, Овадья — икенче, Элиав — өченче.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Эзер"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "беренче"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Овадья"
+    },
+    {
+      "surface": "השני",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "өченче"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:29.415638514Z",
+  "model": "glm-5.3"
+}

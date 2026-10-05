@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Ә корбан итеннән калганы өченче көнне утта яндырылачак.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ә калганы"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "итеннән"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "корбан"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "өченче"
+    },
+    {
+      "surface": "באש",
+      "gloss": "утта"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "яндырылачак"
+    }
+  ],
+  "timestamp": "2026-10-04T21:56:11.681536197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Сукканга яңагын бирер, түһәтлеккә туйганчы өләшер.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "бирер"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "сукканга"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "яңагын"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "туганчы өләшер"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "түһәтлеккә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:31:54.210050489Z",
+  "model": "glm-5.3"
+}

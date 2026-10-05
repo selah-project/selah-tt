@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Адәмнең яшәгән бар көннәре тугыз йөз утыз ел булды, һәм ул үлде.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәре"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адәмнең"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "חי",
+      "gloss": "яшәгән"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тугыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "утыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үлде"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:22.150834669Z",
+  "model": "glm-5.3"
+}

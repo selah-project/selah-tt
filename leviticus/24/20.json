@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Сыну сыну урына, күз күз урына, теш теш урына; кешегә ничек зарар салган, аңа шулай бирелер.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "урына"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "עין",
+      "gloss": "күз"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "урына"
+    },
+    {
+      "surface": "עין",
+      "gloss": "күз"
+    },
+    {
+      "surface": "שן",
+      "gloss": "теш"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "урына"
+    },
+    {
+      "surface": "שן",
+      "gloss": "теш"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "салган"
+    },
+    {
+      "surface": "מום",
+      "gloss": "зарар"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "кешегә"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "бирелер"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T22:03:57.607118711Z",
+  "model": "glm-5.3"
+}

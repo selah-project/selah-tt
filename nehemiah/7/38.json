@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Сенаһа уллары: өч мең тугыз йөз утыз.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Сенаһа"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мең"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тугыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "утыз"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:18.430525376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 109,
+  "translation": "Улылары ятим булсын, һәм хатыны тол калсын.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "булсын"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "улылары"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ятим"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "һәм хатыны"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "тол"
+    }
+  ],
+  "timestamp": "2026-10-05T02:42:15.883741941Z",
+  "model": "glm-5.3"
+}

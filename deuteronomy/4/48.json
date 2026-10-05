@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Арнон инеше ярындагы Ароердан башлап Сион тавына кадәр — ул Хермон.",
+  "tokens": [
+    {
+      "surface": "мערער",
+      "gloss": "Ароердан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "על",
+      "gloss": "−да"
+    },
+    {
+      "surface": "шфат",
+      "gloss": "ярында"
+    },
+    {
+      "surface": "нхл",
+      "gloss": "инешенең"
+    },
+    {
+      "surface": "арнон",
+      "gloss": "Арнон"
+    },
+    {
+      "surface": "въд",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "hr",
+      "gloss": "тавына"
+    },
+    {
+      "surface": "шйън",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "hva",
+      "gloss": "ул"
+    },
+    {
+      "surface": "хермон",
+      "gloss": "Хермон"
+    }
+  ],
+  "timestamp": "2026-10-04T22:21:36.497247254Z",
+  "model": "glm-5.3"
+}

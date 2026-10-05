@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Яман килгәндә түбән карау да килә, һәм оялчыклык белән бергә мыскыл.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "килгәндә"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "яман"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "түбән карау"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "һәм белән"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "оялчыклык"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "мыскыл"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:46.023437394Z",
+  "model": "glm-5.3"
+}

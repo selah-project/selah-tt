@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Мин синең сүзеңнән шатланам, зур талаыш тапкан кеше кебек.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "шатланам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мин"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ннан"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "синең сүзең"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "тапкан кеше кебек"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "талаыш"
+    },
+    {
+      "surface": "רב",
+      "gloss": "зур"
+    }
+  ],
+  "timestamp": "2026-10-05T01:03:21.411395541Z",
+  "model": "glm-5.3"
+}

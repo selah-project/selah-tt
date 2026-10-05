@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Борынгы чикне күчермә — аны аталарың койган.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "күчермә"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "күчермә"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чик"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "борынгы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "койган"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "аталарың"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:13.059749537Z",
+  "model": "glm-5.3"
+}

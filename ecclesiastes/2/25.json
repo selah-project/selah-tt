@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Чөнки кем ашый алыр, һәм кем ашкыныр — миннән тыш?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашый алыр"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "һәм кем"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ашкыныр"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "тыш"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "миннән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:33:52.615327036Z",
+  "model": "glm-5.3"
+}

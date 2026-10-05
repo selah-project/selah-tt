@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Тамар, аның килене, аңа ⟨את⟩ Перецны һәм ⟨את⟩ Зерахны тудырды. Яһуданың барлык уллары — биш.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "һәм Тамар"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "аның килене"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Перецны"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Зерахны"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһуданың"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "биш"
+    }
+  ],
+  "timestamp": "2026-10-05T02:47:59.002998088Z",
+  "model": "glm-5.3"
+}

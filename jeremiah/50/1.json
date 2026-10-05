@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 50,
+  "translation": "Сүз, ки Яһвә Бабел турында, Касдим җире турында пәйгамбәр Йирмәяһу кулы аша сөйләде.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "турында"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "турында"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Касдим"
+    },
+    {
+      "surface": "вיד",
+      "gloss": "кулы аша"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмәяһу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пәйгамбәр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:04:34.875114752Z",
+  "model": "glm-5.3"
+}

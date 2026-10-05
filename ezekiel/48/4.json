@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Һәм Нафтали чиге өстендә: көнчыгыш ягыннан диңгез ягына кадәр — Менаше, бер.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Һәм өстендә"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чиге"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ягыннан"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "көнчыгыш"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ягына"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-05T00:25:29.853616506Z",
+  "model": "glm-5.3"
+}

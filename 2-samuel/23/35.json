@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Хецро кармилле, Пагаи арбле.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Хецро"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "кармилле"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "Пагаи"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "арбле"
+    }
+  ],
+  "timestamp": "2026-10-04T23:07:24.855029887Z",
+  "model": "glm-5.3"
+}

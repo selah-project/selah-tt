@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 47,
+  "translation": "Һәм Паръоһ Йосефка әйтте: Атаң һәм туганнарың сиңа килделәр.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръоһ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "〈әйтеп〉"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаң"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "һәм туганнарың"
+    },
+    {
+      "surface": "באו",
+      "gloss": "килделәр"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-04T21:39:25.044138242Z",
+  "model": "glm-5.3"
+}

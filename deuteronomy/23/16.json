@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Син ⟨את⟩ колны аның хуҗасына тапшырмассың, ул үз хуҗасыннан сиңа качып килгәндә.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "тапшырмассың"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "колны"
+    },
+    {
+      "surface": "אל",
+      "gloss": "а"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "хуҗасына"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "качып килгәндә"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "вә"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "хуҗасыннан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:51.729161629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "һәм ⟨את⟩ Ресенне — Ниневе белән Келах арасында; ул ⟨ул⟩ бөек шәһәр.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Ресенне"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Ресенне"
+    },
+    {
+      "surface": "בין",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневе"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "белән"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Келах"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "бөек"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:19.568681786Z",
+  "model": "glm-5.3"
+}

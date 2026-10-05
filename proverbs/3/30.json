@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Бер кешене бушка гаепләп талашма, әгәр ул сиңа начарлык эшләмәгән булса.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "өндәмә"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "талашма"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "бер кешене"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бушка"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "сиңа эшләмәгән"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "начарлык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:55.494663420Z",
+  "model": "glm-5.3"
+}

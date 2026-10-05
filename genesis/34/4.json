@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Һәм Шехем әтисе Һаморга әйтте: Миңа бу ⟨את⟩ кызны хатынлыкка ал.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шехем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Һаморга"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әтисе"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кызны"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "кызны"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "хатынлыкка"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:45.053415687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 1:3",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Яһвә сүзе аеруча каһин Бузи улы Йәхәзкәлгә килде — Касдим илендә, Кебар елгасы янында, һәм анда аңа Яһвә кулы булды.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "היה",
+      "gloss": "аеруча"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "келгә"
+    },
+    {
+      "surface": "יחזקאל",
+      "gloss": "Йәхәзкәл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "בוזי",
+      "gloss": "Бузи"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "илендә"
+    },
+    {
+      "surface": "כשדим",
+      "gloss": "Касдим"
+    },
+    {
+      "surface": "על",
+      "gloss": "янында"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "елгасы"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Кебар"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кулы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:06:49.822438285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Рәгү утыз ике ел яшәде һәм Сәругны ⟨את⟩ тудырды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Рәгү"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "һәм утыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сәругны"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Сәруг"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:27.796019936Z",
+  "model": "glm-5.3"
+}

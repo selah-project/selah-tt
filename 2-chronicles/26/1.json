@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм Йеһуданың бөтен халкы ⟨את⟩ Узияһны — ә ул ун алты яшьендә иде — алды һәм аны әтисе Аматсияһ урынына патша итеп куйды.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "алды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халкы"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеһуданың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Узияһны"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Узияһны"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ә ул"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уnerRadius"
+    }
+  ],
+  "timestamp": "2026-10-05T02:13:32.975071690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 43,
+  "translation": "Һәм Яһвәнең даны йөзе көнчыгыш юлына караган капка аша өйгә керде.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "Һәм Яһвәнең даны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "בא",
+      "gloss": "керде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өйгә"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "өй"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "аша"
+    },
+    {
+      "surface": "שער",
+      "gloss": "капка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которыйның"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "йөзе"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юлына"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "көнчыгыш"
+    }
+  ],
+  "timestamp": "2026-10-05T00:23:41.552016380Z",
+  "model": "glm-5.3"
+}

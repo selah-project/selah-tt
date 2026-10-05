@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм мин ⟨את⟩ күзләремне күтәрдем һәм карадым, һәм менә дүрт мөгез.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "күтәрдем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күзләремне"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "күзләремне"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "карадым"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "мөгез"
+    }
+  ],
+  "timestamp": "2026-10-05T00:38:29.341914180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Гиддел балалары, Гаһар балалары, Реайа балалары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Гиддел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "Гаһар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Реайа"
+    }
+  ],
+  "timestamp": "2026-10-05T02:46:46.086107553Z",
+  "model": "glm-5.3"
+}

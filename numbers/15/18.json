@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 15:18",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Йисраэл улларына сөйлә һәм аларга әйт: Әгәр Мин ⟨את⟩ сезне алып килгән җиргә керсәгез,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "сөйлә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "һәм әйт"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "керергә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "алып киләм"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ сезне"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "анда"
+    }
+  ],
+  "timestamp": "2026-10-04T22:11:50.469631946Z",
+  "model": "glm-5.3"
+}

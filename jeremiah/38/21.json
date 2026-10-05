@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Әгәр син чыгудан баш тартсаң, мине Яһвәгә күрсәткән сүз — бу.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "баш тартсаң"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "чыгудан"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "<кайсы>"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "мине күрсәткән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:00:50.824284086Z",
+  "model": "glm-5.3"
+}

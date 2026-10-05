@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Затту уллары, тугыз йөз кырык биш.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Затту"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тугыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "биш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:45:50.639149203Z",
+  "model": "glm-5.3"
+}

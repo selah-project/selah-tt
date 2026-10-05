@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Пашхурның балалары: мең ике йөз кырык җиде.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Пашхур"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ике йөз"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "һәм җиде"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:08.742906834Z",
+  "model": "glm-5.3"
+}

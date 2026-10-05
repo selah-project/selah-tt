@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Хаксызлык чәчүче бушлык урыр, һәм аның ачуының таягы бетәр.",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "чәчүче"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "хаксызлык"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "урыр"
+    },
+    {
+      "surface": "און",
+      "gloss": "бушлык"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "һәм таяк"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "аның ачуының"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "бетәр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:02.435296282Z",
+  "model": "glm-5.3"
+}

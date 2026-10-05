@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Аларның тынычлыгын да, яхшылыгын да эзләмә — бөтен көннәреңдә, мәңге.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "эзләмә"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "тынычлыкларын"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "яхшылыкларын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "көннәреңдә"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:39.547422413Z",
+  "model": "glm-5.3"
+}

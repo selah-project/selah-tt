@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 14:17",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Хәзер инде, зинһар, Адонайның көче зур булсын, син әйткәнечә дип:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Хәзер инде"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "зур булсын"
+    },
+    {
+      "surface": "נא",
+      "gloss": "зинһар"
+    },
+    {
+      "surface": "כח",
+      "gloss": "көч"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонайның"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "әйткәнечә"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "син сөйләдең"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    }
+  ],
+  "timestamp": "2026-10-04T22:10:38.634842780Z",
+  "model": "glm-5.3"
+}

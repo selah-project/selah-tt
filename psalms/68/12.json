@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 68,
+  "translation": "Адонай сүз бирә: хәбәр таратучы хатыннар — зур гаскәр.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бирә"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "хәбәр таратучы хатыннар"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "гаскәр"
+    },
+    {
+      "surface": "רב",
+      "gloss": "зур"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:49.964718507Z",
+  "model": "glm-5.3"
+}

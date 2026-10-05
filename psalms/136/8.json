@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 136,
+  "translation": "Көннең хакимлеге өчен ⟨את⟩ кояшны, чөнки Аның хеседы мәңге.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кояшны"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояшны"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "хакимлеге өчен"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көннең"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Аның хеседы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:25.678883625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Болар Йисраэл уллары: Рувен, Шимон, Леви һәм Йеһуда, Иссахар һәм Звулун.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувен"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "һәм Йеһуда"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Иссахар"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "һәм Звулун"
+    }
+  ],
+  "timestamp": "2026-10-05T02:47:49.186113910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Сиңа ташландым, карыннан ук; анам карыныннан ук — минем Эл Синсең.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Сиңа"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ташландым"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "карыннан"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "карыныннан"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "анам"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "минем Эл"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    }
+  ],
+  "timestamp": "2026-10-05T00:44:17.716525486Z",
+  "model": "glm-5.3"
+}

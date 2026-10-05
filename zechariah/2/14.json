@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 2:14",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Кычкыр һәм шатлан, Сион кызы, чөнки менә Мин киләм һәм синең уртаңда яшәрмен, Яһвә сүзе.",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "Кычкыр"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "һәм шатлан"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "менә Мин"
+    },
+    {
+      "surface": "בא",
+      "gloss": "киләм"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "һәм яшәрмен"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "синең уртаңда"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:38:10.246101228Z",
+  "model": "glm-5.3"
+}

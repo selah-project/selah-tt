@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Арпахшад ⟨את⟩ Шалахны тудырды, һәм Шалах ⟨את⟩ Эвәрне тудырды.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Һәм Арпахшад"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шалахны"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шалахны"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "һәм Шалах"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эвәрне"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвәрне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:19.897422612Z",
+  "model": "glm-5.3"
+}

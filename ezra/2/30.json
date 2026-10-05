@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Магбиш уллары, йөз илле алты.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "Магбиш"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "алты"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:09.914358335Z",
+  "model": "glm-5.3"
+}

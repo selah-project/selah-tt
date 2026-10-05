@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Бат-Шева әйтте: Ярар, мин син¢ өчен патшага сөйләрмен.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "һәм ул әйтте"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ярар"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мин"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "сөйләрмен"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "син өчен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "патшага"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    }
+  ],
+  "timestamp": "2026-10-04T23:09:33.446005582Z",
+  "model": "glm-5.3"
+}

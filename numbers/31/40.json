@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 31:40",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Ә кешеләр җаннары — алты ун мең, һәм аларның Яһвәгә салымы — ике һәм отыз җан.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "һәм җан"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешеләрнең"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "алты"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "һәм аларның салымы"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "һәм отыз"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:17.072941116Z",
+  "model": "glm-5.3"
+}

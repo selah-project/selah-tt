@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 83,
+  "translation": "Җыр, мизмор, Асафка.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Җыр"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафка"
+    }
+  ],
+  "timestamp": "2026-10-05T00:56:00.591881048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Котору өчен, Йедутунга — Давид мәдхиясе.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Котору өчен"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Йедутунга"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхия"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидка"
+    }
+  ],
+  "timestamp": "2026-10-05T00:48:30.306951933Z",
+  "model": "glm-5.3"
+}

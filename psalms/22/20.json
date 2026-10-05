@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Ә син, Яһвә, ерак булма; көчем, ярдәмгә ашык.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ә син"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "булма"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ерак"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "көчем"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ярдәмгә"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ашык"
+    }
+  ],
+  "timestamp": "2026-10-05T00:44:36.838013772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Шуңа күрә ул урын Беэр-Шеба дип аталды, чөнки икесе дә анда ант итте.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "шунңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "аталды"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "урынга"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "באר",
+      "gloss": "коя"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ант итте"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "икесе дә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:21.103068647Z",
+  "model": "glm-5.3"
+}

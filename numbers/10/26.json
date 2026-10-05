@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 10:26",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Ашер балалары кабиләсенең гаскәре өстеннән — Пагиэл, Окран улы.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "һәм өстеннән"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "гаскәре"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "кабиләсенең"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Пагиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Окран"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:07.021360185Z",
+  "model": "glm-5.3"
+}

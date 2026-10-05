@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 97,
+  "translation": "Яһвә патша булды, җир шатланыр, күп утраулар сөенер.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша булды"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "шатланыр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "сөенер"
+    },
+    {
+      "surface": "איים",
+      "gloss": "утраулар"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "күп"
+    }
+  ],
+  "timestamp": "2026-10-05T00:58:13.091596597Z",
+  "model": "glm-5.3"
+}

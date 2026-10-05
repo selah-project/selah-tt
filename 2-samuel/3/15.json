@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Иш-Бошет җибәрде һәм аны кешенең яныннан — Палтиэл, Лаиш улы яныннан алды.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "җибәрде"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Иш"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Бошет"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "алды"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "яныннан"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "яныннан"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Палтиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Лаиш"
+    }
+  ],
+  "timestamp": "2026-10-04T22:59:58.031776787Z",
+  "model": "glm-5.3"
+}

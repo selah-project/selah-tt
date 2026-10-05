@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Кем ул — дан патшасы? Яһвә — көчле һәм батыр, Яһвә — сугыш батыры.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ул"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "дан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "көчле"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "һәм батыр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "батыр"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "сугыш"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:54.069462596Z",
+  "model": "glm-5.3"
+}

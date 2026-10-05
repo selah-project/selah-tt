@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Ул чакта Моше Ярдан артында, кояш чыгышы якта, өч шәһәр аерып куйды.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ул чакта"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "аерып куйды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "артында"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярдан"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "кояш чыгышы якта"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "кояш"
+    }
+  ],
+  "timestamp": "2026-10-04T22:21:09.928771704Z",
+  "model": "glm-5.3"
+}

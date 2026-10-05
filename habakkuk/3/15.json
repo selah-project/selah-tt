@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Диңгездә атларың белән таптадың — күп суларның лаенда.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "таптадың"
+    },
+    {
+      "surface": "בים",
+      "gloss": "диңгездә"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "атларың белән"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "лаенда"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суларның"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "күп"
+    }
+  ],
+  "timestamp": "2026-10-05T00:36:24.360586970Z",
+  "model": "glm-5.3"
+}

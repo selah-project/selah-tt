@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Яһвә миңа әйтте: Үзеңә зур такта ал һәм аңа кешенең каләме белән языр: Маһер-шалал-һаш-баз.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "такта"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "зур"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "һәм языр"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "каләме белән"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Маһер"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "шалал"
+    },
+    {
+      "surface": "חש",
+      "gloss": "һаш"
+    },
+    {
+      "surface": "בז",
+      "gloss": "баз"
+    }
+  ],
+  "timestamp": "2026-10-04T23:30:30.041943776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм Ләйә әйтте: Бәхет җитте! Һәм ⟨את⟩ аның исемен Гад дип атады.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Ләйә"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "бәхет җитте"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "атады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "исемен"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "аның исемен"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:18.207268600Z",
+  "model": "glm-5.3"
+}

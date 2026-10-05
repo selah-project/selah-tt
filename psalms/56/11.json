@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 56,
+  "translation": "Элоһимда мин сүзне мактыйм, Яһвәдә мин сүзне мактыйм.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Элоһимда"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "мин мактыйм"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзне"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яһвәдә"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "мин мактыйм"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзне"
+    }
+  ],
+  "timestamp": "2026-10-05T00:50:47.260331279Z",
+  "model": "glm-5.3"
+}

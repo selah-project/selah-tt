@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Минең итемне һәм тиремне какраткан, сөякләремне ваткан.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "какраткан"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "итемне"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "һәм тиремне"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ваткан"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "сөякләремне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:25.086230459Z",
+  "model": "glm-5.3"
+}

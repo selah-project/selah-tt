@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Һәм Авимелех Авраһамга әйтте: Нәрсә күрдедең сиңа, бу ⟨את⟩ эшне эшләгәнче?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "күрдедең"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "эшләгәнче"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу эшне"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "эшне"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:05.546169124Z",
+  "model": "glm-5.3"
+}

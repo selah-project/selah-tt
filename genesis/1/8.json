@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Элоһим киңлекне күк дип атады. Һәм кич булды, һәм иртә булды — икенче көн.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "һәм атады"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "киңлекне"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "күк"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кич"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "иртә"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "שני",
+      "gloss": "икенче"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:10.400278353Z",
+  "model": "glm-5.3"
+}

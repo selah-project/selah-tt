@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Сезгә, и кешеләр, мин эндәшәм, һәм минем тавышым адәм балаларына.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "и кешеләр"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "мин эндәшәм"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "һәм минем тавышым"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балаларына"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адәм"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:47.970941548Z",
+  "model": "glm-5.3"
+}

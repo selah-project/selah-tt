@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 113,
+  "translation": "Яһвә Исеме мөбарәк булсын — хәзердән һәм мәңгегә кадәр.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "булсын"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Иеме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "мөбарәк"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "хәзердән"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "һәм … кадәр"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-05T02:42:42.021561739Z",
+  "model": "glm-5.3"
+}

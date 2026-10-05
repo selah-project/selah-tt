@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Мин карыйм, мин йөрәгемә урнаштырам; күрдем, гыйбрәт алдым.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "һәм күздә тоттым"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мин"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "урнаштырам"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "йөрәгемә"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "күрдем"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "алдым"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "гыйбрәт"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:02.063249053Z",
+  "model": "glm-5.3"
+}

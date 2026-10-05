@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Давид теләде һәм әйтте: Кай миңа су эчертәр Бәйт-Ләхәм коесыннан, ул капка янында булган?",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "теләде"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кай"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "миңа эчертәр"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "кое"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бәйт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Ләхәм"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "капта"
+    }
+  ],
+  "timestamp": "2026-10-05T02:00:15.292764753Z",
+  "model": "glm-5.3"
+}

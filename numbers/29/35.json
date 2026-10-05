@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Сигезенче көнне сезгә җыен булыр, хезмәт эшенең барысын да эшләмәсез.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "сигезенче"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "җыен"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысын да"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "эшенең"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "хезмәт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...мә"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "эшләрсез"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:10.653663377Z",
+  "model": "glm-5.3"
+}

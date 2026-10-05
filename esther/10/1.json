@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм патша Аһашверош салым салды җир өстенә һәм диңгез утраулары өстенә.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "салды"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Аһашверош"
+    },
+    {
+      "surface": "מס",
+      "gloss": "салым"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "һәм утраулары"
+    },
+    {
+      "surface": "הים",
+      "gloss": "диңгез"
+    }
+  ],
+  "timestamp": "2026-10-05T01:39:02.733594788Z",
+  "model": "glm-5.3"
+}

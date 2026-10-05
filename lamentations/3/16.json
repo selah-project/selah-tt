@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Ул вак таш белән тешләремне төйне, мине көлгә басты.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "төйне"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "вак таш белән"
+    },
+    {
+      "surface": "שני",
+      "gloss": "тешләремне"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "мине басты"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "көлгә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:00.002940566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "һәм ⟨את⟩ Поратаны, һәм ⟨את⟩ Адалианыы, һәм ⟨את⟩ Аридатаны",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Поратаны"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Поратаны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Адалияны"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Адалияны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Аридатаны"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Аридатаны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:38:42.168805362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм Абдон, һәм Зихри, һәм Һанан,",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "Абдон"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "Зихри"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "Һанан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:58.343431591Z",
+  "model": "glm-5.3"
+}

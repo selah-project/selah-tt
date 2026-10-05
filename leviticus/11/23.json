@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм дүрт аяклы булган башка барысы да — озын канатлы бөҗәкләрнең барысы да сезгә жиркәнечле.",
+  "tokens": [
+    {
+      "surface": "вәкъл",
+      "gloss": "һәм барысы"
+    },
+    {
+      "surface": "шәрәц",
+      "gloss": "бөҗәкләрнең"
+    },
+    {
+      "surface": "һәғwф",
+      "gloss": "канатлы"
+    },
+    {
+      "surface": "ашер",
+      "gloss": "—"
+    },
+    {
+      "surface": "лә",
+      "gloss": "—"
+    },
+    {
+      "surface": "арбәғ",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "рагәлим",
+      "gloss": "аяклы"
+    },
+    {
+      "surface": "шәкәц",
+      "gloss": "жиркәнечле"
+    },
+    {
+      "surface": "һwә",
+      "gloss": "—"
+    },
+    {
+      "surface": "ләкәм",
+      "gloss": "сезгә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:27.471079082Z",
+  "model": "glm-5.3"
+}

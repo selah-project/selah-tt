@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 51,
+  "translation": "Бабилдан кычкыру тавышы, һәм Касдилар җиреннән бөек җимерелү.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "тавышы"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "кычкыру"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Бабилдан"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "һәм җимерелү"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "җиреннән"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Касдилар"
+    }
+  ],
+  "timestamp": "2026-10-05T00:05:47.379667853Z",
+  "model": "glm-5.3"
+}

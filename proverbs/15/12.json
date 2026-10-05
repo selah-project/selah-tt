@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Маскараучы үзен төзәтүче кешене яратмый, ул хәкимнәр янына бармый.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "...ма"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "яратмый"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "маскараучы"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "төзәтүче"
+    },
+    {
+      "surface": "לו",
+      "gloss": "үзен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "хәкимнәр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...ма"
+    },
+    {
+      "surface": "י לך",
+      "gloss": "бармый"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:56.187772705Z",
+  "model": "glm-5.3"
+}

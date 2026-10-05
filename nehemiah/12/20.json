@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Саллай бүлегеннән — Каллай; Амок бүлегеннән — Эбер.",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "Саллай бүлегеннән"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "Каллай"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "Амок бүлегеннән"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эбер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:54:55.490494627Z",
+  "model": "glm-5.3"
+}

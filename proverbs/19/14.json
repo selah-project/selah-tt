@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Өй һәм байлык — аталардан мирас, ә акыллы хатын — Яһвәдән.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Өй"
+    },
+    {
+      "surface": "והון",
+      "gloss": "һәм байлык"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "мирас"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "аталардан"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ә Яһвәдән"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "акыллы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:26.096620290Z",
+  "model": "glm-5.3"
+}

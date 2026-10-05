@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Әгәр ул мең ел, ике тапкыр, яшәсә дә, яхшылык күрмәсә — барысы да бер урынга бармыймы?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "әгәр дә"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ел"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ике тапкыр"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "һәм яхшылык"
+    },
+    {
+      "surface": "לא",
+      "gloss": "күрмәсә"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "әллә...мы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "урын"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "барысы"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "бара"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:18.112945559Z",
+  "model": "glm-5.3"
+}

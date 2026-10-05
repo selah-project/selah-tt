@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Һәм Давид чүллектә ишетте: Навал ⟨את⟩ көтүен кыркалый.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ишетте"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чүллектә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "кыркалый"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Навал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "көтүен"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "көтүен"
+    }
+  ],
+  "timestamp": "2026-10-04T22:56:37.793377584Z",
+  "model": "glm-5.3"
+}

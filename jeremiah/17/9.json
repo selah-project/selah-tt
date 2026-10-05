@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Алдакчы йөрәк барлык нәрсәдән дә һәм дәваланмас — аны кем белер?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "алдакчы"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "барлык нәрсәдән дә"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "һәм дәваланмас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ул⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "аны белер"
+    }
+  ],
+  "timestamp": "2026-10-04T23:51:45.683297805Z",
+  "model": "glm-5.3"
+}

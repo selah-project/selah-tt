@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ул юлларымны читкә борды, мине телә-ритте, мине хәрабә итте.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "юлларымны"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "читкә борды"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "мине телә-ритте"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "мине"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "хәрабә итте"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:01.533679147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Хикмәтле кешенең йөрәге аның уң ягында, ә ахмакның йөрәге — сул ягында.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "йөрәге"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хикмәтле кешенең"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "аның уң ягында"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ә йөрәге"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ахмакның"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "сул ягында"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:01.793879150Z",
+  "model": "glm-5.3"
+}

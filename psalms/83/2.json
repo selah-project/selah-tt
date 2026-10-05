@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 83,
+  "translation": "Элоһим, синә тынлык булдырма, дәшмә син һәм тыныч булма, Эл.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "булдырма"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "тынлык"
+    },
+    {
+      "surface": "לך",
+      "gloss": "синә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дәшмә"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "⟨син⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм тыныч булма"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-10-05T00:56:00.592092684Z",
+  "model": "glm-5.3"
+}

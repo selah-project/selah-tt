@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Бар кыйммәтле байлык табылсын, өйләребезне талым белән тулдырабыз.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הון",
+      "gloss": "байлык"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "кыйммәтле"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "табылсын"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "тулдырабыз"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "өйләребезне"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "талым"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:33.254616183Z",
+  "model": "glm-5.3"
+}

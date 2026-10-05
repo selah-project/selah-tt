@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Коһелетнең сүзләре, Давид улы, патша Йерушалаимда.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "сүзләре"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Коһелетнең"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалаимда"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:18.431569772Z",
+  "model": "glm-5.3"
+}

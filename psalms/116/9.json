@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 116,
+  "translation": "Мин Яһвә алдында йөримен, тереләр җирендә.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "йөримен"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "җирендә"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "тереләр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:19.774100636Z",
+  "model": "glm-5.3"
+}

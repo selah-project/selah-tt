@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Аңа яңа җыр җырлагыз; тәруага кылычны яхшы уйнагыз.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "җырлагыз"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Аңа"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "яңа"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "яхшы уйнагыз"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "кыл коралда уйнарга"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "тәруага"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:26.995961198Z",
+  "model": "glm-5.3"
+}

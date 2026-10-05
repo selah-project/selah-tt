@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 118,
+  "translation": "Яһ мине каты тәрбияләде, ләкин үлемгә бирмәде.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "тәрбияләде"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "каты тәрбияләде"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһ"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "ләкин үлемгә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "бирмәде"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:30.868727760Z",
+  "model": "glm-5.3"
+}

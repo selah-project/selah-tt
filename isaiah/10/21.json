@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Калдык әйләнеп кайтачак, Яаковның калдыгы көчле Эл янына.",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "калдык"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "әйләнеп кайтачак"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "калдыгы"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковның"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "көчле"
+    }
+  ],
+  "timestamp": "2026-10-04T23:31:57.635605817Z",
+  "model": "glm-5.3"
+}

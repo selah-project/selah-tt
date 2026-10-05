@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Ул торды һәм китте; ә Йонатан шәһәргә керде.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "торды"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "китте"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ә Йонатан"
+    },
+    {
+      "surface": "בא",
+      "gloss": "керде"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шәһәр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:55:50.102201186Z",
+  "model": "glm-5.3"
+}

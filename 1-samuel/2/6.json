@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Яһвә үтерә һәм терелтә, Шеолга төшерә һәм күтәрә.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "үтерә"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "һәм терелтә"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "төшерә"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолга"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "һәм күтәрә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:47:43.227902700Z",
+  "model": "glm-5.3"
+}

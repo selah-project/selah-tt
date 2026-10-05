@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Көн буе теләк теләй, ә цедеклы кеше бирә һәм тыймый.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "теләк теләй"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "теләген"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ә цедеклы кеше"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бирә"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "тыймый"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:41.254696239Z",
+  "model": "glm-5.3"
+}

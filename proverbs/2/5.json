@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Ул чакта син Яһвә куркысын аңларсың, Элоһим белемен табарсың.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ул чакта"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "аңларсың"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "куркысын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "белемен"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "табарсың"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:57.262453266Z",
+  "model": "glm-5.3"
+}

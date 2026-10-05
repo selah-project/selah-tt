@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Яхшы ир-кешегә, яшьлегендә ияр күтәрергә.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "ир-кешегә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "күтәрер"
+    },
+    {
+      "surface": "על",
+      "gloss": "ияр"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "яшьлегендә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:19.232121700Z",
+  "model": "glm-5.3"
+}

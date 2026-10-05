@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Чылбыр ясагыз, чөнки җир кан хөкемнәреннән тулы, һәм шәһәр көчләүдән тулы.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ясагыз"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "чылбыр"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкемнәреннән"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кан"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "һәм шәһәр"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "көчләүдән"
+    }
+  ],
+  "timestamp": "2026-10-05T00:07:30.373518031Z",
+  "model": "glm-5.3"
+}

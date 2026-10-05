@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Яһвә мине дә сезнең өчен ачуланды әйтеп: Син дә шунда кермәячәксең.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "дә"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мине"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "ачуланды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "сезнең өчен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дә"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "לא",
+      "gloss": "кермәячәксең"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "керү"
+    },
+    {
+      "surface": "שם",
+      "gloss": "шунда"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:39.371236516Z",
+  "model": "glm-5.3"
+}

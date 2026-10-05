@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 135,
+  "translation": "Ул күп халыкларны сукты һәм көчле патшаларны үтерде.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "сукты"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "халыкларны"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "күп"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "һәм үтерде"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "патшаларны"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "көчле"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:42.817585978Z",
+  "model": "glm-5.3"
+}

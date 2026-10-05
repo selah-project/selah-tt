@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Йорам аның улы, Аһазјаһу аның улы, Йоаш аның улы.",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "Йорам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Аһазјаһу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "בנо",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:00.688604505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Ул Яһвә Өйенең югары капкасын төзеде ⟨את⟩, һәм Өпәл тышчасында күп төзеде.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "төзеде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "капкасын"
+    },
+    {
+      "surface": "שער",
+      "gloss": "капкасын"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Өйенең"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "югары"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "һәм тышчасында"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Өпәл"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "төзеде"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "күп"
+    }
+  ],
+  "timestamp": "2026-10-05T02:13:57.160939537Z",
+  "model": "glm-5.3"
+}

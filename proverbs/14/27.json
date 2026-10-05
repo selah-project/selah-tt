@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Яһвәдан курку — тормыш чишмәсе, үлем тозакларыннан читләшү өчен.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "курку"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәдан"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "чишмәсе"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тормыш"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "читләшү өчен"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "тозакларыннан"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:34.508931582Z",
+  "model": "glm-5.3"
+}

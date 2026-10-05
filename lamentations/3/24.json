@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Яһвә — минем өлешем, ди минем җаным, шуңа күрә Аны көтәмен.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "минем өлешем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ди"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "минем җаным"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "шуңа күрә"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "көтәмен"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Аны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:39.351730558Z",
+  "model": "glm-5.3"
+}

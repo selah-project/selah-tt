@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм Йаким, һәм Зихри, һәм Завди —",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "һәм Йаким"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "һәм Зихри"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "һәм Завди"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:20.736695516Z",
+  "model": "glm-5.3"
+}

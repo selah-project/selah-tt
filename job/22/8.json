@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 22:8",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Ә көч иясе булган кешегә — җир, һәм ⟨йөзе ачык⟩ кеше анда яши.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ә кеше"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "көч иясе"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨аңа⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "һәм йөзе ачык"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "⟨йөз⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "яши"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    }
+  ],
+  "timestamp": "2026-10-05T01:22:48.614834994Z",
+  "model": "glm-5.3"
+}

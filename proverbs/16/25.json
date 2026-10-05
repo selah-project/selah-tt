@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Бар бер юл — кеше алдында туры, әмма аның ахыры — үлем юллары.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "бер юл"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "туры"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "әмма аның ахыры"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "юллары"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:57.913108045Z",
+  "model": "glm-5.3"
+}

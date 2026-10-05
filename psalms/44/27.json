@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 44,
+  "translation": "Тор, безгә ярдәм бул, һәм безне хеседең өчен коткар!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "тор"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ярдәм бул"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "һәм безне коткар"
+    },
+    {
+      "surface": "למען",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседең"
+    }
+  ],
+  "timestamp": "2026-10-05T00:48:58.007923330Z",
+  "model": "glm-5.3"
+}

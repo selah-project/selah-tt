@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Чөнки гөрләндерсә дә, Үз хеседеның күплегенчә рәхимлек кылыр.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אם",
+      "gloss": "дә"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "гөрләндерсә"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "рәхимлек кылыр"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "күплегенчә"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседеның"
+    }
+  ],
+  "timestamp": "2026-10-05T01:31:54.210454555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 46,
+  "translation": "Бу — Яһвәнең пәйгамбәр Йирмәяһуға халыклар турында әйтелгән сүзе.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "бу —"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булган"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אל",
+      "gloss": "әйтелгән"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмәяһуға"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пәйгамбәр"
+    },
+    {
+      "surface": "על",
+      "gloss": "турында"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "халыклар"
+    }
+  ],
+  "timestamp": "2026-10-05T00:02:21.400558280Z",
+  "model": "glm-5.3"
+}

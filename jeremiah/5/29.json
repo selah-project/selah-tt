@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 5:29",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Монда болар өчен тикшермәсәммe? — Яһвә сүзе. Әллә мондый халыктан җаным үч алмасмы?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "монда"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "тикшермәсәмме"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "тикшермәсәмме"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әллә"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "халыктан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "мондый"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "шундый"
+    },
+    {
+      "surface": "לא",
+      "gloss": "алмасмы"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "үч алмасмы"
+    },
+    {
+      "surface": "нфши",
+      "gloss": "җаным"
+    }
+  ],
+  "timestamp": "2026-10-04T23:48:42.085368136Z",
+  "model": "glm-5.3"
+}

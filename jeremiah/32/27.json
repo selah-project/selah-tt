@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Менә, Мин — Яһвә, бар итнең Элоһиме: Миннән теләсә нинди эш тә чит булырмы?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Менә"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһиме"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "итнең"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "Миннән"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "чит булырмы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "теләсә нинди"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "эш"
+    }
+  ],
+  "timestamp": "2026-10-05T02:37:09.326996006Z",
+  "model": "glm-5.3"
+}

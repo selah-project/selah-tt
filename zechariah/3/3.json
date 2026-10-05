@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Йеһошуа ләс киемнәр кигеп, фәрештә алдында басып тора иде.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "һәм Йеһошуа"
+    },
+    {
+      "surface": "היה",
+      "gloss": "иде"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "кигән"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "киемнәр"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "ләс"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "һәм басып тора"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "фәрештә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:38:53.602064103Z",
+  "model": "glm-5.3"
+}

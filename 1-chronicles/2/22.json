@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Сегуб ⟨את⟩ Яһирны тудырды, һәм аңа Гилеад илендә егерме өч шәһәр булды.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "Һәм Сегуб"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһирны"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Яһирны"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "илендә"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилеад"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:48.137641908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 84,
+  "translation": "Нинди бәхетле кеше — аның көче Синдә; йөрәкләрендә ⟨Аллаһ⟩ юллары.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Нинди бәхетле"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "көче"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аның"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Синдә"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "юллар"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "йөрәкләрендә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:22.059260682Z",
+  "model": "glm-5.3"
+}

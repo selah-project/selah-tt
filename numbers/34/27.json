@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Һәм Ашер уллары кабиләсеннән башлык — Аһиһуд, Шеломи улы.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "кабиләсеннән"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "башлык"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "Аһиһуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Шеломи"
+    }
+  ],
+  "timestamp": "2026-10-04T22:18:36.288620919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм Лут алар янына ишек алдына чыкты һәм ишекне үзе артыннан япты.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "алар янына"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лут"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ишек алдына"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "ишекне"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "япты"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "үзе артыннан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:28:11.931786917Z",
+  "model": "glm-5.3"
+}

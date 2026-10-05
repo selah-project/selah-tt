@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм һәр кием, һәм һәр тире, анда орлык агымы булса, суда юылыр һәм кичкә кадәр нәҗес булыр.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "һәм һәр"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "кием"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм һәр"
+    },
+    {
+      "surface": "עור",
+      "gloss": "тире"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анда"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булса"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анда"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "яту"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "орлык"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "юылыр"
+    },
+    {
+      "surface": "במים",
+      "gloss": "суда"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "нәҗес булыр"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "кич"
+    }
+  ],
+  "timestamp": "2026-10-04T22:01:03.460684421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Шуңа күрә кеше ⟨את⟩ атасын һәм ⟨את⟩ әнисен ташлап, хатынына ябышачак, һәм алар бер ит булырлар.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ташлап"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атасын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "әнисен"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "әнисен"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "ябышачак"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "хатынына"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "булырлар"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "ит"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-04T21:23:32.383247444Z",
+  "model": "glm-5.3"
+}

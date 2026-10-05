@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Гаделнең авызы хикмәт чәчәк атыр, ә кыек тел киселер.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "авызы"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гаделнең"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "чәчәк атыр"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ә тел"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "кыек"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "киселер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:28.793373171Z",
+  "model": "glm-5.3"
+}

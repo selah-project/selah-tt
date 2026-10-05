@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Йисаскар кабиләсе балалары гаскәре өстеннән Нэтанэл, Цуар улы.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "һәм өстеннән"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "гаскәре"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "кабиләсе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йисаскар"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нэтанэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цуар"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:06.879565726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 46,
+  "translation": "Һәм Левиның уллары: Гершон, Кеһат һәм Мерари.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм … уллары"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левиның"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеһат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "һәм Мерари"
+    }
+  ],
+  "timestamp": "2026-10-04T21:38:33.770578627Z",
+  "model": "glm-5.3"
+}

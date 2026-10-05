@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Гомер тәнбиясен ишетүче колак хәкимнәр эчендә кала.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "колак"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ишетүче"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "тәнбиясен"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "гомер"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "эчендә"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "хәкимнәр"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "кала"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:39.461851026Z",
+  "model": "glm-5.3"
+}

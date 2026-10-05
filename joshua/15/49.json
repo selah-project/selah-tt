@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "һәм Данна, һәм Кирьят-Саннаһ — ул Дәбир,",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "һәм Данна"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "һәм Кирьят"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "Саннаһ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Дәбир"
+    }
+  ],
+  "timestamp": "2026-10-04T22:36:48.022881829Z",
+  "model": "glm-5.3"
+}

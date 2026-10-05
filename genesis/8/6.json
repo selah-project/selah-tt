@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм кырык көннән соң Ноах үзе ясаган кишерчелекнең тәрәзәсен ачты.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "азагында"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ачты"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тәрәзәне"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "тәрәзә"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "кишерчелекнең"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ясаган"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:19.903980404Z",
+  "model": "glm-5.3"
+}

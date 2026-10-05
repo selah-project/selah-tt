@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Хикмәт акыллы кешегә көч бирә — шәһәрдә булган ун хакимнән дә артык.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "Хикмәт"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "көч бирә"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "акыллы кешегә"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "хакимнән"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨алар⟩"
+    },
+    {
+      "surface": "היו",
+      "gloss": "булган"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шәһәрдә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:56.563490857Z",
+  "model": "glm-5.3"
+}

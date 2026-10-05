@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм хәруб өстендә атланып очты, һәм рух канатлары өстендә күренде.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "атланып"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "хәруб"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "очты"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "күренде"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "канатлары"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    }
+  ],
+  "timestamp": "2026-10-04T23:05:32.209291113Z",
+  "model": "glm-5.3"
+}

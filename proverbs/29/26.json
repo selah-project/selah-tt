@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Күпләр идарәче йөзен эзли, ә һәр кешенең хөкеме Яһвәдән.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "күпләр"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "эзли"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзен"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "идарәче"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ә Яһвәдән"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкеме"
+    },
+    {
+      "surface": "איש",
+      "gloss": "һәр кешенең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:44.853722651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Яһвәгә тау коткарылу, ә Синең бәркәтең Синең халкың өстендә. Сэла.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "коткарылу"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "халкың"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "бәркәтең"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Сэла"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:02.494080932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Авызын тузанга куярсын — бәлки өмет бардыр.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "куярсын"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "тузанга"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "авызын"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "бәлки"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бардыр"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "өмет"
+    }
+  ],
+  "timestamp": "2026-10-05T01:31:54.209786398Z",
+  "model": "glm-5.3"
+}

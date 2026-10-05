@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 8:30",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Гидеонга_jet җиде улы булды — аның ботларыннан чыгулылар, чөнки аңа хатыннар күп иде.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T22:42:26.182266494Z",
+  "model": "glm-5.3"
+}

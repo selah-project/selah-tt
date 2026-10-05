@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм әгәр кеше фәкыйр булса, аның тәминаты белән ятма.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "һәм әгәр"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "עני",
+      "gloss": "фәкыйр"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "булса"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ятма (юк)"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "яту"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "аның тәминаты белән"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:17.493641923Z",
+  "model": "glm-5.3"
+}

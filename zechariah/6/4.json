@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм мин җавап бирдем һәм миңа сөйләшүче фәрештәгә әйттем: Бу нәрсәләр, и хуҗам?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "җавап бирдем"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "әйттем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−га"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "фәрештә"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөйләшүче"
+    },
+    {
+      "surface": "בי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "хуҷам"
+    }
+  ],
+  "timestamp": "2026-10-05T00:38:42.889610207Z",
+  "model": "glm-5.3"
+}

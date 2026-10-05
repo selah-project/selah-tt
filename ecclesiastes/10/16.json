@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Синардасың син, и җир, патшаң бала булса, һәм түрәләрең иртә ашаса!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Синардасың"
+    },
+    {
+      "surface": "лך",
+      "gloss": "син"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "и җир"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "патшаң"
+    },
+    {
+      "surface": "נער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "һәм түрәләрең"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "иртә"
+    },
+    {
+      "surface": "йאכלו",
+      "gloss": "ашаса"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:22.719902815Z",
+  "model": "glm-5.3"
+}

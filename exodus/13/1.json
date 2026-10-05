@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм Яһвә Мошега сөйләде, әйтиркәй:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "һәм сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "әйти"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтиркәй"
+    }
+  ],
+  "timestamp": "2026-10-04T21:44:59.026587235Z",
+  "model": "glm-5.3"
+}

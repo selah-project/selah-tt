@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Яһвә фәрештәгә әйтте, һәм ⟨ул⟩ үз кылычын тышына кайтарды.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "фәрештәгә"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "кайтарды"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "үз кылычын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−на"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "тышы"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:41.734424965Z",
+  "model": "glm-5.3"
+}

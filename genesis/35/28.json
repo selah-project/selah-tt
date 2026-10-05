@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 35,
+  "translation": "Һәм Йицхакның көннәре йөз ел һәм сиксән ел булды.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "… көннәре"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхакның"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "һәм сиксән"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:40.039458785Z",
+  "model": "glm-5.3"
+}

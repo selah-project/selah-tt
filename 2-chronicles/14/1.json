@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәм Аса Яһвәнең, үз Элоһимының күзләрендә яхшыны һәм турыны эшләде.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "эшләде"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "яхшыны"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "һәм турыны"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "күзләрендә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "үз Элоһимының"
+    }
+  ],
+  "timestamp": "2026-10-05T02:10:43.428032733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Өлеш өлешкә тигез ашарлар, аталар йорты буенча үзенеке булганнан башка.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "өлеш"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "өлешкә тигез"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ашарлар"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "башка"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "үзенеке булганнан"
+    },
+    {
+      "surface": "על",
+      "gloss": "буенча"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "аталар"
+    }
+  ],
+  "timestamp": "2026-10-04T22:25:41.678506324Z",
+  "model": "glm-5.3"
+}

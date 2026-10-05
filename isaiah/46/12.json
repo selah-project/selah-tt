@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 46,
+  "translation": "Минем тыңлагыз, йөрәге катылар, цедектән ераклар!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "тыңлагыз"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Минем"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "катылар"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәге"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "ераклар"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "цедектән"
+    }
+  ],
+  "timestamp": "2026-10-04T23:41:04.614631574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Сөйгәнем җавап бирде һәм миңа әйтте: Тор, сөйгәнем, гүзәлем, кил ⟨үзеңә барырга⟩.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "җавап бирде"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "сөйгәнем"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "тор"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨үзеңә⟩"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "сөйгәнем"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "гүзәлем"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "һәм кил"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨үзеңә барырга⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:51.104061468Z",
+  "model": "glm-5.3"
+}

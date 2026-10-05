@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм Моше аларга әйтте: һәркем аннан иртәгә кадәр калдырмасын.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "איש",
+      "gloss": "һәркем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…масын"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "калдырмасын"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "иртә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:16.205679754Z",
+  "model": "glm-5.3"
+}

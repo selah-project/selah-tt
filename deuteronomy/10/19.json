@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм сез ⟨את⟩ чит илне яратырга тиеш, чөнки сез Мицраим илендә чит ил булдыгыз.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "яратырга тиеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чит илне"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "чит илне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "чит ил"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "булдыгыз"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "илендә"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-04T22:22:43.267023169Z",
+  "model": "glm-5.3"
+}

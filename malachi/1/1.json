@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Йөк — Яһвә сүзе Йисраэлгә, Малахи кулы аша.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "йөк"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "кул аша"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Малахи"
+    }
+  ],
+  "timestamp": "2026-10-05T00:40:54.060413952Z",
+  "model": "glm-5.3"
+}

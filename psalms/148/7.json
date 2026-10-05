@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 148,
+  "translation": "Җирдән ⟨את⟩ Яһвәне мактагыз: танниннар һәм бөек тирәнлекләр.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "мактагыз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәне"
+    },
+    {
+      "surface": "מן",
+      "gloss": "җирдән"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "танниннар"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм бөек"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "тирәнлекләр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:09.399233419Z",
+  "model": "glm-5.3"
+}

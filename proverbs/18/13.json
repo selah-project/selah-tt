@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Ишеткәнче сүзгә җавап бирүче өчен — ул ахмаклык аңа, һәм оят.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "җавап бирүче"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ишеткәнче"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ишетәр"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ахмаклык"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "һәм оят"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:05.821007445Z",
+  "model": "glm-5.3"
+}

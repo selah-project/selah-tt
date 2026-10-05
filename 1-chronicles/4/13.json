@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Кеназның уллары: Отниэл һәм Серайа; әмма Отниэлнең улы — Хатат.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм ... уллары"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназ"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Отниэл"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "һәм Серайа"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "һәм ... улы"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Отниэл"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "Хатат"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:37.632865725Z",
+  "model": "glm-5.3"
+}

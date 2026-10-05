@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Шулай ди Яһвә Цеваот: ⟨את⟩ каһиннәрдән Тора сорагыз, әйтеп:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "sorагыз"
+    },
+    {
+      "surface": "נא",
+      "gloss": "инде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "каһиннәр"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "каһиннәрдән"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-05T00:37:03.867816493Z",
+  "model": "glm-5.3"
+}

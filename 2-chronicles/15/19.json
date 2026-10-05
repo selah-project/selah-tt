@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм сугыш Асаның патшалыгының отыз бишенче елына кадәр булмады.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "һәм сугыш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "булмады"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "елына"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "бишенче"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "патшалыгының"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асаның"
+    }
+  ],
+  "timestamp": "2026-10-05T02:10:29.149950506Z",
+  "model": "glm-5.3"
+}

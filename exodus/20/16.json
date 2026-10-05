@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Якыныңа каршы ялган шаһитлык кылма.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "тъанһ",
+      "gloss": "шаһитлык кылма"
+    },
+    {
+      "surface": "брък",
+      "gloss": "якыныңа каршы"
+    },
+    {
+      "surface": "ъд",
+      "gloss": "шаһит"
+    },
+    {
+      "surface": "шqr",
+      "gloss": "ялган"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:20.148256945Z",
+  "model": "glm-5.3"
+}

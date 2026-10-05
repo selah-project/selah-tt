@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Хәзер чыннан да, мин гоэлмен, ләкин миннән якынрак гоэл дә бар.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Хәзер"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "чыннан да"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "גאל",
+      "gloss": "гоэл"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мин"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ләкин шулай ук"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "гоэл"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "якынрак"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "миннән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:31:01.727223345Z",
+  "model": "glm-5.3"
+}

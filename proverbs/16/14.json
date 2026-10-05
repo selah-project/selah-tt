@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Патшаның ачулануы — үлем илләсе, һәм хәким кеше аны каплый.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ачулануы"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "илләсе"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлем"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "һәм кеше"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хәким"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "аны каплый"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:10.510265107Z",
+  "model": "glm-5.3"
+}

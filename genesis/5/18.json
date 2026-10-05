@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Йаред йөз алтмыш ике ел яшәде, һәм ⟨את⟩ Ханохны тудырды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Йаред"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "һәм алтмыш"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "һәм йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ханохны"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханохны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:50.803822851Z",
+  "model": "glm-5.3"
+}

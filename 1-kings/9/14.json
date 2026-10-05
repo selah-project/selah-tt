@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Һирам патшага йөз егерме талант алтын җибәрде.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "һәм ул җибәрде"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Һирам"
+    },
+    {
+      "surface": "لמלך",
+      "gloss": "патшага"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "талант"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    }
+  ],
+  "timestamp": "2026-10-05T02:31:58.645713456Z",
+  "model": "glm-5.3"
+}

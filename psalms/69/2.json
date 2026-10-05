@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 69,
+  "translation": "Коткар мине, Элоһим, чөнки сулар җанга кадәр җитте.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Коткар мине"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "באו",
+      "gloss": "җитте"
+    },
+    {
+      "surface": "מים",
+      "gloss": "сулар"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җанга"
+    }
+  ],
+  "timestamp": "2026-10-05T00:53:27.850219285Z",
+  "model": "glm-5.3"
+}

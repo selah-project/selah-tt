@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм Лутның ике кызы үз аталарыннан йөкле булдылар.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "йөкле булдылар"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ике"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лутның"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "аталарыннан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:16.546613038Z",
+  "model": "glm-5.3"
+}

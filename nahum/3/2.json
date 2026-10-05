@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Камчы тавышы һәм тәгәрмәч калтыравы тавышы, ат оча, һәм арба бии.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "тавышы"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "камчы"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "һәм тавышы"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "калтыравы"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "тәгәрмәч"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "һәм ат"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "оча"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "һәм арба"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "бии"
+    }
+  ],
+  "timestamp": "2026-10-05T00:35:22.386216747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 17:27",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәм халык аңа бу сүз буенча әйтте: Аны суккан кешегә шулай эшләнәчәк.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "сүз буенча"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "כה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "эшләнәчәк"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "кешегә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "аны суккан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:54:44.873548611Z",
+  "model": "glm-5.3"
+}

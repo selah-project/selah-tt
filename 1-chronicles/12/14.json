@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Йирмәяһу ⟨ул⟩ унынчы, Махбанай — бергә-ун (унберенче).",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмәяһу"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "унынчы"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "Махбанай"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "бергә-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:00.996726736Z",
+  "model": "glm-5.3"
+}

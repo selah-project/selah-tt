@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Фатыйхалы син шәһәрдә, һәм фатыйхалы син кырда.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "фатыйхалы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шәһәрдә"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "һәм фатыйхалы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "кырда"
+    }
+  ],
+  "timestamp": "2026-10-04T22:29:21.913815552Z",
+  "model": "glm-5.3"
+}

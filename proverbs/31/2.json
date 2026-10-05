@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Ни, улым? һәм ни, карынымның улы? һәм ни, антларымның улы?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "улым"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "һәм ни"
+    },
+    {
+      "surface": "בר",
+      "gloss": "улы"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "карынымның"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "һәм ни"
+    },
+    {
+      "surface": "בר",
+      "gloss": "улы"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "антларымның"
+    }
+  ],
+  "timestamp": "2026-10-05T01:17:15.146390522Z",
+  "model": "glm-5.3"
+}

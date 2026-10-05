@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 7:33",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бер үгез — көтү уллы, бер тәкә, бер бәрән — бер яшьтәге, яндыру корбаны өчен.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "үгез"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уллы"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "көтү"
+    },
+    {
+      "surface": "איל",
+      "gloss": "тәкә"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "бәрән"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "яшьтәге"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "бер яшь"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "яндыру корбаны өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:35.218104964Z",
+  "model": "glm-5.3"
+}

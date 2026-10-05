@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Мерайот аның улы, Амарйаһ аның улы, Аһитув аның улы.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Мерайот"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарйаһ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Аһитув"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:17.649105858Z",
+  "model": "glm-5.3"
+}

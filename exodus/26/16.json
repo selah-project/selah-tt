@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Ун амә — тактаның озынлыгы, һәм бер амә һәм ярты амә — бер тактаның киңлеге.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "амә"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "озынлыгы"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "тактаның"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "һәм бер амә"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "һәм ярты"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "амә"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "киңлеге"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "тактаның"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-04T21:48:55.495395690Z",
+  "model": "glm-5.3"
+}

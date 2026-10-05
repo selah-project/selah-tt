@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Кан белән кысрыкланган кеше чокырга кадәр качачак; аны тотып торырга ярамый.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "кысрыкланган"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "кан белән"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "בור",
+      "gloss": "чокыр"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "кaчачак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ярамый"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "тотып тора"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:18.946286612Z",
+  "model": "glm-5.3"
+}

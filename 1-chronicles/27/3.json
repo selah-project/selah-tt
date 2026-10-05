@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Перетс улларыннан ⟨иде⟩ ⟨ул⟩ бөтен гаскәр башлыкларының башлыгы, беренче ай өчен.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перетс"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "башлыгы"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башлыкларының"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "гаскәр"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ай өчен"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "беренче"
+    }
+  ],
+  "timestamp": "2026-10-05T02:48:53.210593329Z",
+  "model": "glm-5.3"
+}

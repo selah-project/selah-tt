@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм болар — Яһвәнең Йисраэл һәм Яһүдә турында әйткән сүзләре.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Һәм болар"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сүзләре"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "әйткән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тураында"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм …тураында"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһүдә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:57:29.838894775Z",
+  "model": "glm-5.3"
+}

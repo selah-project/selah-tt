@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ачу белән җир буйлап атладың, ярсу белән халыкларны суктың.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "ачу белән"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "атладың"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир буйлап"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ярсу белән"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "суктың"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "халыкларны"
+    }
+  ],
+  "timestamp": "2026-10-05T00:36:27.181577531Z",
+  "model": "glm-5.3"
+}

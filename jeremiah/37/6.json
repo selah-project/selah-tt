@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Һәм Яһвә сүзе Йирмәяһу пәйгамбәргә килде, әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אל",
+      "gloss": "келә"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмәяһуга"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пәйгамбәр"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T23:59:52.408036141Z",
+  "model": "glm-5.3"
+}

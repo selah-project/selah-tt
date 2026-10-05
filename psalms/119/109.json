@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Җаным ⟨⟨һәрвакыт⟩⟩ кулымда, ә Тораңны онытмадым.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "җаным"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "кулымда"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "⟨һәрвакыт⟩"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ә Тораңны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "онытмадым"
+    }
+  ],
+  "timestamp": "2026-10-05T02:42:46.933707867Z",
+  "model": "glm-5.3"
+}

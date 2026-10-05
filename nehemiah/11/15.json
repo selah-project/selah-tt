@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "һәм ләвиләрдән: Шәмайа, улы Һашшубның, улы Азрикамның, улы Һашавйаһның, улы Буннинең.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "һәм ... дән"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ләвиләр"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шәмайа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Һашшуб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Азрикам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Һашавйаһ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "Бунни"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:15.372812935Z",
+  "model": "glm-5.3"
+}

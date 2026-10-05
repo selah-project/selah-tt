@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Өчәү — болар Ноахның уллары, һәм алардан бөтен җир таралды.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "өчәү"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноахның"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "һәм алардан"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "таралды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:24.859946725Z",
+  "model": "glm-5.3"
+}

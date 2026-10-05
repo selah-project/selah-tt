@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Шулай итеп Моше шул көнне ⟨את⟩ бу җырны язып алды һәм ⟨את⟩ Йисраэл улларына өйрәтте.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "һәм ул язды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу җырны"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "җыр"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "һәм аңа өйрәтте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэл улларына"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-04T22:31:30.976126383Z",
+  "model": "glm-5.3"
+}

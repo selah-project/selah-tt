@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Мицраим өстенә Йосефне белмәгән яңа патша басып калкты.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Һәм калкты"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "яңа"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "белмәгән"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йосефне"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-10-04T21:40:03.957488182Z",
+  "model": "glm-5.3"
+}

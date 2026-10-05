@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 30:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Буын — ничек югары ⟨аларның⟩ күзләре, һәм керфекләре күтәрелгән!",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "буын"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "югары"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "күзләре"
+    },
+    {
+      "surface": "ועפעפיו",
+      "gloss": "һәм керфекләре"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "күтәрелгән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:22.971877826Z",
+  "model": "glm-5.3"
+}

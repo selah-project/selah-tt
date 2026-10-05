@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Яһвә, Син мөбарәксең; мине синең әмерләреңне өйрәт.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "мөбарәк"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "өйрәт мине"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "синең әмерләреңне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:03:06.598243248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Бөтен юлларыңда Аны бел, һәм Ул ⟨את⟩ юлларыңны турылар.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "юлларыңда"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "Аны бел"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "һәм Ул"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "турылар"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "юлларыңны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:22.124142769Z",
+  "model": "glm-5.3"
+}

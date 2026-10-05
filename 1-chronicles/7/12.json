@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Шуппим һәм Хуппим — Игырнең уллары; Хушим — Аһернең уллары.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "Шуппим"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "Хуппим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Игырнең"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хушим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Аһернең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:29.321782924Z",
+  "model": "glm-5.3"
+}

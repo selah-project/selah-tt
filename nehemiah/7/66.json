@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бөтен җыйылыш, бер бөтен булып, дүрт төмән ике мең өч йөз алтмыш ⟨кеше⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "җыйылыш"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "бер бөтен булып"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "төмән"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мең"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "һәм алтмыш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:32.256560718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 43,
+  "translation": "Мин, Мин Үзем Яһвә, һәм Миннән башка коткаручы юк.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мин Үзем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм юк"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "Миннән башка"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "коткаручы"
+    }
+  ],
+  "timestamp": "2026-10-04T23:39:41.396780811Z",
+  "model": "glm-5.3"
+}

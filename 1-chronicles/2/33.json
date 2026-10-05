@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "һәм Йонатанның уллары: Пелет һәм Заза. Болар Йерахмеэл уллары булды.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "Пелет"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "һәм Заза"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "היו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Йерахмеэл"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:24.169223425Z",
+  "model": "glm-5.3"
+}

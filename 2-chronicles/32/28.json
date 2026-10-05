@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 32:28",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм бодай, яңа шира һәм май өчен келәтләр, һәм бар терлек өчен абзарлар һәм көтүләр өчен өреләр ясады.",
+  "tokens": [
+    {
+      "surface": "ומסכנות",
+      "gloss": "häm kelätlär"
+    },
+    {
+      "surface": "לתבואת",
+      "gloss": "өчен tuwım"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "boday"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "häm yaña şira"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "häm may"
+    },
+    {
+      "surface": "וארות",
+      "gloss": "häm abzarlар"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bar"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "terlek"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "häm terlek"
+    },
+    {
+      "surface": "ועדרים",
+      "gloss": "häm kötüлär"
+    },
+    {
+      "surface": "לאורות",
+      "gloss": "örelärgä"
+    }
+  ],
+  "timestamp": "2026-10-05T02:16:52.156975461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Нухның барлык көннәре тугыз йөз ел һәм илле ел булды, һәм ул үлде.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәре"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нухның"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тугыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "һәм илле"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үлде"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:44.293607689Z",
+  "model": "glm-5.3"
+}

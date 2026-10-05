@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Куш ⟨את⟩ Нимродны туды; ул җирдә батыр булырга башлады.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нимродны"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Нимрод"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "החל",
+      "gloss": "башлады"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "булырга"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "батыр"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җирдә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:39.995797128Z",
+  "model": "glm-5.3"
+}

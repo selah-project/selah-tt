@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Иртәгәге көндә мактанма, чөнки белмисең, көн ни тудырачак.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ма-"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "мактанма"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көндә"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "иртәгәге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "белмисең"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "тудырачак"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:12.432348487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм патша боерды, һәм бер сандык ясадылар һәм аны Яһвә өенең капкасына, тышка куялар.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "боерды"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ясадылар"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандык"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "куялар"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "капкасына"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өенең"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "тышка"
+    }
+  ],
+  "timestamp": "2026-10-05T02:13:42.727115982Z",
+  "model": "glm-5.3"
+}

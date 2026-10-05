@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Терахның көннәре ике йөз биш ел булды, һәм Терах Һаранда үлде.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәре"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терахның"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "һәм ике йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үлде"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "Һаранда"
+    }
+  ],
+  "timestamp": "2026-10-04T21:27:09.440000334Z",
+  "model": "glm-5.3"
+}

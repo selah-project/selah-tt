@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 12:13",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Аның белән хикмәт һәм көч; аңа киңәш һәм аңлау.",
+  "tokens": [
+    {
+      "surface": "עמו",
+      "gloss": "Аның белән"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "һәм көч"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "киңәш"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "һәм аңлау"
+    }
+  ],
+  "timestamp": "2026-10-05T01:19:58.703668477Z",
+  "model": "glm-5.3"
+}

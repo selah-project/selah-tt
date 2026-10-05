@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 69,
+  "translation": "Чөнки Яһвә ярлыларны тыңлый, һәм ⟨את⟩ әсирләрен түбәнсетми.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңлый"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨янына⟩"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ярлыларны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "әсирләрен"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "әсирләрен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "түбәнсетми"
+    }
+  ],
+  "timestamp": "2026-10-05T00:53:10.670886892Z",
+  "model": "glm-5.3"
+}

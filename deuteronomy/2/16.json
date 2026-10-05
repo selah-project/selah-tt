@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм булды: сугыш ирләренең барысы да халык эченнән үлеп беткәч,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кайчан"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "бөтенләй беттеләр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысы да"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ирләре"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "сугыш"
+    },
+    {
+      "surface": "למות",
+      "gloss": "үлеп"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "эченнән"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:28.562676006Z",
+  "model": "glm-5.3"
+}

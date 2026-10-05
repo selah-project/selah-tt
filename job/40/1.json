@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Һәм Яһвә ⟨את⟩ Айыпны җавап бирде һәм әйтте:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "җавап бирде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Айыпны"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Айып"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    }
+  ],
+  "timestamp": "2026-10-05T01:28:07.944067154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 44,
+  "translation": "Чөнкем мин укымда таянмам, һәм кылычым мине коткармас.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнкем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "укымда"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "таянмам"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "һәм кылычым"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "мине коткармас"
+    }
+  ],
+  "timestamp": "2026-10-05T00:48:38.768499885Z",
+  "model": "glm-5.3"
+}

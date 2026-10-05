@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Чөнки барлык өстелләр косу белән, ласкану белән тулган — чиста урын калмаган.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "өстелләр"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "тулган"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "косу"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "ласкану"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "башка"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "урын"
+    }
+  ],
+  "timestamp": "2026-10-04T23:35:24.197762094Z",
+  "model": "glm-5.3"
+}

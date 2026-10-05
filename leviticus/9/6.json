@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Моше әйтте: Бу — сүз,ны Яһвә әмер иткән: эшләгез, һәм Яһвәнең даны сезгә күренер.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ны"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "әмер иткән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "эшләгез"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "күренер"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "даны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:40.776559622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм бөтен явызлыгыңнан соң булды: вай, вай сиңа! — Адонай Яһвә сүзе.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "соң"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "явызлыгыңнан"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "вай"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "вай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:11:45.756707481Z",
+  "model": "glm-5.3"
+}

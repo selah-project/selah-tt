@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Тәрҗемәче өчен. Давид мәдхиясе.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Тәрҗемәче өчен"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхия"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-05T00:44:47.501319081Z",
+  "model": "glm-5.3"
+}

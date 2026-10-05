@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Йөзекләр, һәм борын ясаулылары",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "Йөзекләр"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "һәм борын ясаулылары"
+    },
+    {
+      "surface": "האף",
+      "gloss": "борын"
+    }
+  ],
+  "timestamp": "2026-10-04T23:29:46.588794183Z",
+  "model": "glm-5.3"
+}

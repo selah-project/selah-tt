@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм хәзер син әйтәсең: Бар, хуҗаңа әйт: Менә Элијаһу ⟨анда⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "һәм хәзер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтәсең"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйт"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "хујаңа"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элијаһу"
+    }
+  ],
+  "timestamp": "2026-10-04T23:16:01.416331722Z",
+  "model": "glm-5.3"
+}

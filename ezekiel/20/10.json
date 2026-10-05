@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Һәм мин аларны Мицраим иленнән чыгардым һәм чүлгә алып кердем.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "чыгардым"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "иленнән"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "алып кердем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-гә"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "чүлгә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:13:42.529787116Z",
+  "model": "glm-5.3"
+}

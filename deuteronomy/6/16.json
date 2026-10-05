@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "⟨את⟩ Яһвәне, үз Элоһимыгызны сынамагыз, Массаһта сынаганыгыз кебек.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "сынамагыз"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "сынамагыз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвәне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәне"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "үз Элоһимыгызны"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кебек"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "сонаганыгыз"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Массаһта"
+    }
+  ],
+  "timestamp": "2026-10-04T22:21:20.241783587Z",
+  "model": "glm-5.3"
+}

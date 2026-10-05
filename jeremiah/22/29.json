@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Җир, җир, җир, Яһвә сүзен тыңла!",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "тыңла"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:52:24.746273495Z",
+  "model": "glm-5.3"
+}

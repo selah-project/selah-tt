@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "һәм Бет-Уэлда, һәм Хормаһта, һәм Циклагта",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "һәм Бет-Уэлда"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "һәм Хормаһта"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "һәм Циклагта"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:39.266725312Z",
+  "model": "glm-5.3"
+}

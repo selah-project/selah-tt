@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәрвакыт киемнәрең ак булсын, һәм башыңнан май җитмәсен.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Һәрвакыт … һәр"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вакыт"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "булсын"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "киемнәрең"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ак"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "һәм май"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "башыңнан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "җитмәсен…туга"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "җитмәсен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:14.227293770Z",
+  "model": "glm-5.3"
+}

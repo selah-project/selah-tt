@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Корыган телем һәм анда тынлык — низаглы корбан итләренә тулы өйдән яхшырак.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "פת",
+      "gloss": "телем"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "корыган"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "һәм тынлык"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "өйдән"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "корбан итләренең"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "низаг"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:30.686004238Z",
+  "model": "glm-5.3"
+}

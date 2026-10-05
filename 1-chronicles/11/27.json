@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Шаммот һарорлы, Хелес пелонлы.",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "Шаммот"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "һарорлы"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Хелес"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "пелонлы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:19.498479401Z",
+  "model": "glm-5.3"
+}

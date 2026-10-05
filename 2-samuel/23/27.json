@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Абыеҙер һааннати, Мебуннай һаһушати,",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "Абыеҙер"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "һааннати"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "Мебуннай"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "һаһушати"
+    }
+  ],
+  "timestamp": "2026-10-04T23:07:17.937097549Z",
+  "model": "glm-5.3"
+}

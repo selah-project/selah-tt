@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "һәм геккон, варан, кәлтә, кыялаң һәм хамелеон.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "геккон"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "варан"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "кәлтә"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "кыялаң"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "хамелеон"
+    }
+  ],
+  "timestamp": "2026-10-04T21:58:15.856254413Z",
+  "model": "glm-5.3"
+}

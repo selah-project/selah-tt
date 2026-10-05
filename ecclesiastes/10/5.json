@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Кояш астында күргән явызлык бар: хаким йөзеннән чыгучы хата кебек.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "күргән"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Кояш"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "хата кебек"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "чыгучы"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "йөзеннән"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "хаким"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:40.187699142Z",
+  "model": "glm-5.3"
+}

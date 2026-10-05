@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Ләкин әгәр Мине тыңламасагыз һәм ⟨את⟩ бу барча боерыкларны эшләмәсәгез —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ләкин әгәр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "тыңламасагыз"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мине"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "эшләмәсәгез"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "боерыкларны"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барча"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "боерыклар"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:26.537736797Z",
+  "model": "glm-5.3"
+}

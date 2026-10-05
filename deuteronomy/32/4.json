@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Кыя — Аның гамәле бөтен; чөнки Аның барлык юллары хөкем; Эл — тугрылык, һәм Анда җәбер юк: Ул гадел һәм туры.",
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "Кыя"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "Аның гамәле"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "Аның юллары"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "тугрылык"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм юк"
+    },
+    {
+      "surface": "עול",
+      "gloss": "җәбер"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гадел"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "һәм туры"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    }
+  ],
+  "timestamp": "2026-10-04T22:31:07.275839482Z",
+  "model": "glm-5.3"
+}

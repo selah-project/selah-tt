@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "⟨את⟩ һәр карганы — үз төре буенча.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "һәр карганы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "карганы"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "үз төре буенча"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:22.913215847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Гомернең уллары: Ашкеназ, Дифат һәм Тогарма.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомернең"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ашкеназ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "һәм Дифат"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "һәм Тогарма"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:44.084636666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 20:8",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "һәм алар анда яшәделәр, һәм анда Сиңа изге урын Синңа Исемеңә төзеделәр, илә",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "яшәделәр"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "төзеделәр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сиңа"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "изге урын"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Синңа Исемеңә"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "илә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:12:14.580647146Z",
+  "model": "glm-5.3"
+}

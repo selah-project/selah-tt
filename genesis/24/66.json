@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм кол Йицхакка ⟨את⟩ эшләгән бөтен эшләрне сөйләп бирде.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "һәм сөйләп бирде"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Йицхакка"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен эшләрне"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "эшләрне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эшләгән"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшләгән"
+    }
+  ],
+  "timestamp": "2026-10-04T21:30:31.697404345Z",
+  "model": "glm-5.3"
+}

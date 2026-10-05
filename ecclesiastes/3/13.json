@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм шулай ук һәр кеше ашарга һәм эчәргә, һәм бар тырышлыгында яхшыны күрергә тиеш — бу Элоһим бүләге ул.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "һәм шулай ук"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "ашарга"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "эчәргә"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "күрергә"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшыны"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "тырышлыгында"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "бүләге"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:28.451721281Z",
+  "model": "glm-5.3"
+}

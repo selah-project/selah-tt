@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 31:18",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Һәм Мин шул көндә Йөземне бөтен явызлык өчен, ул башка илаһларга борылганы өчен, бик яшерермен.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "һәм Мин"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "яшерү"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "яшерермен"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Йөземне"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көндә"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "על",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кі"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылган"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "борылган"
+    },
+    {
+      "surface": "אל",
+      "gloss": "якка"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "илаһларга"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    }
+  ],
+  "timestamp": "2026-10-04T22:31:43.083277675Z",
+  "model": "glm-5.3"
+}

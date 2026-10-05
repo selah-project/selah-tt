@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Мин төзегән йорт бөек, чөнки бөек Элоһимебез бөтен аллалардан.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "һәм йорт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ниндәй"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "төзим"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоһимебез"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бөтен...нан"
+    },
+    {
+      "surface": "האלהим",
+      "gloss": "аллалардан"
+    }
+  ],
+  "timestamp": "2026-10-05T02:08:03.832038995Z",
+  "model": "glm-5.3"
+}

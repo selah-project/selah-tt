@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Башка Элам уллары — мең ике йөз илле дүрт.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Элам"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ике йөз"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "дүрт"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:10.640989968Z",
+  "model": "glm-5.3"
+}

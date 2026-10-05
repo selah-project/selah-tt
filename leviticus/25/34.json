@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Һәм аларның шәһәрләренең болынык җире сатылмый; чөнки ул аларга мәңге мирас.",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "һәм кыр"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "болынык җире"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "аларның шәһәрләренең"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "сатылмый"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "мирас"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-04T22:04:11.964104534Z",
+  "model": "glm-5.3"
+}

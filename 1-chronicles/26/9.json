@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм Мешелемьяһуның уллары һәм туганнар — көч уллары, он сигез.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "һәм Мешелемьяһуның"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "һәм туганнар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "көч"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "сигез"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:54.002863563Z",
+  "model": "glm-5.3"
+}

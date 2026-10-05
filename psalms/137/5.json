@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 137,
+  "translation": "Әгәр мин сиңа онытам, эй Йерушалаим, уң кулым онытсын.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "онитам сиңа"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалаим"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "онсин"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "уң кулым"
+    }
+  ],
+  "timestamp": "2026-10-05T01:06:24.365952227Z",
+  "model": "glm-5.3"
+}

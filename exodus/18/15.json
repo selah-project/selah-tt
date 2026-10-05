@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Моше кайнаатасына әйтте: Чөнки халык Элоһимнан сорарга миңа килә.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "кайнаатасына"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "сорарга"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһимнан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:57.665901808Z",
+  "model": "glm-5.3"
+}

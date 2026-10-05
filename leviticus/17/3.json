@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Йисраэл йортыннан һәр бер кеше, үгез яки бәрән яки кәҗә лагерьда яки лагерьдан тыш суйса —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "йортыннан"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кім"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "суйса"
+    },
+    {
+      "surface": "שור",
+      "gloss": "үгез"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "бәрән"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "עז",
+      "gloss": "кәҗә"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "лагерьда"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кім"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "суйса"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "түгел урыннан"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "лагерьдан тыш"
+    }
+  ],
+  "timestamp": "2026-10-04T22:01:18.751087455Z",
+  "model": "glm-5.3"
+}

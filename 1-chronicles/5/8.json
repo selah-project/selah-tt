@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "һәм Бела, Газаз улы, Шема улы, Йоел улы; ул Ароерда, Небога һәм Баал Меонга кадәр яшәде.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "һәм Бела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "Газаз"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "вערער",
+      "gloss": "Ароерда"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "һәм ... кадәр"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Небо"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "һәм Баал"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Меон"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:13.160090621Z",
+  "model": "glm-5.3"
+}

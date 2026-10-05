@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Яһвә миңә тагын сөйләргә өстәде, әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "өстәде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйләргә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңә"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тагын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T23:30:21.291929331Z",
+  "model": "glm-5.3"
+}

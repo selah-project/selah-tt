@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Ә Моше кеше бөтен җир өстендәге бөтен кешеләрдән дә түбән күңеллерәк иде.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "түбән күңелле"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бөтен … дән"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кешеләрдән"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендәге"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзендә"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-04T22:10:59.718344757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 3:11",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Аһ, явызга — явызлык! чөнки аның кулларының әҗере аңа эшләнер.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "аһ"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "явызга"
+    },
+    {
+      "surface": "רע",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "әҗере"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "кулларының"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "эшләнер"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T23:28:54.620570254Z",
+  "model": "glm-5.3"
+}

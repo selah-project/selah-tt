@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм әгәр казанда пешерелгән минһа корбаның була — ул май белән болган оннан эшләнер.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "һәм әгәр"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "минһа"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "казан"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "корбаның"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "он"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "май белән"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "эшләнер"
+    }
+  ],
+  "timestamp": "2026-10-04T21:55:02.931748425Z",
+  "model": "glm-5.3"
+}

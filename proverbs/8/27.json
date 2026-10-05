@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 8:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Күкләрне әзерләгәндә мин анда идем, тәһөм өстенә әйләнә сызганда.",
+  "tokens": [
+    {
+      "surface": "בהכינו",
+      "gloss": "әзерләгәндә"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "күкләрне"
+    },
+    {
+      "surface": "шם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "сызганда"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "әйләнә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…өсте"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "тәһөм"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:51.064549950Z",
+  "model": "glm-5.3"
+}

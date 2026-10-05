@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм агынтылы кеше кагылган балчык савыт ватылыр, һәм һәр агач савыт суда чайкалыр.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "Һәм һәр савыт"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "балчык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "керә"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "кагылган"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "агынтылы"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ватылыр"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм һәр"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "савыт"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "агач"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "чайкалыр"
+    },
+    {
+      "surface": "במים",
+      "gloss": "суда"
+    }
+  ],
+  "timestamp": "2026-10-04T22:00:48.946508244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 105,
+  "translation": "Ул алар алдыннан бер ир җибәрде — кол итеп сатылган Йосеф.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "җибәрде"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "алар алдыннан"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бер ир"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "кол итеп"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "сатылган"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-10-05T01:00:25.463804639Z",
+  "model": "glm-5.3"
+}

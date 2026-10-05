@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм истә тотырсың: Мицраим илендә кол булганыңны; шуңа күрә Мин сиңа ⟨את⟩ бу эшне эшләргә кушам.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Һәм истә тотырсың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "היית",
+      "gloss": "булганың"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "илендә"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "על",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "кушам сиңа"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "эшләргә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу эшне"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "бу эшне"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:04.964671195Z",
+  "model": "glm-5.3"
+}

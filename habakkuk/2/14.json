@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Чөнки җир Яһвәнең ⟨את⟩ данын белү белән тулы булыр, сулар диңгез өстен каплаган кебек.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "тулы булыр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "белү белән"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "данын"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "дан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "сулар кебек"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "каплаган"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстен"
+    },
+    {
+      "surface": "ים",
+      "gloss": "диңгез"
+    }
+  ],
+  "timestamp": "2026-10-05T00:35:38.680049894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Керос балалары, Сиаһа балалары, Падон балалары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "Керос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "Сиаһа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Падон"
+    }
+  ],
+  "timestamp": "2026-10-05T01:47:46.781376051Z",
+  "model": "glm-5.3"
+}

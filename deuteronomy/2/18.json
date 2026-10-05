@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Син бу көнне ⟨את⟩ Моав чиген — ⟨את⟩ Арны узып үтәсең.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "узып үтәсең"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бу көнне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моав чиген"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чиген"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Арны"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ар"
+    }
+  ],
+  "timestamp": "2026-10-05T02:25:21.405726719Z",
+  "model": "glm-5.3"
+}

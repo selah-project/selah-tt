@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 1:7",
+  "book": "nahum",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Яһвә яхшы — бәла көнендә сыену урыны, һәм Ул Аңа сыенучыларны белә.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "למעוז",
+      "gloss": "сыену урыны"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнендә"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "бәла"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "һәм белә"
+    },
+    {
+      "surface": "חסי",
+      "gloss": "сыенучыларны"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T00:35:01.466789426Z",
+  "model": "glm-5.3"
+}

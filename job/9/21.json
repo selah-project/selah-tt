@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Төгәл минем, үз җанымны белмим, тормышымнан жирәнәм.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "Төгәл"
+    },
+    {
+      "surface": "אני",
+      "gloss": "минем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "белмим"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җанымны"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "жирәнәм"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "тормышымнан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:19:43.581246950Z",
+  "model": "glm-5.3"
+}

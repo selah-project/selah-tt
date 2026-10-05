@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Һәм тулылык ирдә билгеле булмас, шуннан соң киләчәк ачлык аркасында, чөнки ул бик авыр.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "һәм булмас"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "билгеле"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "тулылык"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ирдә"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "аркасында"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ачлык"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артыннан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шуннан соң"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "авыр"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    }
+  ],
+  "timestamp": "2026-10-04T21:36:41.178755091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Мин җавап бирдем һәм миңа сөйләүче фәрештәгә әйттем: Әйтәсең, болар нәрсә, хуҗам?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "Мин җавап бирдем"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "һәм әйттем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−га"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "фәрештә"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөйләүче"
+    },
+    {
+      "surface": "בי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтәсең"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Нәрсә"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "хуҗам"
+    }
+  ],
+  "timestamp": "2026-10-05T00:38:23.573633492Z",
+  "model": "glm-5.3"
+}

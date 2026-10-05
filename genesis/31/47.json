@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Һәм Лаван аңа Йегар-Саһадута дип исем кушты, ә Яаков аңа Гилгад дип исем кушты.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "исем кушты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "Йегар"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "Саһадута"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "исем кушты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилгад"
+    }
+  ],
+  "timestamp": "2026-10-05T02:19:35.897430953Z",
+  "model": "glm-5.3"
+}

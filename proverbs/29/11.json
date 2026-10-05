@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Тупас бөтен үз рухын чыгара, ә акыллы аны соңрак тотып тора.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "үз рухын"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "чыгара"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "тупас"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ә акыллы"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "соңрак"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "аны тотып тора"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:35.526534322Z",
+  "model": "glm-5.3"
+}

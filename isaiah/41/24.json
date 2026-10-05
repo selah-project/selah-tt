@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 41:24",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Һән, сез юктан һәм эшегез уemyштан; жирилек — сезне сайлаучы.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Һән"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сез"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "юктан"
+    },
+    {
+      "surface": "ופעלכם",
+      "gloss": "һәм эшегез"
+    },
+    {
+      "surface": "מאפע",
+      "gloss": "уemyштан"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "жирилек"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "сайлаучы"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "сезне"
+    }
+  ],
+  "timestamp": "2026-10-04T23:40:09.726459650Z",
+  "model": "glm-5.3"
+}

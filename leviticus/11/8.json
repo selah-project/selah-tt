@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Аларның итын ашамагыз, үлексәләренә тымагыз — алар сезгә тәмәсез.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "итләрен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ашамагыз"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "үлексәләренә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "тымагыз"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "тәмәсез"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:52.614358069Z",
+  "model": "glm-5.3"
+}

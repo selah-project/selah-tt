@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 96,
+  "translation": "Чөнки халыкларның барлык аллалары — әүәле, ә Яһвә күкләрне ясады.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "аллалары"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "халыкларның"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "әүәле"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ә Яһвә"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "күкләрне"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ясады"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:58.147281671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бер алтын кәсә, ун шекел ⟨авырлыгында⟩, тәмәктән тулган.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кәсә"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулган"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "тәмәктән"
+    }
+  ],
+  "timestamp": "2026-10-05T02:23:34.694427041Z",
+  "model": "glm-5.3"
+}

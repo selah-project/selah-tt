@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Авызын саклаучы җанын саклый; иреннәрен киң ачучыга — һәлакәт.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "саклаучы"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "авызын"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "саклый"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "җанын"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "киң ачучы"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "иреннәрен"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "һәлакәт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨аңа⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:38.299440176Z",
+  "model": "glm-5.3"
+}

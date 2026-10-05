@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Һәм Йовав үлде, һәм аның урынына Һушам, Теман иленнән, патшалык итте.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "үлде"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "патшалык итте"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "аның урынына"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Һушам"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "иленнән"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Т eman"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:13.140670896Z",
+  "model": "glm-5.3"
+}

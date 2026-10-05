@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Тимерне, төньяк тимерен һәм бакырны ватып буламы?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "ватып буламы"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "тимерне"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "тимерен"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "төньяктан"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "һәм бакырны"
+    }
+  ],
+  "timestamp": "2026-10-04T23:51:22.513444206Z",
+  "model": "glm-5.3"
+}

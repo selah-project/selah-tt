@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һариф, Анатот, Новай,",
+  "tokens": [
+    {
+      "surface": "חָרִ֥יף",
+      "gloss": "Һариф"
+    },
+    {
+      "surface": "עֲנָת֖וֹת",
+      "gloss": "Анатот"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "Новай"
+    }
+  ],
+  "timestamp": "2026-10-05T02:47:34.171266511Z",
+  "model": "glm-5.3"
+}

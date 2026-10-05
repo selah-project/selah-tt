@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "һәм Рефаһ аның улы, һәм Решеф, һәм Телаһ аның улы, һәм Таһан аның улы.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "һәм Рефаһ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "һәм Решеф"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "һәм Телаһ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "һәм Таһан"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:33.685112349Z",
+  "model": "glm-5.3"
+}

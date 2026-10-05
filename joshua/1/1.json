@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Моше, Яһвәнең хезмәтчесе, үлгәннән соң булды, Яһвә Моше хезмәтчесе Нун улы Йеһошуага әйтте:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "соң"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлгәннән"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "хезмәтчесе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуага"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нун"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "хезмәтче"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    }
+  ],
+  "timestamp": "2026-10-04T22:33:13.885768217Z",
+  "model": "glm-5.3"
+}

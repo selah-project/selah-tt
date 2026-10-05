@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Авызын ул хикмәт белән ача, һәм телендә хесед Торасы.",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "авызын"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "ул ача"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "хикмәт белән"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "һәм Торасы"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "аниң теле"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:49.612041509Z",
+  "model": "glm-5.3"
+}

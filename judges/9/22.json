@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Авимелек Йисраэл өстеннән өч ел идарә итте.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "идарә итте"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелек"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ел"
+    }
+  ],
+  "timestamp": "2026-10-04T22:42:41.047136641Z",
+  "model": "glm-5.3"
+}

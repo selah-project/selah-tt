@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "һәм бөтен көчле кулда һәм бөтен олы куркуда, ки Моше аларны бөтен Йисраэл күзе алдында кылды.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "һәм бөтен"
+    },
+    {
+      "surface": "היד",
+      "gloss": "кулда"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "көчле"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "һәм бөтен"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "куркуда"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "олы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "күзе алдында"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-04T22:32:17.920598936Z",
+  "model": "glm-5.3"
+}

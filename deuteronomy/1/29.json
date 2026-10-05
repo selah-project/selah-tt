@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм мин сезгә әйттем: өркмәгез, һәм алардан куркмагыз.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "һәм әйттем"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "өркмәгез"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "куркмагыз"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:20:07.673531108Z",
+  "model": "glm-5.3"
+}

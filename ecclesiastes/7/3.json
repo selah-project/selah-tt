@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Кайгы көлүдән яхшырак, чөнки йөз караңгылыгы белән йөрәк яхшара.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшырак"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "кайгы"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "көлүдән"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "караңгылыгы белән"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "яхшара"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:53.542508546Z",
+  "model": "glm-5.3"
+}

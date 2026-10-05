@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм болай булыр: мин болытны җир өстенә китергәч, җәя болытта күренер.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "булгач"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "мин китергәндә"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "болытны"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "күренер"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "җәя"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "болытта"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:49.405806911Z",
+  "model": "glm-5.3"
+}

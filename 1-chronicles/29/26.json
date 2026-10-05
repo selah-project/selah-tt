@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм Давид, Йишай улы, бөтен Йисраэл өстеннән патша булып хөкем сөргән.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Һәм Давид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Йишай"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша булып хөкем сөргән"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T02:04:53.317751390Z",
+  "model": "glm-5.3"
+}

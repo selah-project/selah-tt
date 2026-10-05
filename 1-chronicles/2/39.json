@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "һәм Аҙарйаһ ⟨את⟩ Хелцны тудырды, һәм Хелц ⟨את⟩ Элъасаны тудырды.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "һәм Аҙарйаһ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хелцны"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Хелц"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "һәм Хелц"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элъасаны"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Элъаса"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:58.290934845Z",
+  "model": "glm-5.3"
+}

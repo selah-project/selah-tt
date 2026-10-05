@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 147,
+  "translation": "Йерушалаим, Яһвәне ⟨את⟩ макта; Сион, Элоһимеңне данла!",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "макта"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалаим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвәне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәне"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "данла"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоһимеңне"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:20.009809868Z",
+  "model": "glm-5.3"
+}

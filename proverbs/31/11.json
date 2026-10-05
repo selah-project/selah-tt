@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Иренең йөрәге аңа таяна, һәм тала муллыгына мохтаҗ булмый.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "таяна"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәге"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "иренең"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "һәм тала муллыгына"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "мохтаҗ булмый"
+    }
+  ],
+  "timestamp": "2026-10-05T01:17:07.680360886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Үз йөрәгенә таянган — ахмак, ә хикмәт белән йөргән котылыр.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "таянган"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "үз йөрәгендә"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ахмак"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "ә йөргән"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "хикмәт белән"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "котылыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:36.546818618Z",
+  "model": "glm-5.3"
+}

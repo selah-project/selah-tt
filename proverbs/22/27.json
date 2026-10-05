@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Әгәр түләргә нәрсәң юк икән, ни өчен ул ятагыңны астыңнан алыр?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "түләргә"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ни өчен"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алыр"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ятагыңны"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "астыңнан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:13.059612288Z",
+  "model": "glm-5.3"
+}

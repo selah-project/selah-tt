@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Кырга күп орлык чыгарырсың, әмма аз җыярсың, чөнки аны чикерткә ашар.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "орлык"
+    },
+    {
+      "surface": "רב",
+      "gloss": "күп"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "чыгарырсың"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "кырга"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "әмма аз"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "җыярсың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "аны ашар"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "чикерткә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:51.168239337Z",
+  "model": "glm-5.3"
+}

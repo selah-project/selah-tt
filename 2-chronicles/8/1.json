@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм егерме ел узкач, Шеломо̄һның Яһвәнең өен һәм үз өен корган чагында, булды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "узкач"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чагында"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "корган"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоһ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвәнең өен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "үз өен"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үз өен"
+    }
+  ],
+  "timestamp": "2026-10-05T02:09:15.807882954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Һәм Эфрон ⟨את⟩ Авраһамга җавап бирде, аңа әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "һәм җавап бирде"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Эфрон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраһамга"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһамга"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:12.724948013Z",
+  "model": "glm-5.3"
+}

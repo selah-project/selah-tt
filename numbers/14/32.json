@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Ә сезнең үле гәүдәләрегез — сез үзегез — бу чүлдә ятырлар.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "ә үле гәүдәләрегез"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сез үзегез"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ятырлар"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чүлдә"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T22:10:47.128299870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм белерләр ⟨ки⟩ Мин — Яһвә: бушка түгел Мин сөйләдем аларга бу явызлыкны эшләргә.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "һәм белерләр"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ки⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "─"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бушка"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "сөйләдем"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "эшләргә"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "явызлыкны"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-05T00:08:00.154923639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 109,
+  "translation": "Аның көннәре аз булсын, һәм аның вазифәсен башкасы алсын.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "булсын"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "аның көннәре"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "аз"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "аның вазифәсен"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алсын"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башкасы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:33.763962495Z",
+  "model": "glm-5.3"
+}

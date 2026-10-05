@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 40:18",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Һәм кемгә Элне охшатырсыз? Һәм нинди сурәтне Аңа тиңләрсез?",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "һәм…кемгә"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "תדמיון",
+      "gloss": "охшатырсыз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "һәм нинди"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "сурәт"
+    },
+    {
+      "surface": "תערכו",
+      "gloss": "тиңләрсез"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T23:40:07.247524743Z",
+  "model": "glm-5.3"
+}

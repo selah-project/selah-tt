@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 28:29",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Бу да Яһвә Цеваоттан чыккан — ⟨ул⟩ киңәшне гаҗәеп итте, хикмәтне бөек итте.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-тан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "чыккан"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "гаҗәеп итте"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "киңәш"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "бөек итте"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "хикмәт"
+    }
+  ],
+  "timestamp": "2026-10-04T23:35:20.433137002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Кура — аның юлын өйрәнәсең һәм үз җаныңа тозак алырсың.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "кура"
+    },
+    {
+      "surface": "תאלף",
+      "gloss": "өйрәнәсең"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "аның юлын"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "һәм алырсың"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "тозак"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "үз җаныңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:13.059236930Z",
+  "model": "glm-5.3"
+}

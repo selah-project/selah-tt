@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Болар Эцернең уллары: Билһан, һәм Зааван, һәм Акан.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Эцер"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Билһан"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "һәм Зааван"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "һәм Акан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:32.065311356Z",
+  "model": "glm-5.3"
+}

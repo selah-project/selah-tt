@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм ул булды: кешеләр җир өстендә күбәя башлагач, аларга кызлар туды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "һәм ул булды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…гач"
+    },
+    {
+      "surface": "החל",
+      "gloss": "башлагач"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кешеләр"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "күбәя"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "פני",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "кызлар"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "туды"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:52.270437031Z",
+  "model": "glm-5.3"
+}

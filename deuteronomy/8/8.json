@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Бодай һәм арпа, йөзем үсентесе, инҗир һәм нар җире — зәйтүн маегы һәм бал җире.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "бодай"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "һәм арпа"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "йөзем үсентесе"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "инҗир"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "нар"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "זית",
+      "gloss": "зәйтүн"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "маегы"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "һәм бал"
+    }
+  ],
+  "timestamp": "2026-10-04T22:22:39.909848586Z",
+  "model": "glm-5.3"
+}

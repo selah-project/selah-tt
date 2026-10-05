@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Сигез яшьлек бала ⟨иде⟩ Йеһоаш, үз патшалыгы башланганда.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "бала"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "сигез"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "яшь"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Йеһоаш"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "үз патшалыгында"
+    }
+  ],
+  "timestamp": "2026-10-04T23:23:54.755365081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Ашама ⟨את⟩ явыз күзленең икмәген, һәм аның тәмле ризыкларын теләмә.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ашама"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "ашарга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "икмәк"
+    },
+    {
+      "surface": "лחם",
+      "gloss": "икмәк"
+    },
+    {
+      "surface": "רע",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "עין",
+      "gloss": "күз"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм … теләмә"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "теләмә"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "аның тәмле ризыкларын"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:51.316105334Z",
+  "model": "glm-5.3"
+}

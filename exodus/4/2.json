@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Яһвә аңа әйтте: Нәрсә бу синең кулыңда? Ә ул әйтте: Таяк.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "нәрсә бу"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "синең кулыңда"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "таяк"
+    }
+  ],
+  "timestamp": "2026-10-04T21:41:41.380030464Z",
+  "model": "glm-5.3"
+}

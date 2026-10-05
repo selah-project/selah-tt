@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Чөнки Яһвә тавышыннан Ашшур тәбигә килер; таяк белән сугар.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "тавышыннан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "тәбигә килер"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таяк белән"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "сугар"
+    }
+  ],
+  "timestamp": "2026-10-04T23:36:37.412970785Z",
+  "model": "glm-5.3"
+}

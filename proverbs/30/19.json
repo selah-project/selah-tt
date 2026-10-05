@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Бөркет юлы күктә, елан юлы таш өстендә, кораб юлы диңгез йөрәгендә, һәм ир юлы кыз белән.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "юл"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "бөркет"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "күктә"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юл"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "елан"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "צור",
+      "gloss": "таш"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юл"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "кораб"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "йөрәгендә"
+    },
+    {
+      "surface": "ים",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "һәм юл"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ир"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "кыз белән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:38.268541071Z",
+  "model": "glm-5.3"
+}

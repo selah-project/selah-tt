@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Улым, әгәр гөнаһлылар сине азгырырса, риза булма.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "азгырырса"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "гөнаһлылар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "риза булма"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:26.933827117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Егетләр дә арыр һәм ялыгар, яшь егетләр аяктан егылыр.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "арар"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "егетләр"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "ялыгар"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "яшь егетләр"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "аяктан"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "егылыр"
+    }
+  ],
+  "timestamp": "2026-10-04T23:40:12.100523917Z",
+  "model": "glm-5.3"
+}

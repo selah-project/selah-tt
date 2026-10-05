@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Хәттер Яһвә күктән түбән карый һәм күрсен.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "хәттер"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "түбән карый"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "һәм күрсен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "күктән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:13.529732082Z",
+  "model": "glm-5.3"
+}

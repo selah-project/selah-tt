@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Яһвә, Цеваот Элоһиме, Яһвә — Аның исем-истәлеге.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһиме"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "Аның исем-истәлеге"
+    }
+  ],
+  "timestamp": "2026-10-05T00:28:02.732396432Z",
+  "model": "glm-5.3"
+}

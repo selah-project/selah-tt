@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Сүзне кимсетүче ⟨аңа⟩ бәйләнеп бетә, ә бойрыктан куркучы — ул имин була.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "кимсетүче"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "сүзне"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "бәйләнеп бетә"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨аңа⟩"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ә куркучы"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "бойрыктан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "имин була"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:17.533723200Z",
+  "model": "glm-5.3"
+}

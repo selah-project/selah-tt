@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Сүзең — аягыма чырак, һәм юлыма яктылык.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "чырак"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "аягыма"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Сүзең"
+    },
+    {
+      "surface": "ו אור",
+      "gloss": "һәм яктылык"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "юлыма"
+    }
+  ],
+  "timestamp": "2026-10-05T01:03:09.876981340Z",
+  "model": "glm-5.3"
+}

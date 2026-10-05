@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Кешене суккан һәм ул үлгән — ул үлем җәзасына тартылыр.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "суккан"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешене"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "һәм үлгән"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлем"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "үтерелер"
+    }
+  ],
+  "timestamp": "2026-10-04T21:46:59.621786730Z",
+  "model": "glm-5.3"
+}

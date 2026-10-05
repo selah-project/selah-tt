@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Чөнки үлем давыллары мине әйләп алды, Belial ташкыннары мине куркытты.",
+  "tokens": [],
+  "timestamp": "2026-10-04T23:05:56.183537135Z",
+  "model": "glm-5.3"
+}

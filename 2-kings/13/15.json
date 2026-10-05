@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм Элиша аңа әйтте: Җәя һәм уклар ал. Һәм ул аңа җәя һәм уклар алды.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "җәя"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "һәм уклар"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "һәм алды"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ана"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "җәя"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "һәм уклар"
+    }
+  ],
+  "timestamp": "2026-10-04T23:23:54.022379456Z",
+  "model": "glm-5.3"
+}

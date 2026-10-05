@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "һәм кешеләрнең җаннары — уналты мең;",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "һәм җаннар"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "алты"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:06.153893818Z",
+  "model": "glm-5.3"
+}

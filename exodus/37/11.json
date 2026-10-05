@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Һәм аны саф алтын белән каплады, һәм аңа әйләнмә кырыйлы алтын таҗ ясады.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "һәм каплады"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "саф"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "һәм ясады"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "זר",
+      "gloss": "кырыйлы таҗ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "әйләнмә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:53:09.067495691Z",
+  "model": "glm-5.3"
+}

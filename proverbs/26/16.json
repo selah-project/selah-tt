@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 26:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Ялкау үз күзендә җиде дә җавап бирүче акыл иясеннән хәерлерәк.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "хәерле"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ялкау"
+    },
+    {
+      "surface": "бעיניו",
+      "gloss": "үз күзендә"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "җиде дә"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "җавап бирүче"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "акыл иясе"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:05.381707494Z",
+  "model": "glm-5.3"
+}

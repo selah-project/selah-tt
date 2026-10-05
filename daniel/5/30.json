@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Шул төндә үк Белшаццар, Касдимнар патшасы, үтерелде.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "шул"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "төндә"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "үтерелде"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Белшаццар"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "Касдимнар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:40:46.868843566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 50,
+  "translation": "Ул күкләргә — өстән — һәм җиргә чакырыр, Үз халкын хөкем итәргә.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "чакырыр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...кә"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күкләргә"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "өстән"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм ... гә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җиргә"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "хөкем итәргә"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Үз халкын"
+    }
+  ],
+  "timestamp": "2026-10-05T00:50:10.237093379Z",
+  "model": "glm-5.3"
+}

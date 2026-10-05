@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Гаделлек юлында — тормыш, һәм аның сукмак юлында — үлем юк.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "юлында"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "гаделлек"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тормыш"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "һәм юлы"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "сукмак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "юк"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:06.086911450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Кинәт ватылыр түгәнәкләүләрне каты муен белән кире кагучы кеше, һәм дәва булмас.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "түгәнәкләүләрне"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "каты"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "муен"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "кинәт"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ватулыр"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм юк"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "дәва"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:53.999500375Z",
+  "model": "glm-5.3"
+}

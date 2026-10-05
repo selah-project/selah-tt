@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Яәла балалары, Даркон балалары, Гиддел балалары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "Яәла"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "Даркон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Гиддел"
+    }
+  ],
+  "timestamp": "2026-10-05T01:47:43.503825493Z",
+  "model": "glm-5.3"
+}

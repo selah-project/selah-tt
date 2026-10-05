@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Синең исемең өчен, эй Яһвә, минем гөнаһыма ярлыка, чөнки ул бик зур.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Синең исемең"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "ярлыка"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "минем гөнаһыма"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "רב",
+      "gloss": "бик зур"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:19.641960368Z",
+  "model": "glm-5.3"
+}

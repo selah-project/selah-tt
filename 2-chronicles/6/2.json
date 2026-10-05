@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "һәм мин Сезгә йорт — Зебул, яшәү йорты — салдым, һәм мәңге тору урыны.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "һәм мин"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "салдым"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорт"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Зебул"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сезгә"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "һәм тору урыны"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "Сезнең торуыгыз өчен"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-05T02:07:43.456795535Z",
+  "model": "glm-5.3"
+}

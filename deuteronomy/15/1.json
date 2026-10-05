@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Җиде елның ахырында син шәмәттә ясарсың.",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "ахырында"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "елның"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ясарсың"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "шәмәттә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:33.404946360Z",
+  "model": "glm-5.3"
+}

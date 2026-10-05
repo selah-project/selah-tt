@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм әйтсәләр: «Яһвә терегән», ышанычлы рәвештә ялганга ант итәләр.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "һәм әгәр"
+    },
+    {
+      "surface": "חי",
+      "gloss": "терегән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "әйтсәләр"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ышанычлы рәвештә"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ялганга"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ант итәләр"
+    }
+  ],
+  "timestamp": "2026-10-04T23:49:06.160615618Z",
+  "model": "glm-5.3"
+}

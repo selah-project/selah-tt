@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 62,
+  "translation": "Тик Элоһимга гына җаным тын; Аннан минем котылуым.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Тик"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элоһимга"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "тын"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җаным"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Аннан"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "минем котылуым"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:27.860210165Z",
+  "model": "glm-5.3"
+}

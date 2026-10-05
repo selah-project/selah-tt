@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Каргашлы синең җәймә баскычың һәм иләгеч табагың.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "каргашлы"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "җәймә баскычың"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "һәм иләгеч табагың"
+    }
+  ],
+  "timestamp": "2026-10-04T22:29:40.496610482Z",
+  "model": "glm-5.3"
+}

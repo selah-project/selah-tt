@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 129,
+  "translation": "Яһвə гадел, Ул явызларның бауларын кисеп өзде.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвə"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гадел"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "кисеп өзде"
+    },
+    {
+      "surface": "עבовт",
+      "gloss": "бауларын"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "явызларның"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:24.292414304Z",
+  "model": "glm-5.3"
+}

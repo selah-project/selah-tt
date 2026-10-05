@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Давид Гад сүзе буенча менде — Гад аны Яһвә Исеме белән әйткән иде.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "һәм менде"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "сүзе буенча"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "әйткән"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Исеме белән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:02:32.702148741Z",
+  "model": "glm-5.3"
+}

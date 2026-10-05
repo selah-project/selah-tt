@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 104,
+  "translation": "Ул яктылыкны кием кебек ябына, күкләрне чатыр кебек җәя.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "ябына"
+    },
+    {
+      "surface": "אור",
+      "gloss": "яктылык"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "кием кебек"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "җәя"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "күкләрне"
+    },
+    {
+      "surface": "כיריעа",
+      "gloss": "чатыр кебек"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:42.073440045Z",
+  "model": "glm-5.3"
+}

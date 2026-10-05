@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 102,
+  "translation": "Ә Син — Үзең, һәм Синең елларың тәмам булмаслар.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ә Син"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Үзең"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "һәм Синең елларың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...мас"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "тәмам булмаслар"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:26.443934824Z",
+  "model": "glm-5.3"
+}

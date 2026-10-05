@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 103,
+  "translation": "Мәңге ул бәхәс кабармаc, һәм ачулыгын гомер буе сакламас.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "бәхәс кабармаc"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "гомер буе"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "сакламас"
+    }
+  ],
+  "timestamp": "2026-10-05T00:58:58.897162604Z",
+  "model": "glm-5.3"
+}

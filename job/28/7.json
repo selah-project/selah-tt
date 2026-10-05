@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Юлны ерткыч кош белми, аны соклан күзе күрмәде.",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "юл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "белми"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "ерткыч кош"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "күрмәде"
+    },
+    {
+      "surface": "עין",
+      "gloss": "күзе"
+    },
+    {
+      "surface": "איה",
+      "gloss": "соклан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:24:01.915835093Z",
+  "model": "glm-5.3"
+}

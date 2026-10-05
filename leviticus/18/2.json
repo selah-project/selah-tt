@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Йисраэл улларына сөйлә һәм аларга әйт: Мин Яһвә, сезнең Элоһимегыз.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "сөйлә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−га"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ו אמרת",
+      "gloss": "һәм әйт"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоһимегыз"
+    }
+  ],
+  "timestamp": "2026-10-04T22:00:23.566219239Z",
+  "model": "glm-5.3"
+}

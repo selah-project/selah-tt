@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Атасын талаучы, әнәсен куган ул — оялдыра һәм хурлык китергән ул.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "талаучы"
+    },
+    {
+      "surface": "אב",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "куган"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әнәсен"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "оялдыра"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "һәм хурлык китергән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:34.212543924Z",
+  "model": "glm-5.3"
+}

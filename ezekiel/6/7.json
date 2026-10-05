@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм сугылганнар арагызға егылер, һәм сез белерсез: Мин — Яһвә.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "егылер"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "сугылганнар"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "арагызға"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "белерсез"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨чөнки⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:37:23.056923628Z",
+  "model": "glm-5.3"
+}

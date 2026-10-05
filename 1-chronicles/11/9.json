@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Давид барып зурая барды, чөнки Яһвә Цеваот ⟨аңа⟩ белән ⟨иде⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "барып"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "зурая барды"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "һәм зураеп"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "һәм Яһвә"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨аңа⟩ белән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:27.366172306Z",
+  "model": "glm-5.3"
+}

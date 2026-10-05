@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Син тулысынча матурсың, минем сөйгәнем, һәм синдә кимчелек юк.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "тулысынча"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "матурсың"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "минем сөйгәнем"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "һәм кимчелек"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "בך",
+      "gloss": "синдә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:29:39.938773588Z",
+  "model": "glm-5.3"
+}

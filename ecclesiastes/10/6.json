@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Ахмак биек урыннарга куела, ә байлар түбәндә утыралар.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "куела"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "Ахмак"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "биек урыннарга"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "куәтле"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ә байлар"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "түбәндә"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "утыралар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:40.188130657Z",
+  "model": "glm-5.3"
+}

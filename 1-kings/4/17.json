@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Йеһошафат, Паруаһ улы, Йисашарда ⟨иде⟩.",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "Йеһошафат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "Паруаһ"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "Йисашарда"
+    }
+  ],
+  "timestamp": "2026-10-04T23:09:57.166715218Z",
+  "model": "glm-5.3"
+}

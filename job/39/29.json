@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 39:29",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Аннан ул азык казый, ерактан аның күзләре карый.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "казый"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "азык"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "елактан"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "күзләре"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "каралар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:27:13.694834502Z",
+  "model": "glm-5.3"
+}

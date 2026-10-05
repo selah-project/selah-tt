@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Аңа риза булма, аңа колак салма; күзең аның өстеннән кызганмасын, аны аяма, аны яшермә.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "булма"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "риза"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "колак салма"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "тыңлама"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "кызганмасын"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "җәлләмә"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "күзең"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аның өстеннән"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "аяма"
+    },
+    {
+      "surface": "תחмל",
+      "gloss": "кызганып калдырма"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "яшермә"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "каплама"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:53.221529490Z",
+  "model": "glm-5.3"
+}

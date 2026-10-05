@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 45,
+  "translation": "Патша синең матурлыгыңны теләр, чөнки ул — синең хуҗаң; аңа баш ию.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "теләр"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "матурлыгыңны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "синең хуҗаң"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "баш ию"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:17.111290102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 75,
+  "translation": "Җитәкчегә — җимермә — Асәф мәдхиәсе, җыр.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "җитәкчегә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "җимермә"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "—"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхиә"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асәф"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:54:47.302986775Z",
+  "model": "glm-5.3"
+}

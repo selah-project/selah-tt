@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 42,
+  "translation": "⟨את⟩ көньяк рухын үлчәде — биш йөз үлчәү камышы, үлчәү камышы белән.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "көньяк рухын"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухын"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "көньяк"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "үлчәде"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "үлчәү камышы"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "камышы белән"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "үлчәү"
+    }
+  ],
+  "timestamp": "2026-10-05T00:23:10.052488985Z",
+  "model": "glm-5.3"
+}

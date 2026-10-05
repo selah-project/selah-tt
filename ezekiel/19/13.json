@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Инде ул чүлдә, коры һәм сусаган җирдә утыртылган.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "инде"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "утыртылган"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чүлдә"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җирдә"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "коры"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "һәм сусаган"
+    }
+  ],
+  "timestamp": "2026-10-05T00:13:32.541659135Z",
+  "model": "glm-5.3"
+}

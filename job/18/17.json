@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Аның истәлеге җирдән юкка чыга, һәм аның исеме юк капка тышында.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "аның-истәлеге"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "юкка-чыга"
+    },
+    {
+      "surface": "מני",
+      "gloss": "─"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җирдән"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм-юк"
+    },
+    {
+      "surface": "שם",
+      "gloss": "исеме"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аның"
+    },
+    {
+      "surface": "על",
+      "gloss": "─"
+    },
+    {
+      "surface": "פני",
+      "gloss": "капка-тышында"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "─"
+    }
+  ],
+  "timestamp": "2026-10-05T01:21:56.284171358Z",
+  "model": "glm-5.3"
+}

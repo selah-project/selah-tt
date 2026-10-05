@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Авызын һәм телен саклаучы — җанын бәлагә карауыдан саклый.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "саклаучы"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "авызын"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "һәм телен"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "саклый"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "бәлалардан"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "җанын"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:54.950177243Z",
+  "model": "glm-5.3"
+}

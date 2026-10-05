@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Бәрәкәтләр гаделнең башында, ә явызларның авызы көчне каплый.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "бәрәкәтләр"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "башына"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гадел"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "һәм авызы"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "явызларның"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "каплый"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "көч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:13.450487729Z",
+  "model": "glm-5.3"
+}

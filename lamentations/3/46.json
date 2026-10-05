@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Бар дошманнарыбыз безнең өстебезгә авызларын ачтылар.",
+  "tokens": [
+    {
+      "surface": "פָּצוּ",
+      "gloss": "ачтылар"
+    },
+    {
+      "surface": "עָלֵינוּ",
+      "gloss": "безнең өстебезгә"
+    },
+    {
+      "surface": "פִּיהֶם",
+      "gloss": "авызларын"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אֹיְבֵינוּ",
+      "gloss": "дошманнарыбыз"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:15.429505855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Гершонлыларга: Лаадан һәм Шимъи.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "Гершонлыларга"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Лаадан"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "һәм Шимъи"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:11.661202030Z",
+  "model": "glm-5.3"
+}

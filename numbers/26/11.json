@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Әмма Корахның уллары үлмәделәр.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корахның"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үлмәделәр"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "юк"
+    }
+  ],
+  "timestamp": "2026-10-04T22:15:21.651286987Z",
+  "model": "glm-5.3"
+}

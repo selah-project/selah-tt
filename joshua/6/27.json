@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Яһвә Йеһошуа ⟨את⟩ ⟨белән⟩ иде; аның даны бөтен җирдә таралды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "иде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨белән⟩",
+      "marks": "Йеһошуа"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "иде"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "даны"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирдә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:33:37.780403514Z",
+  "model": "glm-5.3"
+}

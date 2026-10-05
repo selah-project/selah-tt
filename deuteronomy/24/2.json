@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Ул аның өеннән чыгып китсен һәм башка иргә хатын булсын.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "чыгып китсен"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "аның өеннән"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "һәм барсын"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "булсын"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "иргә"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:26.368180718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Яһвә Элоһим кешедән алган ⟨את⟩ кабырганы хатын итеп корды һәм аны кешегә алып килде.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "корды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кабырганы"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "кабырганы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ны"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "алган"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "хатын итеп"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "алып килде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-гә"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кеше"
+    }
+  ],
+  "timestamp": "2026-10-04T21:23:32.382488836Z",
+  "model": "glm-5.3"
+}

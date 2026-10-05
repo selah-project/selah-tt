@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Егларсыгыз, чөнки якын Яһвә көне; Шаддайдан җимерү булып килә.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "егларсыгыз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "якын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "җимерү булып"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "Шаддайдан"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "килә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:31:31.120353993Z",
+  "model": "glm-5.3"
+}

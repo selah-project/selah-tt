@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Ламек яшәде ике һәм сиксән ел һәм йөз ел, һәм ул аталык итте.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Ламек"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "һәм сиксән"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "һәм йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "аталык итте"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:52.427590375Z",
+  "model": "glm-5.3"
+}

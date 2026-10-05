@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "һәм Йисраэлдән йөз мең батыр сугышчыны йөз көмеш илчә акчага яллады.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "яллады"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Йисраэлдән"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "батыр"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "сугышчы"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "илчә"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "көмеш"
+    }
+  ],
+  "timestamp": "2026-10-05T02:14:28.955048248Z",
+  "model": "glm-5.3"
+}

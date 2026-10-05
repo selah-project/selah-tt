@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Адонай аңа көлә, чөнки Ул күрде: аның көне килә.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "көлә"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "аның көне"
+    }
+  ],
+  "timestamp": "2026-10-05T02:42:01.453149297Z",
+  "model": "glm-5.3"
+}

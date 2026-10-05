@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Менә ⟨ул⟩ көн, менә ул килә: таң чыкты, таяк бөреләнде, тәкәбберлек чәчәк ачты.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "באה",
+      "gloss": "килә"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "таң"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "бөреләнде"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "таяк"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "чәчәк ачты"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "тәкәбберлек"
+    }
+  ],
+  "timestamp": "2026-10-05T00:07:48.606059091Z",
+  "model": "glm-5.3"
+}

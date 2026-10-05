@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ә бөтен терлек һәм шәһәрләрнең таланын без үзебезгә талаадык.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ә бөтен"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "терлек"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "һәм таланы"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "шәһәрләрнең"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "талаадык"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "үзебезгә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:43.843164932Z",
+  "model": "glm-5.3"
+}

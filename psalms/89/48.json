@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 89,
+  "translation": "Искә төшер: минем гомерем — тиз үтүче нәрсә; бөтен Адәм улларын нинди бушка яраттың?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Искә төшер"
+    },
+    {
+      "surface": "אני",
+      "gloss": "минем"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "חלд",
+      "gloss": "гомерем"
+    },
+    {
+      "surface": "על",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нинди"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "бушка"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "яраттың"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адәм"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:10.228709970Z",
+  "model": "glm-5.3"
+}

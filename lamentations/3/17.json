@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм тынычлыктан ерак ташланды минем җаным, мин изгелекне оныттым.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "һәм ташланды"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "тынычлыктан"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "минем җаным"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "мин оныттым"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "изгелекне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:06.829385013Z",
+  "model": "glm-5.3"
+}

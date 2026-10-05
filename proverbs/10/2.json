@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Явызлык хазиналары файда китерми, ә цедек үлемнән коткара.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "файда китерми"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "хазиналары"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ә цедек"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "коткара"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "үлемнән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:10.990979427Z",
+  "model": "glm-5.3"
+}

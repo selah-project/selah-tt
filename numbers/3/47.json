@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 3:47",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "һәм һәр җан башына биш шекел ал, изге шекел белән ал; шекел — йигерма гера.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "һәм ал"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "биш"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "биш"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "шекел"
+    },
+    {
+      "surface": "לגלגלת",
+      "gloss": "җан башына"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "шекел белән"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "изге"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "йигерма"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "гера"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "шекел"
+    }
+  ],
+  "timestamp": "2026-10-04T22:06:26.983607171Z",
+  "model": "glm-5.3"
+}

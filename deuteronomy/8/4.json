@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Күлмәгең өстендә эскермәде, аягың шешмәде — бу кырык елда.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "күлмәгең"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "эскермәде"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "һәм аягың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "шешмәде"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "елда"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:24.980648045Z",
+  "model": "glm-5.3"
+}

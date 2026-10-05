@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 1:3",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Иссахар, Звулун һәм Биньямин.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "Иссахар"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Звулун"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "һәм Биньямин"
+    }
+  ],
+  "timestamp": "2026-10-04T21:40:44.539708741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм Шимеи каргаганда болай диде: Чыг, чыг, канлы кеше, яман җанлы!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "болай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимеи"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "каргаганда"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Чыг"
+    },
+    {
+      "surface": "צא",
+      "gloss": "чыг"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "канлы"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "һәм"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "яман җанлы"
+    }
+  ],
+  "timestamp": "2026-10-04T23:04:33.997973691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Кем бу барысында белмидер — Яһвә кулы эшләде моны?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белмидер"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бу барысында"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кулы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "эшләде"
+    },
+    {
+      "surface": "зאת",
+      "gloss": "моны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:19:51.743843906Z",
+  "model": "glm-5.3"
+}

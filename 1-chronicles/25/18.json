@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 25:18",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Ун беренчесе Азарәлгә, уллыры һәм туганнары — унике булды.",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "унберенче өлеше"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "Азарәл"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "һәм туганнары"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:18.480362234Z",
+  "model": "glm-5.3"
+}

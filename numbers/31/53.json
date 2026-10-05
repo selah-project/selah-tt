@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Чөнки гаскәр ирләре талады, һәр ир үзенә.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ирләре"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "гаскәр"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "талады"
+    },
+    {
+      "surface": "איש",
+      "gloss": "һәр ир"
+    },
+    {
+      "surface": "לו",
+      "gloss": "үзенә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:01.926022616Z",
+  "model": "glm-5.3"
+}

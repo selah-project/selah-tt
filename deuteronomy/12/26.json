@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Әмма изге нәрсәләреңне һәм нәзерләреңне алып, Яһвә сайлый торган урынга барасың.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "әмма"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "изге нәрсәләреңне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨алар⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "булган"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "һәм нәзерләреңне"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "алып"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "барасың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "урынга"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "урынга"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "торган"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "сайлый"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:54.616453994Z",
+  "model": "glm-5.3"
+}

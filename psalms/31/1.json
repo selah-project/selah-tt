@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Өстенлекле җитәкчегә. Давид мәдхие.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "өстенлекле җитәкчегә"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхия"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:48.192342022Z",
+  "model": "glm-5.3"
+}

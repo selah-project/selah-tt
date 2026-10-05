@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Керос балалары, Сиа балалары, Падон балалары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "Керос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "Сиа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Падон"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:09.454003725Z",
+  "model": "glm-5.3"
+}

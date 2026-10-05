@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Һәм аңа икмәк рәтен Яһвә алдына тезде, Яһвә Мошега әмер иткәнчә.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "тезде"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "рәтен"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…нчә"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "әмер иткән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошене"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошене"
+    }
+  ],
+  "timestamp": "2026-10-04T21:54:31.554606757Z",
+  "model": "glm-5.3"
+}

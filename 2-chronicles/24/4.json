@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм бу болардан соң Йоашның күңеле Яһвә ⟨את⟩ йортын яңартырга теләде.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "болардан соң"
+    },
+    {
+      "surface": "כן",
+      "gloss": "бу"
+    },
+    {
+      "surface": "היה",
+      "gloss": "теләде"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨белән⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "күңеле"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоашның"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "яңартырга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвә йортын"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йортын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:12:44.994046603Z",
+  "model": "glm-5.3"
+}

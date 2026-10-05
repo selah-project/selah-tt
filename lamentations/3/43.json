@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ачулы итеп капладың һәм безне куып бардың; үтердең, җәлләмәдең.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "капладың"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ачулы итеп"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "һәм безне куып бардың"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "үтердең"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "җәлләмәдең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:30.790342573Z",
+  "model": "glm-5.3"
+}

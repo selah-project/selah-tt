@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 27:21",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Тигән — көмеш өчен, учагы — алтын өчен, һәм кеше — үз мактавы буенча.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "тигән"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "көмеш өчен"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "һәм учагы"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "алтын өчен"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "һәм кеше"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "буенча"
+    },
+    {
+      "surface": "מהללו",
+      "gloss": "үз мактавы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:13.490898897Z",
+  "model": "glm-5.3"
+}

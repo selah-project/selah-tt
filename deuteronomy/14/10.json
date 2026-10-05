@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәм канаты һәм тәңкәсе булмаганны ашамаска; ул сезгә аерым (тәмам) дип санала.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "һәм барысы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "אין",
+      "gloss": "булмаган"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аның"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "канаты"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "һәм тәңкәсе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ашамаска"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ашамаска"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "аерым (тәмам)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:25:26.287438881Z",
+  "model": "glm-5.3"
+}

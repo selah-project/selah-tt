@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 138,
+  "translation": "Чөнки Яһвә биек, ә түбәнне күрә, ә тәкәбберләрне ерактан белә.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "רם",
+      "gloss": "биек"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "түбәнне"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "тәкәбберләрне"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "ерактан"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "белә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:07.589611455Z",
+  "model": "glm-5.3"
+}

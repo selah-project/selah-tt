@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Бинйамин кабиләсеннән — Палти, Рафуның улы.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "кабиләсеннән"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинйамин"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Палти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "Рафу"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:59.864001507Z",
+  "model": "glm-5.3"
+}

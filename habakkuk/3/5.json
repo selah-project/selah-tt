@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Аның йөзендә дәбер барыр, аның аягы төбендә решеф чыгыр.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "аның йөзендә"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "барыр"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дәбер"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "чыгыр"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "решеф"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "аның аягы төбендә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:36:45.193256845Z",
+  "model": "glm-5.3"
+}

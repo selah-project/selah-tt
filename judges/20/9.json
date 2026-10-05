@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Һәм хәзер бу Гивәгә эшләячәгебез эш: аңа каршы жәребә белән барырбыз.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "һәм хәзер"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "эш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "эшләячәкбез"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "Гивәгә"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "аңа каршы"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "жәребә белән"
+    }
+  ],
+  "timestamp": "2026-10-04T22:46:50.123506447Z",
+  "model": "glm-5.3"
+}

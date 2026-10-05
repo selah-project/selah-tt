@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Азарел, һәм Шелемья, Шемарья.",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "Азарел"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "һәм Шелемья"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Шемарья"
+    }
+  ],
+  "timestamp": "2026-10-05T01:50:08.172991535Z",
+  "model": "glm-5.3"
+}

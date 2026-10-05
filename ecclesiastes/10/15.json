@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Ахмакларның мхәтне арытып бетерә: ул шәһәргә барып җитәргә белми.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "мхәт"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "ахмакларның"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "арытып бетерә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ма"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белми"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "барып җитәргә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…гә"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шәһәргә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:22.719662821Z",
+  "model": "glm-5.3"
+}

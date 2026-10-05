@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм каһин Урия патша Аһаз боерган бөтен нәрсәне эшләде.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "эшләде"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "бөтен нәрсәне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нисбәтле"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "боерган"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Аһаз"
+    }
+  ],
+  "timestamp": "2026-10-04T23:25:31.849052009Z",
+  "model": "glm-5.3"
+}

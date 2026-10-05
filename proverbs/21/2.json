@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Кешенең һәр юлы аның үз күзләрендә туры, ә йөрәкләрне үлчәүче — Яһвә.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юлы"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "туры"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "аның үз күзләрендә"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ә үлчәүче"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "йөрәкләрне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:35.729155836Z",
+  "model": "glm-5.3"
+}

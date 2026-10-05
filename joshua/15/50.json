@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "һәм Анаб, һәм Эштәмоһ, һәм Аним,",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "һәм Анаб"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "һәм Эштәмоһ"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "һәм Аним"
+    }
+  ],
+  "timestamp": "2026-10-04T22:36:48.023083058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 81,
+  "translation": "Җыр күтәрегез һәм дәф кагыгыз, ягымлы кинор нәбел белән.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "күтәрегез"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "җыр"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "һәм кагыгыз"
+    },
+    {
+      "surface": "תף",
+      "gloss": "дәф"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "кинор"
+    },
+    {
+      "surface": "נעим",
+      "gloss": "ягымлы"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "нәбел"
+    }
+  ],
+  "timestamp": "2026-10-05T00:55:53.550079061Z",
+  "model": "glm-5.3"
+}

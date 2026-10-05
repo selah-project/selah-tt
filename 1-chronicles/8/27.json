@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм Йаарешияһ, һәм Элијаһ, һәм Зихри — Йероһамның уллары.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "һәм Йаарешияһ"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "һәм Элијаһ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "һәм Зихри"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йероһамның"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:30.741660176Z",
+  "model": "glm-5.3"
+}

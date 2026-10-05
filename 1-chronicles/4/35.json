@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "һәм Йоел, һәм Асийел улы, Срайаһ улы, Йошивйаһ улы Йеһу,",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "Йоел"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "Йеһу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "Йошивйаһ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Срайаһ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "Асийел"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:24.611129186Z",
+  "model": "glm-5.3"
+}

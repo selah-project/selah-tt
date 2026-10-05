@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Чөнки Мине тапкан Минем тормышны таба, һәм Яһвәдән ризалык ала.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "Мине тапкан"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "таба"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тормышны"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "һәм ала"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ризалык"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яһвәдән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:37.611969191Z",
+  "model": "glm-5.3"
+}

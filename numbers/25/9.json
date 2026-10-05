@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Һәм вабада үлгәннәр егерме дүрт мең булды.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "үлгәннәр"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "вабада"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "һәм егерме"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:14:45.023418546Z",
+  "model": "glm-5.3"
+}

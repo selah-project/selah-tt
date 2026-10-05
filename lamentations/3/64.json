@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Яһвә, Син аларга кайтарырсың җавапны, аларның кулларының эшенә күрә.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "кайтарырсың"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "җавап"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "эшенә күрә"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "кулларының"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:26.274846832Z",
+  "model": "glm-5.3"
+}

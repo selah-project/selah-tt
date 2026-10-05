@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 24:29",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм бу сүзләрдән соң Яһушиа, Нун улы, Яһвә колы үлде — йөз ун яшендә.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "соң"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сүзләрдән"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үлде"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Яһушиа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нун"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "колы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "һәм ун"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "яшендә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:40:09.045773742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Күк — биеклек, җир — тирәнлек, ә патшаларның йөрәгендә өйрәнеп бетерү юк.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "күк"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "биеклек"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "тирәнлек"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "йөрәгендә"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "патшаларның"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "өйрәнеп бетерү"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:17.072040367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм Абыши, Цруя улы, ⟨את⟩ Эдомны Туз үзәнендә сукты — сигез ун мең ⟨кеше⟩.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Һәм Абыши"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруя"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "сукты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эдомны"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомны"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "үзәнендә"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "туз"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "сигез"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    }
+  ],
+  "timestamp": "2026-10-05T02:48:43.387203381Z",
+  "model": "glm-5.3"
+}

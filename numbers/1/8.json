@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Иссахарнеке — Натанэл, Цуар улы.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "Иссахарнеке"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Натанэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цуар"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:27.023309020Z",
+  "model": "glm-5.3"
+}

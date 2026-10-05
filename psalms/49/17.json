@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 49,
+  "translation": "Куркыма, чөнки бер кеше бай булса, чөнки аның өенең даны артса.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "куркыма"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "куркыма"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "бай булса"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "артса"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "даны"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "аның өенең"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:40.019963922Z",
+  "model": "glm-5.3"
+}

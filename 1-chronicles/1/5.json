@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Йефетнең уллары: Гомер, Магог, Мадай, Йаван, Тувал, Мешех һәм Тирас.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Йефетнең"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "һәм Магог"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "һәм Мадай"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "һәм Йаван"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "һәм Тувал"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "һәм Мешех"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "һәм Тирас"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:44.083876731Z",
+  "model": "glm-5.3"
+}

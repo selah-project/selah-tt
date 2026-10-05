@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Яманлык эшләүне уйлаган кешене явыз уйлар иясе дип атыйлар.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "уйлаган"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "яманлык эшләүне"
+    },
+    {
+      "surface": "לו",
+      "gloss": "шул кешене"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "иясен"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "явыз уйлар"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "атыйлар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:21.354879771Z",
+  "model": "glm-5.3"
+}

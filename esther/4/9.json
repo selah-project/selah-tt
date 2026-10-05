@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Һатак килде һәм Эстергә Мордахайның ⟨את⟩ сүзләрен әйтте.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": " килде"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Һатак"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Эстергә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сүзләрен"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сүзләрен"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордахайның"
+    }
+  ],
+  "timestamp": "2026-10-05T01:37:03.783880178Z",
+  "model": "glm-5.3"
+}

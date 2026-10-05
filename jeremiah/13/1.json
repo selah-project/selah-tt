@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 13:1",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Шулай ди Яһвә миңа: Бар һәм үзеңә киндер билбау алып, аны билеңә кидер, ә аны суга кертмә.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "Бар"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "һәм үзеңә... ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "билбау"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "киндер"
+    },
+    {
+      "surface": "ושמתו",
+      "gloss": "һәм аны кидер"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "билеңә"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ә суга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "кертмә"
+    },
+    {
+      "surface": "תבאהу",
+      "gloss": "аны керт"
+    }
+  ],
+  "timestamp": "2026-10-04T23:52:00.983556958Z",
+  "model": "glm-5.3"
+}

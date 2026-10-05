@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 68,
+  "translation": "Көйләүче өчен, Давидка, мизмор, җыр.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "көйләүче өчен"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидка"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:31.882955152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Чөнки Минем аша көннәрең артар, һәм сиңа тормыш еллары өстәлер.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Минем аша"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "артар"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "көннәрең"
+    },
+    {
+      "surface": "ויוסיפו",
+      "gloss": "һәм өстәлер"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "еллары"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тормыш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:12.998755008Z",
+  "model": "glm-5.3"
+}

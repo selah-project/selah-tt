@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 95,
+  "translation": "Шуңа Мин ачуланып ант иттем: алар Минем тынычлыгыма кермәсләр.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ант иттем"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ачуланып"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "кермәсләр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "тынычлыгыма"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:37.865777336Z",
+  "model": "glm-5.3"
+}

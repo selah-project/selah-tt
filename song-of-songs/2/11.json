@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Чөнки әле кыш узып китте, яңгыр үтеп барды, китеп барды.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "әле"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "кыш"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "узып китте"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "яңгыр"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "үтеп барды"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "китеп барды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "үз юлына"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:44.056839616Z",
+  "model": "glm-5.3"
+}

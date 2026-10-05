@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Ә хикмәт кайдан килә, һәм аңлау урыны кайда?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "ә хикмәт"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "кайдан"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "һәм кайда"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "урыны"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "аңлау"
+    }
+  ],
+  "timestamp": "2026-10-05T01:24:07.499328471Z",
+  "model": "glm-5.3"
+}

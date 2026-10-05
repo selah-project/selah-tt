@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 1:23",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм бу сүз күзләремә янып китте, һәм мин сездән ун ике кеше алдым, һәр кабиләдән бер кеше.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "янып китте"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "күзләремә"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "алдым"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "сездән"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "кабиләгә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:50.496932730Z",
+  "model": "glm-5.3"
+}

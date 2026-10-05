@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Җырчылар: Асап балалары — йөз кырык сигез.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "Җырчылар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асап"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "сигез"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:09.484732150Z",
+  "model": "glm-5.3"
+}

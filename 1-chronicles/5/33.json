@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Мерайот ⟨את⟩ Амарьяны туды, һәм Амарья ⟨את⟩ Аһитубны туды.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Мерайот"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амарьяны"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарьяны"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "һәм Амарья"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аһитубны"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Аһитубны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:30.493251197Z",
+  "model": "glm-5.3"
+}

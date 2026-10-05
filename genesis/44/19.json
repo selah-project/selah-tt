@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 44,
+  "translation": "Хуҗам үз ⟨את⟩ колларыннан сорады: сезнең әтигез бармы яки туганыгызмы, дип.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "хуҗам"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "сорады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "колларын"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "колларыннан"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    },
+    {
+      "surface": "היש",
+      "gloss": "бармы"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезнең"
+    },
+    {
+      "surface": "אב",
+      "gloss": "әтигез"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "אח",
+      "gloss": "туганыгыз"
+    }
+  ],
+  "timestamp": "2026-10-04T21:38:37.039938241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "өченче Заккур — аның уллары һәм кардәшләре, ун ике;",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "өченче"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккур"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "аның уллары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "һәм кардәшләре"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ун"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ике"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:11.702479679Z",
+  "model": "glm-5.3"
+}

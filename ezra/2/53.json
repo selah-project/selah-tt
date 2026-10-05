@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Барқос балалары, Сисра балалары, Тамаһ балалары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "Барқос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисра"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "Тамаһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:47:43.503278521Z",
+  "model": "glm-5.3"
+}

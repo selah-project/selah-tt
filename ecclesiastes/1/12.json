@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Мин, Көһелет, Йисраэл өстеннән патша булдым Йерушалаимда.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Көһелет"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "булдым"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалаимда"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:13.098921729Z",
+  "model": "glm-5.3"
+}

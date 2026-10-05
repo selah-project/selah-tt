@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Тебәргә үз аяклары астында җирнең бөтен тоткыннарын —",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "тебәргә"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "аның аяклары"
+    },
+    {
+      "surface": "кл",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "тоткыннары"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җирнең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:17.332110664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 16:24",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "һәм үзеңә өйреп корылма төзедең, һәм үзеңә һәр мәйданда калкулык ясадың.",
+  "tokens": [
+    {
+      "surface": "ותבני",
+      "gloss": "төзедең"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "גב",
+      "gloss": "өйреп корылма"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "ясадың"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "калкулык"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "мәйданда"
+    }
+  ],
+  "timestamp": "2026-10-05T00:11:45.757446184Z",
+  "model": "glm-5.3"
+}

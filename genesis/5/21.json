@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Ханох биш һәм алтмыш ел яшәде, һәм ⟨את⟩ Мәтушелахны тудырды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "һәм алтмыш"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мәтушелахны"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Мәтушелах"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:02.988017532Z",
+  "model": "glm-5.3"
+}

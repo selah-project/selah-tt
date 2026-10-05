@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Байлык ачуланыу көнендә файда бирми, ә цедек үлемнән коткара.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "...мә"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "файда бир"
+    },
+    {
+      "surface": "הון",
+      "gloss": "байлык"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнендә"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ачуланыу"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ә цедек"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "коткара"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "үлемнән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:06.983480930Z",
+  "model": "glm-5.3"
+}

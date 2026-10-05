@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Салма — Бәйт-Ләхәм атасы, Хәрәф — Бәйт-Гадәр атасы.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "Салма"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бәйт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Ләхәм"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "Хәрәф"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бәйт"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Гадәр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:06.806554162Z",
+  "model": "glm-5.3"
+}

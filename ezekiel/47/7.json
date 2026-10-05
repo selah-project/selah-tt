@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 47,
+  "translation": "Мине кайтарганда, һәм менә — инеш ярында бик күп агач, моннан да, һәм аннан да.",
+  "tokens": [
+    {
+      "surface": "בשובני",
+      "gloss": "мине кайтарганда"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "һәм менә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—нда"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "яры"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "инеш"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "агач"
+    },
+    {
+      "surface": "רב",
+      "gloss": "күп"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "моннан"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "һәм аннан"
+    }
+  ],
+  "timestamp": "2026-10-05T00:24:26.115365887Z",
+  "model": "glm-5.3"
+}

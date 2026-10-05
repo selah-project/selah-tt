@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Яһвәнең фатыйхасы — ул бай итә, һәм ⟨ул⟩ аңа кайгы өстәми.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "фатыйхасы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "бай итә"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм ... түгел"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "өстәми"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "кайгы"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:24.269644682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 44,
+  "translation": "Ә хәзер тыңла, Яаков, колым, һәм Йисраэл, аны мин сайладым.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ә хәзер"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңла"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "колым"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "һәм Йисраэл"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "мин сайладым"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-04T23:40:42.431716077Z",
+  "model": "glm-5.3"
+}

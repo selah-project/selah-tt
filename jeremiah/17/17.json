@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Минем өчен куркыныч булма, Син — минем сыену урыным явыз көндә.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "булма"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "לי",
+      "gloss": "минем өчен"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "куркыныч"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "минем сыену урыным"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көндә"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "явыз"
+    }
+  ],
+  "timestamp": "2026-10-04T23:53:06.660783058Z",
+  "model": "glm-5.3"
+}

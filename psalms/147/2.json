@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 147,
+  "translation": "Яһвә Йерушалаимны кора, Йисраэлнең куылганнарын җыя.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "кора"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалаимны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "куылганнарын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлнең"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "җыя"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:17.355464Z",
+  "model": "glm-5.3"
+}

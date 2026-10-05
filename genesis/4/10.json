@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Ул әйтте: Нәрсә эшләдең? Абыеңның канының тавышы миңа җирдән кычкыра.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "эшләдең"
+    },
+    {
+      "surface": "קול",
+      "gloss": "тавыш"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "каны"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "абыеңның"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "кычкыра"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...ннан"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "җирдән"
+    }
+  ],
+  "timestamp": "2026-10-04T21:23:52.598621788Z",
+  "model": "glm-5.3"
+}

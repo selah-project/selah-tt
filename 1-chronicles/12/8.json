@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "һәм Йоелаһ һәм Зевадия, Йероһам уллары, Гедордан",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "һәм Йоелаһ"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "һәм Зевадия"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йероһам"
+    },
+    {
+      "surface": "מן",
+      "gloss": "дан"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "һа-Гедор"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:42.094465568Z",
+  "model": "glm-5.3"
+}

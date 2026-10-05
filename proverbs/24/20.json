@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Чөнки яманның ахыры булмас, явызларның чыгыргагы сүнер.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "булмас"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "булмас"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ахыры"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "яманның"
+    },
+    {
+      "surface": "נר",
+      "gloss": "чыгырга"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "явызларның"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "сүнер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:48.012230878Z",
+  "model": "glm-5.3"
+}

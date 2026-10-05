@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәм Нәтан Давидка әйтте: Йөрәгеңдә булган барысын да эшлә, чөнки Элоһим синең белән.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Һәм әйтте"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нәтан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ел"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысын да"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "что"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "йөрәгеңдә булган"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшлә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "синең белән"
+    }
+  ],
+  "timestamp": "2026-10-05T02:02:02.167269789Z",
+  "model": "glm-5.3"
+}

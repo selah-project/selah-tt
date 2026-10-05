@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Оцым ⟨ул⟩ алтынчы, Давид ⟨ул⟩ җиденче.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "Оцым"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "алтынчы"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "җиденче"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:18.781038307Z",
+  "model": "glm-5.3"
+}

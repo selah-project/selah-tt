@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм Йишмәрай, һәм Йизлия, һәм Йовав — Элпаал уллары:",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "һәм Йишмәрай"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "һәм Йизлия"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "һәм Йовав"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Элпаал"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:20.736481435Z",
+  "model": "glm-5.3"
+}

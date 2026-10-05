@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Ноах, җир кешесе, башлады һәм йөзем бакчасы утыртты.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "башлады"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешесе"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "җирнең"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "утыртты"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "йөзем бакчасы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:24.860140271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Тышта тор, һәм кеше, үзеңә бурыч биргән кеше, сиңа чыгарыр ⟨את⟩ тәминатны тышка.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "тышта"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "тор"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "һәм кеше"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "үзеңә бурыч биргән"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "бырыч биргән"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аның"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "чыгарыр"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тәминатны"
+    },
+    {
+      "surface": "העבט",
+      "gloss": "тәминатны"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "тышка"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:17.493528840Z",
+  "model": "glm-5.3"
+}

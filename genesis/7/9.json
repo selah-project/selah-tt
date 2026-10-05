@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Ике ике булып Нойга, корабка килделәр, ата һәм ана, Элоһим ⟨את⟩ Нойга әмер иткәнчә.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "באו",
+      "gloss": "киделәр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−га"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нойга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−га"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "корабка"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ата"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "һәм ана"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "−нчә"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "әмер иткән"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ной"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ной"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:58.744950757Z",
+  "model": "glm-5.3"
+}

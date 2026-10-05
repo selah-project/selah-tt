@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һашум уллары: ике йөз егерме өч.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Һашум"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ике йөз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "һәм өч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:09.710831805Z",
+  "model": "glm-5.3"
+}

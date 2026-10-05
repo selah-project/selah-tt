@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Ә Йисашкарның уллары: Тола, һәм Пуа, Яшув һәм Шимрон — дүртәү.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Ә ... уллары"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йисашкар"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Тола"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "һәм Пуа"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "Яшув"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "һәм Шимрон"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дүртәү"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:53.372587187Z",
+  "model": "glm-5.3"
+}

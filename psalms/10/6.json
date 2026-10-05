@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Ул йөрәгендә әйтте: Мин тайгылмам, буыннан буынга начарлык күрмәдем.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "йөрәгендә"
+    },
+    {
+      "surface": "בל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "тайгылмам"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "буыннан"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "буынга"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "начарлыкта"
+    }
+  ],
+  "timestamp": "2026-10-05T00:43:34.123181680Z",
+  "model": "glm-5.3"
+}

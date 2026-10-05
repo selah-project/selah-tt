@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Шулай dip Яһвә, Йисраэл Элоһime, әйтте: Үзеңә язып кит минем сиңа әйткән ⟨את⟩ барлык сүзләрне китапка.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһime"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "diеп"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "язып кит"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "барлык сүзләрне"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сүзләрне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "минем әйткән"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кә"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "китапка"
+    }
+  ],
+  "timestamp": "2026-10-04T23:57:29.838472409Z",
+  "model": "glm-5.3"
+}

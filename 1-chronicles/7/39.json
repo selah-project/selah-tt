@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Улланың уллары: Арах һәм Һанниэл һәм Рицья.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм ... уллары"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "Улла"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Арах"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "һәм Һанниэл"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "һәм Рицья"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:33.259885270Z",
+  "model": "glm-5.3"
+}

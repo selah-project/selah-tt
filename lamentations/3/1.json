@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Мин — ⟨һә⟩ ул ир, михнәт күрдем ⟨аңа⟩ каршы аның ачу таягы астында.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨һә⟩ ул ир"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрдем"
+    },
+    {
+      "surface": "עני",
+      "gloss": "михнәт"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таягы астында"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "аның ачу"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:25.085397184Z",
+  "model": "glm-5.3"
+}

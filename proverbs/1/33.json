@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 1:33",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Ә мине тыңлаучы иминлектә яшәр, һәм явызлыктан куркынычтан тыныч булыр.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "тыңлаучы"
+    },
+    {
+      "surface": "לי",
+      "gloss": "минe"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "яшәр"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "иминлектә"
+    },
+    {
+      "surface": "ושאנן",
+      "gloss": "тыныч булыр"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "куркынычтан"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "явызлыктан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:38.777667050Z",
+  "model": "glm-5.3"
+}

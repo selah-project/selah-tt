@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм Палуның уллары: Элиав.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Һәм ... уллары"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "Палуның"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    }
+  ],
+  "timestamp": "2026-10-04T22:14:55.637448557Z",
+  "model": "glm-5.3"
+}

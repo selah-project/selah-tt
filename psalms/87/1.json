@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 87,
+  "translation": "Корах улларына — мәдһия, җыр. Аның нигезе изге тауларда.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәдһия"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "аның нигезе"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "тауларда"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "изге"
+    }
+  ],
+  "timestamp": "2026-10-05T00:56:48.759703634Z",
+  "model": "glm-5.3"
+}

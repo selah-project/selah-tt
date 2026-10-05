@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәм Киш — Шаулның атасы, һәм Нер — Авнернең атасы, Авиел улы.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "һәм Киш"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулның"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "һәм Нер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнернең"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авиел"
+    }
+  ],
+  "timestamp": "2026-10-04T22:53:39.884118368Z",
+  "model": "glm-5.3"
+}

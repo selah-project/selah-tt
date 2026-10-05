@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 112,
+  "translation": "Яман хәбәрдән куркмас; аның йөрәге нык, Яһвәгә таяна.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "хәбәрдән"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "яман"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "куркмас"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "нык"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "аның йөрәге"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "таяна"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яһвәгә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:31.718609566Z",
+  "model": "glm-5.3"
+}

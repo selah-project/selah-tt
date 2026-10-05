@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Бу — зауның Тора кануны, һәм аннан ятып чыккан орлык, аның белән пычру өчен.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора кануны"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "зауның"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "һәм ул"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "чыккан"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ятып"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "орлык"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "пычру өчен"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аның белән"
+    }
+  ],
+  "timestamp": "2026-10-04T22:01:03.092025401Z",
+  "model": "glm-5.3"
+}

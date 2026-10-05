@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Цедеклы кеше ярлыларның хөкемен белә, ә явыз аңламый белемне.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "белә"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "цедеклы кеше"
+    },
+    {
+      "surface": "דין",
+      "gloss": "хөкем"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ярлыларның"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "аңламый"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белемне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:52.005310787Z",
+  "model": "glm-5.3"
+}

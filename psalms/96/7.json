@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 96,
+  "translation": "Бирегә Яһвәгә, халыклар токымнары, бирегә Яһвәгә дан һәм көч.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "бирегә"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "токымнары"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "халыклар"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "бирегә"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "һәм көч"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:58.147702918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Болар Нухның нәселе: Нух — цедек һәм тулы кеше иде үз буыннарында; Нух Элоһим белән ⟨את⟩ йөрде.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Болар"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "нәселе"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нухның"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нух"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "тулу"
+    },
+    {
+      "surface": "היה",
+      "gloss": "иде"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "үз буыннарында"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элоһим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "йөрде"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нух"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:09.158984715Z",
+  "model": "glm-5.3"
+}

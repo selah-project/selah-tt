@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Чөнки җирнең барлык халыклары белсен өчен: Яһвә — Ул Элоһим, башка юк.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белсен"
+    },
+    {
+      "surface": "кал",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "халыклары"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирнең"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "башка"
+    }
+  ],
+  "timestamp": "2026-10-04T23:11:59.177368756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "һәм Еброн, һәм Рәһоб, һәм Һаммон һәм Канаһ, зур Сидонга кадәр.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "Еброн"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "Рәһоб"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "Һаммон"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "Канаһ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Сидонга"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "зур"
+    }
+  ],
+  "timestamp": "2026-10-04T22:37:48.462144240Z",
+  "model": "glm-5.3"
+}

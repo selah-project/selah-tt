@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Өй хатыны, зина кылучы, ире урынына ⟨את⟩ чит ирләрны ала.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "хатыны"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "зина кылучы"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "урынына"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ире"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ала"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чит ирләрны"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "чит ирләрны"
+    }
+  ],
+  "timestamp": "2026-10-05T00:11:22.681831138Z",
+  "model": "glm-5.3"
+}

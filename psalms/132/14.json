@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 132,
+  "translation": "Бу Минем ял урыным ⟨ул⟩ мәңгегә кадәр; монда Мин торам, чөнки Мин аны теләдем.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "ял урыным"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "פה",
+      "gloss": "монда"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "торам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "аны теләдем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:34.971663974Z",
+  "model": "glm-5.3"
+}

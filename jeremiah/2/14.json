@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Йисраэл колмы? Өйдә туганмы ул? Нишләп ул талауга әйләнде?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "колмы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אם",
+      "gloss": "буласы"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "туган"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өйдә"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "нишләп"
+    },
+    {
+      "surface": "היה",
+      "gloss": "әйләнде"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "талауга"
+    }
+  ],
+  "timestamp": "2026-10-04T23:46:28.834338360Z",
+  "model": "glm-5.3"
+}

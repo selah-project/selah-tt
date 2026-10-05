@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Бар, аларга әйт: үз чатырларыгызга кире кайтыгыз.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйт"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "кире кайтыгыз"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "үз"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "чатырларыгызга"
+    }
+  ],
+  "timestamp": "2026-10-04T22:21:31.358203192Z",
+  "model": "glm-5.3"
+}

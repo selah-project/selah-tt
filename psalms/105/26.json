@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 105,
+  "translation": "Ул җибәрде Моһене, Үз колын, һәм Аһаронны, аны Ул сайлаган.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "җибәрде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моһене"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "Үз колын"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһаронны"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "бחר",
+      "gloss": "сайлаган"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨аңа⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T01:00:40.134935116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм бөтен җир булды бер тел һәм бер сүзләр.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "тел"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "һәм сүзләр"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:58.786271892Z",
+  "model": "glm-5.3"
+}

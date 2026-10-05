@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Яхшы аң хөрмәт-ихтирам бирә, ә хыянәтчеләрнең юлы ⟨даими⟩ авыр.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "аң"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бирә"
+    },
+    {
+      "surface": "חן",
+      "gloss": "хөрмәт-ихтирам"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ә юлы"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "хыянәтчеләрнең"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "⟨даими⟩ авыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:17.534130129Z",
+  "model": "glm-5.3"
+}

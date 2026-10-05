@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "һәм Шешан ⟨את⟩ үз кызын колы Йарһага хатынлыкка бирде, һәм ул аңа ⟨את⟩ Аттайны тудырды.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "һәм бирде"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үз кызын"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "үз кызын"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "Йарһага"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "колы"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "хатынлыкка"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "һәм тудырды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аттайны"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Аттайны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:24.169801479Z",
+  "model": "glm-5.3"
+}

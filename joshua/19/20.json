@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм Һараббит, һәм Кишйон, һәм Авец.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "һәм Һараббит"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "һәм Кишйон"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "һәм Авец"
+    }
+  ],
+  "timestamp": "2026-10-04T22:37:43.912929805Z",
+  "model": "glm-5.3"
+}

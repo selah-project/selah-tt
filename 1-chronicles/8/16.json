@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм Мйхаэл, һәм Йишпа, һәм Йоһа — Бериа уллары.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "һәм Мйхаэл"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "һәм Йишпа"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "һәм Йоһа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Бериа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:43.816731638Z",
+  "model": "glm-5.3"
+}

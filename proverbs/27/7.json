@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Туйган җан бал тамчысын таптый, ә ач җанга бөтен әче нәрсә татлы булып тоела.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "туйган"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "таптый"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "бал тамчысын"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ә ач җан"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "ач"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "מר",
+      "gloss": "әче"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "татлы"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:02.615032511Z",
+  "model": "glm-5.3"
+}

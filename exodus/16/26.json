@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Алты көн дәвамында аны җыясыз, ә җиденче көндә — Шаббат, анда булмаячак.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "алты"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "җыясыз аны"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ә көнне"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "җиденче"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Шаббат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анда"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:14.927962092Z",
+  "model": "glm-5.3"
+}

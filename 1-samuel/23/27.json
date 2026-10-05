@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 23:27",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Һәм Шаулга илче килеп әйтте: Тиз бул, кил, чөнки пелиштиләр җиргә һөҗүм иттеләр.",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "илче"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килеп"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулга"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "тиз бул"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "кил"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "һөҗүм иттеләр"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пелиштиләр"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җиргә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:55:46.160609484Z",
+  "model": "glm-5.3"
+}

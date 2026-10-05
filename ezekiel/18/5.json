@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Әгәр бер кеше гадел булса һәм хөкем һәм цедек кылса,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ә кеше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булса"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гадел"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "һәм кылса"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкем"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "һәм цедек"
+    }
+  ],
+  "timestamp": "2026-10-05T00:12:50.328401100Z",
+  "model": "glm-5.3"
+}

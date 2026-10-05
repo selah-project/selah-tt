@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Аһинадав, Иддо улы, Маханаимда ⟨ide⟩;",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "Аһинадав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "Иддо"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Маханаимда"
+    }
+  ],
+  "timestamp": "2026-10-05T02:31:36.594623813Z",
+  "model": "glm-5.3"
+}

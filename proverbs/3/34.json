@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Чыннан, ул мыскарьләрне мискарый, ә түбәннәргә рәхим бирә.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "чыннан"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "мыскарьләрне"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "мискарый"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "түбәннәргә"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бирә"
+    },
+    {
+      "surface": "חן",
+      "gloss": "рәхим"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:12.756122027Z",
+  "model": "glm-5.3"
+}

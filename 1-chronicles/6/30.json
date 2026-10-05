@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һашавьянең улы, Амацьянең улы, Һилкиянең улы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Һашавья"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Амацья"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Һилкия"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:05.591433445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 32:50",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм син менә торган шул тавында үл һәм үз халкыңа кушыл, нәкәр абыең Аһарон Һор тавында үлеп үз халкына кушылган кебек.",
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "һәм үл"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тавында"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "‏-ны"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "והאסף",
+      "gloss": "һәм кушыл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‏-га"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "халкыңа"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "нәкәр"
+    },
+    {
+      "surface": "מת",
+      "gloss": "үлеп"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "абыең"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тавында"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Һор"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "һәм кушылды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‏-га"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "халкына"
+    }
+  ],
+  "timestamp": "2026-10-04T22:30:44.156350197Z",
+  "model": "glm-5.3"
+}

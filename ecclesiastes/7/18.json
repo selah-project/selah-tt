@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Яхшы — моны тоту, һәм моннан да ⟨את⟩ кулыңны төшермә: чөнки Элоһимнан куркучы ⟨את⟩ барысыннан да чыгып котыла.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "тотасың"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "моны"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "һәм дә"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "моннан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "төшермә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кулыңны"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "кулыңны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "куркучы"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыгып котыла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "барысын"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "барысын"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:57.473132085Z",
+  "model": "glm-5.3"
+}

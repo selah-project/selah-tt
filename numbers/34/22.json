@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Һәм Дан балалары кабиләсеннән — башлык Букки, Йогли улы.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "Һәм кабиләсеннән"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "башлык"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "Йогли"
+    }
+  ],
+  "timestamp": "2026-10-04T22:18:31.913422476Z",
+  "model": "glm-5.3"
+}

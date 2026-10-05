@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 71,
+  "translation": "Элоһим, миннән ерак булма, Элоһимем, ярдәмгә ашыгып кил.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ерак булма"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "миннән"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһимем"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ярдәмгә"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "ашыгып кил"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:55.619461218Z",
+  "model": "glm-5.3"
+}

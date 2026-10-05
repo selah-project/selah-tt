@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Моаб ватылды; аның кечкенәләре кычкырып ишеттерделәр.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ватылды"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "ишеттерделәр"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "кычкырып"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "кечкенәләре"
+    }
+  ],
+  "timestamp": "2026-10-05T00:02:41.435118552Z",
+  "model": "glm-5.3"
+}

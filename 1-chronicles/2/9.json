@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Хецронның аңа туган уллары: ⟨את⟩ Йерахмэл, һәм ⟨את⟩ Рам, һәм ⟨את⟩ Келубай.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецронның"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которые"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "туганныр"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йерахмэл"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Йерахмэл"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Рам"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Келубай"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Келубай"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:05.688563165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Биеклекләр башында, юл өстендә, юлчыклар йортында ⟨ул⟩ басып тора.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "башында"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "биеклекләр"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юл"
+    },
+    {
+      "surface": "вית",
+      "gloss": "йортында"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "юлчыклар"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "басып тора"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:47.970635338Z",
+  "model": "glm-5.3"
+}

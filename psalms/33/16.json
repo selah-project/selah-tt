@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Зур гаскәр белән патша котылмый, батыр кеше бөек көч белән азат ителми.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "котылмый"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "зур"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "гаскәр"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "батыр кеше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "азат ителми"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "כח",
+      "gloss": "көч"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:35.602697624Z",
+  "model": "glm-5.3"
+}

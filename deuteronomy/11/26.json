@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Карагыз, мин бүген сезнең алдыгызга бәракәт һәм каргыш куям.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "карагыз"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мин"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "куям"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "сезнең алдыгызга"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүген"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "бәракәт"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "һәм каргыш"
+    }
+  ],
+  "timestamp": "2026-10-04T22:22:35.581155978Z",
+  "model": "glm-5.3"
+}

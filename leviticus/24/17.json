@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм кеше, әгәр теләсә нинди кешенең җанын сукса, үлемгә үтерелер.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "һәм кеше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "сукса"
+    },
+    {
+      "surface": "כל",
+      "gloss": "теләсә нинди"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлемгә"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "үтерелер"
+    }
+  ],
+  "timestamp": "2026-10-04T22:03:57.606396980Z",
+  "model": "glm-5.3"
+}

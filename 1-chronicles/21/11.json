@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Гад Давид янына килде һәм аңа әйтте: шулай диде Яһвә: үзеңә ал:",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "килде"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "כה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:02:44.393584310Z",
+  "model": "glm-5.3"
+}

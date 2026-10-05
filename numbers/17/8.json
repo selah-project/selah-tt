@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәм Моше белән Аһарон очрашу чатыры алдына килделәр.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "килделәр"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨таба⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатыры"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "очрашу"
+    }
+  ],
+  "timestamp": "2026-10-04T22:11:47.579332230Z",
+  "model": "glm-5.3"
+}

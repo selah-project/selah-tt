@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Кеше үз җанына хесед кыла, ә үз итен бораган — аяусыз.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "хесед кыла"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "үз җанына"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "ו עכר",
+      "gloss": "ә борый"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "үз ите"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "аяусыз"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:52.956073214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Кайсы ир Йов кебек — мыскыллыкны су кебек эчә?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кайсы"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ир"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "Йов кебек"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "эчә"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "мыскыллыкны"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "су кебек"
+    }
+  ],
+  "timestamp": "2026-10-05T01:26:38.994339040Z",
+  "model": "glm-5.3"
+}

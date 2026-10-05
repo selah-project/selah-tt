@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Унике ай узгач, ул Бабил патшалыгының сараенда йөри иде.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "узгач"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "ай"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "ике"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "על",
+      "gloss": "…-нда"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "сарай"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "патшалык"
+    },
+    {
+      "surface": "די",
+      "gloss": "…-ның"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабил"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "йөри"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "иде"
+    }
+  ],
+  "timestamp": "2026-10-05T01:41:51.298033129Z",
+  "model": "glm-5.3"
+}

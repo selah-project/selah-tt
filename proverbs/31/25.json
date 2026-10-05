@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Көч һәм дан аның киеме, һәм ул соңгы көнгә карата елмая.",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "көч"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "һәм дан"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "аниң киеме"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "һәм ул елмая"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "көнгә карата"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "соңгы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:49.611776230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Калевнең, Йефуне улының, уллары: Иру, Эла һәм Наам; һәм Эланың улы — Кеназ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм ... уллары"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йефуне"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Иру"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "һәм Наам"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "һәм ... улы"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "Кеназ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:37.633937527Z",
+  "model": "glm-5.3"
+}

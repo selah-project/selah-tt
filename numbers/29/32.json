@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 29:32",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм җиденче көнне җиде үгез, ике тәкә, ун дүрт бер яшьлек бәрән, тайсезләр.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "һәм ... көнне"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "җиденче"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "үгез"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "тәкә"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "бәрән"
+    },
+    {
+      "surface": "בני",
+      "gloss": "... балалары"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яшь"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "тайсез"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:32.829874623Z",
+  "model": "glm-5.3"
+}

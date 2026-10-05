@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Чөнки һәр теләк өчен вакыт һәм хөкем бар, чөнки кешенең явызлыгы аның өстеннән бик зур.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "теләк"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вакыт"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "һәм хөкем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "явызлыгы"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "бик зур"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аның өстеннән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:28.138273702Z",
+  "model": "glm-5.3"
+}

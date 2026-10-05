@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 42,
+  "translation": "Шуңа күрә мин ⟨үземне⟩ жирәм һәм тузан һәм көл өстендә үкенәм.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "жирәм"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "һәм үкенәм"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "тузан"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "һәм көл"
+    }
+  ],
+  "timestamp": "2026-10-05T01:29:58.550433657Z",
+  "model": "glm-5.3"
+}

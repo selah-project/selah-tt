@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Рухыңда ашкынып ачуланма, чөнки ачылык акылсызларның куйрынында ял итә.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "әйтмә"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ашкынып"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "рухыңда"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "ачуланма"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ачылык"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "куйрынында"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "акылсызларның"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ял итә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:27.285488496Z",
+  "model": "glm-5.3"
+}

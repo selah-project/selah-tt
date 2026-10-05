@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Левана балалары, Хагаба балалары, Салмай балалары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Левана"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "Хагаба"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Салмай"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:09.454149775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Хәзердән үк минемә эндәдемме: атам, яшьлегемнең яратканысы син?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "түгелме"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "хәзердән"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "эндәдемме"
+    },
+    {
+      "surface": "לי",
+      "gloss": "минемә"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атам"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "яраткан"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "яшьлегемнең"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    }
+  ],
+  "timestamp": "2026-10-04T23:47:31.904211103Z",
+  "model": "glm-5.3"
+}

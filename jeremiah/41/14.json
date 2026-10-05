@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 41:14",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Һәм Ишмаэл Мицпадан алып киткән бөтен халык кире борылды һәм Йоһаннага, Корәх улына китте.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "борылды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ны"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "алып киткән"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ишмаэл"
+    },
+    {
+      "surface": "מן",
+      "gloss": "дан"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Мицпа"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "һәм кире"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "китте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "га"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Йоһаннан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корәх"
+    }
+  ],
+  "timestamp": "2026-10-05T00:00:35.414580985Z",
+  "model": "glm-5.3"
+}

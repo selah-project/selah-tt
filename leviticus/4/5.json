@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм майланган коһен буга каныннан алыр һәм ⟨את⟩ аны очрашу чатырына китерер.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "алыр"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коһен"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "майланган"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "каныннан"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "буганың"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "киитерер"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатырына"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "очрашу"
+    }
+  ],
+  "timestamp": "2026-10-04T21:56:55.092513977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 49:27",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 49,
+  "translation": "Биньямин — бүре: тартып алыр; иртән тала ашар, һәм кич таланы бүләр.",
+  "tokens": [
+    {
+      "surface": "בנימין",
+      "gloss": "Биньямин"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "бүре"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "тартып алыр"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "иртән"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашар"
+    },
+    {
+      "surface": "עד",
+      "gloss": "тала"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "кич"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "бүләр"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "таланы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:40:51.563084225Z",
+  "model": "glm-5.3"
+}

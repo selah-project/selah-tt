@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Чит-ятлар аның көчен ашады, һәм ул белмәде; хәтта картлык аңа сибелде, һәм ул белмәде.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "ашады"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "чит-ятлар"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "аның көчен"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "һәм ул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белмәде"
+    },
+    {
+      "surface": "גם",
+      "gloss": "хәтта"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "картлык"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "сибелде"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "һәм ул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белмәде"
+    }
+  ],
+  "timestamp": "2026-10-05T00:27:37.567794455Z",
+  "model": "glm-5.3"
+}

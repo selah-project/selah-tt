@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм төнлә лагерь өстенә ысылдавык төшкәндә, аның өстенә ман төшә иде.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "төшкәндә"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ысылдавык"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерь"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "төнлә"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "төшә иде"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ман"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аның өстенә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:10:31.688590462Z",
+  "model": "glm-5.3"
+}

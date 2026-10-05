@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Монда: сез ялган сүзләргә таянасыз — файда китермәсләренә.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Монда"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сез"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "таянасыз"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "үзегезгә"
+    },
+    {
+      "surface": "על",
+      "gloss": "-гә"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сүзләргә"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "-маc"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "файда китерү"
+    }
+  ],
+  "timestamp": "2026-10-04T23:48:39.500652754Z",
+  "model": "glm-5.3"
+}

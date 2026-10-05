@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Беркайбер жирәк нәрсә дә ашамаскә.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ашамаска"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ашамаска"
+    },
+    {
+      "surface": "כל",
+      "gloss": "беркайбер... дә"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "жирәк нәрсә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:52.450050250Z",
+  "model": "glm-5.3"
+}

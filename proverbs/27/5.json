@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Ачык тәнбить ⟨яһвә⟩-дан яшерелгән мәхәббәттән яхшырак.",
+  "tokens": [],
+  "timestamp": "2026-10-05T02:44:30.781612566Z",
+  "model": "glm-5.3"
+}

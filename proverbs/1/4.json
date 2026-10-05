@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Наданнарга хәйләкәрлек, яшькә белем һәм уй-фикер бирер өчен.",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "бирер өчен"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "наданнарга"
+    },
+    {
+      "surface": "ערמя",
+      "gloss": "хәйләкәрлек"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "яшькә"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белем"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "һәм уй-фикер"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:36.353416357Z",
+  "model": "glm-5.3"
+}

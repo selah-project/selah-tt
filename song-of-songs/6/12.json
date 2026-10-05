@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Мин белмәдем — җаным мине минем халкымның Надиб арбаларына куйды.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "белдем"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җаным"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "кое"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "арбалар"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "минем халкымның"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "Надиб"
+    }
+  ],
+  "timestamp": "2026-10-05T01:28:57.433806233Z",
+  "model": "glm-5.3"
+}

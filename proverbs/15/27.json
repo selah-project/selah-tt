@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 15:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Талап алучы үз өен бөтерә, ә бүләкләрне нәфрәт итүче яшәр.",
+  "tokens": [
+    {
+      "surface": "עכר",
+      "gloss": "бөтерә"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үз өен"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "талап алучы"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "талау"
+    },
+    {
+      "surface": "ושונא",
+      "gloss": "ә нәфрәт итүче"
+    },
+    {
+      "surface": "מתנת",
+      "gloss": "бүләкләрне"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "яшәр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:11.908610329Z",
+  "model": "glm-5.3"
+}

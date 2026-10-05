@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 93,
+  "translation": "Тәхетең шул чордан ук төзек, син мәңгедән барсың.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "төзек"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "тәхетең"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "шул чордан ук"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "мәңгедән"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    }
+  ],
+  "timestamp": "2026-10-05T00:58:40.544393728Z",
+  "model": "glm-5.3"
+}

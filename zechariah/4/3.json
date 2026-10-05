@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм аның янанда ике зәйтүн агачы: берсе бүркенең уң ягында, берсе сул ягында.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "зәйтүн агачы"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "аның янанда"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "берсе"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "уң ягында"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "бүрке"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "берсе"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "сул ягында"
+    }
+  ],
+  "timestamp": "2026-10-05T00:38:23.573463624Z",
+  "model": "glm-5.3"
+}

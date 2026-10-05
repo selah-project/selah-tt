@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Лемуел патшаның сүзләре — йөк, ки аны анасы тәрбияләде.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "сүзләре"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемуел"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "משא",
+      "gloss": "йөк"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "тәрбияләде"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "анасы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:17:15.146112461Z",
+  "model": "glm-5.3"
+}

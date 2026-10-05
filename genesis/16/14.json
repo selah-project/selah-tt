@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Шуңа күрә коены Беэр-Лаһай-Рои дип атадылар; менә ул Кадеш белән Беред арасында урнашкан.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "атадылар"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "коены"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Лаһай"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Рои"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "בין",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "белән"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "Беред"
+    }
+  ],
+  "timestamp": "2026-10-05T02:19:39.196408066Z",
+  "model": "glm-5.3"
+}

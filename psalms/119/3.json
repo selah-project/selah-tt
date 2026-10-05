@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Җәнә эшләмиләр хаксызлык, Аның юлларында йөриләр.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "җәнә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...миләр"
+    },
+    {
+      "surface": "пעלו",
+      "gloss": "эшлә"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "хаксызлык"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "Аның юлларында"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "йөриләр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:54.200443100Z",
+  "model": "glm-5.3"
+}

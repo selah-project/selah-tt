@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 86,
+  "translation": "Колыңның җанын шатландыр, чөнки Сиңа, Адонай, мин җанымны күтәрәм.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "шатландыр"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җанын"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "колыңның"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сиңа"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җанымны"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "күтәрәм"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:22.847339176Z",
+  "model": "glm-5.3"
+}

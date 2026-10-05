@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "һәм Бакбаккар, Хереш һәм Галал, һәм Маттанйа, Миха улы, Зикри улы, Асап улы.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "һәм Бакбаккар"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Хереш"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "һәм Галал"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "һәм Маттанйа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Миха"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зикри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асап"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:25.775932676Z",
+  "model": "glm-5.3"
+}

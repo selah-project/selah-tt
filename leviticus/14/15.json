@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Каһин лог майдан алыр һәм каһинның сул авычына койар.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "алыр"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "מלוג",
+      "gloss": "логтан"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "майдан"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "койар"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "כף",
+      "gloss": "авычы"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһинның"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "сул"
+    }
+  ],
+  "timestamp": "2026-10-04T21:59:33.425111717Z",
+  "model": "glm-5.3"
+}

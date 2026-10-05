@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм уң ботны үз шалом корбаннарыгыздан каһинга бүләк итеп бирерсез.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "уң ботны"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "бот"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "уң"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "бирерсез"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "бүләк итеп"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "каһинга"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "–дан"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "шалом корбаннарыгыздан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:56:29.069206954Z",
+  "model": "glm-5.3"
+}

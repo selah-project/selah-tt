@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Даниел патша Көрөшнең беренче елына кадәр булды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "елына"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "беренче"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Көрөшнең"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    }
+  ],
+  "timestamp": "2026-10-05T01:38:31.575035860Z",
+  "model": "glm-5.3"
+}

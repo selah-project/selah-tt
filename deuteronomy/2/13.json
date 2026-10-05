@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Хәзер торыгыз һәм Үзәрәд тугайыннан үтегез. Һәм без ⟨את⟩ Үзәрәд тугайыннан үттек.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "хәзер"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "торыгыз"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "үтегез"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "үзегезгә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Үзәрәд тугайы"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "тугай"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Үзәрәд"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "үттек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Үзәрәд тугайы"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "тугай"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Үзәрәд"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:28.561939749Z",
+  "model": "glm-5.3"
+}

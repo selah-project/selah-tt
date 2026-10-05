@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Ул аңа әйтте: Мин Бетуелнең кызымын, Милканың улы, ул аны Нахорга тудырган.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ул әйтте"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Бетуел"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мин"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Милка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "тудырган"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Наһорга"
+    }
+  ],
+  "timestamp": "2026-10-05T02:19:56.299505258Z",
+  "model": "glm-5.3"
+}

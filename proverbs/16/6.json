@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Хесед һәм эмет белән гөнаһ каплана; Яһвәдан курып, явызлыктан читләш.",
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "хесед белән"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "һәм эмет"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "каплана"
+    },
+    {
+      "surface": "עון",
+      "gloss": "гөнаһ"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "курып"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәдан"
+    },
+    {
+      "surface": "סור",
+      "gloss": "читләш"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "явызлыктан"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:29.381091603Z",
+  "model": "glm-5.3"
+}

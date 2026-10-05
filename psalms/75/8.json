@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 75,
+  "translation": "Чөнти Элоһим хөкем итә: буны түбән төшерә, һәм буны күтәрә.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнти"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "хөкем итә"
+    },
+    {
+      "surface": "זה",
+      "gloss": "буны"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "түбән төшерә"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "һәм буны"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "күтәрә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:54:44.549520977Z",
+  "model": "glm-5.3"
+}

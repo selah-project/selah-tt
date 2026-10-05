@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Әгәр ул ⟨את⟩ кырны коткарып алмаса, ә башка кешегә ⟨את⟩ кырны сатса, кыр инде коткарып алынмас.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Әгәр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…маса"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "коткарып алмаса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кырны"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "кырны"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ә"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "сатса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кырны"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "кырны"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "кешегә"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…мас"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "коткарып алынмас"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "инде"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:44.278801322Z",
+  "model": "glm-5.3"
+}

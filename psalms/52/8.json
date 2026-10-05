@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 52,
+  "translation": "Һәм гаделләр күрер һәм куркар, һәм ⟨ашага⟩ көлер.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Һәм күрер"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "гаделләр"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "куркар"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "⟨ашага⟩"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "көлер"
+    }
+  ],
+  "timestamp": "2026-10-05T00:51:19.018266931Z",
+  "model": "glm-5.3"
+}

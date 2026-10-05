@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Ишетүче колак һәм күрүче күз — Яһвә аларның икесен дә яратты.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "колак"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ишетүче"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "һәм күз"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрүче"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "яратты"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дә"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "икесен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:58.194485954Z",
+  "model": "glm-5.3"
+}

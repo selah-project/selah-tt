@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 118,
+  "translation": "Яһвәдән ⟨את⟩ булды ул; күзләребездә ул гаҗәеп.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәдән"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ул"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "гаҗәеп"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "күзләребездә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:20.097306358Z",
+  "model": "glm-5.3"
+}

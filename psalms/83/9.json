@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 83,
+  "translation": "Ашур да алар белән берләште, Лот улларына кул булдылар. Селә.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "берләште"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "алар белән"
+    },
+    {
+      "surface": "היו",
+      "gloss": "булдылар"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "кул"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:55:42.499885553Z",
+  "model": "glm-5.3"
+}

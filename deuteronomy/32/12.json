@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Яһвә бердәнбер аны юнәлдерде, һәм аның белән чит Эл булмады.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "берденбер"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "юнәлдерде аны"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм булмады"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "аның белән"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чит"
+    }
+  ],
+  "timestamp": "2026-10-04T22:30:26.493293515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм кыз йөгерде һәм әнисенең өендәгеләргә бу сүзләрне сөйләде.",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "йөгерде"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "кыз"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "өендәгеләргә"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "әнисенең"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "бу сүзләрне"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T21:30:15.538716754Z",
+  "model": "glm-5.3"
+}

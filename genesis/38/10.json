@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Һәм Яһвә күзләрендә яман булды аның кылганы, һәм Яһвә ⟨את⟩ аны да үлдерде.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "яман булды"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "күзләрендә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ни"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылды"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үлдерде"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "Онан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:36:04.717400859Z",
+  "model": "glm-5.3"
+}

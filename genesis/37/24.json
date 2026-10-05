@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Һәм алар аны алдылар һәм аны коега ташладылар; ә коа буш ⟨иде⟩, анда су юк иде.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "алдылар"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "һәм ташладылар"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "коега"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ә коа"
+    },
+    {
+      "surface": "רק",
+      "gloss": "буш"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анда"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    }
+  ],
+  "timestamp": "2026-10-04T21:36:08.741644744Z",
+  "model": "glm-5.3"
+}

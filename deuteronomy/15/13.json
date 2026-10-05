@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм син аны үзеңнән ирекле итеп җибәрсәң, аны буш кулланып җибәрмәскә:",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "һәм әгәр"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "җибәрсәң аны"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ирекле"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "үзеңнән"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "җибәрәсең аны"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "буш кулланып"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:09.186961913Z",
+  "model": "glm-5.3"
+}

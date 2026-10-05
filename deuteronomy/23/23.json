@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Ә нәзер бирмәсәң дә, синдә гөнаһ булмас.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ә ... дә"
+    },
+    {
+      "surface": "תחדл",
+      "gloss": "нәзер бирмәсәң"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "нәзер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "булмас"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "בך",
+      "gloss": "синдә"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "гөнаһ"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:19.117895434Z",
+  "model": "glm-5.3"
+}

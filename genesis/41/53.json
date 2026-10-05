@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Һәм Мицраим җирендә булган тынчылыкның җиде елы тәмам булды.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "тәмам булды"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "שני",
+      "gloss": "елы"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "тынчылыкның"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "булган"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булган"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җирендә"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-04T21:37:20.286487657Z",
+  "model": "glm-5.3"
+}

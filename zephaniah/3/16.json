@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Шул көнне Йерушалаимга әйтелер: Куркма! Цыйын, кулларың йомшамасын!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "шул көнне"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "әйтелер"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Йерушалаимга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ма"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "курк"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цыйын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−масын"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "йомшар"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "кулларың"
+    }
+  ],
+  "timestamp": "2026-10-05T00:36:39.620068373Z",
+  "model": "glm-5.3"
+}

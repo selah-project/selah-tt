@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Леви өчен Хашавья, Кәмуэл улы; Аһарон өчен — Цадок.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "Леви өчен"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавья"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кәмуэл"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Аһарон өчен"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    }
+  ],
+  "timestamp": "2026-10-05T02:04:44.323509238Z",
+  "model": "glm-5.3"
+}

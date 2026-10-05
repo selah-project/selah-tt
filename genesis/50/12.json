@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 50,
+  "translation": "Һәм аның уллары аңа шулай эшләделәр, ул аларга кушканча.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "эшләделәр"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "аның уллары"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кушканча"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ул аларга кушкан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:40:04.855489916Z",
+  "model": "glm-5.3"
+}

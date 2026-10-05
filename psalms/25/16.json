@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Миңа борыл һәм миңа рәхим кыл, чөнки мин ялгыз һәм мескенмен.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "борыл"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "һәм миңа рәхим кыл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ялгыз"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "һәм мескен"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:24.681525598Z",
+  "model": "glm-5.3"
+}

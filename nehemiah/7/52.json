@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бесай балалары, Меуним балалары, Нефушесим балалары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "Бесай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "Меуним"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "Нефушесим"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:08.109737301Z",
+  "model": "glm-5.3"
+}

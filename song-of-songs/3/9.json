@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Паланкин үзенә патша Шеломаһ Ливан агачларыннан ясады.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "паланкин"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ясады"
+    },
+    {
+      "surface": "לו",
+      "gloss": "үзенә"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломаһ"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "агачларыннан"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Ливан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:28:48.229682497Z",
+  "model": "glm-5.3"
+}

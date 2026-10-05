@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 27:6",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм Ривкә улы Яаковка әйтте: Менә мин ⟨את⟩ атaңның абыйң Эсавка сөйләгәнен ишеттем, дип:",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "һәм Ривкә"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "улы"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ишеттем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атаңны"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңның"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "сөйләгәнен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "абыйң"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:09.741107080Z",
+  "model": "glm-5.3"
+}

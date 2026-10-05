@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 81,
+  "translation": "Маштыручыга, гитит өстенә, Асафка.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "маштыручыга"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "гитит"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафка"
+    }
+  ],
+  "timestamp": "2026-10-05T00:55:53.549651528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Куып аулыйлар мине кош кебек — дошманнарым, сәбәпсез.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "куып аулау"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "алар аулыйлар мине"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "кош кебек"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "дошманнарым"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "сәбәпсез"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:13.530116800Z",
+  "model": "glm-5.3"
+}

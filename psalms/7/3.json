@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Юкса арыслан кебек җанымны өзеп алыр, ватыр — һәм коткаручы юк.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "юкса"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "өзеп алыр"
+    },
+    {
+      "surface": "кאריה",
+      "gloss": "арыслан кебек"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җанымны"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ватыр"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм … юк"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "коткаручы"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:55.644130766Z",
+  "model": "glm-5.3"
+}

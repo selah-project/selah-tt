@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Әгәр киемдә цараат бәласе булса — йон киемдә яки җитен киемдә,",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "һәм кием"
+    },
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булса"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анда"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "бәла"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "киемдә"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "йон"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "киемдә"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "җитен"
+    }
+  ],
+  "timestamp": "2026-10-04T21:59:07.596399064Z",
+  "model": "glm-5.3"
+}

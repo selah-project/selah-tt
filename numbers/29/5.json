@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 29:5",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм бер кәҗә тәкәсе — гөнаһ корбаны — сезне ярлыкау өчен.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "һәм тәкә"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "кәҗә"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "гөнаҳ корбаны"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ярлыкау өчен"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "сезне"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:46.451178711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Эли уллары яманлык уллары иде, алар ⟨את⟩ Яһвәне белмәделәр.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "яманлык"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "белмәделәр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвәне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәне"
+    }
+  ],
+  "timestamp": "2026-10-04T22:47:35.557028549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Эшегезне үз дустыгыз белән хәл итегез, ә башканың сереңне ачма.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "эшеңне"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "хәл итегез"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дустыгызны"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "дустыгызны"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ә сереңне"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ачма"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ачучы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:11.688592323Z",
+  "model": "glm-5.3"
+}

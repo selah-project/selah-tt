@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм Билһа, Раһелнең кол хатыны, тагын йөкле булды һәм Яаковка икенче ул туды.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "йөкле булды"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тагын"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билһа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "кол хатыны"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Раһелнең"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "שני",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковка"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:07.173504328Z",
+  "model": "glm-5.3"
+}

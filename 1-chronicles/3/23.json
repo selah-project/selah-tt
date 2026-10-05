@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Неарьянең уллары: Эльоенай, Хизкия һәм Азрикам — өч.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "һәм ... уллары"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "Неарья"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "Эльоенай"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "һәм Хизкия"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "һәм Азрикам"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "өч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:04.301893323Z",
+  "model": "glm-5.3"
+}

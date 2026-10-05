@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Мин диңгезме, әллә тәннинмы — син өстемә сакчы куйдыңмы?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "диңгезме"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әллә"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "тәннинмы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "куйдыңмы"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "өстемә"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "сакчы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:18:24.317452209Z",
+  "model": "glm-5.3"
+}

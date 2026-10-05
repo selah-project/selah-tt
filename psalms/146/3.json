@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 146,
+  "translation": "Кенәзләргә таянмагыз, кеше углына — аңа коткарылу юк.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "таянмагыз ⟨юк⟩"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "таянмагыз"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "кенәзләргә"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "угына"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "коткарылу"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:07.228867551Z",
+  "model": "glm-5.3"
+}

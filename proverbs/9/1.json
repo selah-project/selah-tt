@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Хикмәт үз өен төзеде, үз баганаларын кисеп чыгарды — җидәү.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Хикмәт"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "төзеде"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "үз өен"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "кисеп чыгарды"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "үз баганаларын"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "җидәү"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:02.298033622Z",
+  "model": "glm-5.3"
+}

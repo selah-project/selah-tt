@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Әгәр Яһвә безне яратса, Ул безне бу җиргә кертер һәм аны безгә бирер — сөт һәм бал агызган җир.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "яратса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "безне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "кертер"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ безне",
+      "marks": "безне"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-гә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җиргә"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "бирер"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "агызган"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "сөт"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "һәм бал"
+    }
+  ],
+  "timestamp": "2026-10-04T22:10:30.058381371Z",
+  "model": "glm-5.3"
+}

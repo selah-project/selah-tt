@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм Шебуел, Гершом улы, Моше улы, хазинәләр өстеннән башлык булды.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "Һәм Шебуел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "башлык"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "хазинәләр"
+    }
+  ],
+  "timestamp": "2026-10-05T02:04:30.265880593Z",
+  "model": "glm-5.3"
+}

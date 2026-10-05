@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Явызның җаны яманлык теләй; аның күзләрендә дусы мәрхәмәт тапмый.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "җаны"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явызның"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "теләй"
+    },
+    {
+      "surface": "רע",
+      "gloss": "яманлык"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "мәрхәмәт тапмый"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "күзләрендә"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "дусы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:02.480359256Z",
+  "model": "glm-5.3"
+}

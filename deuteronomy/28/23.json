@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Һәм башың өстендәге күкләрең бакыр булыр, һәм аяк астындагы җирең тимер булыр.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "күкләрең"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨аның⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендәге"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "башың"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "бакыр"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "һәм җирең"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨аның⟩"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "аяк астындагы"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "тимер"
+    }
+  ],
+  "timestamp": "2026-10-04T22:29:09.827563480Z",
+  "model": "glm-5.3"
+}

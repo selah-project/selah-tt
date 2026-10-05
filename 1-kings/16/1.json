@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Яһвә сүзе Йеһуга, Ханани улына, Баъшага каршы килде, дип әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "каршы килде"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Йеһуга"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Ханани"
+    },
+    {
+      "surface": "על",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Баъшага"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T23:15:43.191018484Z",
+  "model": "glm-5.3"
+}

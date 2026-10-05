@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Әйе, Эл тугрыны кире какмый, һәм явызлар кулын тотып тормый.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Әйе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "кире акмый"
+    },
+    {
+      "surface": "תם",
+      "gloss": "тугрыны"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "тотып тормый"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "кулын"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "явызлар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:18:23.384701060Z",
+  "model": "glm-5.3"
+}

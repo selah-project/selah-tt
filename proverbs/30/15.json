@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Сүлекнең ике кызы ⟨бар⟩: «Бир, бир!» Өчәү туймыйлар, дүртәү «Җитә» димиләр.",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "сүлекнең"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ике"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "הב",
+      "gloss": "бир"
+    },
+    {
+      "surface": "הב",
+      "gloss": "бир"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "өчәү"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "туймыйлар"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дүртәү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "димиләр"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Җитә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:22.972386382Z",
+  "model": "glm-5.3"
+}

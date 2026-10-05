@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Күпләр минем җанга әйтәләр: аңа Элоһимда котылыу юк. Села.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "күпләр"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "әйтәләр"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "минем җанга"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "котылыу"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Элоһимда"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:36.728261074Z",
+  "model": "glm-5.3"
+}

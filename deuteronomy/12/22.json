@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Тик аны ⟨את⟩ болан һәм ⟨את⟩ поҗра ашалганча ашарсың; чиста булмаган да, чиста да бергә аны ашар.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "тик"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ашалганча"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашала"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "болан"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "болан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "поҗра"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "поҗра"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ашарсың аны"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "чиста булмаган"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "чиста"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бергә"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ашар аны"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:52.658346673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 2:6",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Паһат-Моав уллары, Йешуа һәм Йоав улларыннан, ике мең сигез йөз унбер.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Паһат"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "улларыннан"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Йешуа"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ике мең"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "сигез"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "унбер"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "унбер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:45:50.638896776Z",
+  "model": "glm-5.3"
+}

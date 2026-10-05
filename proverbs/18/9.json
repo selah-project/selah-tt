@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Шулай ук үз эшендә йомшаручы — җимерүченең туганы ул.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "шулай ук"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "йомшаручы"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "үз эшендә"
+    },
+    {
+      "surface": "אח",
+      "gloss": "туган"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "җимерүченең"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "җимерүче"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:35.168538953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 50,
+  "translation": "Йосеф атасының йөзенә егылды, аңа елап, аны үпте.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "егылды"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстәнә"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзенә"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасының"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "елап"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "үпте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:40:38.832170861Z",
+  "model": "glm-5.3"
+}

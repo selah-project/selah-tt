@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Инде наданны генәәтле дип атамаслар, һәм саранга бай дип әйтмәсләр.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "атамаслар"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "инде"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "наданны"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "генәәтле"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "һәм саранга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "әйтмәсләр"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "бай"
+    }
+  ],
+  "timestamp": "2026-10-04T23:36:05.980338957Z",
+  "model": "glm-5.3"
+}

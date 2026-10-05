@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Чөнки дивар ташы кычкырыр, һәм агачтан беркәдәр аңа җавап бирер.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ташы"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "дивардан"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "кычкырыр"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "һәм беркәдәр"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "агачтан"
+    },
+    {
+      "surface": "яעננה",
+      "gloss": "аңа җавап бирер"
+    }
+  ],
+  "timestamp": "2026-10-05T00:35:00.448543719Z",
+  "model": "glm-5.3"
+}

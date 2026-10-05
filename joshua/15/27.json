@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "һәм Хацар-Гадда, һәм Хешмон, һәм Бейт-Палет.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "һәм Хацар"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "Гадда"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "һәм Хешмон"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "һәм Бейт"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "Палет"
+    }
+  ],
+  "timestamp": "2026-10-04T22:36:50.008251847Z",
+  "model": "glm-5.3"
+}

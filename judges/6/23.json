@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Яһвә аңа әйтте: Сиңа шалом! Курыкма, үлмәссең.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Курыкма"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "курыкма"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үлмәс"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "үлмәссең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:41:28.838166587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Яһвә үз йөзен сиңа күтәреп карыйн һәм сиңа тынычлык бирсен.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "күтәреп карыйн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "йөзен"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "бирсен"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынычлык"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:29.712818377Z",
+  "model": "glm-5.3"
+}

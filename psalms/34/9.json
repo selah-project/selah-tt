@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Татып карагыз һәм күрегез: Яһвә яхшы; Аңа сыеныр ир бәхетле.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "Татып карагыз"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "һәм күрегез"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "бәхетле"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ир"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "сыеныр"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T00:46:24.277504762Z",
+  "model": "glm-5.3"
+}

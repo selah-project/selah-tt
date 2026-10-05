@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Яһвә Мошега сөйләде Аһаронның ике улы үлгәннән соң, алар Яһвә алдына якынлашканда һәм үлгәч.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "соң"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлем"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ике"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "якынлашканда"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "һәм үлделәр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:01:46.371008394Z",
+  "model": "glm-5.3"
+}

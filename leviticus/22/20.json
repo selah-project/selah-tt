@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Эчендә кимчелеге булган һәр нәрсәне китермәгез, чөнки ул сезгә рәхимле булмас.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "һәр нәрсәне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "булган"
+    },
+    {
+      "surface": "בו",
+      "gloss": "эчендә"
+    },
+    {
+      "surface": "מום",
+      "gloss": "кимчелеге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "китермәгез"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-мас"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "рәхимле"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булас"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:02:01.952615205Z",
+  "model": "glm-5.3"
+}

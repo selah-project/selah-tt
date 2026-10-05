@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Йисраэл уллары Моав патшасы ⟨את⟩ Эглонга унсигез ел хезмәт иттеләр.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "хезмәт иттеләр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эглонга"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Эглонга"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "сигез"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    }
+  ],
+  "timestamp": "2026-10-04T22:41:15.671259933Z",
+  "model": "glm-5.3"
+}

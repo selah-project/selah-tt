@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Бәхетле ⟨ кеше ⟩, аңа Яһвә әвәнне исәпләми, һәм аның рухында хәйлә юк.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "бәхетле"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "исәпләми"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "עון",
+      "gloss": "әвән (явызлык)"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм юк"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "аның рухында"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "хәйлә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:47:10.494393613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Ун бишенчесе Билгага, ун алтынчысы Иммерга.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "Билгага"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "бишенчесе"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "Иммерга"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "алтынчысы"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:17.067974458Z",
+  "model": "glm-5.3"
+}

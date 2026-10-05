@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Каһиннәр: Йедаья уллары, Йешуа йортыннан: тугыз йөз җитмеш өч.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "Каһиннәр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедаья"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "йортыннан"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Йешуа"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тугыз"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "җитмеш"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "өч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:18.430680506Z",
+  "model": "glm-5.3"
+}

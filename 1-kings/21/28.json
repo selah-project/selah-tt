@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 21:28",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Яһвә сүзе Тишбалы Элияһуга килде, дип әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кү"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияһуга"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Тишбалы"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T23:18:23.780295050Z",
+  "model": "glm-5.3"
+}

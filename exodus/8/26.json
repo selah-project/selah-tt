@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Моше Парша яныннан чыкты һәм Яһвәгә ялварды.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "яныннан"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парша"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ялварды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:43:19.513499622Z",
+  "model": "glm-5.3"
+}

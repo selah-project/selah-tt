@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Ничек гүзәлсың һәм ничек татлысың, эй мәхәббәт, ләззәтләр белән!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "гүзәлсың"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "һәм ничек"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "татлысың"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "мәхәббәт"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "ләззәтләр белән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:30:28.024951674Z",
+  "model": "glm-5.3"
+}

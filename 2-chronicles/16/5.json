@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм шулай булды: Бааша ишеткәч, ул Раманы төзүдән туктады һәм ⟨את⟩ үз эшен туктатты.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "шулай булды"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ишеткәч"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Бааша"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "туктады"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "төзүдән"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рама"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "туктатты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үз эше"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "үз эше"
+    }
+  ],
+  "timestamp": "2026-10-05T02:11:52.721431489Z",
+  "model": "glm-5.3"
+}

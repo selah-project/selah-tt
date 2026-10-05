@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 19:8",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Йөрәк туплаучы үз җанын ярата, аң-фәһем саклаучы яхшылык табар.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "туплаучы"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ярата"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "үз җанын"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "саклаучы"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "аң-фәһем"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "табар өчен"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшылык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:30.381980222Z",
+  "model": "glm-5.3"
+}

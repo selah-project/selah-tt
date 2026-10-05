@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 89,
+  "translation": "Яһвә мәңге алкышлы. Амин, һәм амин.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "алкышлы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амин"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "һәм амин"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:28.096266959Z",
+  "model": "glm-5.3"
+}

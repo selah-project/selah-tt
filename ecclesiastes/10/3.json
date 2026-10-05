@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Юлда йөргәндә дә ахмакның йөрәге җитми, һәм ул барысына үзе ахмак икәнен әйтә.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "һәм шулай ук"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "юлда"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "ахмак"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "йөргәндә"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "аның йөрәге"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "җитми"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "һәм ул әйтә"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "барысына"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ахмак"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул үзе"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:01.794144149Z",
+  "model": "glm-5.3"
+}

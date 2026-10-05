@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Авраһам йөз яшьлек иде, аңа аның улы ⟨את⟩ Йицхак туганда.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Һәм Авраһам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яшь"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "туганда"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йицхак"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:00.245443826Z",
+  "model": "glm-5.3"
+}

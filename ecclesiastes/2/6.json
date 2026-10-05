@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Мин үземә су бассейннары ясадым, алардан агачлар үстерүче урманнарны сугару өчен.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ясадым"
+    },
+    {
+      "surface": "לי",
+      "gloss": "үземә"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "бассейннары"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "сугару өчен"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "יער",
+      "gloss": "урманнарны"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "үстерүче"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "агачлар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:34.988595387Z",
+  "model": "glm-5.3"
+}

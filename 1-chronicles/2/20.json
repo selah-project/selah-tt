@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "һәм Һур ⟨את⟩ Урине аталык итте, һәм Ури ⟨את⟩ Бецалелне аталык итте.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "һәм Һур"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "аталык итте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урине"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Ури"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "һәм Ури"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "аталык итте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бецалелне"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бецалел"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:31.427008442Z",
+  "model": "glm-5.3"
+}

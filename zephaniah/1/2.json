@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Җыеп алырмын, җыеп алырмын барысын да җир өсленән — Яһвә сүзе.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "җыеп алырмын"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "җыеп алырмын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысын"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "פני",
+      "gloss": "өсленән"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "җир"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:37:14.207260465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Ә мине — үз тугрылыгымда Син тотып торасың, һәм Үз йөзең алдына мәңгегә куясың.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ә мине"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "үз тугрылыгымда"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "totyp torasıñ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мине"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "һәм куясың"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Үз йөзең алдына"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгегә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:47:38.564477735Z",
+  "model": "glm-5.3"
+}

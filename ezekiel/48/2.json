@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Һәм Дан чиге өстендә: көнчыгыш ягыннан диңгез ягына кадәр — Ашер, бер.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Һәм өстендә"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чиге"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ягыннан"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "көнчыгыш"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ягына"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-05T00:25:29.853335512Z",
+  "model": "glm-5.3"
+}

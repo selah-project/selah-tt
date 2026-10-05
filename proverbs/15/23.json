@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Авызындагы җавап кешегә шатлык бирә, ә вакытында әйтелгән сүз — ни яхшы!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "шатлык"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "кешегә"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "җавапта"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "аның авызы"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ә сүз"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "вакытында"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:48.128138523Z",
+  "model": "glm-5.3"
+}

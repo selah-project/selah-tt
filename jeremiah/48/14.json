@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Ничек сез әйтәсез: без батырларбыз, сугыш өчен көчле ирләрбез?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "әйтәсез"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "батырлар"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "без"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "һәм...ирләре"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "көчле"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "сугыш өчен"
+    }
+  ],
+  "timestamp": "2026-10-05T00:03:14.782549601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Сине чит кеше мактасын, ә синең авызың түгел; ят кеше, ә синең иреннәрең түгел.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "мактасын"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чит кеше"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ә түгел"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "авызың"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ят кеше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ә түгел"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "иреннәрең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:12.432556003Z",
+  "model": "glm-5.3"
+}

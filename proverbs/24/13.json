@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Аша, улым, бал, чөнки ул яхшы, һәм кәрәз балы татылы аузыңа.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "аша"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "бал"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "һәм кәрәз балы"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "татылы"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "авызыңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:36.171826991Z",
+  "model": "glm-5.3"
+}

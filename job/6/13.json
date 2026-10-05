@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Әллә ярдәм миндә юк, һәм хикмәт миннән кыуылган?",
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "әллә"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "ярдәмем"
+    },
+    {
+      "surface": "בי",
+      "gloss": "миндә"
+    },
+    {
+      "surface": "ותשיה",
+      "gloss": "һәм хикмәт"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "кыуылган"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "миннән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:18:55.636225451Z",
+  "model": "glm-5.3"
+}

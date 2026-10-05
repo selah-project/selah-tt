@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Ишек үз төпкәгеннән әйләнгән кебек, ялкау да үз түшәгеннән әйләнә.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "ишек"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "әйләнә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "төпкәге"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "һәм ялкау"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "түшәге"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:05.381246224Z",
+  "model": "glm-5.3"
+}

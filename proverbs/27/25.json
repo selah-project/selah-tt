@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Печән ачылды, яшь үлән күренде, һәм таулар үләннәре җыелды.",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "ачылды"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "печән"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "һәм күренде"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "яшь үлән"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "һәм җыелды"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "үләннәре"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "таулар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:35.956385396Z",
+  "model": "glm-5.3"
+}

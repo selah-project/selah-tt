@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Әмма чисты дип игълан ителгәннән соң нетек тәндә таралса,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "әмма әгәр"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "таралса"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "таралса"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "нетек"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "тәндә"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "соң"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "аның чисты дип игълан ителүе"
+    }
+  ],
+  "timestamp": "2026-10-04T21:58:40.272052927Z",
+  "model": "glm-5.3"
+}

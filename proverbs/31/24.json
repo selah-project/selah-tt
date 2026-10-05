@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Ул киндер күлмәкләр эшләп сата һәм билбауларны сәүдәгәргә бирә.",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "киnder күлмәкләр"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "эшләп"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "сата"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "һәм билбауларны"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "бирә"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "сәүдәгәргә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:59.418385232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Патша сүзе булган урында хакимлек бар, һәм кем аңа: Нәрсә эшлисең? — дия ала?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "урында"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "хакимлек"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "һәм кем"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "дия ала"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Нәрсә"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "эшлисең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:51.693569470Z",
+  "model": "glm-5.3"
+}

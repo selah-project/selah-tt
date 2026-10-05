@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәр нәрсә өчен билгеле вакыт бар, һәм күк астында теләгән һәр нәрсә өчен үтә көн бар.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "һәр нәрсә өчен"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "билгеле вакыт"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "һәм үтә көн"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "һәр нәрсә өчен"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "теләгән нәрсә"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күк"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:21.144734608Z",
+  "model": "glm-5.3"
+}

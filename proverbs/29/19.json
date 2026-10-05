@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Сүзләр белән кол төзәтелми, чөнки ул аңлый, әмма җавап бирми.",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "сүзләр белән"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "төзәтелми"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "аңлый"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "әмма юк"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "җавап"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:22.809371609Z",
+  "model": "glm-5.3"
+}

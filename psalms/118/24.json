@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 118,
+  "translation": "Бу — Яһвә ясаган көн; шатланык һәм сөенәйк аның белән.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Бу"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ясаган"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "шатланык"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "һәм сөенәйк"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аның белән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:20.097446611Z",
+  "model": "glm-5.3"
+}

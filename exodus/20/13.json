@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Үтермә.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "үтермә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:20.147759634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Хикмәт сугыш коралларыннан яхшырак, ләкин бер гөнаһлы кеше күп яхшылыкны һәлак итә.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "яхшырак"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "коралларыннан"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "сугыш"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "ләкин … гөнаһлы кеше"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "һәлак итә"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "яхшылыкны"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "күп"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:16.017632290Z",
+  "model": "glm-5.3"
+}

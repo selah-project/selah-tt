@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Цадикларның теләге — фәкать яхшылык; явызларның өмете — ачуыту.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "теләге"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "цадикларның"
+    },
+    {
+      "surface": "אך",
+      "gloss": "фәкать"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшылык"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "өмете"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "явызларның"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ачуыту"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:28.159765976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Үзеңә Яһвәнең, Элоһимеңнең мәхбәре янына үзеңә ясаган башка төрле агачтан да Ашераны утыртма.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "утыртма"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "כל",
+      "gloss": "башка төрле"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "агачтан"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "мәхбәр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоһимеңнең"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ясаган"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:25:29.751038135Z",
+  "model": "glm-5.3"
+}

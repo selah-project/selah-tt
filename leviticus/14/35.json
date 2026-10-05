@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Өй хуҗасы килеп, коһенга әйтеп: өемдә бәлага охшаган берәр нәрсә күренә, дияр:",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аның"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "өй"
+    },
+    {
+      "surface": "והгיד",
+      "gloss": "әйтә"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "коһенга"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "бәлага охшаган"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "күренә"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "өйдә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:59:25.934633470Z",
+  "model": "glm-5.3"
+}

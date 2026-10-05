@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Бай кеше үз күзендә хәким, ә аңлы ярлы аны тикшереп чыгар.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "хәким"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "үз күзендә"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "бай"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ә ярлы"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "аңлы"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "аны тикшереп чыгар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:57.112959136Z",
+  "model": "glm-5.3"
+}

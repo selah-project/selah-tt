@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Ахмаклык уе — гөнаһ, һәм мыскыллаучы кешеләргә жирәнеч.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "уе"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ахмаклык"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "гөнаһ"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "һәм жирәнеч"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "кешеләргә"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "мыскыллаучы"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:52.036175996Z",
+  "model": "glm-5.3"
+}

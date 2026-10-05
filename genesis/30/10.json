@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм Ләйәнең көнлек хезмәтче кысы Зилпа Яаковка ул тудырды.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "көнлек хезмәтче кысы"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Ләйәнең"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковка"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:18.207088254Z",
+  "model": "glm-5.3"
+}

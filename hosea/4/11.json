@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Зина, һәм шәраб, һәм яңа шәраб йөрәкне алып китә.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "зина"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "һәм шәраб"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "һәм яңа шәраб"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алып китә"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәкне"
+    }
+  ],
+  "timestamp": "2026-10-05T00:26:12.067706871Z",
+  "model": "glm-5.3"
+}

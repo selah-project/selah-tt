@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Хөкем тәхетендә утырган патша күзе белән бөтен явызлыкны җилгә очыра.",
+  "tokens": [
+    {
+      "surface": "мלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "утырган"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тәхет"
+    },
+    {
+      "surface": "דין",
+      "gloss": "хөкем"
+    },
+    {
+      "surface": "מזרhe",
+      "gloss": "җилгә очыра"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "күзе белән"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "רע",
+      "gloss": "явызлыкны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:15.446304528Z",
+  "model": "glm-5.3"
+}

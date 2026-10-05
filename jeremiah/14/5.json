@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Чөнки кырда болан анасы да бала тудырды һәм ⟨аны⟩ ташлады, чөнки үлән булмады.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "болан анасы"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "кырда"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "бала тудырды"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "һәм ташлады"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булмады"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "үлән"
+    }
+  ],
+  "timestamp": "2026-10-04T23:51:18.083224405Z",
+  "model": "glm-5.3"
+}

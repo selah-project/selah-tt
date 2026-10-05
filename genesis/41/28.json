@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Бу ⟨ул⟩ минем Пароға әйткән сүзем: ни Элоһим кыла икәнен, ⟨את⟩ Паро аңа күрсәтте.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "⟨ул⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ни"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "мин әйткән"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ға"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ни"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кыла"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "күрсәтте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Паро"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-10-04T21:36:21.348744264Z",
+  "model": "glm-5.3"
+}

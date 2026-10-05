@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Факир үз якыны тарафыннан да күрә алмый, ә байны яратучылар күп.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "үз якыны тарафыннан"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "күрә алмый"
+    },
+    {
+      "surface": "רש",
+      "gloss": "факир"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ә яратучылар"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "байны"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "күп"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:32.401360082Z",
+  "model": "glm-5.3"
+}

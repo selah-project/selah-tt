@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Син якынайдың мин Сине чакырган көнне; Син әйттең: Курыкма.",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "якынайдың"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "мин Сине чакырган"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "Син әйттең"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "Курык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:09.048932290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 13:26",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм Мин дә итәгеңне йөзеңә кадәр тартып салдым, һәм оялулығың күренде.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Һәм …да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "ачтым"
+    },
+    {
+      "surface": "שוליך",
+      "gloss": "итәгең"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "йөзеңә"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "һәм күренде"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "оялулығың"
+    }
+  ],
+  "timestamp": "2026-10-04T23:51:15.497174990Z",
+  "model": "glm-5.3"
+}

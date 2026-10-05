@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Моше Йисраэл улларына Песахны үткәрергә әйтте.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кабарып"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "үткәрергә"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песахны"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:38.426794424Z",
+  "model": "glm-5.3"
+}

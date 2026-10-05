@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Нәрсә булган — ул яңадан булыр; нәрсә эшләнгән — ул яңадан эшләнер; һәм кояш астында яңа бер нәрсә дә юк.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "булган"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "һәм нәрсә"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "эшләнгән"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "эшләнер"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм юк"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бер нәрсә дә"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "яңа"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:13.097610840Z",
+  "model": "glm-5.3"
+}

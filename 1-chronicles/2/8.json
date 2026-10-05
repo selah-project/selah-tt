@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Эйтан улы: Аҙария.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм … улы"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Эйтан"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Аҙария"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:44.544034934Z",
+  "model": "glm-5.3"
+}

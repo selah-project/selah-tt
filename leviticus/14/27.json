@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 14:27",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "һәм каһин уң бармагы белән сул учындагы майдан Яһвә алдында җиде тапкыр сипәр.",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "һәм сипәр"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "бармагы белән"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "уң"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...дан"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ның"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендәге"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "учы"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "сул"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "тапкыр"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:59:34.369216373Z",
+  "model": "glm-5.3"
+}

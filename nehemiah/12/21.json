@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Хилкия өчен Хашавия, Йедая өчен Нэтанәл.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "Хилкия өчен"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавия"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "Йедая өчен"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нэтанәл"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:03.112458667Z",
+  "model": "glm-5.3"
+}

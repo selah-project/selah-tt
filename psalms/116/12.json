@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 116,
+  "translation": "Ни кайтарырмын Яһвәгә, миңа кылган барлык игелекләре өчен?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ни"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "кайтарырмын"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "игелекләре"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "миңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:19.774788489Z",
+  "model": "glm-5.3"
+}

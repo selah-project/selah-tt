@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Әгәр силәр арасыгызда пәйгамбәр яки төш күрүче торып, сиңа билге яки могҗиза бирсә,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "торып"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "арасыгызда"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пәйгамбәр"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "төш күрүче"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "төш"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "һәм бирсә"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "אות",
+      "gloss": "билге"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "могҗиза"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:52.460879466Z",
+  "model": "glm-5.3"
+}

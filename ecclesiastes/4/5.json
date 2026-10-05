@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Ахмак ⟨үзе⟩нең ⟨את⟩ кулларын кочаклый һәм ⟨את⟩ үз итен ашый.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "ахмак"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "кочаклый"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кулларын"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "кулларын"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "һәм ашый"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "итын"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "үз итен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:48.420914030Z",
+  "model": "glm-5.3"
+}

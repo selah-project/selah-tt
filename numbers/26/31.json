@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 26:31",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "һәм Ашриел — Ашриели нәселе; һәм Шехем — Шихми нәселе.",
+  "tokens": [
+    {
+      "surface": "ואשריאל",
+      "gloss": "һәм Ашриел"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "нәселе"
+    },
+    {
+      "surface": "האשראלי",
+      "gloss": "Ашриели"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "һәм Шехем"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "нәселе"
+    },
+    {
+      "surface": "השכמי",
+      "gloss": "Шихми"
+    }
+  ],
+  "timestamp": "2026-10-04T22:15:50.671738858Z",
+  "model": "glm-5.3"
+}

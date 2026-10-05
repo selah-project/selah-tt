@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Улым, әгәр дустың өчен гарантия булып китсәң, чит кешегә кул суксаң —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "гарантия булып китсәң"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "дустың өчен"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "кул суксаң"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "чит кешегә"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "алып"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:54.829382362Z",
+  "model": "glm-5.3"
+}

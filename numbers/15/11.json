@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Шулай эшләнер бер үгезгә, яки бер тәкәгә, яки сарыклардан бәрәнгә, яки кәҗәләргә.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "эшләнер"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "үгезгә"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "тәкәгә"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "бәрәнгә"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "сарыклардан"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "кәҗәләргә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:11:33.123837030Z",
+  "model": "glm-5.3"
+}

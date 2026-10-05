@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 27:8",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Йотам патша булганда йәше егерме биш иде, һәм ул он алты ел Йерушалаимда патшалык итте.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "йәше"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "иде"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булганда"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "патша"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "һәм он"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "алты"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшалык итте"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалаимда"
+    }
+  ],
+  "timestamp": "2026-10-05T02:13:51.334599122Z",
+  "model": "glm-5.3"
+}

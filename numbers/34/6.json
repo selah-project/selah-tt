@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Ә диңгез чиге булыр сезгә: Бөек диңгез һәм аның яры — бу булыр сезгә көнбатыш чиге.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "ә чик"
+    },
+    {
+      "surface": "ים",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "הים",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "Бөек"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "һәм чик"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чик"
+    },
+    {
+      "surface": "ים",
+      "gloss": "диңгез"
+    }
+  ],
+  "timestamp": "2026-10-04T22:18:42.920752320Z",
+  "model": "glm-5.3"
+}

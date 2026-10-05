@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Курку, чокыр һәм тозак — өстендә, и җирне яшәүче.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "Курку"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "һәм чокыр"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "һәм тозак"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "яшәүче"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    }
+  ],
+  "timestamp": "2026-10-04T23:34:37.229423548Z",
+  "model": "glm-5.3"
+}

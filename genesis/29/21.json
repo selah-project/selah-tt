@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм Яаков Лаванга әйтте: Хатынымны бир, чөнки көннәрем тулды, һәм мин аңа керермен.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "бир"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хатынымны"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "хатынымны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "тулды"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәрем"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "керермен"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:31.573324054Z",
+  "model": "glm-5.3"
+}

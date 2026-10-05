@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Урлаучы белән бүлешүче үз җанын күрә алмый: каргыш ишетә, ләкин әйтми.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "бүлешүче"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "урлаучы"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "күрә алмый"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "үз җанын"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "каргыш"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ишетә"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ләкин ... түгел"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "әйтми"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:49.571047388Z",
+  "model": "glm-5.3"
+}

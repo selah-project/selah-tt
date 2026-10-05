@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "бер алтын күгәрчен кашык, ун шекел авырлыгында, ыҫлау тулы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кашык"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "мלאה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ыҫлау"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:19.987344441Z",
+  "model": "glm-5.3"
+}

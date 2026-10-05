@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "⟨את⟩ бер диңгезне, һәм ⟨את⟩ астына ун ике үгезне.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бер диңгезне"
+    },
+    {
+      "surface": "הים",
+      "gloss": "диңгезне"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ун ике үгезне"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "үгезне"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "астына"
+    }
+  ],
+  "timestamp": "2026-10-05T02:07:07.369151160Z",
+  "model": "glm-5.3"
+}

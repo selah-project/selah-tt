@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Таршишка күчегез, кырыгыз, диңгез яры урнаучылары!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "күчегез"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "Таршишка"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "кырыгыз"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "урнаучылары"
+    },
+    {
+      "surface": "אי",
+      "gloss": "диңгез яры"
+    }
+  ],
+  "timestamp": "2026-10-04T23:34:29.691761531Z",
+  "model": "glm-5.3"
+}

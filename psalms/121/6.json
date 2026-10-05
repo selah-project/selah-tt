@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 121,
+  "translation": "Көндез кояш сине китәрмәс, һәм төнлә ай да.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "көндез"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "сине китәрмәс"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "һәм ай"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "төнлә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:12.763837681Z",
+  "model": "glm-5.3"
+}

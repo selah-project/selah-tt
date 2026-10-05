@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм ни өчен син Яһвәнең антын һәм сиңа әмер иткән боерыкны сакламадың?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "һәм ни өчен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "−мадың"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "сакла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ант"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ант"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "боерык"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "боерык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "бу"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "әмер иткән"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-04T23:09:27.708330156Z",
+  "model": "glm-5.3"
+}

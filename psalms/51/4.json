@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 51,
+  "translation": "Явызлыгымнан мине күп ю, һәм гөнаһымнан мине чистарт.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "күп"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "ю"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "явызлыгымнан"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "гөнаһымнан"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "чистарт"
+    }
+  ],
+  "timestamp": "2026-10-05T00:50:34.686035269Z",
+  "model": "glm-5.3"
+}

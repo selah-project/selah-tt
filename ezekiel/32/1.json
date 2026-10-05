@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 32:1",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм ун икенче елда, ун икенче айда, айның беренче көнендә Яһвә сүзе миңа булды, дип:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "елда"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "айда"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "беренче"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айның"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    }
+  ],
+  "timestamp": "2026-10-05T00:19:45.427194919Z",
+  "model": "glm-5.3"
+}

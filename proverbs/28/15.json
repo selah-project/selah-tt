@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Үркегән арыслан һәм аулаган аю — явыз хаким ярлы халык өстеннән.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "арыслан"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "үркегән"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "һәм аю"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "аулаган"
+    },
+    {
+      "surface": "משל",
+      "gloss": "хаким"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ярлы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:13.675575341Z",
+  "model": "glm-5.3"
+}

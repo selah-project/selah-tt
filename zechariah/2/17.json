@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 2:17",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Өнде, бар бөтен ит, Яһвә йөзеннән, чөнки ⟨ул⟩ үз изге торагыннан уянган.",
+  "tokens": [
+    {
+      "surface": "הס",
+      "gloss": "өнде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ит"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "йөзеннән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "נעור",
+      "gloss": "уянган"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "торагыннан"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "изге"
+    }
+  ],
+  "timestamp": "2026-10-05T00:37:34.193947311Z",
+  "model": "glm-5.3"
+}

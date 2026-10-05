@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "numbers 7:74",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бер алтын кашык, ун шекел авырлыгында, үтәләрендә тәмле хушбуй белән тулы:",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кашык"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "хушбуй"
+    }
+  ],
+  "timestamp": "2026-10-05T02:24:16.069491939Z",
+  "model": "glm-5.3"
+}

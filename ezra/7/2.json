@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Шаллумның улы, Цадокның улы, Аһитубның улы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллум"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Аһитуб"
+    }
+  ],
+  "timestamp": "2026-10-05T01:49:01.689597345Z",
+  "model": "glm-5.3"
+}

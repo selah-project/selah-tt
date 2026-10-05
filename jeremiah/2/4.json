@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Тыңлагыз, Яаков йорты, һәм Йисраэл йортының барлык гаиләләре, Яһвә сүзен!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Тыңлагыз"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорты"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм барлык"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "гаиләләре"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йортының"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-04T23:46:47.733926075Z",
+  "model": "glm-5.3"
+}

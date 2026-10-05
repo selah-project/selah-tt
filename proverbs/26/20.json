@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Агач бетсә, ут сүнә; һәм вәсвәсәче булмаса, талаш басыла.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "бетсә"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "агач"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "сүнә"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ут"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "һәм булмаса"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "вәсвәсәче"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "басыла"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "талаш"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:26.636004852Z",
+  "model": "glm-5.3"
+}

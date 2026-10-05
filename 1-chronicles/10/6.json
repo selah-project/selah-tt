@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Шаул, аның өч улы һәм аның бөтен йорты бергә үлделәр.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "үлде"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "һәм өч"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "аның уллары"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм бөтен"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "аның йорты"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бергә"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "үлделәр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:57.774811376Z",
+  "model": "glm-5.3"
+}

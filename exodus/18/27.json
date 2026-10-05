@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм Моше ⟨את⟩ каенасын озатты, һәм ул ⟨үз юлы белән⟩ үз иленә китте.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "һәм озатты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "каенасын"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "каенасы"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "һәм китте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨үз юлы белән⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "үз иленә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:52.543052176Z",
+  "model": "glm-5.3"
+}

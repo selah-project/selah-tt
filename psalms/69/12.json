@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 69,
+  "translation": "Һәм мин киемем итеп чүпрәк кидем, һәм аларга мәсәл булдым.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "һәм мин … бирдем"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "кияемне"
+    },
+    {
+      "surface": "שק",
+      "gloss": "чүпрәк"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "һәм булдым"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "мәсәл"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:53.697487776Z",
+  "model": "glm-5.3"
+}

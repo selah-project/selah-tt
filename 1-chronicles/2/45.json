@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Шаммайның улы Маон ⟨иде⟩, һәм Маон Бейт-Цурның атасы ⟨иде⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "һәм улы"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммай"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Маон"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "һәм Маон"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цур"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:30.723935947Z",
+  "model": "glm-5.3"
+}

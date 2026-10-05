@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Иддо, Гиннетон, Авийаһ.",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "Иддо"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "Гиннетон"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авийаһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:54:52.557406593Z",
+  "model": "glm-5.3"
+}

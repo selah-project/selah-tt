@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Суда йөз йөзгә ⟨чагылдыра⟩ торган кебек, шулай кешенең йөрәге кешегә ⟨чагылдыра⟩.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "суда"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "йөзгә"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәге"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "кешегә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:31.786959240Z",
+  "model": "glm-5.3"
+}

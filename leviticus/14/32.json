@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Бу — тән чире (цараат) булган кешенең Торасы, аның кулы чистаруы өчен җитмәгәннең.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Торасы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анда"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "шеш"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "җитми"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "аның кулы"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "аның чистаруына"
+    }
+  ],
+  "timestamp": "2026-10-04T21:58:37.602435913Z",
+  "model": "glm-5.3"
+}

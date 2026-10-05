@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Һәм Яһвәнең сүзе миңа килде, болай дип:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм ... булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "болай дип"
+    }
+  ],
+  "timestamp": "2026-10-05T00:21:21.428240604Z",
+  "model": "glm-5.3"
+}

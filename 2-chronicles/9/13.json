@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Шеломога бер елда килгән алтынның авырлыгы алты йөз һәм алтмыш һәм алты талант алтын булды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "авырлыгы"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтынның"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "килгән"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килгән"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломога"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "елда"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "һәм алтмыш"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "һәм алты"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "талант"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    }
+  ],
+  "timestamp": "2026-10-05T02:08:57.774346Z",
+  "model": "glm-5.3"
+}

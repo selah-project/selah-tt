@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 71,
+  "translation": "Картлык чагында мине ташлама, көчем беткәндә мине калдырма.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "ташлама"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "чагында"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "картлык"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "беткәндә"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "көчем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "калдырма"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:55.618841605Z",
+  "model": "glm-5.3"
+}

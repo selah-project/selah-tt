@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 102,
+  "translation": "Ул юлда көчемне басты, көннәремне кыскартты.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "басты"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "юлда"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "көчемне"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "кыскартты"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәремне"
+    }
+  ],
+  "timestamp": "2026-10-05T00:58:54.707266179Z",
+  "model": "glm-5.3"
+}

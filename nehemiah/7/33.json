@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Невоның башка кешеләре — илле ике.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "кешеләре"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Невоның"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ике"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:10.640731883Z",
+  "model": "glm-5.3"
+}

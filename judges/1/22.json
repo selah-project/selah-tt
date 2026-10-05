@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Йосеф йорты, алар да, Бет-Элгә менделәр; һәм Яһвә алар белән ⟨иде⟩.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "һәм менделәр"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорты"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "һәм Яһвә"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "алар белән"
+    }
+  ],
+  "timestamp": "2026-10-04T22:39:24.310933170Z",
+  "model": "glm-5.3"
+}

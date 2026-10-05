@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Һәм патша Тораның сүзләрен ⟨את⟩ ишеткәч, үз киемнәрен ⟨את⟩ ертты.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ишеткәч"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сүзләрен"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сүзләрен"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тораның"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "һәм ертты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "киемнәрен"
+    },
+    {
+      "surface": "вגדיו",
+      "gloss": "үз киемнәрен"
+    }
+  ],
+  "timestamp": "2026-10-05T02:18:15.169094028Z",
+  "model": "glm-5.3"
+}

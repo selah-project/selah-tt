@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Һәм Хизкияһу йөзен диварга борды һәм Яһвәгә дога кылды.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "борды"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияһу"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "йөзен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "диварга"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "дога кылды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәгә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:38:29.746800672Z",
+  "model": "glm-5.3"
+}

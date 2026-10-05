@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм син аларны ике рәт итеп куярсың, рәттә алты икмәк, саф өстәл өстенә, Яһвә алдына.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "һәм куярсың"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "аларны (икмәкләрне)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "рәт"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "рәттә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "өстәл"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "саф"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:03:44.921643766Z",
+  "model": "glm-5.3"
+}

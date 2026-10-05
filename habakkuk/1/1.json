@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Йөк — Хәбәккүк пәйгамбәр күргән авырлык.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "Йөк"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "күргән"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Хәбәккүк"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пәйгамбәр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:35:52.124619041Z",
+  "model": "glm-5.3"
+}

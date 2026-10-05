@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "һәм ул ⟨את⟩ керубларны алтын белән каплады.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "каплады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "керубларны"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "керубларны"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    }
+  ],
+  "timestamp": "2026-10-04T23:10:57.172842172Z",
+  "model": "glm-5.3"
+}

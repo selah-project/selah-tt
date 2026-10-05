@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 43,
+  "translation": "Шулай ди Яһвә, диңгездә юл бирүче һәм көчле суларда сукмак салучы:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "бирүче"
+    },
+    {
+      "surface": "בים",
+      "gloss": "диңгездә"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юл"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "һәм суларда"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "көчле"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "сукмак"
+    }
+  ],
+  "timestamp": "2026-10-04T23:39:57.355624046Z",
+  "model": "glm-5.3"
+}

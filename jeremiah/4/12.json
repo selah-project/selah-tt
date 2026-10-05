@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Болардан тулы рух Миңа килә; хәзер Мин дә ⟨את⟩ аларга каршы хөкемнәр әйтергә.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "Болардан"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Миңа"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "хәзер"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дә"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "әйтергә"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "хөкемнәр"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "алар"
+    }
+  ],
+  "timestamp": "2026-10-04T23:47:57.079425830Z",
+  "model": "glm-5.3"
+}

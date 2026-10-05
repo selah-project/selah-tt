@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Бәрәннән тәрбияне төшермә, чөнки аны таяк белән суксаң — ул үлмәс.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "төшермә"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "бәрәннән"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тәрбияне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "аны суксаң"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таяк белән"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "үлмәс"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:31.960929397Z",
+  "model": "glm-5.3"
+}

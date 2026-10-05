@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Гад кабиләсеннән — Эльясаф, Деуел улы.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "Гад кабиләсеннән"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Эльясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуел"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:45.696113712Z",
+  "model": "glm-5.3"
+}

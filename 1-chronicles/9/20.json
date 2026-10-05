@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "һәм Пинехас, Элазар улы, элек алар өстеннән башлык булды; Яһвә аның белән ⟨иде⟩.",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "һәм Пинехас"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "башлык"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "алар өстеннән"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "элек"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "аның белән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:59.019416752Z",
+  "model": "glm-5.3"
+}

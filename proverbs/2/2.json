@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "колагыңны хикмәткә төбәсәң, йөрәгеңне аңлауга бөгәсең,",
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "төбәсәң"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "хикмәткә"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "колагыңны"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "бөгәсең"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "йөрәгеңне"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "аңлауга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:50.734923141Z",
+  "model": "glm-5.3"
+}

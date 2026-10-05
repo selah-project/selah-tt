@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 72,
+  "translation": "Давиднең, Йишай улының, догалары тәмам булды.",
+  "tokens": [
+    {
+      "surface": "кלו",
+      "gloss": "тәмам булды"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "догалары"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиднең"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Йишай"
+    }
+  ],
+  "timestamp": "2026-10-05T00:53:36.409023501Z",
+  "model": "glm-5.3"
+}

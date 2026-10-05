@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Һәм <strong>Куш<\/strong> өмете вә Мицраим даны өчен куркычлар һәм оялычаклар",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "куркычлар"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "оялычаклар"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "өмете"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "вә өчен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "даны"
+    }
+  ],
+  "timestamp": "2026-10-04T23:32:38.623857631Z",
+  "model": "glm-5.3"
+}

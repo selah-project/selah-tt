@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Тораны Моше безгә боерган, ул Йааков җәмгыятенең мирасы.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Тораны"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "боерган"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "мирасы"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "җәмгыятенең"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Йааков"
+    }
+  ],
+  "timestamp": "2026-10-05T02:26:56.607484880Z",
+  "model": "glm-5.3"
+}

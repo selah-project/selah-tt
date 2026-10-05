@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Азгад балалары: ике мең өч йөз игерме ике.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Азгад"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ике мең"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "игерме"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "һәм ике"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:10.377861875Z",
+  "model": "glm-5.3"
+}

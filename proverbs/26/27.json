@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Чокыр казучы аның эченә егылыр, һәм таш төргән кешегә ул кире кайтыр.",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "казучы"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "чокыр"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аның эченә"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "егылыр"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "һәм таш төргән"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "кире кайтыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:31.945333748Z",
+  "model": "glm-5.3"
+}

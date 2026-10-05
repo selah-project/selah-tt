@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 21:21",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм ул Паран чүлендә яшәде, һәм аның әнисе аңа Мицраим иленнән хатын алды.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чүлендә"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Паран"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "әнисе"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "иленнән"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:23.249569842Z",
+  "model": "glm-5.3"
+}

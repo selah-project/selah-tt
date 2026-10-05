@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Яһвә Мошега боерганча, Аһарон аны шаһитлек алдына саклануга куйды.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "…нча"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "боерган"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "һәм куйды"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "шаһитлек"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "саклануга"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:46.030837103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "һәм хөкем тигезлек иле өстенә килә — Һолон өстенә, Яһца өстенә һәм Мофаат өстенә.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "һәм хөкем"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "иленә"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "тигезлек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Һолон"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм өстенә"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Яһца"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "һәм өстенә"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "Мофаат"
+    }
+  ],
+  "timestamp": "2026-10-05T00:03:27.993019832Z",
+  "model": "glm-5.3"
+}

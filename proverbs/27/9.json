@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Май һәм әтир йөрәкне шатландыра, һәм дустың татлылыгы — җанның ⟨киңәше⟩.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "һәм әтир"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "шатландыра"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәкне"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "һәм татлылыгы"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "дустың"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "киңәш"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:30.691734407Z",
+  "model": "glm-5.3"
+}

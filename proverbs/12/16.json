@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Ахмакның ачуы шул ук көнне билгеле була, ә хәйләкәр оятны яшерә.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "ахмакның"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "билгеле була"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "ачуы"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ә яшерә"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "оятны"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "хәйләкәр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:54.926301274Z",
+  "model": "glm-5.3"
+}

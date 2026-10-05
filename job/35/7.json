@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 35,
+  "translation": "Әгәр син цедек булсаң — Аңа ни бирерсең, яки кулыңнан нәрсә алыр?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "цедек булсаң"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бирерсең"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Аңа"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "кулыңнан"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:26:50.102289591Z",
+  "model": "glm-5.3"
+}

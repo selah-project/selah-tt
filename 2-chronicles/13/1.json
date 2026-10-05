@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Яравәм патшалыгының унсигезенче елында Абыя Йаһүдә өстеннән патша булды.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "елында"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "сигез"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яравәм"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "патша булды"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Абыя"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йаһүдә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:11:10.896572478Z",
+  "model": "glm-5.3"
+}

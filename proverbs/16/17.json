@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 16:17",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Турылар юлы — ямнан читләшү; үз җанын саклаучы үз юлын саклый.",
+  "tokens": [
+    {
+      "surface": "מסלת",
+      "gloss": "юлы"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "турыларның"
+    },
+    {
+      "surface": "סור",
+      "gloss": "читләшү"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ямнан"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "саклаучы"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "үз җанын"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "саклый"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "үз юлын"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:15.980846379Z",
+  "model": "glm-5.3"
+}

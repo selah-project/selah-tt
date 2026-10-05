@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Тимер тимерне кайрый, һәм кеше үз дустының йөзен кайрый.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "тимер"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "тимерне"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "кайрый"
+    },
+    {
+      "surface": "ו איש",
+      "gloss": "һәм кеше"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "кайрый"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзен"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "үз дустының"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:31.786571310Z",
+  "model": "glm-5.3"
+}

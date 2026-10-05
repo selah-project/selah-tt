@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Яхшылык урынына начарлык кайтаручының өеннән начарлык китмәс.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "кайтаручының"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "начарлык"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "урынына"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "яхшылык"
+    },
+    {
+      "surface": "לא",
+      "gloss": "китмәс"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": ""
+    },
+    {
+      "surface": "רעה",
+      "gloss": "начарлык"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "өеннән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:58.926421826Z",
+  "model": "glm-5.3"
+}

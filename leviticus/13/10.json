@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм каһин карый, һәм менә тиредә ак шеш, һәм ул чәчне акка әйләндергән, һәм шеш эчендә тере ит бар икән,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "карый"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "шеш"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ак"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "тиредә"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "әйләндергән"
+    },
+    {
+      "surface": "שער",
+      "gloss": "чәчне"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "акка"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ит"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тере"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "шеш эчендә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:59:03.468125742Z",
+  "model": "glm-5.3"
+}

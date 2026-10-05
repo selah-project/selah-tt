@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм Минем боерыкларны саклагыз һәм аларны үтәгез. Мин Яһвә.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "саклагыз"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "боерыкларымны"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "үтәгез"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларны"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:02:30.669591825Z",
+  "model": "glm-5.3"
+}

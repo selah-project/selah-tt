@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Яһвәдән шул вакытта ярлыкадым сорап, әйтеп:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "ярлыкадым сорап"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Яһвәдән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәдән"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "вакытта"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:41.751670750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 94,
+  "translation": "Кем миңа явызларга каршы торыр? Кем миңа җинәят эшләүчеләргә каршы басыр?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кем"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "торыр"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "עם",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "явызларга"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кем"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "басыр"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "עם",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "эшләүчеләргә"
+    },
+    {
+      "surface": "און",
+      "gloss": "җинәят"
+    }
+  ],
+  "timestamp": "2026-10-05T00:58:15.469293441Z",
+  "model": "glm-5.3"
+}

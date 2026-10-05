@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 46,
+  "translation": "Яһвә Цеваот безнең белән, Яаковның Элоһимы безгә биек кая. Селах.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "безнең белән"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "биек кая"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһимы"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковның"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:50.994345895Z",
+  "model": "glm-5.3"
+}

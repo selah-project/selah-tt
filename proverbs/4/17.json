@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Чөнки алар явызлык икмәге белән тукланалар һәм җәберләү шәрабын эчәләр.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "тукланалар"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "һәм шәрабын"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "җәберләү"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "эчәләр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:42.404513893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 6:35",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Ә болар — Аһаронның уллары: Эләзар аның улы, Пинехас аның улы, Авишуа аның улы.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ә болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһаронның"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Эләзар"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинехас"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Авишуа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:12.635822942Z",
+  "model": "glm-5.3"
+}

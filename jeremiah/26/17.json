@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм җирнең картларыннан ирләр торып, бөтен җыен халкына әйттеләр, дип:",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "торып"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ирләр"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "картларыннан"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирнең"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "әйттеләр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "карап"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "җыен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халкына"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    }
+  ],
+  "timestamp": "2026-10-05T02:36:24.161318177Z",
+  "model": "glm-5.3"
+}

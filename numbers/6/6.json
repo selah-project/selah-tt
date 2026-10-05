@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Барлык көннәрендә, ул Яһвәгә багышланган чагында, үле җан иясенең янына килмәс.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәрендә"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "ул багышланган"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "על",
+      "gloss": "янына"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "מת",
+      "gloss": "үле"
+    },
+    {
+      "surface": "לא",
+      "gloss": "−ма"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "килмәс"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:29.787055117Z",
+  "model": "glm-5.3"
+}

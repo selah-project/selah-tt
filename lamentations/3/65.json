@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Аларга йөрәк пәрдәсе бирәрсең, синең каргышыңны аларга.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "бирәрсең"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "пәрдәсе"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәкнең"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "синең каргышың"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:31:53.672081787Z",
+  "model": "glm-5.3"
+}

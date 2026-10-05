@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 104,
+  "translation": "Анда кошлар оя коралар; ләкләк өчен наратларда аның өе.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "анда"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨анда⟩"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "кошлар"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "оя коралар"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "ләкләк"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "наратларда"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "аның өе"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:30.121407618Z",
+  "model": "glm-5.3"
+}

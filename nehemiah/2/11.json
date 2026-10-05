@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм мин килдем Йерушалаимга, һәм анда өч көн булдым.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "килдем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...га"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалаим"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "булдым"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "өч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:51:34.712137899Z",
+  "model": "glm-5.3"
+}

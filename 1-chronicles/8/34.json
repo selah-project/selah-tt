@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Йеһонатанның улы — Мерив-Баал, һәм Мерив-Баал ⟨את⟩ Миһканы тудырды.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "һәм улы"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йеһонатанның"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Мерив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "һәм Мерив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Миһканы"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миһка"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:04.456053550Z",
+  "model": "glm-5.3"
+}

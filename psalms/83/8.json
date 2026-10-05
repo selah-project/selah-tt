@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 83,
+  "translation": "Гебал, һәм Аммон, һәм Амалек, Филистим Цор яшәүчеләре белән.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Гебал"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "һәм Аммон"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "һәм Амалек"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Филистим"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "яшәүчеләре"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цор"
+    }
+  ],
+  "timestamp": "2026-10-05T00:56:03.381600579Z",
+  "model": "glm-5.3"
+}

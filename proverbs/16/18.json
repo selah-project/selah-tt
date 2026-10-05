@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәлакәт алдыннан — горурлык, һәм аунаш алдыннан — югары рух.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "алдыннан"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "һәлакәт"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "горурлык"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "һәм алдыннан"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "аунаш"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "югары"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:15.981095872Z",
+  "model": "glm-5.3"
+}

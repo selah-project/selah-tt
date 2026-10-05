@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Чөнки якын көн, һәм Яһвәнең көне якын: болытлы көн, халыклар вакыты булыр.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "якын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "һәм якын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көне"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "болытлы"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вакыты"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "халыклар"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:18:31.430083375Z",
+  "model": "glm-5.3"
+}

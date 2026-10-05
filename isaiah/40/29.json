@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 40:29",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Яһвә аруыганга көч бирә, һәм көче булмаганга Әсәрне арттыра.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "бирә"
+    },
+    {
+      "surface": "ליעף",
+      "gloss": "аруыганга"
+    },
+    {
+      "surface": "כח",
+      "gloss": "көч"
+    },
+    {
+      "surface": "ולאין",
+      "gloss": "һәм булмаганга"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "көче"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "Әсәрне"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "арттыра"
+    }
+  ],
+  "timestamp": "2026-10-04T23:40:12.100023324Z",
+  "model": "glm-5.3"
+}

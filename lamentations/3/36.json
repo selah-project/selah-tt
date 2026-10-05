@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "хакны бозарга кешене аның дәгъвасында — Адонай моны күрмәде.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "хакны бозарга"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешене"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "аның дәгъвасында"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрмәде"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:17.332595892Z",
+  "model": "glm-5.3"
+}

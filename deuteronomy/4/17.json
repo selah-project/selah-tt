@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "һәм кайбер җирдәге терлекнең сурәтен, кайбер күктә очучы канатлы кошның сурәтен",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "сурәтен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кайбер"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "терлекнең"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "җирдәге"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": ""
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "сурәтен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "кайбер"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "кошның"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "канатлы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "очучы"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": ""
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "күктә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:21:42.098285318Z",
+  "model": "glm-5.3"
+}

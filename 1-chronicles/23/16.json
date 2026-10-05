@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Гершомның уллары: Шевуэл — башлык.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершомның"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "Шевуэл"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "башлык"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:30.699591813Z",
+  "model": "glm-5.3"
+}

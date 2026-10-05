@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "һәм Дибон өстенә, Небо өстенә һәм Бейт-Дивлатайим өстенә.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "һәм өстенә"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Дибон"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "һәм өстенә"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Небо"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "һәм өстенә"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "Дивлатайим"
+    }
+  ],
+  "timestamp": "2026-10-05T00:03:27.993286299Z",
+  "model": "glm-5.3"
+}

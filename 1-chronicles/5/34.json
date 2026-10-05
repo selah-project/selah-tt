@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Аһитуб ⟨את⟩ Цадокны туды, һәм Цадок ⟨את⟩ Аһимацны туды.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "һәм Аһитуб"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цадокны"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадокны"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "һәм Цадок"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аһимацны"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Аһимацны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:30.493547697Z",
+  "model": "glm-5.3"
+}

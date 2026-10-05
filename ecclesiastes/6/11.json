@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Чөнки сүзләр күп, алар һәвәлне арттыра; кешегә нимә артык?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "сүзләр"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "күп"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "арттыра"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "һәвәлне"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нимә"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "артык"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "кешегә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:13.256734701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм мин һикмәт өйрәнмәдем, изгеләрне белүне мин беләм.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "һәм... түгел"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "өйрәнмәдем"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "һикмәт"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "белүне"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "изгеләрнең"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "мин беләм"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:42.596168454Z",
+  "model": "glm-5.3"
+}

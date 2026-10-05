@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Лемехнең бөтен көннәре җиде йөз җитмеш җиде ел булды, һәм ул үлде.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәре"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемехнең"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "һәм җитмеш"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "һәм җиде"
+    },
+    {
+      "surface": "мאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үлде"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:57.223656017Z",
+  "model": "glm-5.3"
+}

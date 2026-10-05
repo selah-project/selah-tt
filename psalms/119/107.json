@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Бик күп изелдем, и Яһвә; Сүзең буенча мине терелт.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "изелдем"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ки"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик күп"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "терелт"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Сүзең буенча"
+    }
+  ],
+  "timestamp": "2026-10-05T01:03:09.877343776Z",
+  "model": "glm-5.3"
+}

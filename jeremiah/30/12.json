@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Чөнки шулай ди Яһвә: төзәлмәс синенг сынуыг, авыр синенг бәлагең.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "төзәлмәс"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "сынуыг"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "авыр"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "бәлагең"
+    }
+  ],
+  "timestamp": "2026-10-04T23:56:58.202042829Z",
+  "model": "glm-5.3"
+}

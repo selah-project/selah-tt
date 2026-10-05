@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Урия һитти, Завад, Аһлай улы.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "һитти"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Завад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Аһлай"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:59.996267503Z",
+  "model": "glm-5.3"
+}

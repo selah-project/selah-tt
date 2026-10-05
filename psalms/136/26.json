@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 136,
+  "translation": "Күк Эле шөкер итегез, чөнки аның хеседе мәңге.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "шөкер итегез"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Элгә"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күк"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "аның хеседе"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:19.099217151Z",
+  "model": "glm-5.3"
+}

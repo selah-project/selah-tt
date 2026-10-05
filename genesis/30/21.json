@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Аннан соң ул кыз тудырды һәм ⟨את⟩ аның исемен Дина дип атады.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "антан соң"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кыз"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "дип атады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аның исемен"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "аның исемен"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Дина"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:45.223846319Z",
+  "model": "glm-5.3"
+}

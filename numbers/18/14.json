@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Бар тыелган нәрсә Йисраэлдә синке булыр.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "тыелган нәрсә"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлдә"
+    },
+    {
+      "surface": "לך",
+      "gloss": "синка"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:12:40.127205614Z",
+  "model": "glm-5.3"
+}

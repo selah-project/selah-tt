@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Әгәр ир кешедән аның орлыгы чыкса, ул суда ⟨את⟩ бөтен тәнен юар һәм кичкә кадәр нәҗес булыр.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ир кеше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Әгәр"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "чыкса"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "שכбת",
+      "gloss": "яту"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "орлыгы"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "юар"
+    },
+    {
+      "surface": "במים",
+      "gloss": "суда"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен тәнен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "тәнен"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "нәҗес булыр"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "кичкә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:01:00.221695872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ул үз колчанының улларын минем бөерләремә кертте.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "кертте"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "минем бөерләремә"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларын"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "үз колчанының"
+    }
+  ],
+  "timestamp": "2026-10-05T01:31:59.999952929Z",
+  "model": "glm-5.3"
+}

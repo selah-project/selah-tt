@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Бәхетле көтүче һәм мең өч йөз утыз биш көнгә ирешүче.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "бәхетле"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "көтүче"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "ирешүче"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "көнгә"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "утыз"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "биш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:45:29.186669252Z",
+  "model": "glm-5.3"
+}

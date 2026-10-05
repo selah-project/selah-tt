@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Йетур, Нафиш һәм Җедма. Болар — Йишмаэл уллары.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "Йетур"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Нафиш"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "һәм Җедма"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Болар"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨алар⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Йишмаэл"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:03.753523384Z",
+  "model": "glm-5.3"
+}

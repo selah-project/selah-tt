@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Тирцә патшасы — бер. Барлык патшалар — отыз бер.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Тирцә"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "патшалар"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отыз"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "һәм бер"
+    }
+  ],
+  "timestamp": "2026-10-04T22:35:17.388691735Z",
+  "model": "glm-5.3"
+}

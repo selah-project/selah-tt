@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Хамның уллары: Куш, Мицраим, Пут һәм Кенаан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "Пут"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:39.995465494Z",
+  "model": "glm-5.3"
+}

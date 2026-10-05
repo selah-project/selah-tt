@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Нух өч улы тудырды: ⟨את⟩ Шемны, ⟨את⟩ Хамны һәм ⟨את⟩ Йафетны.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нух"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "өч"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "улы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шемны"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хамны"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Йафетны"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Йафет"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:09.159263823Z",
+  "model": "glm-5.3"
+}

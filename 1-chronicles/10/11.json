@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм бөтен Явеш-Гилгад ишетте ⟨את⟩ барысын да, нәрсә кылган Плиштим Шаулга.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ишетте"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Явеш"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилгад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "барысын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "кылган"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:33.937008001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Шул көннәрдә мин, Даниел, өч атна көн буйлап матәм тоттым.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "көннәрдә"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "шул"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "булдым"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "матәм тоттым"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "өч"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "атна"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    }
+  ],
+  "timestamp": "2026-10-05T01:44:45.409055160Z",
+  "model": "glm-5.3"
+}

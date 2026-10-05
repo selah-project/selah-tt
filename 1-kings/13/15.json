@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм ул аңа әйтте: Минем белән өйгә бар һәм икмәк ашa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм ул әйтте"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ минем белән"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "өйгә"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "һәм аша"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк"
+    }
+  ],
+  "timestamp": "2026-10-04T23:13:42.476139091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм Бейт-Элдан Лузага чыкты һәм аркилеләр чигеннән Атаротка узды.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Бейт-Элдан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "Лузага"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "узды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨acker⟩"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чигеннән"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "аркилеләр"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "Атаротка"
+    }
+  ],
+  "timestamp": "2026-10-04T22:37:02.857237549Z",
+  "model": "glm-5.3"
+}

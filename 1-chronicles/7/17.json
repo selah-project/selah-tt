@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Уламның уллары: Бедан. Болар Гилгадның уллары, ул Махирның улы, ул Менашшенең улы.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "Уламның"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Бедан"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилгадның"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Махирның"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашшенең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:35.731651553Z",
+  "model": "glm-5.3"
+}

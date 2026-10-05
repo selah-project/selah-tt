@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Әмма аның баш чәче, кырылган булган кебек, үсә башлады.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "башлады"
+    },
+    {
+      "surface": "שער",
+      "gloss": "чәч"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "аның баш"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "үсәргә"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кебек"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "кырылган булган"
+    }
+  ],
+  "timestamp": "2026-10-04T22:45:49.893879745Z",
+  "model": "glm-5.3"
+}

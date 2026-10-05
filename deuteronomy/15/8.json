@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Әйе, аңа кулыңны бөтенләй ачарга, һәм җитмәгән нәрсәсе өчен аңа барыннан да бурычка бирергә.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "әйе"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "бөтенләй"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ачарга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кулларыңны"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "кулларыңны"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "һәм бурычка"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "бирергә"
+    },
+    {
+      "surface": "די",
+      "gloss": "җитәрлек"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "җитмәгән нәрсәсе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "җитә"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T22:25:08.532888481Z",
+  "model": "glm-5.3"
+}

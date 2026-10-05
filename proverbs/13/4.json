@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Ялкауның җаны теләр, ләкин ⟨юк⟩; ә тырычларның җаны семезләнер.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "теләр"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ләкин ⟨юк⟩"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "җаны"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ялкауның"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ә җаны"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "тырычларның"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "семезләнер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:38.299607180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм Билгам Элоһимга әйтте: Балак, Циппор улы, Моаб патшасы миңа җибәрде:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билгам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Циппор"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "җибәрде"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    }
+  ],
+  "timestamp": "2026-10-04T22:13:53.714246301Z",
+  "model": "glm-5.3"
+}

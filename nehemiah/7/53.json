@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бакбук уллары, Һакупа уллары, Һарһур уллары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "Бакбук"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "Һакупа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "Һарһур"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:19.544673754Z",
+  "model": "glm-5.3"
+}

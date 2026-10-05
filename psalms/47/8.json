@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 47,
+  "translation": "Чөнки бөтен җирнең патшасы — Элоһим ⟨ул⟩; аңлы булып җырлагыз.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирнең"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "җырлагыз"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "аңлы булып"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:54.407122734Z",
+  "model": "glm-5.3"
+}

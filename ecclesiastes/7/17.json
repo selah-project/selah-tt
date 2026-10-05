@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бик явыз булма, һәм ахмак булма: ни өчен үз вакытыңнан алда үләсең?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "булма"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "бик"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм булма"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бул"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ахмак"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ни өчен"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "үләсең"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "…дан алда"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "үз вакытың"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:57.472789974Z",
+  "model": "glm-5.3"
+}

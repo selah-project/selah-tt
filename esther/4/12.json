@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм алар Мордахайга Эстернең ⟨את⟩ сүзләрен әйттеләр.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "әйттеләр"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Мордахайга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сүзләрен"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сүзләрен"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстернең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:37:03.784814941Z",
+  "model": "glm-5.3"
+}

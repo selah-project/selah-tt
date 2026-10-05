@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Синең өеңдә эфа һәм эфа, зур һәм кечкенә, булмасын.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "булмасын"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "синең"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "өеңдә"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "һәм эфа"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "зур"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "һәм кечкенә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:18.148067447Z",
+  "model": "glm-5.3"
+}

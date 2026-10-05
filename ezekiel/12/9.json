@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Адам улы, Йисраэл өе, буйсынмас өе сиңа әйтмәдеме: син нәрсә эшлисең?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "түгелме"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "әйтмәдеме"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өе"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өе"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "буйсынмас"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшлисең"
+    }
+  ],
+  "timestamp": "2026-10-05T00:09:34.809582479Z",
+  "model": "glm-5.3"
+}

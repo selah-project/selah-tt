@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Югарының авызыннан явызлык һәм яхшылык чыгармый ⟨мe⟩?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "авызыннан"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Югарының"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "чыгарылмый"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "һәм яхшылык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:31:54.619870106Z",
+  "model": "glm-5.3"
+}

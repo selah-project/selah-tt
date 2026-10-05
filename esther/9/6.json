@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Шушан кальгасендә яһүдиләр биш йөз ирне үтереп юк иткәннәр.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Шушанда"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "кальгасендә"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "үтереп"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "яһүдиләр"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "юк иткәннәр"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ир"
+    }
+  ],
+  "timestamp": "2026-10-05T01:38:42.168496708Z",
+  "model": "glm-5.3"
+}

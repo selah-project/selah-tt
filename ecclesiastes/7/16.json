@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бик гадел булма, һәм бик зирәк булып күренмә: ни өчен үзеңне бушка җимерәсең?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "булма"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бул"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гадел"
+    },
+    {
+      "surface": "הרбה",
+      "gloss": "бик"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм булма"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "зирәк булып күренмә"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "бик"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ни өчен"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "үзеңне җимерәсең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:39.435619837Z",
+  "model": "glm-5.3"
+}

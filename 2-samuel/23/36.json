@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Йигал Натан улы, Цовалыл; Бани гадлы.",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "Йигал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "Цовалыл"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "гадлы"
+    }
+  ],
+  "timestamp": "2026-10-04T23:07:24.855169860Z",
+  "model": "glm-5.3"
+}

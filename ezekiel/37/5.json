@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 37:5",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Шулай диде Адонай Яһвә бу сөякләргә: Менә Мин сезгә рух кертәм, һәм сез яшәрсез.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לעצמות",
+      "gloss": "сөякләргә"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Менә"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "кертәм"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "яшәрсез"
+    }
+  ],
+  "timestamp": "2026-10-05T00:21:30.841005261Z",
+  "model": "glm-5.3"
+}

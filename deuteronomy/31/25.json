@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Моше Ләвиләргә — Яһвә килешүе сандыгын ташучыларга — ⟨את⟩ бойрык бирде һәм әйтте:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "бойрык бирде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ләвиләргә"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Ләвиләр"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ташучылар"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандык"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "килешү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтте"
+    }
+  ],
+  "timestamp": "2026-10-04T22:31:11.802466262Z",
+  "model": "glm-5.3"
+}

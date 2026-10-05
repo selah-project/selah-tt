@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 42,
+  "translation": "Һәм ун көн үткәч, Яһвә сүзе Йирмәяһуга килде.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "үткәч ахыры"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ун"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмәяһу"
+    }
+  ],
+  "timestamp": "2026-10-05T00:01:49.831179435Z",
+  "model": "glm-5.3"
+}

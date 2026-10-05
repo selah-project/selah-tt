@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 13:22",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм Маноаһ үз хатынына әйтте: Үләбез без, чөнки Элоһимне күрдек.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Маноаһ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "үз хатынына"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлә"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "без"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһимне"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "күрдек"
+    }
+  ],
+  "timestamp": "2026-10-04T22:44:17.990226510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Биньяминның уллары: Бэла, һәм Бехер, һәм Йидиаэл — өчәү.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямин"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бэла"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "һәм Бехер"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "һәм Йидиаэл"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "өчәү"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:52.259533825Z",
+  "model": "glm-5.3"
+}

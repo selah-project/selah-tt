@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Реайа балалары, Рецин балалары, Некода балалары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Реайа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Рецин"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некода"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:08.109447506Z",
+  "model": "glm-5.3"
+}

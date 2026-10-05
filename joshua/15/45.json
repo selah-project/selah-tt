@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Экрон, ⟨аның⟩ бистәләре һәм авыллары",
+  "tokens": [
+    {
+      "surface": "עקרון",
+      "gloss": "Экрон"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "һәм аның бистәләре"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "һәм аның авыллары"
+    }
+  ],
+  "timestamp": "2026-10-04T22:36:45.261126063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм ул әйтте: Күтәр үзеңә. Һәм ул кулын сузды һәм аны алды.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Күтәр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "сузды"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "кулын"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "аны алды"
+    }
+  ],
+  "timestamp": "2026-10-04T23:20:08.428492275Z",
+  "model": "glm-5.3"
+}

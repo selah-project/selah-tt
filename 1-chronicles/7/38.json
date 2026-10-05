@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Йетернең уллары: Йефунне һәм Писпа һәм Ара.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм ... уллары"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йефунне"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "һәм Писпа"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "һәм Ара"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:33.259499714Z",
+  "model": "glm-5.3"
+}

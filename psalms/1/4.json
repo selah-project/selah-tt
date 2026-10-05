@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Явызлар болай түгел, ә алар җил куып үткәргән күбесмә кебек.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "кן",
+      "gloss": "болай"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "явызлар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ә"
+    },
+    {
+      "surface": "אם",
+      "gloss": "тик"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "күбесмә кебек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "куып үткәргән"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "җил"
+    }
+  ],
+  "timestamp": "2026-10-05T00:42:13.582040476Z",
+  "model": "glm-5.3"
+}

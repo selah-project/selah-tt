@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Арпахшад ⟨את⟩ Шелахны тудырды, һәм Шелах ⟨את⟩ Эверны тудырды.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "һәм Арпахшад"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелахны"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелахны"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "һәм Шелах"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эверны"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эверны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:08.311786018Z",
+  "model": "glm-5.3"
+}

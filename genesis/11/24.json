@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Нахор тугыз һәм егерме ел яшәде һәм ⟨את⟩ Тараһны тудырды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "тугыз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "һәм егерме"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тараһ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Тараһ"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:05.246979627Z",
+  "model": "glm-5.3"
+}

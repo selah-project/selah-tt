@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ике кеше килешмичә бергә йөри аламы?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "йөри аламы"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бергә"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "килешмичә"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-мы"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "килештеләр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:30:06.292439379Z",
+  "model": "glm-5.3"
+}

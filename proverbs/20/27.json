@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Кешенең җаны — Яһвәнең лампасы, ул эчке бүлмәләрнең барысын да тикшерә.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "лампасы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "җаны"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "тикшерә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысын да"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "бүлмәләрнең"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "эчке"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:16.952802802Z",
+  "model": "glm-5.3"
+}

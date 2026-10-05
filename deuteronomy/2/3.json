@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Сезгә җитә бу тавы ⟨את⟩ әйләнеп йөрү; үзегезгә төньякка борылыгыз.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "җитә"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "סב",
+      "gloss": "әйләнеп йөрү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу тавы"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тавы"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "борылыгыз"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "үзегезгә"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "төньякка"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:56.473680188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Вай мятеж итүчегә һәм пычранганга, золым итүче шәһәргә!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Вай"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "мятеж итүче"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "һәм пычранган"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "золым итүче"
+    }
+  ],
+  "timestamp": "2026-10-05T00:37:15.798351124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бәйт-Ләхәм һәм Нәтофа кешеләре: йөз сиксән сигез.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "кешеләре"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бәйт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Ләхәм"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "һәм Нәтофа"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "сиксән"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "һәм сигез"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:16.075357733Z",
+  "model": "glm-5.3"
+}

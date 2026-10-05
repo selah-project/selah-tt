@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Шул көнне ашаулык тиер; иртәгәсе иртәгә кадәр аннан бернинди дә калдырмаска. Мин Яһвә.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашаулык тиер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "калдырырга"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "иртә"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:02:30.669439139Z",
+  "model": "glm-5.3"
+}

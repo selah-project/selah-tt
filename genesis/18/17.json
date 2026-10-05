@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм Яһвә әйтте: Мин эшли торган нәрсәне Авраһамнан яшерменме?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Һәм Яһвә"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "яшерменме"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "Авраһамнан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эшли торган нәрсәне"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшлим"
+    }
+  ],
+  "timestamp": "2026-10-04T21:28:21.363153796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Узия аштаротлы, Шама һәм Йеуел, Хотам уллары, арорлы.",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "Узия"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "аштаротлы"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Шама"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "һәм Йеуел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Хотам"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "арорлы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:59.999956682Z",
+  "model": "glm-5.3"
+}

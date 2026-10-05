@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "һәм безне бу урынга китерде, һәм безгә ⟨את⟩ бу җирне бирде — сөт белән бал агып торган җир.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "киитерде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бу урынга"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "урын"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "бирде"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу җирне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "зבת",
+      "gloss": "агып торган"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "сөт"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "һәм бал"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:49.182383785Z",
+  "model": "glm-5.3"
+}

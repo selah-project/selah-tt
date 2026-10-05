@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Барганда адымың тар булмас, һәм йөгергәндә абынмассың.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "барганда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "тар булмас"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "адымың"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "һәм әгәр"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "йөгергәндә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "абынмассың"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:01.753059774Z",
+  "model": "glm-5.3"
+}

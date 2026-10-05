@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 121,
+  "translation": "Ярдәмем Яһвәдән, ⟨Ул⟩ күкне һәм җирне ясаган.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Ярдәмем"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "дан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ясаган"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "күкне"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "һәм җирне"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:39.968591222Z",
+  "model": "glm-5.3"
+}

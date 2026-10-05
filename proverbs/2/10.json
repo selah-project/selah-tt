@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Чөнки һикмәт йөрәгеңә керер, һәм белем җанеңа рәхәт булыр.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "керер"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "һикмәт"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "йөрәгеңә"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "һәм белем"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "җанеңа"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "рәхәт булыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:46.895412686Z",
+  "model": "glm-5.3"
+}

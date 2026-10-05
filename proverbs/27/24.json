@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Чөнки байлык мәңгегә калмый, һәм тәjed буыннан буынга ⟨каламы⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "калмый"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгегә"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "байлык"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "һәм ⟨каламы⟩"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "тәjed"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "буыннан"
+    },
+    {
+      "surface": "דור",
+      "gloss": "буынга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:13.491576204Z",
+  "model": "glm-5.3"
+}

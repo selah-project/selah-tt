@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Аңа яхшылык кылды, яманлык түгел, тормышының бар көннәрендә.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "аңа яхшылык кылды"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшылык"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "רע",
+      "gloss": "яманлык"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәрендә"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "тормышының"
+    }
+  ],
+  "timestamp": "2026-10-05T01:17:07.680496738Z",
+  "model": "glm-5.3"
+}

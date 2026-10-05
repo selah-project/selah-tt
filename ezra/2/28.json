@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Бет-Эл һәм Әй ирләре — ике йөз егерме өч.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ирләре"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "һәм Әй"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ике йөз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "өч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:45:50.399164553Z",
+  "model": "glm-5.3"
+}

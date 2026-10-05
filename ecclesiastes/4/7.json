@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм мин кире борылдым һәм күрдем кояш астында бушкалык.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "һәм мин кире борылдым"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "һәм күрдем"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "бушкалык"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:48.421958592Z",
+  "model": "glm-5.3"
+}

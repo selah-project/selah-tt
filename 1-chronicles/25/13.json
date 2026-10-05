@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 25:13",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Алтынчысы Буккияһуга, аның улларына һәм туганнарына — ун ике;",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "алтынчысы"
+    },
+    {
+      "surface": "בקיהו",
+      "gloss": "Буккияһуга"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "аның улларына"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "һәм туганнарына"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:17.952916769Z",
+  "model": "glm-5.3"
+}

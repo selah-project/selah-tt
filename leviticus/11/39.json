@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 11:39",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "И әгәр сезгә ашарга ярый торган мал үлсә, аның үләксәсенә кагылучы кичкә кадәр пычрак булыр.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "һәм әгәр"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "үлсә"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−дан"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "бу"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ашарга"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "кагылучы"
+    },
+    {
+      "surface": "בנבלתה",
+      "gloss": "аның үләксәсенә"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "пычрак булыр"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "кич"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:26.062635615Z",
+  "model": "glm-5.3"
+}

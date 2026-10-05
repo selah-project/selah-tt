@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Ное Яһвә кушкан барысын эшләде.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "һәм эшләде"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ное"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "барысын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кушкан"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "аңа кушкан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:20:18.696275222Z",
+  "model": "glm-5.3"
+}

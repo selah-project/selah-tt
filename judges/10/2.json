@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм ул ⟨את⟩ Йисраэлне егерме өч ел хөкем итте, үлде һәм Шамирда күмелде.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "хөкем итте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үлде"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "күмелде"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "Шамирда"
+    }
+  ],
+  "timestamp": "2026-10-04T22:43:41.154811432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Көмеш Минеке, һәм алтын Минеке, Яһвә Цеваот сүзе.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Минеке"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "Көмеш"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "һәм Минеке"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-10-05T00:37:01.228625163Z",
+  "model": "glm-5.3"
+}

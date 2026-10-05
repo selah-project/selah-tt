@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Әйттем мин йөрәгемдә: кил әле, шатлыкта сынап карыйм, яхшыны күр әле; һәм меңә — ул да бушкалык.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "әйттем"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "йөрәгемдә"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "кил"
+    },
+    {
+      "surface": "נא",
+      "gloss": "әле"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "сынап карыйм"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "шатлыкта"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "һәм күр"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "яхшыны"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "һәм меңә"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "бушкалык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:06.473797889Z",
+  "model": "glm-5.3"
+}

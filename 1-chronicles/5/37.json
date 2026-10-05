@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Әзария ⟨את⟩ Әмәрияне тудырды, һәм Әмәрия ⟨את⟩ Әһитубны тудырды.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Әзария"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Әмәрияне"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Әмәрия"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "һәм Әмәрия"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Әһитубны"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Әһитуб"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:02.625602230Z",
+  "model": "glm-5.3"
+}

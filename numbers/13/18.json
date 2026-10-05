@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм күрерсез ⟨את⟩ җирне — нәрсә ул, һәм ⟨את⟩ анда яшәгән халыкны: көчлеме ул, әллә көчсезме; азмы ул, әллә күпме.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "һәм күрерсез"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "җирне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "халыкны"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "яшәүче"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "көчле"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "көчсез"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әллә"
+    },
+    {
+      "surface": "רב",
+      "gloss": "күп"
+    }
+  ],
+  "timestamp": "2026-10-04T22:11:02.617580917Z",
+  "model": "glm-5.3"
+}

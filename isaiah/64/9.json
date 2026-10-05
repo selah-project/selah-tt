@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 64,
+  "translation": "Изге шәһәрләрегез чүллеp булды, Сион чүл булды, Йерушалаим бушлык.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "шәһәрләрегез"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "изге"
+    },
+    {
+      "surface": "היו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "чүл"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "чүл"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалаим"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "бушлык"
+    }
+  ],
+  "timestamp": "2026-10-04T23:45:54.196690553Z",
+  "model": "glm-5.3"
+}

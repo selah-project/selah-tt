@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Моше сиксән яшьлек булган, Аһарон исә сиксән өч яшьлек, алар Паръоһа сөйләгән чакта.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "сиксән"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яшь"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "сиксән"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яшь"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "сөйләгән чакта"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръоһа"
+    }
+  ],
+  "timestamp": "2026-10-04T21:41:18.224290483Z",
+  "model": "glm-5.3"
+}

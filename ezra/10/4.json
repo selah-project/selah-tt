@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Тор, чөнки бу эш сиңа йөкләнгән, һәм без сиңа белән; көчле бул һәм эшлә.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "тор"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "эш"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "һәм без"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сиңа белән"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "көчле бул"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "эшлә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:50:11.687818129Z",
+  "model": "glm-5.3"
+}

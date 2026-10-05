@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 34:28",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Һәм Нафтали уллары кабиләсеннән башлык — Педаһэл, Аммиһуд улы.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "кабиләсеннән"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "башлык"
+    },
+    {
+      "surface": "פדהאל",
+      "gloss": "Педаһэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммиһуд"
+    }
+  ],
+  "timestamp": "2026-10-04T22:18:36.288792184Z",
+  "model": "glm-5.3"
+}

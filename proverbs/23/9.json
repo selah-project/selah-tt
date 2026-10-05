@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Кәсилең колагына сөйләмә, чөнки ул сүзләреңдәге акылны кимсетер.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "колагына"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "кәсилең"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сөйләмә"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "сөйләмә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "кимсетер"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "акылны"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "сүзләреңдәге"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:29.859756075Z",
+  "model": "glm-5.3"
+}

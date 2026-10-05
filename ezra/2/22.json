@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Нетофа кешеләре — илле алты.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "кешеләре"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "Нетофа"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "һәм алты"
+    }
+  ],
+  "timestamp": "2026-10-05T01:45:18.662237114Z",
+  "model": "glm-5.3"
+}

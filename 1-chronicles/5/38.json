@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Әһитуб ⟨את⟩ Садокны тудырды, һәм Садок ⟨את⟩ Шаллумны тудырды.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "һәм Әһитуб"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Садокны"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Садок"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "һәм Садок"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаллумны"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллум"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:02.625887765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Һәм Йисраэл йорты аларны күмерлер — ⟨את⟩ җирне чистартыр өчен; җиде ай.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "Һәм күмерлер"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорты"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "למען",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "чистартыр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "җирне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ай"
+    }
+  ],
+  "timestamp": "2026-10-05T02:39:20.704790880Z",
+  "model": "glm-5.3"
+}

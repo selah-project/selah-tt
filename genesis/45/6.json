@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 45,
+  "translation": "Чөнки бу ике ел инде ачлык җирнең эчендә, һәм тагы биш ел barача, анда сукалау да, урып җыю да булмас.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ике ел"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ачлык"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "эчендә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирнең"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "һәм тагы"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анда"
+    },
+    {
+      "surface": "אין",
+      "gloss": "булмас"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "сукалау"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "урып җыю"
+    }
+  ],
+  "timestamp": "2026-10-04T21:39:14.565242017Z",
+  "model": "glm-5.3"
+}

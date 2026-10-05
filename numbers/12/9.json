@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Һәм Яһвәнең ачулы йөзе аларга янды, һәм Ул китте.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ачулы йөзе янды"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ачулы йөзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "һәм китте"
+    }
+  ],
+  "timestamp": "2026-10-04T22:10:13.171749852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Түбәбез өстеннән безне куып баралар; без арыдык — безгә тынычлык бирелмәде.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "צואрנו",
+      "gloss": "түбәбез"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "безне куып баралар"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "арыдык"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "тынычлык бирелмәде"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:33:46.883371421Z",
+  "model": "glm-5.3"
+}

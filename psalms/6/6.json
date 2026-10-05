@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Чөнки үлемдә Синең искә алуың юк; Шеолда Сине көйләрлек кем бар?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "במות",
+      "gloss": "үлемдә"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "Синең искә алуың"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Шеолда"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "көйләрлек"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сине"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:48.628929098Z",
+  "model": "glm-5.3"
+}

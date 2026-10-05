@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Ә Син изгесең, Йисраэл мәдһияләрендә утыручы.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ә Син"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "изгесең"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "утыручы"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "мәдһияләрендә"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:21.125999671Z",
+  "model": "glm-5.3"
+}

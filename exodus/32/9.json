@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм Яһвә Мошига әйтте: Мин ⟨את⟩ бу халыкны күрдем, һәм монда ул — муены каты халык.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "күрдем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу халыкны"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халыкны"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "һәм монда"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "каты"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "муен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T21:51:37.735852219Z",
+  "model": "glm-5.3"
+}

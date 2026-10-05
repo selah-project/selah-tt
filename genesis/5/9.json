@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Әнош туксан ел яшәде һәм ⟨את⟩ Кенанны тудырды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Әнош"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "туксан"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Кенанны"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Кенанны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:23:42.624102254Z",
+  "model": "glm-5.3"
+}

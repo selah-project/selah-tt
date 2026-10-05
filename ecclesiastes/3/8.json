@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Вакыт яратырга һәм вакыт нәфрәт итәргә; вакыт сугышка һәм вакыт тынычлыкка.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "вакыт"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "яратырга"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "һәм вакыт"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "нәфрәт итәргә"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вакыт"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "сугыш"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "һәм вакыт"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынычлык"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:44.590005753Z",
+  "model": "glm-5.3"
+}

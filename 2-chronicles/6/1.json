@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Ул вакытта Шеломоһ әйтте: Яһвә болай диде — тыгыз караңгылыкта яшәргә.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ул вакытта"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоһ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "яшәргә"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "тыгыз караңгылыкта"
+    }
+  ],
+  "timestamp": "2026-10-05T02:07:43.456536892Z",
+  "model": "glm-5.3"
+}

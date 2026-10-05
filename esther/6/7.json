@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Һаман патшага әйтте: патша хөрмәт күрсәтергә теләгән кешегә —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Һаман"
+    },
+    {
+      "surface": "אל",
+      "gloss": "патшага"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешегә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "теләгән"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "хөрмәт күрсәтергә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:38:03.911981363Z",
+  "model": "glm-5.3"
+}

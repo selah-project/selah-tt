@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Аны ашарга ярамый; аны җир өстенә су кебек түгәрсең.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ярамый"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ашарга аны"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "түгәрсең аны"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "су кебек"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:52.658710995Z",
+  "model": "glm-5.3"
+}

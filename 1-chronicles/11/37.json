@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Хецро ⟨һә⟩ Кармел кешесе, Нгаараи, Эзбай улы.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Хецро"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "⟨һә⟩ Кармел кешесе"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "Нгаараи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "Эзбай"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:00.803267807Z",
+  "model": "glm-5.3"
+}

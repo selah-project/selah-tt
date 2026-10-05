@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Нох биш йөз еллык булгач, Нох ⟨את⟩ Шемне, ⟨את⟩ Һамны һәм ⟨את⟩ Йәфәтне тудырды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булгач"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нох"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уллы"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нох"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шемне"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шемне"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Һамны"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Һамны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Йәфәтне"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Йәфәтне"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:57.223844045Z",
+  "model": "glm-5.3"
+}

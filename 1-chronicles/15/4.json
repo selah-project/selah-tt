@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм Давид Аһарон ⟨את⟩ улларын һәм ⟨את⟩ левиләрне җыенты.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "җыенты"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аһарон улларын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларын"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "левиләрне"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левиләрне"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:01.329713498Z",
+  "model": "glm-5.3"
+}

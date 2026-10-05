@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Нафталы кабиләсеннән — Нахби, Вофсы улы.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "кабиләсеннән"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталы"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "Нахби"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "Вофсы"
+    }
+  ],
+  "timestamp": "2026-10-04T22:10:10.053286514Z",
+  "model": "glm-5.3"
+}

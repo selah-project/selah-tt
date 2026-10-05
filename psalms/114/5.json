@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 114,
+  "translation": "Ни булды сиңа, әй диңгез, чөнки качтың? Әй Ярден, чөнки кире борылдың?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ни"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "הים",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "качтың"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярден"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "борылдың"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "кире"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:55.370445480Z",
+  "model": "glm-5.3"
+}

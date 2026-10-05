@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Эл — мине көч белән биләүләүче, һәм ул юлымны бөтен итә.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "биләүләүче-мине"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "көч"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "һәм итә"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "юлымны"
+    }
+  ],
+  "timestamp": "2026-10-05T00:44:20.881082005Z",
+  "model": "glm-5.3"
+}

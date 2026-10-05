@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Кеһат уллары: Амрам, Йицһар, Һеврон һәм Узииел — дүртесе.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеһат"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Йицһар"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Һеврон"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "һәм Узииел"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дүрт"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:14.419020962Z",
+  "model": "glm-5.3"
+}

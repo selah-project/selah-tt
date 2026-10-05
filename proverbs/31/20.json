@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Ул авырлыкта булганга учын ача, һәм кулларын ярлыга суза.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "учын"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "ача"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "авырлыкта булганга"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "кулларын"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "суза"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "ярлыга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:57.627619089Z",
+  "model": "glm-5.3"
+}

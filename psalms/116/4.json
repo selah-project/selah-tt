@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 116,
+  "translation": "Һәм Яһвә исеме белән мин чакырдым: әй, Яһвә, коткар җанымны!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "һәм исеме белән"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "чакырдым"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "әй"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "коткар"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җанымны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:47.629718214Z",
+  "model": "glm-5.3"
+}

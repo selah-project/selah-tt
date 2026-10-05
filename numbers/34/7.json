@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 34:7",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Ә бу булыр сезгә төньяк чиге: Бөек диңгездән үлчәп билгеләрсез Хор тавын.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ә бу"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чик"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "төньяк"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "הים",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "Бөек"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "билгеләрсез"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "үзегезгә"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Хор тавын"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨тау⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T22:18:42.920892434Z",
+  "model": "glm-5.3"
+}

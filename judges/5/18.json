@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 5:18",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Звулун — үз җанын үлемгә куйган халык, ә Нафтали — кыр биеклекләрендә.",
+  "tokens": [
+    {
+      "surface": "זבלון",
+      "gloss": "Звулун"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "койды"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "үз җанын"
+    },
+    {
+      "surface": "למות",
+      "gloss": "үлемгә"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ә Нафтали"
+    },
+    {
+      "surface": "על",
+      "gloss": "-дә"
+    },
+    {
+      "surface": "מרומי",
+      "gloss": "биеклекләрендә"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "кыр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:41:20.430772253Z",
+  "model": "glm-5.3"
+}

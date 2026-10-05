@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм ни өчен Йисраэл улларының йөрәген кире кагасыз, Яһвә аларга биргән җиргә үтүдән?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "һәм ни өчен"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "кире кагасыз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "йөрәк"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларының"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "үтүдән"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "биргән"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:15.643690694Z",
+  "model": "glm-5.3"
+}

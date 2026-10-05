@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм Моше халык янына төште һәм аларга әйтте.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "төште"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-04T21:45:03.279636556Z",
+  "model": "glm-5.3"
+}

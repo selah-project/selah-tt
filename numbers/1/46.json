@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм исәпләнгәннәрнең барысы алты йөз мең өч мең биш йөз илле булды.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысы"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "исәпләнгәннәрнең"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мең"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "илле"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:51.023538339Z",
+  "model": "glm-5.3"
+}

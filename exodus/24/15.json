@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм Моше тавына менде, һәм болыт ⟨את⟩ тавыны каплады.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "менде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-на"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тавы"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "каплады"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "болыт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тавыны"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тавыны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:47:32.407623854Z",
+  "model": "glm-5.3"
+}

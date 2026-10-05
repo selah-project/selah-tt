@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Үз атасын яки әнисен суккан кеше үлем җәзасына тартылырлык.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "суккан"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "үз атасын"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "яки әнисен"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үлем"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "үтерелер"
+    }
+  ],
+  "timestamp": "2026-10-04T21:47:19.722870464Z",
+  "model": "glm-5.3"
+}

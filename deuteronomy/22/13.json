@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Әгәр бер кеше хатын алса, аңа керсә һәм аны нәфрәт итәр,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алса"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "керса"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "аны нәфрәт итәр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:14.760341209Z",
+  "model": "glm-5.3"
+}

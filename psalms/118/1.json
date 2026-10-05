@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 118,
+  "translation": "Яһвәгә шөкер итегез, чөнки Ул яхшы, чөнки Аның хеседе мәңгегә.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "шөкер итегез"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгегә"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Аның хеседе"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:19.091878357Z",
+  "model": "glm-5.3"
+}

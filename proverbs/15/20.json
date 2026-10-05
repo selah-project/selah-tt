@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Хакыйкый угыл атасын шатландыра, ә акылсын кеше әнисен түбәнсетә.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "угыл"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "Хакыйкый"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "шатландыра"
+    },
+    {
+      "surface": "אב",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ә акылсын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "түбәнсетә"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "әнисен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:05.459719449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм Моше ишетте һәм йөзенә егылды",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ишетте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "һәм егылды"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "йөзенә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:12:09.791520183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 85,
+  "translation": "Цедек Аңа алдан барыр һәм Аның адымнарын юлга әйләрер.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Цедек"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Аңа алдан"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "барыр"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "һәм әйләрер"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "юлга"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "Аның адымнарын"
+    }
+  ],
+  "timestamp": "2026-10-05T00:56:24.323991756Z",
+  "model": "glm-5.3"
+}

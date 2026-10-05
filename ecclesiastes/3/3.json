@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Үтерергә вакыт, һәм дәваларга вакыт; җимерергә вакыт, һәм корырга вакыт.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "вакыт"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "үтерергә"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "һәм вакыт"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "дәваларга"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вакыт"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "җимерергә"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "һәм вакыт"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "корырга"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:21.146602388Z",
+  "model": "glm-5.3"
+}

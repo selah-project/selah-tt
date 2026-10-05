@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Яһвәнең хеседләре белән ⟨без⟩ бетмәдек, чөнки аның рәхимләре төгәлмәгәннәр.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "хеседләре"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "כי",
+      "gloss": "белән ⟨без⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "бетмәдек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "төгәлмәгәннәр"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "рәхимләре"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:39.351169197Z",
+  "model": "glm-5.3"
+}

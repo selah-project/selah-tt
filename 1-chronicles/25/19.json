@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 25:19",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Ун икенчесе Һашавияга, уллыры һәм туганнары — унике булды.",
+  "tokens": [
+    {
+      "surface": "השנים",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "לחשביה",
+      "gloss": "Һашавияга"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "һәм туганнары"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:18.480536223Z",
+  "model": "glm-5.3"
+}

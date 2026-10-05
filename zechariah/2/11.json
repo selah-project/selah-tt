@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һой, Сион! Кач, Бабил кызы янында яшәүче!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Һой"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "кач"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "яшәүче"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабил"
+    }
+  ],
+  "timestamp": "2026-10-05T00:38:01.989074557Z",
+  "model": "glm-5.3"
+}

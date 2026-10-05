@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "һәм Гад кабиләсе, һәм Гад улларының башлыгы — Регуэл улы Элиясап",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "һәм кабилә"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "һәм башлык"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "улларының"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Элиясап"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Регуэл"
+    }
+  ],
+  "timestamp": "2026-10-04T22:06:20.012225451Z",
+  "model": "glm-5.3"
+}

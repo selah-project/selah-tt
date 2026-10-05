@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Яаков аякларын күтәреп, көнчыгыш балалары иленә юнәлде.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "күтәреп"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "аякларын"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "юнәлде"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "иленә"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "көнчыгыш"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:10.769279229Z",
+  "model": "glm-5.3"
+}

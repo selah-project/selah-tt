@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Аз гына йокы, аз гына мыжыу, аз гына кулларны бирү — яту өчен.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "аз гына"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "йокы"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз гына"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "мыжыу"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз гына"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "кулларны бирү"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "кулларны"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "яту өчен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:05.018528839Z",
+  "model": "glm-5.3"
+}

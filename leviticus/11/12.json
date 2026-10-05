@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Су эчендә канаты да, тәңкәсе дә булмаган һәр нәрсә — ул сезнең өчен җирәнеч.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "һәр нәрсә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "אין",
+      "gloss": "булмаган"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аның"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "канаты"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "һәм тәңкәсе"
+    },
+    {
+      "surface": "במים",
+      "gloss": "су эчендә"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "җирәнеч"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезнең өчен"
+    }
+  ],
+  "timestamp": "2026-10-05T02:23:05.834381384Z",
+  "model": "glm-5.3"
+}

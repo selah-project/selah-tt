@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 43,
+  "translation": "Һәм ул мине капка алып барды — көнчыгыш юлына караган капка.",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "алып барды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "капка"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨капка⟩"
+    },
+    {
+      "surface": "שער",
+      "gloss": "капка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "который"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "караган"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "юлына"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "көнчыгыш"
+    }
+  ],
+  "timestamp": "2026-10-05T00:23:41.551124227Z",
+  "model": "glm-5.3"
+}

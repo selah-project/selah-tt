@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 21:30",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм син, сәнәкле булыр явез, Йисраэл башлыгы, аның көне җиткән, гөнаһ ахыры заманында.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "һәм син"
+    },
+    {
+      "surface": "חלал",
+      "gloss": "сәнәкле булыр"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "яvez"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "башлыгы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аның"
+    },
+    {
+      "surface": "בא",
+      "gloss": "җиткән"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "көне"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "заманында"
+    },
+    {
+      "surface": "עון",
+      "gloss": "гөнаһ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ахыры"
+    }
+  ],
+  "timestamp": "2026-10-05T00:15:02.123143623Z",
+  "model": "glm-5.3"
+}

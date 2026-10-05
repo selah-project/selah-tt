@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Бебай уллары: алты йөз егерме өч.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Бебай"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "һәм өч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:10.385811185Z",
+  "model": "glm-5.3"
+}

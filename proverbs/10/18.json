@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Ялган иреннәр белән нәфрәтне каплаучы һәм гайбәт чыгаручы — ⟨ул⟩ ахмак.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "каплаучы"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "нәфрәтне"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "иреннәр"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "һәм … чыгаручы"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "гайбәт"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ахмак"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:28.972631580Z",
+  "model": "glm-5.3"
+}

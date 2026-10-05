@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Талашчан ул һәм буйсынмаучы; аның аяклары йортта тормый.",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "талашчан"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "һәм буйсынмаучы"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "йортта"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "тормый"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "аның аяклары"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:19.100993776Z",
+  "model": "glm-5.3"
+}

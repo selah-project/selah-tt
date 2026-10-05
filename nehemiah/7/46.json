@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Натинимнар: Циһа балалары, Хасуфа балалары, Таббаот балалары.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "Натинимнар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "Циһа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "Хасуфа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "Таббаот"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:09.453843705Z",
+  "model": "glm-5.3"
+}

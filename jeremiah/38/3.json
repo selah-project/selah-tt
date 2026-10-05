@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 38:3",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Шулай диде Яһвә: бирелә-биреләчәк бу шәһәр Бавел патшасы гаскәре кулына, һәм ул аны алыр.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "бирелә"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "биреләчәк"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "кулына"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "гаскәре"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавел"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "һәм аны алыр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:01:04.691328088Z",
+  "model": "glm-5.3"
+}

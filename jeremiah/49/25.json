@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 49,
+  "translation": "Ничек ташланмады мактау шәһәре, сөенечем шәһәре!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "ташланды"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "мактау"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "шәһәре"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "сөенечем"
+    }
+  ],
+  "timestamp": "2026-10-05T00:04:14.811106556Z",
+  "model": "glm-5.3"
+}

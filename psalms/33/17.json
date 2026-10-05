@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Ат — котылу өчен ялган, һәм күп көче белән ⟨ул⟩ коткара алмый.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ат"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "котылу өчен"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "һәм күп"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "көче белән"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "коткара алмый"
+    }
+  ],
+  "timestamp": "2026-10-05T00:46:43.678010656Z",
+  "model": "glm-5.3"
+}

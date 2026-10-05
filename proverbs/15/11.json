@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Шеол һәм Авадон Яһвә алдында, ни дигәндә — кешеләрнең йөрәкләре.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "һәм Авадон"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ни дигәндә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "йөрәкләре"
+    },
+    {
+      "surface": "בני",
+      "gloss": "кешеләрнең"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адәм"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:56.187629937Z",
+  "model": "glm-5.3"
+}

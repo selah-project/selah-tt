@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 34:1",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Һәм Яһвәнең сүзе миңа килде, дип әйтү өчен:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтү өчен"
+    }
+  ],
+  "timestamp": "2026-10-05T00:20:16.125802787Z",
+  "model": "glm-5.3"
+}

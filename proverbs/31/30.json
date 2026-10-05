@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Шарм — ялган, һәм матурлык — юкка; Яһвәдән куркучы хатын — ул данланачак.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "החן",
+      "gloss": "шарм"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "юкка"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "матурлык"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "куркучы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәдән"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "данланачак"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:57.889901416Z",
+  "model": "glm-5.3"
+}

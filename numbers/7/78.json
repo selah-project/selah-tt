@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Ун икенче көнне Нафтали улларының башлыгы, Әһирә, Әйнән улы ⟨корбан китерде⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ун"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "нשיא",
+      "gloss": "башлык"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "... улларының"
+    },
+    {
+      "surface": "нфтли",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Әһирә"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Әйнән"
+    }
+  ],
+  "timestamp": "2026-10-04T22:08:59.192381270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 20:16",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Пәтәннәрнең агуын имә, әфгәнең теле аны үтерер.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "агу"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "пәтәннәрнең"
+    },
+    {
+      "surface": "יינк",
+      "gloss": "имә"
+    },
+    {
+      "surface": "תהרגהו",
+      "gloss": "аны үтерер"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "теле"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "әфгәнең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:23:05.177956545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм Яһвә фәрештәсе күктән икенче тапкыр Авраһамга чакырды.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "фәрештәсе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "икенче тапкыр"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нән"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күк"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:44.834841286Z",
+  "model": "glm-5.3"
+}

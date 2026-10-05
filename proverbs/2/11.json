@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Урынлы уй сине саклар, аңлау сине сакчы булыр.",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "урынлы уй"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "саклар"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сине"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "аңлау"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "сакчы булыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:46.895542671Z",
+  "model": "glm-5.3"
+}

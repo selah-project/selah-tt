@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Патша ⟨үз⟩ утырышында булганда, минем нардым үз исен таратты.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "булганда"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "⟨үз⟩ утырышында"
+    },
+    {
+      "surface": "נרдי",
+      "gloss": "минем нардым"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "таратты"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "үз исен"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:46.926000904Z",
+  "model": "glm-5.3"
+}

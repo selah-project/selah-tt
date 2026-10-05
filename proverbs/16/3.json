@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Үз эшләреңне Яһвәгә тапшыр, һәм уйларың ныгып калачаклар.",
+  "tokens": [
+    {
+      "surface": "гл",
+      "gloss": "тапшыр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…гә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "эшләреңне"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "һәм ныгып калачаклар"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "уйларың"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:11.962280832Z",
+  "model": "glm-5.3"
+}

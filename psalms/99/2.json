@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 99,
+  "translation": "Яһвә Цийонда бөек, һәм бар халыклар өстеннән биек ⟨ул⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Цийонда"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "һәм биек"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "халыклар"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:04.610326031Z",
+  "model": "glm-5.3"
+}

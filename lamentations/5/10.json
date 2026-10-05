@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Тиребез тандыр кебек кызарды-кырышты, ачлык кабынучылары йөзеннән.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "тиребез"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "тандыр кебек"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "кырышты"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "йөзеннән"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "кабынучылары"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ачлык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:33:47.407958903Z",
+  "model": "glm-5.3"
+}

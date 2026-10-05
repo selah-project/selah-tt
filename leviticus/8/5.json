@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Моше җыенга әйтте: Бу — Яһвәнең эшләргә кушкан сүзе.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "болай"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "җыенга"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ниткән"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "кушкан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "эшләргә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:55.191783250Z",
+  "model": "glm-5.3"
+}

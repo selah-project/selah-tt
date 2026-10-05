@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм бөтен Йисраэл Давид янына Хевронга җыелды, әйтеп: Менә синең сөягең һәм итең — без.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "җыелды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Хевронга"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "синең сөягең"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "һәм итең"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "без"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:57.471953549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм бөтен бәяң изге шекел белән булсын; йигермә гера булсын шекел.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "һәм бөтен"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "бәяң"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булсын"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "шекел белән"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "изге"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "йигермә"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "гера"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булсын"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "шекел"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:17.888279745Z",
+  "model": "glm-5.3"
+}

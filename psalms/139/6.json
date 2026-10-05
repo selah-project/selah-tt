@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 139,
+  "translation": "Гаҗәеп ⟨ул⟩ белем миңа — бик югары, мин аны күтәрә алмыйм.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "гаҗәеп"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белем"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "נשгבה",
+      "gloss": "бик югары"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "алмыйм"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аны күтәрә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:37.100713388Z",
+  "model": "glm-5.3"
+}

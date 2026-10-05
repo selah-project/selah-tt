@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 19:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Кешенең акылы аның ачуын суздыра, һәм аның даны — баш тарту өстеннән үтү.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "акыл"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "האריך",
+      "gloss": "суздыра"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ачуын"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "һәм аның даны"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "үтү"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "баш тарту"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:29.749716738Z",
+  "model": "glm-5.3"
+}

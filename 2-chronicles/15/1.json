@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "һәм Аҙарияһу улы өстенә аның Әҙәднең булды рухы Элоһимның",
+  "tokens": [],
+  "timestamp": "2026-10-05T02:11:00.297514496Z",
+  "model": "glm-5.3"
+}

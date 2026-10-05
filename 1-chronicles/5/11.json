@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Гад уллары аларга каршы яктан Башан җирендә, Салкага кадәр яшәделәр.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "аларга каршы яктан"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "яшәделәр"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җирендә"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Салка"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:27.626120287Z",
+  "model": "glm-5.3"
+}

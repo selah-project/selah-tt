@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Буын китә, буын килә, ә җир мәңге тора.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "буын"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "китә"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ә буын... килә"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ә җир"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "тора"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:18.432277113Z",
+  "model": "glm-5.3"
+}

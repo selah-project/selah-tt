@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 44,
+  "translation": "Һәм сиңа колың атагыз безгә әйтте: Сез беләсез, минем хатыным миңа ике бала туды.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "сиңа колың"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атагыз"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сез"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "беләсез"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "туды"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "минем хатыным"
+    }
+  ],
+  "timestamp": "2026-10-05T02:20:37.327463020Z",
+  "model": "glm-5.3"
+}

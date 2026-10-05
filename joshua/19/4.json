@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм Элтолад, һәм Бетуел, һәм Хорма.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "һәм Элтолад"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "һәм Бетуел"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "һәм Хорма"
+    }
+  ],
+  "timestamp": "2026-10-04T22:37:43.058417064Z",
+  "model": "glm-5.3"
+}

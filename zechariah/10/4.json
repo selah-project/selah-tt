@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Аннан почмак ташы, аннан казык, аннан сугыш җәясе, аннан һәр җәзалаучы бергә чыгарык.",
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "почмак ташы"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "казык"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "җәя"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "сугыш"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аннан"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыгарык"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "җәзалаучы"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бергә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:40:37.792017351Z",
+  "model": "glm-5.3"
+}

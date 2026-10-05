@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Сиббәкай Хушаттан, Илай Ахоһтан.",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "Сиббәкай"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "Хушаттан"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "Илай"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "Ахоһтан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:23.507175484Z",
+  "model": "glm-5.3"
+}

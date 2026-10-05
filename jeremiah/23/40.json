@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 23:40",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "һәм Мин сезгә мәңге хурлык һәм мәңге оялаулык салачакмын, ул онылмас.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "салачакмын"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "хурлык"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "וכלמות",
+      "gloss": "оялаулык"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "онылмас"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "онылмас"
+    }
+  ],
+  "timestamp": "2026-10-04T23:55:04.974839628Z",
+  "model": "glm-5.3"
+}

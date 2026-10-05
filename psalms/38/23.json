@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Ашкынып ярдәмгә кил, әй Адонай, минем коткаручым.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Ашкынып кил"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ярдәмгә"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "תשועתи",
+      "gloss": "коткаручым"
+    }
+  ],
+  "timestamp": "2026-10-05T00:47:54.827122161Z",
+  "model": "glm-5.3"
+}

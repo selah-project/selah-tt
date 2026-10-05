@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 28:6",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Аның ташлары сапфир урыны, һәм аның тузаны — алтын.",
+  "tokens": [
+    {
+      "surface": "מקום",
+      "gloss": "урыны"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "сапфир"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "аның ташлары"
+    },
+    {
+      "surface": "ועפרת",
+      "gloss": "һәм тузаны"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:24:01.915626180Z",
+  "model": "glm-5.3"
+}

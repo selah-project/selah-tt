@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 114,
+  "translation": "Өрк, җир, Адонай алдында, Яаковның Элоаһы алдында!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "Өрк"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоаһ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковның"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:55.370823282Z",
+  "model": "glm-5.3"
+}

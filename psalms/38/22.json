@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Калдырма мине, әй Яһвә, Элоһимем, ераклашма миннән.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Калдырма"
+    },
+    {
+      "surface": "תעזбני",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһимем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "елаклашма"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": ""
+    },
+    {
+      "surface": "мמני",
+      "gloss": "миннән"
+    }
+  ],
+  "timestamp": "2026-10-05T00:47:54.826848430Z",
+  "model": "glm-5.3"
+}

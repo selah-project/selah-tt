@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Назлы һәм гүзәл булган Цийон кызын мин җимердем.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "гүзәл"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "һәм назлы"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "җимердем"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызын"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийон"
+    }
+  ],
+  "timestamp": "2026-10-05T02:36:11.273016519Z",
+  "model": "glm-5.3"
+}

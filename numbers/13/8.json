@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Эфраим коленесыннан — Нун улы Һошә.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "коленесыннан"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Һошә"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нун"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:57.221621004Z",
+  "model": "glm-5.3"
+}

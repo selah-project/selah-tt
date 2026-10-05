@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "бер кәҗә тәкәсе — гөнаһ корбаны өчен.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "тәкәсе"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "кәҗә"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "гөнаҳ корбаны өчен"
+    }
+  ],
+  "timestamp": "2026-10-05T02:24:06.577931424Z",
+  "model": "glm-5.3"
+}

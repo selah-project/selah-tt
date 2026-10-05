@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 15:1",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм Яһвәнең сүзе миңа килде, дип:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм... булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    }
+  ],
+  "timestamp": "2026-10-05T02:38:10.322173988Z",
+  "model": "glm-5.3"
+}

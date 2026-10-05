@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Өченче көнне Зәвулун уллары башлыгы, Һелон улы Элиаб ⟨корбан китерде⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "өченче"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "башлыгы"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зәвулун"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиаб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Һелон"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:51.647549650Z",
+  "model": "glm-5.3"
+}

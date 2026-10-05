@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Ике нәрсә сорадым Сиңа ⟨את⟩; тыя күрә миннән, мин үлгәнче.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Ике"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "сорадым"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "Сиңа ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тыя күрә"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "тый"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "миннән"
+    },
+    {
+      "surface": "бטרם",
+      "gloss": "…гәнче"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "үл"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:25.047350464Z",
+  "model": "glm-5.3"
+}

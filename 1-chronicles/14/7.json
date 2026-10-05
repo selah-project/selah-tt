@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "һәм Элишама, һәм Беәлйада, һәм Элифалет.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "һәм Элишама"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "һәм Беәлйада"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "һәм Элифалет"
+    }
+  ],
+  "timestamp": "2026-10-05T02:00:34.966604172Z",
+  "model": "glm-5.3"
+}

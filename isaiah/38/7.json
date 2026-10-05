@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Һәм сиңа Яһвәдән ⟨את⟩ билге шул: Яһвә ⟨את⟩ бу сүзне, сөйләгән сүзне, үтәячәк.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "һәм бу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "האות",
+      "gloss": "билге"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ яныннан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәдән"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сүзне"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "үтәячәк"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу сүзне"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүзне"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сүзне"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйләгән"
+    }
+  ],
+  "timestamp": "2026-10-04T23:37:34.046528054Z",
+  "model": "glm-5.3"
+}

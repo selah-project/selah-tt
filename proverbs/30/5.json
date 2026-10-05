@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Бөтен Элоаһ сүзе саф эретелгән; Ул аңа сыеныучылар өчен калкан.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Бөтен"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоаһ"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "саф эретелгән"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "калкан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "сыеныучылар өчен"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:25.046894224Z",
+  "model": "glm-5.3"
+}

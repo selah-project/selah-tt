@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "һәм ишәкләр — алтмыш бер мең",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "һәм ишәкләр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "алтмыш"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:34.013439636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "⟨את⟩ Өстәлне, ⟨את⟩ аның бөтен савытларын һәм ⟨את⟩ Йөз икмәген.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Өстәлне"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "өстәл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен савытларын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "савытларын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "икмәген"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "Йөз"
+    }
+  ],
+  "timestamp": "2026-10-04T21:54:35.856569210Z",
+  "model": "glm-5.3"
+}

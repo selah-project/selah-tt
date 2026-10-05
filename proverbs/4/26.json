@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Аягың юлын тигезлә, һәм бөтен юлларың беркетелер.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "тигезлә"
+    },
+    {
+      "surface": "מעгל",
+      "gloss": "юлын"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "аягың"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм бөтен"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "юлларың"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "беркетелер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:54.862977713Z",
+  "model": "glm-5.3"
+}

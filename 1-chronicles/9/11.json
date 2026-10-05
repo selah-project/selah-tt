@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 9:11",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "һәм Азаья, Хилкыя улы, Мешуллам улы, Цадок улы, Мерайот улы, Аһитув улы — Элоһим йортының башлыгы.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "һәм Азаья"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Хилкыя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешуллам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мерайот"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Аһитув"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "башлыгы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорты"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:06.450576144Z",
+  "model": "glm-5.3"
+}

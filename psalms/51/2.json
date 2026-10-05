@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 51,
+  "translation": "Натан пәйгамбәр аңа килгәч, Бат-Шеба янына кергән вакытта.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "килгәч"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пәйгамбәр"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "вакытта"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кергән"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеба"
+    }
+  ],
+  "timestamp": "2026-10-05T00:50:34.685725568Z",
+  "model": "glm-5.3"
+}

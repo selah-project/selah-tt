@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "ул вакытта ⟨את⟩ аның кулын кисәрсең; күзең аны жаратмасын.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "кисәрсең"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аның кулын"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "аның кулын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "жаратмасын"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "күзең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:12.861673996Z",
+  "model": "glm-5.3"
+}

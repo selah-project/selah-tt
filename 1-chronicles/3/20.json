@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "һәм Һашуба, һәм Оһел, һәм Берекйа, һәм Һасадйа, Йушав-Хесед — бишесе.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "һәм Һашуба"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "һәм Оһел"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "һәм Берекйа"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "һәм Һасадйа"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Йушав-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:13.104245140Z",
+  "model": "glm-5.3"
+}

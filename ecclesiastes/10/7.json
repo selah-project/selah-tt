@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Күрдем: коллар атлар өстендә, ә башлыклар җир өстендә коллар кебек йөриләр.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Күрдем"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "коллар"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "атлар"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ә башлыклар"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "йөриләр"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "коллар кебек"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:40.188461523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Кешенең бөтен юллары аның күзләрендә саф, ә рухларны үлчи торган — Яһвә.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "юллары"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "זך",
+      "gloss": "саф"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "аның күзләрендә"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ә үлчи торган"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "рухларны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:11.962109986Z",
+  "model": "glm-5.3"
+}

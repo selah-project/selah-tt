@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм халык җиденче көнне ял итте.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "ял итте"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "җиденче"
+    }
+  ],
+  "timestamp": "2026-10-04T21:46:05.854389097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Ул — Яһвә, безнең Элоһимыбыз; бөтен җирдә Аның хөкемнәре.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоһимыбыз"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бөтен җирдә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨җир⟩"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "Аның хөкемнәре"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:07.763474476Z",
+  "model": "glm-5.3"
+}

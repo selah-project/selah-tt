@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәр хәйләкәр белем белән эш итә, ә акылсыз ахмаклыгын җәеп сала.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "хәйләкәр"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "эш итә"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "белем белән"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ә акылсыз"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "җәеп сала"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ахмаклыгын"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:17.534316411Z",
+  "model": "glm-5.3"
+}

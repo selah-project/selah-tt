@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "һәм атам йортына иминлектә кайтыр идем, Яһвә миңа Элоһим булыр.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "кайтыр идем"
+    },
+    {
+      "surface": "בשלом",
+      "gloss": "иминлектә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨−га⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорт"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атам"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элоһим булып"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:22.929341434Z",
+  "model": "glm-5.3"
+}

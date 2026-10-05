@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Кешедән курку тозак китерә, ә Яһвәгә таянган югарыда котыла.",
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "курку"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешедән"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "китерә"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "тозак"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "таянган"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "ישгב",
+      "gloss": "югарыда котыла"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:44.853458699Z",
+  "model": "glm-5.3"
+}

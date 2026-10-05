@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Көй коючыга, «әл-му́т ла-бен» өстенә; Давид мәдхиясе.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "көй коючыга"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "әл-мут"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ла-бен"
+    },
+    {
+      "surface": "мזמור",
+      "gloss": "мәдхия"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидкә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:43:40.029843672Z",
+  "model": "glm-5.3"
+}

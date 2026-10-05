@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 57,
+  "translation": "Шалом юк, диде Элоһимым: явызларга.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шалом"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһимым"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "явызларга"
+    }
+  ],
+  "timestamp": "2026-10-04T23:44:00.409449356Z",
+  "model": "glm-5.3"
+}

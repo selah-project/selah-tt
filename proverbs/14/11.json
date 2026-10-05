@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Явызлар өе җимерелер, ә турылар кыйшавы чәчәк ачыр.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "өе"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Явызлар"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "җимерелер"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ә … кыйшавы"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "турылар"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "чәчәк ачыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:29.469047676Z",
+  "model": "glm-5.3"
+}

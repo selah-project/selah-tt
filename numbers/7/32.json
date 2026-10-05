@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Авырлыгы ун шекел булган, ыстарык белән тулган бер алтын кәгезь-кашык.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кашык"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулган"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ыстарык"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:49.734635841Z",
+  "model": "glm-5.3"
+}

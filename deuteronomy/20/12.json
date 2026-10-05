@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Әмма әгәр ул сиңа тынычлык ясамаса, ә сиңа каршы сугыш кылса, син аны камап ал.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "әмма әгәр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "тынычлык ясамаса"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "кылса"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сиңа каршы"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "сугыш"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "камап ал"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-04T22:25:41.569084978Z",
+  "model": "glm-5.3"
+}

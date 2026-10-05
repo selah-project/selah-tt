@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Лабан әйтте: аны сиңа бирүем яхшырак, башка иргә бирүемнән; минем янымда тор.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лабан"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "бирүем"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "бирүемнән"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "иргә"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "тор"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "янымда"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:05.810876216Z",
+  "model": "glm-5.3"
+}

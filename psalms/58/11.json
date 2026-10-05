@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 58,
+  "translation": "Изге шатланыр, чөнки үч алынуны күрер; явыз канында аякларын юар.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "шатланыр"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "изге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "күрер"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "үч алыну"
+    },
+    {
+      "surface": "פעמיв",
+      "gloss": "аякларын"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "юар"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "канында"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "явыз"
+    }
+  ],
+  "timestamp": "2026-10-05T00:50:58.421240670Z",
+  "model": "glm-5.3"
+}

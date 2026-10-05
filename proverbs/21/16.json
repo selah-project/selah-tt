@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Аң-белем юлыннан адашкан кеше Рефаимлар җыелышында ял итәчәк.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "адашкан"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "юлыннан"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "аң-белем"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "җыелышында"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаимлар"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ял итәчәк"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:55.533963487Z",
+  "model": "glm-5.3"
+}

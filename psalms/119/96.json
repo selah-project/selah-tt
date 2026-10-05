@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Һәр чик-бетүнең ахырын күрдем, Синең боерыгың бик киң.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "чик-бетүнең"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "күрдем"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ахырын"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "киң"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "боерыгың"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    }
+  ],
+  "timestamp": "2026-10-05T01:03:15.720988912Z",
+  "model": "glm-5.3"
+}

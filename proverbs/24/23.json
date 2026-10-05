@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Болар да хәкимнәргә ⟨карый⟩: судта йөз тану яхшы түгел.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "хәкимнәргә"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "тану"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "судта"
+    },
+    {
+      "surface": "בל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:37.774654269Z",
+  "model": "glm-5.3"
+}

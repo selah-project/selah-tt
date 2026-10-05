@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 102,
+  "translation": "Бу киләсе буын өчен язылыр, һәм барырык халык Яһны мактар.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "язылыр"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "буын өчен"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "киләче"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "һәм халык"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "барырык"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "мактар"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһны"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:11.128483037Z",
+  "model": "glm-5.3"
+}

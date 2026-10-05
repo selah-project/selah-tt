@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Үлән корый, чәчәк селәгә, чөнки Яһвәнең рухы аңа исеп китте — чынлап та, халык — үлән.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "корый"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "үлән"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "селәгә"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "чәчәк"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "исеп китте"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "чынлап та"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "үлән"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    }
+  ],
+  "timestamp": "2026-10-04T23:39:33.965767148Z",
+  "model": "glm-5.3"
+}

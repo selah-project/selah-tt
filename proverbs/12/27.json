@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 12:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Ялкау үз ауны пешерми, ә тырыч кешенең байлыгы кыйммәтле.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "...мый"
+    },
+    {
+      "surface": "יחרך",
+      "gloss": "пешер"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ялкау"
+    },
+    {
+      "surface": "צידו",
+      "gloss": "үз ауны"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ә байлыгы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "кыйммәтле"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "тырыч"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:06.086696810Z",
+  "model": "glm-5.3"
+}

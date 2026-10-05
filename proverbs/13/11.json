@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Хәбелдән байлык кими, ә кул өстенә җыючы арттыра.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "байлык"
+    },
+    {
+      "surface": "мהבל",
+      "gloss": "хәбелдән"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "кими"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "җыючы"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кул"
+    },
+    {
+      "surface": "ירбה",
+      "gloss": "арттыра"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:33.894901245Z",
+  "model": "glm-5.3"
+}

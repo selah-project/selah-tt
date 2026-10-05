@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "«Кем наив, монда борылып килсен!» — йөрәге җитмәгән кешегә шулай ди.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кем"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "наив"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "борылып килсен"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "монда"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "җитмәгән"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәге"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:02.298687879Z",
+  "model": "glm-5.3"
+}

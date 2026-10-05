@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Искә төшер, әй Яһвә, ни булды безгә; кара һәм күр ⟨את⟩ безнең хурлыгыбызны.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "искә төшер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "кара"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "һәм күр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "безнең хурлыгыбызны"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "безнең хурлыгыбызны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:06.379788696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 16:28",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Ике йөзле кеше бәхәс җибәрә, һәм гайбәтче якын дусты аерыр.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "ике йөзле"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "җибәрә"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "бәхәс"
+    },
+    {
+      "surface": "ונרגן",
+      "gloss": "һәм гайбәтче"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "аерыр"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "якын дус"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:57.913800927Z",
+  "model": "glm-5.3"
+}

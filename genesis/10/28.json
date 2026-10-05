@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм ⟨את⟩ Обалны, һәм ⟨את⟩ Авимaelне, һәм ⟨את⟩ Шеваһны.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Обалны"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Обалны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Авимаелне"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Авимаелне"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Шеваһны"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шеваһны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:07.764703754Z",
+  "model": "glm-5.3"
+}

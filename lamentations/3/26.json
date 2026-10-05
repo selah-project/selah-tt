@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Яхшы — өмет тотып тын тору, Яһвә коткаруы өчен.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "һәм өмет тота"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "тын тора"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "коткаруы өчен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:19.226057718Z",
+  "model": "glm-5.3"
+}

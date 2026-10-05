@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Бер ир дә ⟨את⟩ үз атасының хатынын алмас, һәм үз атасының канатын ачмас.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алмас"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бер ир"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үз атасының хатынын"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "хатынын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "үз атасының"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ачмас"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "канатын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "үз атасының"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:01.548682144Z",
+  "model": "glm-5.3"
+}

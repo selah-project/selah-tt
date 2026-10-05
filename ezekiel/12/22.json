@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 12:22",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Кеше улы, бу мәсәл сезгә ни, Йисраэл җирендә — әйтелгән: көннәр озая, һәм һәр күрәзә юкка чыга?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "мәсәл"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "על",
+      "gloss": "турында"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "җирендә"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтелгән"
+    },
+    {
+      "surface": "יארכו",
+      "gloss": "озая"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "көннәр"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "һәм юкка чыга"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "күрәзә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:10:17.336109329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Ялкау әйтте: Арыслан тышта, киң урамнар уртасында үтерелермен.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ялкау"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "арыслан"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "тышта"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "уртасында"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "киң урамнар"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "үтерелермен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:50.998236063Z",
+  "model": "glm-5.3"
+}

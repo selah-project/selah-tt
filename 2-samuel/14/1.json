@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәм Йоав, Цруянең улы, белде: патшаның йөрәге Авшаломга таба.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "белде"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Цруянең"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәге"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "על",
+      "gloss": "таба"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшаломга"
+    }
+  ],
+  "timestamp": "2026-10-04T23:03:18.365143647Z",
+  "model": "glm-5.3"
+}

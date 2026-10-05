@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 7:13",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Нафтали уллары: Яһәц­иел, һәм Гуни, һәм Йецер, һәм Шаллум — Биһаның уллары.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "יחציאל",
+      "gloss": "Яһәциел"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "һәм Гуни"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "һәм Йецер"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "һәм Шаллум"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Биһа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:46.155552303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 107,
+  "translation": "Яһвәгә шөкер итегез, чөнки ⟨Ул⟩ яхшы, чөнки мәңге аның хеседе.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "шөкер итегез"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "аның хеседе"
+    }
+  ],
+  "timestamp": "2026-10-05T01:00:53.451106945Z",
+  "model": "glm-5.3"
+}

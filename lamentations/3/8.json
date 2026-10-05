@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Хәтта кычкырганымда һәм ярдәм сораганымда да, Ул минем догамны томалады.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "хәтта"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ганда"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "кычкырам"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "ярдәм сорыйм"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "томалады"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "минем догамны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:12.840488440Z",
+  "model": "glm-5.3"
+}

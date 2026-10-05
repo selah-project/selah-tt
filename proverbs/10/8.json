@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Йөрәге белән хәким боерыкларны ала, ә иреннәре белән гавай ахмак егыла.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "хәким"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәге"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ала"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "боерыкларны"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "һәм ахмак"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "иреннәре"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "егыла"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:13.450774032Z",
+  "model": "glm-5.3"
+}

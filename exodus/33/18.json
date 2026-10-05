@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Һәм ул әйтте: Зинһар, Миңа Үзеңнең кабodeңне ⟨את⟩ күрсәт.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "күрсәт"
+    },
+    {
+      "surface": "נא",
+      "gloss": "зинһар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кабodeңне"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "кабodeңне"
+    }
+  ],
+  "timestamp": "2026-10-04T21:52:18.843380913Z",
+  "model": "glm-5.3"
+}

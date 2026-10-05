@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Ни өчен акылсызның кулында акча бар — хикмәт сатып алырга, ә йөрәге юк?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ни өчен"
+    },
+    {
+      "surface": "זה",
+      "gloss": ""
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "акча"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колында"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "акылсызның"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "сатып алырга"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ә йөрәге"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:58.927008471Z",
+  "model": "glm-5.3"
+}

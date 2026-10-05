@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Я җыелышның начарларын күрә алмыйм, һәм явызлар белән утырмыйм.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "күрә алмыйм"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "җыены"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "начарлар"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "явызлар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "утырмыйм"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:11.111416027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәм Седом патшасы Аврамга әйтте: ⟨את⟩ кешеләрне миңа бир, ә малны үзеңә ал.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Седом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "תן",
+      "gloss": "бир"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "кешеләрне"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "малны"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:27:09.911940603Z",
+  "model": "glm-5.3"
+}

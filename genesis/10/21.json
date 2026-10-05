@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Шемга да тудырылды — ⟨ул⟩ бөтен Эвер улларының атасы, Яфетнең олы туганы.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "Шемга да"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "тудырылды"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ул⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларының"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "туганы"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Яфетнең"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "олы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:08.309105151Z",
+  "model": "glm-5.3"
+}

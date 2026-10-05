@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм сез миңа җавап бирдегез һәм әйттегез: эшләргә сүзең яхшы.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "Һәм сез җавап бирдегез"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "миңа"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "һәм әйттегез"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүзең"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "сөйләдең"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "эшләргә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:20:21.229629153Z",
+  "model": "glm-5.3"
+}

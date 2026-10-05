@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм җаным бик нык куркынычка төште; ә син, Яһвә, кадәр?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "һәм җаным"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "куркынычка төште"
+    },
+    {
+      "surface": "мאד",
+      "gloss": "бик нык"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ә син"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кайчан"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:54.221926724Z",
+  "model": "glm-5.3"
+}

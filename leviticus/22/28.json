@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Ә үгезәрне яисә бәрәнне — ⟨את⟩ аны һәм ⟨את⟩ балаcын бер көндә суймагыз.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Ә үгезәрне"
+    },
+    {
+      "surface": "או",
+      "gloss": "яисә"
+    },
+    {
+      "surface": "שה",
+      "gloss": "бәрәнне"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "баласын"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "баласын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "суймагыз"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көндә"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-04T22:02:15.865316963Z",
+  "model": "glm-5.3"
+}

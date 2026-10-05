@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәм Моше эшләде — Яһвә аңа нәрсә кушкан булса, шулай эшләде.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "һәм эшләде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "кушкан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшләде"
+    }
+  ],
+  "timestamp": "2026-10-05T02:24:34.815492460Z",
+  "model": "glm-5.3"
+}

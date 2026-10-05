@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Һәм Ашер чиге өстендә: көнчыгыш ягыннан һәм диңгез ягына кадәр — Нафтали, бер.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Һәм өстендә"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чиге"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ягыннан"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "көнчыгыш"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "һәм кадәр"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ягына"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-05T00:25:29.853489594Z",
+  "model": "glm-5.3"
+}

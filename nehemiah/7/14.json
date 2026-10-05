@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Заккаиның уллары — җиде йөз алтмыш.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Заккай"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "һәм алтмыш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:09.989210944Z",
+  "model": "glm-5.3"
+}

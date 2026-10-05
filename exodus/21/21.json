@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Әмма әгәр ул бер яки ике көн торса, җәзаланмаячак, чөнки ул ⟨аның⟩ көмеше.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "әмма"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יום",
+      "gloss": "бер көн"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "ике көн"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "торса"
+    },
+    {
+      "surface": "לא",
+      "gloss": "җәзаланмаячак"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "җәзаланмаячак"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "көмеше"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T21:47:03.505874245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Шул үк көнне Авраһам сөннәткә утыртылды, һәм Йишмаэл, аның улы.",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "үз"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "сөннәткә утыртылды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "һәм Йишмаэл"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:27:32.738402158Z",
+  "model": "glm-5.3"
+}

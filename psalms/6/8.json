@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Кайгыдан күзем сүнә, бөтен дошманнарымнан картая.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "сүнә"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "кайгыдан"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "күзем"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "картая"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "дошманнарымнан"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:48.632012563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Әмма бодай һәм полба сугылмады, чөнки алар соң өлгерә.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "әмма бодай"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "һәм полба"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "сугылмады"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "соң өлгерә"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "алар"
+    }
+  ],
+  "timestamp": "2026-10-04T21:43:04.564704284Z",
+  "model": "glm-5.3"
+}

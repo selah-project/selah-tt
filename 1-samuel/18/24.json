@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм Шаул коллары аңа хәбәр иттеләр, дип: Болай дип Давид сөйләде.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "һәм хәбәр иттеләр"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "коллары"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "болай"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-04T22:54:15.040409170Z",
+  "model": "glm-5.3"
+}

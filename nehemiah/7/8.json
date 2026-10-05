@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Парош уллары: ике мең йөз җитмеш ике.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Парош"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ике мең"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "җитмеш"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ике"
+    }
+  ],
+  "timestamp": "2026-10-05T01:52:47.493510209Z",
+  "model": "glm-5.3"
+}

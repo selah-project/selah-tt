@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Кеназ кенәзе, Теман кенәзе, Мибцар кенәзе.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "кенәзе"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "кенәзе"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "кенәзе"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Мибцар"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:02.472678038Z",
+  "model": "glm-5.3"
+}

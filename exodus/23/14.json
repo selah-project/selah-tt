@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Өч тапкыр ел саен Миңа бәйрәм ит.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Өч"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "тапкыр"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "бәйрәм ит"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Миңа"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ел саен"
+    }
+  ],
+  "timestamp": "2026-10-05T02:21:38.638608342Z",
+  "model": "glm-5.3"
+}

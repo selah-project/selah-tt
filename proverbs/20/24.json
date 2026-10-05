@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Ир-атның адымнары Яһвәдән, ә кеше үз юлын ничек аңларлык?",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Яһвәдән"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "адымнары"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ир-атның"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ә кеше"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "аңлар"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "үз юлын"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:27.793170921Z",
+  "model": "glm-5.3"
+}

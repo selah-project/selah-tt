@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 47,
+  "translation": "Һәм көнбатыш ягы: зур диңгез, чектән Һаматка керү каршысына кадәр; бу — көнбатыш ягы.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "һәм ягы"
+    },
+    {
+      "surface": "ים",
+      "gloss": "көнбатыш"
+    },
+    {
+      "surface": "הים",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "зур"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "чиктән"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…ка кадәр"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "каршысына"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "керү"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Һамат"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ягы"
+    },
+    {
+      "surface": "ים",
+      "gloss": "көнбатыш"
+    }
+  ],
+  "timestamp": "2026-10-05T00:25:04.638458185Z",
+  "model": "glm-5.3"
+}

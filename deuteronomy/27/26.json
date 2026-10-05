@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Каргышлы — бу Тора сүзләрен ⟨את⟩ үтәмәгән, ⟨את⟩ аларны эшләмәгән кеше; һәм бөтен халык әйтер: Амин.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Каргышлы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "үтәмәгән"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тора сүзләрен"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сүзләрен"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "эшләмәгән"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ аларны"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "һәм әйтер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амин"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:38.403208740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм Аһарон әйтте: Минем хуҗам, ачуланма; син ⟨את⟩ бу халыкны беләсең, чөнки ул явыз.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "ачулан"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ачу"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "хуҗам"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "беләсең"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу халыкны"
+    },
+    {
+      "surface": "העם",
+      "gloss": "бу халыкны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T21:51:17.354645053Z",
+  "model": "glm-5.3"
+}

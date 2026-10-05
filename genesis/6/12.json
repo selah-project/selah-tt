@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Элоһим ⟨את⟩ җирне күрде, һәм бына, ул бозык, чөнки бөтен ит ⟨את⟩ үз юлын җир өстендә бозган.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "җирне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "бына"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "бозык"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "бозган"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ит"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үз юлын"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "үз юлын"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:09.159629612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Давид кальгада яшәде; шуңа күрә аны Давид шәһәре дип атадылар.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "һәм яшәде"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "кальгада"
+    },
+    {
+      "surface": "על",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "атадылар"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шәһәре"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:10.146414119Z",
+  "model": "glm-5.3"
+}

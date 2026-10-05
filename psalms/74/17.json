@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 74,
+  "translation": "Син җирнең бөтен чикләрен билгеләдең; җәйне һәм кышны Син ясадың.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "билгеләдең"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "чикләрен"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җирнең"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "җәйне"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "һәм кышны"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "ясадың"
+    }
+  ],
+  "timestamp": "2026-10-05T00:54:42.730889068Z",
+  "model": "glm-5.3"
+}

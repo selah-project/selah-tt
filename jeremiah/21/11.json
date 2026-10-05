@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Йәһүдә патшасы йортына әйт: Яһвә сүзен тыңлагыз.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "йортына"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йәһүдә"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "тыңлагыз"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:53:50.938293940Z",
+  "model": "glm-5.3"
+}

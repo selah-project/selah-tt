@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Элифазның уллары: Тейман, вә Омар, Цефи вә Гатам, Кеназ, вә Тимна вә Амалек.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифазның"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Тейман"
+    },
+    {
+      "surface": "вאומר",
+      "gloss": "вә Омар"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "Цефи"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "вә Гатам"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназ"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "вә Тимна"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "вә Амалек"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:22.479849354Z",
+  "model": "glm-5.3"
+}

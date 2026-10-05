@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Парша ⟨את⟩ йөрәген монда тагы авырлатты һәм ⟨את⟩ халыкны җибәрмәде.",
+  "tokens": [
+    {
+      "surface": "ויכבд",
+      "gloss": "авырлатты"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парша"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "йөрәген"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "йөрәген"
+    },
+    {
+      "surface": "גם",
+      "gloss": "тагы"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "монда"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "җибәрмәде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халыкны"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халыкны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:43:19.513764832Z",
+  "model": "glm-5.3"
+}

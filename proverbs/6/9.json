@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Кайчангача, ялкау, ятасың? Кайчан йокыңнан торасың?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "кайчангача"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кайчан"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ялкау"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ятасың"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кайчан"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "торасың"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "йокыңнан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:05.018325514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Пәләг утыз ел яшәде һәм Рәгүне ⟨את⟩ тудырды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Пәләг"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "утыз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рәгүне"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Рәгү"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:27.795136507Z",
+  "model": "glm-5.3"
+}

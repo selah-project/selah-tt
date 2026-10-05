@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Патша хөкем белән җирне төзек тотыр, ә бүләкләр алучы кеше аны җимерә.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "хөкем белән"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "төзек тотыр"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "бүләкләр"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "җимерә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:54.000047836Z",
+  "model": "glm-5.3"
+}

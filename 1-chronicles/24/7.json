@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм беренче жребий Йеһояривка чыкты, икенчесе Йедаьяга.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жребий"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "беренче"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "Йеһояривка"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "Йедаьяга"
+    },
+    {
+      "surface": "השני",
+      "gloss": "икенче"
+    }
+  ],
+  "timestamp": "2026-10-05T02:48:41.994895470Z",
+  "model": "glm-5.3"
+}

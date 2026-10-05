@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм ул бакыр мәйдан ясады: озынлыгы егерме ама, киңлеге егерме ама, биеклеге ун ама.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "һәм ясады"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "мәйдан"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "бакыр"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ама"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "озынлыгы"
+    },
+    {
+      "surface": "ויעשרים",
+      "gloss": "һәм егерме"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ама"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "киңлеге"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "һәм ун"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ама"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "биеклеге"
+    }
+  ],
+  "timestamp": "2026-10-05T02:07:39.933483090Z",
+  "model": "glm-5.3"
+}

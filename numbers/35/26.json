@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 35,
+  "translation": "Әмма әгәр үтерүче ул качкан сыену шәһәренең чигеннән чыгып китсә,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "әмма әгәр"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыгып"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "китсә"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "үтерүче"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чигеннән"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чиге"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шәһәренең"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "сыену"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "качкан"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "анда"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:14.389480354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм Яаков әйтте Ривкага, әнисенә: Кара, Эсав абым — төкле кеше, ә мин — йомшак тәнле кеше.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янә"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ривка"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "әнисе"
+    },
+    {
+      "surface": "הן",
+      "gloss": "кара"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "абам"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "שער",
+      "gloss": "төкле"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ә мин"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "йомшак тәнле"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:45.200410138Z",
+  "model": "glm-5.3"
+}

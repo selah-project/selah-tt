@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм Шимшон Азага китте, һәм анда зина кылучы хатын күрде һәм аңа керде.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "китте"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшон"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "Азага"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "зина кылучы"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "керде"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T22:46:46.720438486Z",
+  "model": "glm-5.3"
+}

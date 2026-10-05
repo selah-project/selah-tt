@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Узиилнең уллары: Мишаэл, Элцафан һәм Ситри.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Узиил"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Мишаэл"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "Элцафан"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "Ситри"
+    }
+  ],
+  "timestamp": "2026-10-04T21:41:21.011604735Z",
+  "model": "glm-5.3"
+}

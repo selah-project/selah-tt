@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Саклан үзеңә, китәр син ⟨את⟩ Яһвәне онытсаң — ⟨Ул⟩ сине Мицраим иленнән, коллар йортыннан чыгарган.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "саклан"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "פן",
+      "gloss": "китәр"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "онытсаң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвәне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨Ул⟩"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "чыгарган"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "иленнән"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "йортыннан"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "коллар"
+    }
+  ],
+  "timestamp": "2026-10-05T02:25:59.052886145Z",
+  "model": "glm-5.3"
+}

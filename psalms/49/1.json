@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 49,
+  "translation": "Җитәкчегә; Корах улларына; мәдхийә.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "җитәкчегә"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхийә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:46.264995322Z",
+  "model": "glm-5.3"
+}

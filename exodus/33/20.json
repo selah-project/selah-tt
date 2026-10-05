@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Һәм Ул әйтте: Минем йөземне ⟨את⟩ күрә алмассың, чөнки кеше Мине күрә һәм терек калмый.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "алмассың"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "йөземне"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөземне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "терек калмый"
+    }
+  ],
+  "timestamp": "2026-10-04T21:52:18.843775828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ни отыш эшләүчегә, ул тырышкан нәрсәдән?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "отыш"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "эшләүчегә"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "нәрсәдән"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "тырыша"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:17.903544154Z",
+  "model": "glm-5.3"
+}

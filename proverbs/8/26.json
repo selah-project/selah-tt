@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Әле җирне, кырларны һәм дөнья тузанының башын ясамаганда.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "…ганча"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ясамаганда"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җирне"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "һәм кырларны"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "һәм башын"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "тузанының"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "дөнья"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:51.064382736Z",
+  "model": "glm-5.3"
+}

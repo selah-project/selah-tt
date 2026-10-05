@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Яңа йорт салсаң, түбәңә тыштыр эшлә, шуның белән йортыңда кан өстәлмәсен, әгәр берәү аннан егылса.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "салсаң"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорт"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "яңа"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "эшлә"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "тыштыр"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "түбәңә"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…мәсен"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "өстәл"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кан"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "йортыңда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "егылса"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "берәү"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аннан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:26:46.574456837Z",
+  "model": "glm-5.3"
+}

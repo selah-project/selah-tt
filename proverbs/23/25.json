@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Атаң шатланыр, анаң да, ә сине тудырган сөенер.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "шатланыр"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаң"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "һәм анаң"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "да сөенер"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "сине тудырган"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:13.462508147Z",
+  "model": "glm-5.3"
+}

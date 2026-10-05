@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм Йоаш Яһвә күзләрендә туры эшне кылды коһен Йеһояданың бар көннәрендә.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "кылды"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "туры эшне"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "күзләрендә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "көннәрендә"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йеһояданың"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коһен"
+    }
+  ],
+  "timestamp": "2026-10-05T02:12:44.993763094Z",
+  "model": "glm-5.3"
+}

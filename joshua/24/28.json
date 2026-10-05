@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм Йеһошуа ⟨את⟩ халыкны җибәрде, һәр кеше үз мирасына.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "җибәрде"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халыкны"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халыкны"
+    },
+    {
+      "surface": "איש",
+      "gloss": "һәр кеше"
+    },
+    {
+      "surface": "לנחלатו",
+      "gloss": "үз мирасына"
+    }
+  ],
+  "timestamp": "2026-10-04T22:39:05.497883093Z",
+  "model": "glm-5.3"
+}

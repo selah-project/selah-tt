@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 68,
+  "translation": "Гаскәр патшалары качалар, качалар, ә өйдә ятучы хатын талаен бүлә.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "патшалары"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "гаскәр"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "качалар"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "качалар"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "ятучы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өйдә"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "бүлә"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "талаен"
+    }
+  ],
+  "timestamp": "2026-10-05T00:53:19.895946899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Яхшысы — нәзер әйтмәвең, нәзер әйтеп тә үтәмәвеңнән яхшырак.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "нәзер әйт"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ләкин… түгел"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "үтә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:01.522244168Z",
+  "model": "glm-5.3"
+}

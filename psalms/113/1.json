@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 113,
+  "translation": "Мактаыгыз Яһны, мактаыгыз, Элоһим ⟨את⟩ … ",
+  "tokens": [],
+  "timestamp": "2026-10-05T01:01:09.179729646Z",
+  "model": "glm-5.3"
+}

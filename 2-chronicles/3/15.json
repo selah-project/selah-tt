@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм өй алдында ике багана ясады — озынлыгы утыз биш ачы; һәм башындагы бизәк биш ачы ⟨иде⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Һәм ул ясады"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "өй"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "багана"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ачы"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "утыз"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "озынлыгы"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "һәм бизәк"
+    },
+    {
+      "surface": "אשר",
+      "gloss": " ⟨булган⟩ "
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "аның башы"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ачы"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    }
+  ],
+  "timestamp": "2026-10-05T02:06:45.133923021Z",
+  "model": "glm-5.3"
+}

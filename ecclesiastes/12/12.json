@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Һәм алардан башкасы турында, улым, сак бул: китапларны күп язуга чик юк, һәм күп уку тәнне арыта.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "һәм башкасы"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "сак бул"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "язуга"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "китапларны"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "күп"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "чик"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "һәм уку"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "күп"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "арыш"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тәнне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:37:10.008640679Z",
+  "model": "glm-5.3"
+}

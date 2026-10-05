@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Башта Элоһим ⟨את⟩ күкне һәм ⟨את⟩ җирне яратты.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Башта"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "яратты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күкне"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күкне"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "җирне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:03.038889915Z",
+  "model": "glm-5.3"
+}

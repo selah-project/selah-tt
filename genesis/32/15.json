@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "ике йөз кәҗә һәм егерме тәкә, ике йөз сарык һәм егерме койчык —",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "кәҗә"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ике йөз"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "һәм егерме"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "тәкә"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "сарык"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ике йөз"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "һәм койчык"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "егерме"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:54.925391220Z",
+  "model": "glm-5.3"
+}

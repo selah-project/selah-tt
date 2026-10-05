@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Җибәрегез бәрәнне, җир хакименең, Селадан чүллектән, Сион кызы тавына.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Җибәрегез"
+    },
+    {
+      "surface": "כר",
+      "gloss": "бәрән"
+    },
+    {
+      "surface": "משל",
+      "gloss": "хакименең"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Селадан"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "чүллектән"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кә"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тавына"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    }
+  ],
+  "timestamp": "2026-10-04T23:33:43.912286282Z",
+  "model": "glm-5.3"
+}

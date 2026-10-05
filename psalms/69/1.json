@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 69,
+  "translation": "Хормейстергә, „Шөшәннәр“ өчен, Давидтан.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Хормейстергә"
+    },
+    {
+      "surface": "על",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "„Шөшәннәр“"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидтан"
+    }
+  ],
+  "timestamp": "2026-10-05T00:53:27.849988232Z",
+  "model": "glm-5.3"
+}

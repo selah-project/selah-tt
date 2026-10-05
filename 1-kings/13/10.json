@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Ул башка юл белән китте һәм Бейт-Элга килгән юлыннан кире кайтмады.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "китте"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "юл белән"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "שב",
+      "gloss": "кайтмады"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "юлыннан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кіlгән"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килгән"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аның белән"
+    },
+    {
+      "surface": "אל",
+      "gloss": "якка"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-10-04T23:13:42.357817337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Һәм Йицхак Герарда яшәде.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "һәм яшәде"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "Герарда"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:19.484615136Z",
+  "model": "glm-5.3"
+}

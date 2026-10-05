@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Ул егылса да, ташланылмас, чөнки Яһвә аның кулын тотып тора.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "егылса"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "ташланмас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "таяп тора"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "аның кулын"
+    }
+  ],
+  "timestamp": "2026-10-05T00:47:49.858677946Z",
+  "model": "glm-5.3"
+}

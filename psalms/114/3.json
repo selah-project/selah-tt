@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 114,
+  "translation": "Диңгез күрде һәм качты, Иардан артка борылды.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "Диңгез"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "һәм качты"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иардан"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "борылды"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "артка"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:45.806753826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 28:24",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Чөнки Ул җирнең читләренә карый, бөтен күк астын күрә.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "לקצות",
+      "gloss": "читләренә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирнең"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "карый"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күк"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "күрә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:23:57.936705647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Бал таптыңмы — үзеңә җитәрлеген аша, яки туйып аны косып җибәрерсең.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "бал"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "таптың"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "аша"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "җитәрлеген"
+    },
+    {
+      "surface": "пен",
+      "gloss": "яки"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "туйып"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "косып җибәрерсең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:01.880489072Z",
+  "model": "glm-5.3"
+}

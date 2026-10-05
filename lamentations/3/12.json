@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ул җәяен басып кырды һәм мине укка максат итеп куйды.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "басып кырды"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "җәяен"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "мине куйды"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "максат итеп"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "укка"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:01.533943518Z",
+  "model": "glm-5.3"
+}

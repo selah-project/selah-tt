@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Һәм сугышка якынлашканыгызда каһин килер һәм халыкка сөйләр.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Һәм булыр"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "якынлашканагызда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "сугышка"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "килер"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "һәм сөйләр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халыкка"
+    }
+  ],
+  "timestamp": "2026-10-04T22:26:15.442608545Z",
+  "model": "glm-5.3"
+}

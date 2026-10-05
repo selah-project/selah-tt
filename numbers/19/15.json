@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "һәм өстенә бау белән бәйләнгән капкачы булмаган һәр ачык савыт — нәпактыр.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "һәм һәр"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "савыт"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ачык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "капкачы"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "бау"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нәпак"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ул⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T22:13:54.902082909Z",
+  "model": "glm-5.3"
+}

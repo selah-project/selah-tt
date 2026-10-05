@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Чөнки мин сезгә яхшы тәгълим бирдем, минем Торамны ташламагыз.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "тәгълим"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "бирдем"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "минем Торамны"
+    },
+    {
+      "surface": "אל",
+      "gloss": "─"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ташламагыз"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:45.886838425Z",
+  "model": "glm-5.3"
+}

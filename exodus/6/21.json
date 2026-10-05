@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Йицһарның уллары: Корах, Нефег һәм Зихри.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Йицһар"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "Нефег"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "Зихри"
+    }
+  ],
+  "timestamp": "2026-10-04T21:41:21.011353704Z",
+  "model": "glm-5.3"
+}

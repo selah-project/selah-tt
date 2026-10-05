@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Һәм Моше китте, һәм бу сүзләрне ⟨את⟩ бөтен Йисраэлгә әйтте.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "һәм китте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сүзләрне"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сүзләрне"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "әйтергә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "Йисраэл placeholder",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T22:31:16.098965943Z",
+  "model": "glm-5.3"
+}

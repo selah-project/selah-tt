@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Чөнки чит хатынның иреннәре бал тамызалар, һәм аның авызы майнан да йомшак.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "бал"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "тамызалар"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "иреннәре"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "чит хатын"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "һәм йомшак"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "майнан"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "авызы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:44.254509480Z",
+  "model": "glm-5.3"
+}

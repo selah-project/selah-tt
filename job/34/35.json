@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 34:35",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Әйүп белмичә сөйли, һәм аның сүзләрендә акыл юк.",
+  "tokens": [
+    {
+      "surface": "איוב",
+      "gloss": "Әйүп"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "белмичә"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "сөйли"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "һәм аның сүзләрендә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "בהשכיל",
+      "gloss": "акыл"
+    }
+  ],
+  "timestamp": "2026-10-05T01:26:36.331663157Z",
+  "model": "glm-5.3"
+}

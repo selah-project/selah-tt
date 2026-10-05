@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Һәм Моше, Яһвәнең колы, шунда үлде, Моав илендә, Яһвәнең сүзе буенча.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "һәм үлде"
+    },
+    {
+      "surface": "שם",
+      "gloss": "шунда"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "колы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "илендә"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "על",
+      "gloss": "буенча"
+    },
+    {
+      "surface": "פי",
+      "gloss": "авыз ⟨сүзе⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:31:28.713457373Z",
+  "model": "glm-5.3"
+}

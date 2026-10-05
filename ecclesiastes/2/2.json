@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Көлү турында әйттем: ул акылсыз; ә шатлыкка — бу ни эшли?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "көлү турында"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "әйттем"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "акылсыз"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "ә шатлыкка"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшли"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:06.474175691Z",
+  "model": "glm-5.3"
+}

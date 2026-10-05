@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Әмма ⟨את⟩ итне һәм ⟨את⟩ тирене утта, лагерьдан тыш яндырды.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "итне"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "итне"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "тирене"
+    },
+    {
+      "surface": "העור",
+      "gloss": "тирене"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "яндырды"
+    },
+    {
+      "surface": "באש",
+      "gloss": "утта"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "тыш"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "лагерьдан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:29.840233222Z",
+  "model": "glm-5.3"
+}

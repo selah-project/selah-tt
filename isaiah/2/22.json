@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Туктагыз ⟨ бу кешедән ⟩ — борынында сулышы булган кешедән, чөнки ул нини тора?",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "Туктагыз"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨сез⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−нан"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кешедән"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "булган"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "сулышы"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "борынында"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "במה",
+      "gloss": "нини"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "тора"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-05T02:33:50.825002669Z",
+  "model": "glm-5.3"
+}

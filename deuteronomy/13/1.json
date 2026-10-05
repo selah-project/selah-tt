@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "⟨את⟩ Бу бар сүзне, мин ⟨את⟩ силәргә боерамын — аны саклагыз үтәр өчен; аңа өстәрсез, һәм аннан киметерсез.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бар сүз"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мин"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "боерамын"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силәр"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "саклагыз"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "үтәр өчен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "өстәрсез"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "киметерсез"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аннан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:52.460593442Z",
+  "model": "glm-5.3"
+}

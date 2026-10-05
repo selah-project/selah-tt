@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Сугуыңны өстемнән ерагайт; кулыңның һөҗүменнән мин беттем.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ерагайт"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "өстемнән"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "сугуыңны"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "һөҗүме"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "кулыңның"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "беттем"
+    }
+  ],
+  "timestamp": "2026-10-05T00:48:16.582909982Z",
+  "model": "glm-5.3"
+}

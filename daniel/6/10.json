@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Шуның өчен Дарийуш патша ⟨имзалады⟩ язуны һәм тыюны.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "шуның"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "моңа"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "патша"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Дарийуш"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "имзалады"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "язуны"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "һәм тыюны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:43:51.174274169Z",
+  "model": "glm-5.3"
+}

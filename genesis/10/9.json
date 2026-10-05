@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 10:9",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Ул Яһвә алдында көчле аучы булды; шуңа күрә әйтелә: Нимрод кеби, Яһвә алдында көчле аучы.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ул"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "көчле"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "аучы"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "על",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "әйтелә"
+    },
+    {
+      "surface": "כנמרד",
+      "gloss": "Нимрод кеби"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "көчле"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "аучы"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:19.566237561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Нахшон ⟨את⟩ Салманы тудырды, һәм Салма ⟨את⟩ Боазны тудырды.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Һәм Нахшон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Салманы"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Салманы"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "һәм Салма"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Боазны"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Боазны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:05.689203243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм Нәтан патшага әйтте: Йөрәгеңдәге барысын да бар, эшлә, чөнки Яһвә синең белән.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нәтан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "йөрәгеңдәге"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшлә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "синең белән"
+    }
+  ],
+  "timestamp": "2026-10-04T23:00:58.847317259Z",
+  "model": "glm-5.3"
+}

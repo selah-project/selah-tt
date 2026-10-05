@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "⟨Алар⟩ иртә саен яңа, бик зур Синең тугрылыгың.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "яңа"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "иртә саен"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "бик зур"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "тугрылыгың"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:39.351473171Z",
+  "model": "glm-5.3"
+}

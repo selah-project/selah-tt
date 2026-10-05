@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Сугышлардан һәм олаҗдан алар Яһвә йортын ныгыту өчен изгеләндерделәр.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "המלחמות",
+      "gloss": "сугышлар"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "һәм -дан"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "олач"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "изгеләндерделәр"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "ныгыту өчен"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "йортын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:04:38.041533216Z",
+  "model": "glm-5.3"
+}

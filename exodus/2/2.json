@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм хатын бала көтте һәм ул туды, һәм ул аны күрде — чөнки ул яхшы ⟨иде⟩ — һәм аны өч ай яшерде.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "бала көтте"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "аны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "яшерде"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "өч"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "ай"
+    }
+  ],
+  "timestamp": "2026-10-04T21:41:00.172346545Z",
+  "model": "glm-5.3"
+}

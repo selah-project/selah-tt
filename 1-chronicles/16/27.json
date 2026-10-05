@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Күркәмлек һәм дан Аның алдында; көч һәм шатлык Аның урынында.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Күркәмлек"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "һәм дан"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Аның алдында"
+    },
+    {
+      "surface": "עז",
+      "gloss": "көч"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "һәм шатлык"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "Аның урынында"
+    }
+  ],
+  "timestamp": "2026-10-05T02:48:28.872702256Z",
+  "model": "glm-5.3"
+}

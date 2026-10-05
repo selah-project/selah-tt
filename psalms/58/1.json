@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 58,
+  "translation": "Көй башкаручыга. «Җимермәгез». Давиднең михтамы.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Көй башкаручыга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бирмәгез"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "җимермәгез"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиднең"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "михтам"
+    }
+  ],
+  "timestamp": "2026-10-05T00:51:23.818793801Z",
+  "model": "glm-5.3"
+}

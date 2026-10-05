@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 16:13",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Эй Йисраэл орлыгы, Аның колы, эй Яаков уллары, Аның сайланганнары!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "орлыгы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "Аның колы"
+    },
+    {
+      "surface": "вני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "Аның сайланганнары"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:07.762991206Z",
+  "model": "glm-5.3"
+}

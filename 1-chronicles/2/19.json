@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "һәм Аҙуәба үлде, һәм Калеб үзенә ⟨את⟩ Эфратны алды, һәм ул аңа ⟨את⟩ Һурны тудырды.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "һәм үлде"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Аҙуәба"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "һәм алды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "үзенә"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калеб"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эфратны"
+    },
+    {
+      "surface": "אפרрат",
+      "gloss": "Эфрат"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "һәм тудырды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Һурны"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Һур"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:31.426828656Z",
+  "model": "glm-5.3"
+}

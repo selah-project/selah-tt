@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 119,
+  "translation": "Ул чакта оялмас идем, бөтен боерыкларыңа караганда.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ул чакта"
+    },
+    {
+      "surface": "לא",
+      "gloss": "оялмас идем"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": ""
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "караганда"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "боерыкларыңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:33.371893466Z",
+  "model": "glm-5.3"
+}

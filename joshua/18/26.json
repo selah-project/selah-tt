@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "һәм Һа-Мицпа һәм Һа-Кефира һәм Һа-Моца",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "һәм Һа-Мицпа"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "һәм Һа-Кефира"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "һәм Һа-Моца"
+    }
+  ],
+  "timestamp": "2026-10-04T22:37:17.032211434Z",
+  "model": "glm-5.3"
+}

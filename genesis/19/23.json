@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Кояш җир өстенә чыкты, һәм Лут Цоарга керде.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "Кояш"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "һәм Лут"
+    },
+    {
+      "surface": "בא",
+      "gloss": "керде"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "Цоарга"
+    }
+  ],
+  "timestamp": "2026-10-04T21:28:42.974819795Z",
+  "model": "glm-5.3"
+}

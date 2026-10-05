@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Һәм хәзер, нәрсә көтәм мин, Адонай? Минем өметем сиңа — ул.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "һәм хәзер"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "көтәм мин"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "минем өметем"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-05T00:48:47.127067685Z",
+  "model": "glm-5.3"
+}

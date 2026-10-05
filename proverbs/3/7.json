@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Үз күзләреңдә хәким булма, Яһвәдан куркы һәм явызлыктан читләш.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "⟨-ма⟩"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бул"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хәким"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "күзләреңдә"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "куркы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвәне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "һәм читләш"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "явызлыктан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:22.124327864Z",
+  "model": "glm-5.3"
+}

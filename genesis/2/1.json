@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм күкләр һәм җир тәмамланды, һәм аларның бөтен гаскәре.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "тәмамланды"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күкләр"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "һәм җир"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм бөтен"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "аларның гаскәре"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:38.584289217Z",
+  "model": "glm-5.3"
+}

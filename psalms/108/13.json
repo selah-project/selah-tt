@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 108,
+  "translation": "Бир безгә бәладән ярдәм, ә кешенең коткаруы — юкка гына.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "бир"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ярдәм"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "бәладән"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ә юкка гына"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "коткаруы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешенең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:01:13.839618993Z",
+  "model": "glm-5.3"
+}

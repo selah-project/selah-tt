@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бер алтын көпшә, ун шекел, төтетү әтірчеләре белән тулы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "көпшә"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "төтетү әтірчеләре"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:48.255679345Z",
+  "model": "glm-5.3"
+}

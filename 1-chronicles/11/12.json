@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм аның артыннан Эльазар, Додо улы, Аһоһие: ул өч батыр арасында ⟨булды⟩.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "һәм аның артыннан"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Эльазар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Додо"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "Аһоһие"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "өч арасында"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "батыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:27.367180338Z",
+  "model": "glm-5.3"
+}

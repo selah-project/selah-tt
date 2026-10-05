@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм кеше бөгелде, һәм ир түбәшәйтелде — аларны күтәрмә.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "һәм бөгелде"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "һәм түбәшәйтелде"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ир"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм әйтмә"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "күтәрмә"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларны"
+    }
+  ],
+  "timestamp": "2026-10-04T23:28:12.366616482Z",
+  "model": "glm-5.3"
+}

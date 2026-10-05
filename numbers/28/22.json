@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Һәм бер тәкә — гөнаһ корбаны, сезне килештерү өчен.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "һәм тәкә"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "гөнаһ корбаны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "килештерү өчен"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "сезне"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:22.424674328Z",
+  "model": "glm-5.3"
+}

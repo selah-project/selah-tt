@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 73,
+  "translation": "Һәм алар әйтәләр: Ничек Эл беләр? һәм Биеклектә белем бармы?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "һәм алар әйтәләр"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "беләр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "һәм бармы"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "белем"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "Биектә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:54:05.339929810Z",
+  "model": "glm-5.3"
+}

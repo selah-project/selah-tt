@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 115,
+  "translation": "Аларның потлары — көмеш һәм алтын, кешеләр кулларының эше.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "аларның потлары"
+    },
+    {
+      "surface": "косвенный placeholders",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:03.213734010Z",
+  "model": "glm-5.3"
+}

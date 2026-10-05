@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм кеше баш иеде һәм Яһвәгә сәҗдә кылды.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "баш иеде"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "сәҗдә кылды"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:30:15.538349218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Маһнадабай, Шашай, Шарай,",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "Маһнадабай"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Шашай"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Шарай"
+    }
+  ],
+  "timestamp": "2026-10-05T01:49:27.970435574Z",
+  "model": "glm-5.3"
+}

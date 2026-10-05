@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Рехавйаһ турында: Рехавйаһ улларының — башлык Йишшийаһ.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "Рехавйаһ турында"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "улларының"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "Рехавйаһ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "башлык"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Йишшийаһ"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:13.010845037Z",
+  "model": "glm-5.3"
+}

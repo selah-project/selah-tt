@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 23:29",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Минем сүзем шулай ут кеби түгелме — Яһвә сүзе — һәм чук кеби ташны вата?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "түгелме"
+    },
+    {
+      "surface": "כה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "минем сүзем"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ут кеби"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "וכפטיש",
+      "gloss": "һәм чук кеби"
+    },
+    {
+      "surface": "יפצץ",
+      "gloss": "вата"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ташны"
+    }
+  ],
+  "timestamp": "2026-10-04T23:54:44.998434443Z",
+  "model": "glm-5.3"
+}

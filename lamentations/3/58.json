@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Адонай, Син минем җанымның эшләрен якладың, Син минем тормышымны коткардың.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "якладың"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "эшләрен"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "минем җанымның"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "коткардың"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "минем тормышымны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:09.049270908Z",
+  "model": "glm-5.3"
+}

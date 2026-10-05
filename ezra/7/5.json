@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Абишуа улы, Пинехас улы, Элазар улы, Аһарон улы — баш каһин.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Абишуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинехас"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһарон"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "баш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:48:38.036753234Z",
+  "model": "glm-5.3"
+}

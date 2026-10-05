@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "һәм майланган каһин үгез каныннан очрашу чатырына китерер.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "һәм китерер"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "майланган"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "каныннан"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "үгез"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатыр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "очрашу"
+    }
+  ],
+  "timestamp": "2026-10-04T21:56:28.551069536Z",
+  "model": "glm-5.3"
+}

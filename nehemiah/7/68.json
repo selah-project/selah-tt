@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Дөяләр — дүрт йөз утыз биш; ишәкләр — алты мең җиде йөз егерме.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "дөяләр"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "утыз"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "һәм биш"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "ишәкләр"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "алты"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мең"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "һәм егерме"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:32.256899616Z",
+  "model": "glm-5.3"
+}

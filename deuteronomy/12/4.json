@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Үз Элоһимыгыз Яһвәгә болай эшләмәссез.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "−ма"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "эшләмәссез"
+    },
+    {
+      "surface": "כן",
+      "gloss": "болай"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоһимыгыз"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:34.919182382Z",
+  "model": "glm-5.3"
+}

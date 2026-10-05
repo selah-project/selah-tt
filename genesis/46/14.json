@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 46,
+  "translation": "Һәм Зебулунның уллары: Серед, һәм Элон, һәм Яһлеел.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм …ның уллары"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "Серед"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "һәм Элон"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "һәм Яһлеел"
+    }
+  ],
+  "timestamp": "2026-10-04T21:38:47.860872030Z",
+  "model": "glm-5.3"
+}

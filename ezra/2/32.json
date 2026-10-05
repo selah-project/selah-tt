@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һарим уллары, өч йөз егерме.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Һарим"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "егерме"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:09.914590647Z",
+  "model": "glm-5.3"
+}

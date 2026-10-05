@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Бар начарлык, кайсын мин күрдем кояш астында, һәм ул кеше өстенә зур.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "начарлык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсын"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "күрдем"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояш"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "һәм зур"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кеше"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:39.437606522Z",
+  "model": "glm-5.3"
+}

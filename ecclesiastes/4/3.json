@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "һәм икесенән дә яхшырак ⟨את⟩ ул — әлегә кадәр булмаган, ул кояш астында эшләнгән явыз эшне күрмәгән.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "һәм яхшырак"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "икесенән дә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ул — әлегә кадәр булмаган"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עדן",
+      "gloss": "әлегә кадәр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булган"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрмәгән"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "явыз эшне"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "эшне"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "эшләнгән"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:12.218027337Z",
+  "model": "glm-5.3"
+}

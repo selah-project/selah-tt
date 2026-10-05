@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Кем ул кеше — Яһвәдән куркучы? Шуны Ул Үзе сайлаган юлда өйрәтәчәк.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кем"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ул"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "куркучы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәдән"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "өйрәтәчәк"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "юлда"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "Үзе сайлаган"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:19.642121016Z",
+  "model": "glm-5.3"
+}

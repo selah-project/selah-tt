@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Беренче көнне изге җыелыш була; сез эш хезмәтенең бөтен эшен эшләмәсзез.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "Беренче"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "җыелыш"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "изге"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "эш"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "хезмәт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…мас"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "эшләрсез"
+    }
+  ],
+  "timestamp": "2026-10-04T22:03:44.321400059Z",
+  "model": "glm-5.3"
+}

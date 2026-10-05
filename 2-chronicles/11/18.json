@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 11:18",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Рәһабам үзенә хатын алды — ⟨את⟩ Маһалатны, Давид улы Йәримот кызы; әнәсе — Йишай улы Элиаб кызы Әвиһаил.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "үзенә"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рәһабам"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Маһалатны"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Маһалатны"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ירימות",
+      "gloss": "Йәримот"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Әвиһаил"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиаб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Йишай"
+    }
+  ],
+  "timestamp": "2026-10-05T02:09:20.059434730Z",
+  "model": "glm-5.3"
+}

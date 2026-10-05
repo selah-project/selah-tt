@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 45,
+  "translation": "Һәм Цор кызы бүләк белән килә, халык байлары йөзеңне ялварый.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "һәм кызы"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "бүләк белән"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "йөзеңне"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "ялварый"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "байлары"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халык"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:45.831005490Z",
+  "model": "glm-5.3"
+}

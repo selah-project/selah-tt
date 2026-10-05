@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Тик кан ашамаска нык тот, чөнки кан — ул ⟨ ул ⟩ җан; җанны ит белән бергә ашарга ярамый.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тик"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "нык тот"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ашамаска"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ашарга"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ул⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ярамый"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ашарга"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ит"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:52.658575213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм көймә җиденче айда, айның ун җиденче көнендә Арарат таулары өстенә утырды.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "утырды"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "көймә"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "айда"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "җиденче"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "җиденче"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көнендә"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айның"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "таулары"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Арарат"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:42.504454005Z",
+  "model": "glm-5.3"
+}

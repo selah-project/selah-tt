@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Урия әл-Хитти — барысы утыз җиде кеше.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "әл-Хитти"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысы"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "утыз"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "җиде"
+    }
+  ],
+  "timestamp": "2026-10-04T23:07:18.684027902Z",
+  "model": "glm-5.3"
+}

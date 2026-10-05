@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 141,
+  "translation": "Яһвә, авызыма сакчы куй, иреннәрем ишеген сакла.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "куй"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "сакчы"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "авызыма"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "сакла"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ишеген"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "иреннәрем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:06:12.637323387Z",
+  "model": "glm-5.3"
+}

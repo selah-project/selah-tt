@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Һәм ярлы кешегә аның суд эшендә ышаныч күрсәтмә.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "һәм ярлы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ышаныч күрсәтмә"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "аның суд эшендә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:47:38.350571950Z",
+  "model": "glm-5.3"
+}

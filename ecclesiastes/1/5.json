@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм кояш чыга, һәм кояш бата, һәм үз урынына сулый-тырып бара — ул, чыгучы, шунда ⟨яңадан чыгачак⟩.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "һәм чыга"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояш"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "һәм бата"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояш"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм ... ка"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "үз урыны"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "сулый-тырып"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "чыгучы"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "שם",
+      "gloss": "шунда"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:56.566265198Z",
+  "model": "glm-5.3"
+}

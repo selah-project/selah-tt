@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Зевулуннан — Элиав, Хелон улы.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "Зевулуннан"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелон"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:38.921412794Z",
+  "model": "glm-5.3"
+}

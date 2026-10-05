@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Болар Гилгадның уллары: Иезер — Иезри нәселе; Хелек — Хелки нәселе.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилгадның"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "Иезер"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "нәселе"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "Иезри"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "Хелек"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "нәселе"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "Хелки"
+    }
+  ],
+  "timestamp": "2026-10-04T22:15:50.671609711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 29:26",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм бишенче көнне тугыз үгез, ике тәкә, ундүрт бер яшьлек бозыксыз бәрән.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "һәм көнне"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "бишенче"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "үгез"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "тугыз"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "тәкә"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "бәрән"
+    },
+    {
+      "surface": "בני",
+      "gloss": "яшьлек"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "бер яшь"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ундүрт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "үрт"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "бозыксыз"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:19.866827711Z",
+  "model": "glm-5.3"
+}

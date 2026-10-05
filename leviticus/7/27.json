@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәр бер җан, бер нинди кан да ашый икән — шул җан үз халкыннан киселер.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "һәр бер"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "икән"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ашый"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бер нинди"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "киселер"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "шул җан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "үз халкыннан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:56:30.880299081Z",
+  "model": "glm-5.3"
+}

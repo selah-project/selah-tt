@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Әгәр ул хатын-кыз булса, синең бәяләмәң утыз шекел булсын.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "хатын-кыз"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "булсын"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "синең бәяләмәң"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "утыз"
+    },
+    {
+      "surface": "шקל",
+      "gloss": "шекел"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:41.554739600Z",
+  "model": "glm-5.3"
+}

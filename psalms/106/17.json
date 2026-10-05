@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 106,
+  "translation": "Җир ачылды һәм Датанны йотты, һәм Авiram җәмгыяте өстен каплады.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "ачылды"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "һәм йотты"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Датанны"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "һәм каплады"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстен"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "җәмгыяте"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Авирам"
+    }
+  ],
+  "timestamp": "2026-10-05T01:00:39.441271282Z",
+  "model": "glm-5.3"
+}

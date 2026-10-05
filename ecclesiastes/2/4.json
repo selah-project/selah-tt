@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Эшләремне зурайттым, үземә йортлар салдым, үземә йөзем бакчалары утырттым.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "зурайттым"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "эшләремне"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "салдым"
+    },
+    {
+      "surface": "לי",
+      "gloss": "үземә"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "йортлар"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "утырттым"
+    },
+    {
+      "surface": "לי",
+      "gloss": "үземә"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "йөзем бакчалары"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:06.474903707Z",
+  "model": "glm-5.3"
+}

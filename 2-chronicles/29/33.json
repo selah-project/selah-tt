@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "һәм изгеләндерелгәннәр: эре мөгезле терлек алты йөз, сарык өч мең.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "һәм изгеләндерелгәннәр"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "эрре мөгезле терлек"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "сарык"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мең"
+    }
+  ],
+  "timestamp": "2026-10-05T02:15:54.793453890Z",
+  "model": "glm-5.3"
+}

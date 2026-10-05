@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 66,
+  "translation": "Әгәр йөрәгемдә явызлык күргән булсам, Адонай ишетмәс иде.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "күргән булсам"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "йөрәгемдә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "<юк>"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ишетмәс иде"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-10-05T00:51:56.801028012Z",
+  "model": "glm-5.3"
+}

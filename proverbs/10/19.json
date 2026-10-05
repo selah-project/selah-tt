@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Сүз күбәендә гөнаһ туктамый, ә иреннәрен тыя торган — акыллы.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "күбәендә"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "туктамый"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "гөнаһ"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ә … тыя торган"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "иреннәрен"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "акыллы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:28.972786780Z",
+  "model": "glm-5.3"
+}

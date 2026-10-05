@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 47,
+  "translation": "Ялангачлыгың ачылыр, хурлыгың да күренер; Мин үч алам, һәм кешегә очрашмам.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "ачылыр"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ялангачлыгың"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "күренер"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "хурлыгың"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "үч"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "алам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм юк"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "очрашам"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешегә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:41:52.609616416Z",
+  "model": "glm-5.3"
+}

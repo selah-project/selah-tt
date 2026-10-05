@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Мыскыллаучы хикмәт эзләй — һәм ⟨юк⟩; ә аңлы кешегә белем җиңел.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "эзләй"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "мыскыллаучы"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм ⟨юк⟩"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ә белем"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "аңлы кешегә"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "җиңел"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:29.883980806Z",
+  "model": "glm-5.3"
+}

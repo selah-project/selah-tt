@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Каргышлы син шәһәрдә, һәм каргышлы син кырда.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "каргышлы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шәһәрдә"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "һәм каргышлы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "кырда"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:49.205370850Z",
+  "model": "glm-5.3"
+}

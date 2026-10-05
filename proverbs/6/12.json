@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Яраксыз кеше, әшәке ир, авызы бөклелек белән йөри.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "яраксыз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ир"
+    },
+    {
+      "surface": "און",
+      "gloss": "әшәке"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "йөри"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "бөклелек"
+    },
+    {
+      "surface": "פה",
+      "gloss": "авызы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:05.018816748Z",
+  "model": "glm-5.3"
+}

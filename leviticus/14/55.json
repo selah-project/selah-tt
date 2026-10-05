@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "һәм киемнең царааты өчен, һәм өй өчен —",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "һәм ... царааты өчен"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "киемнең"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "һәм өй өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T21:59:18.004819021Z",
+  "model": "glm-5.3"
+}

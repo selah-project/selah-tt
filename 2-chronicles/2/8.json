@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "вә миңа күпләп агачлар әзерләтергә, чөнки мин төзә торган йорт бөек вә гаҗәеп булыр.",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "вә әзерләтергә"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "агачлар"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "күпләп"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "йорт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "төзәм"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "вә гаҗәеп"
+    }
+  ],
+  "timestamp": "2026-10-05T02:08:08.906866662Z",
+  "model": "glm-5.3"
+}

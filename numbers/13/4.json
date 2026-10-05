@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм болар аларның исемнәре: Рөүбен ыруыннан — Шаммуа, Заккур улы.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Һәм болар"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "исемнәре"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ыруыннан"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рөүбен"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шаммуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккур"
+    }
+  ],
+  "timestamp": "2026-10-04T22:10:28.081590252Z",
+  "model": "glm-5.3"
+}

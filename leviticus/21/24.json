@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Моше Аһаронга, аның улларына һәм Йисраэл улларының барысына сөйләде.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Аһаронга"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аһаронга"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "аның улларына"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысына"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларының"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-04T22:02:20.103524060Z",
+  "model": "glm-5.3"
+}

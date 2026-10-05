@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "һәм Минем бүген сиңа кушкан бу сүзләрең йөрәгеңдә булырга тиеш.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "булырга тиеш"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сүзләр"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "меш"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Минем"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "кушкан"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүген"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "йөрәгеңдә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:20:58.814397389Z",
+  "model": "glm-5.3"
+}

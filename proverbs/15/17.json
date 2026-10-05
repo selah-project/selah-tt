@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Яшелчә ризыгы һәм анда мәхәббәт булса — яхшы; ары үрчелгән һәм аңа нәфрәт белән.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "ризыгы"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "яшелчә"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "һәм мәхәббәт"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ары"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "үрчелгән"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "һәм нәфрәт"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:05.458884987Z",
+  "model": "glm-5.3"
+}

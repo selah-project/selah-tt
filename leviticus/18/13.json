@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Әниеңнең сеңлесенең ялангачлыгын ачарга ярамый, чөнки ул — әниеңнең ите.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ялангачлыгын"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "сеңлесенең"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "әниеңнең"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ярамый"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ачарга"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ите"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "әниеңнең"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-05T02:23:34.709589985Z",
+  "model": "glm-5.3"
+}

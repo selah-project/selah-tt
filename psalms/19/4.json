@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Сүз юк һәм сүзләр юк, аларның тавышы ишетелми.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм ... юк"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "сүзләр"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "бүленеп"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ишетелми"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "аларның тавышы"
+    }
+  ],
+  "timestamp": "2026-10-05T00:44:33.682423207Z",
+  "model": "glm-5.3"
+}

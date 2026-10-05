@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 23:37",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Целек әл-Әммони, Нахрай әл-Бerotи — Йоав улы Цруянең корал күтәрүчесе.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "Целек"
+    },
+    {
+      "surface": "העמני",
+      "gloss": "әл-Әммони"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "Нахрай"
+    },
+    {
+      "surface": "הבארתי",
+      "gloss": "әл-Бероти"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "күтәрүчесе"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "корал"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Цруя"
+    }
+  ],
+  "timestamp": "2026-10-04T23:07:18.683691170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Теләсә нинди ашарга ярый торган кошны ашый аласыз.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "теләсә нинди"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "кошны"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ашарга ярый торган"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ашый аласыз"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:47.458958037Z",
+  "model": "glm-5.3"
+}

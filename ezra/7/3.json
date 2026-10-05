@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Әмәрийәнең улы, Әзәрийәнең улы, Мәрайотның улы.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Әмәрийә"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Әзәрийә"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мәрайот"
+    }
+  ],
+  "timestamp": "2026-10-05T01:49:01.689744303Z",
+  "model": "glm-5.3"
+}

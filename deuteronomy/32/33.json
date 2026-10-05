@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Аждаһаларның агуы аларның шәрабе, һәм кобраларның явыз агуы.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "агуы"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "аждаһаларның"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "аларның шәрабе"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "һәм агуы"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "кобраларның"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "явыз"
+    }
+  ],
+  "timestamp": "2026-10-04T22:30:46.114672650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Яһудә коленесыннан — Йифуннә улы Калеб.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "коленесыннан"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһудә"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калеб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йифуннә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:57.221287834Z",
+  "model": "glm-5.3"
+}

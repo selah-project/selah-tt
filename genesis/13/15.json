@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Чөнки күргән ⟨את⟩ бөтен җирне сиңа бирермен, һәм синең орлыгыңа — мәңгегә.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен җирне"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "күргән"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "үзең"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "бирермен"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "һәм синең орлыгыңа"
+    },
+    {
+      "surface": "עד",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "гә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:26.662564497Z",
+  "model": "glm-5.3"
+}

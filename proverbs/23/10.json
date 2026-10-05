@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Борынгы чикне күчермә, һәм ятимнәр кырларына кермә.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "күчермә"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "күчермә"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чикне"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "борынгы"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "һәм кырларына"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ятимнәр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кермә"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "кермә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:29.859984196Z",
+  "model": "glm-5.3"
+}

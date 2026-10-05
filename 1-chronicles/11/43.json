@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һанан, Мааһа улы, һәм Йоһаһат митнилы.",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "Һанан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааһа"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "һәм Йоһаһат"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "митнилы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:59.998965414Z",
+  "model": "glm-5.3"
+}

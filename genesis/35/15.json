@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 35,
+  "translation": "Һәм Яаков шул урынга, анда Элоһим ⟨את⟩ аңа сөйләшкән, Бейт-Эл дигән исемне куйды.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "исем куйды"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "исемне"
+    },
+    {
+      "surface": "שם",
+      "gloss": "исем"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "урын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "моныңда"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйләшкән"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аңа"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:21.831365896Z",
+  "model": "glm-5.3"
+}

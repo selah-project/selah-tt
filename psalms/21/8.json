@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Чөнки патша Яһвәгә таяна, һәм Югарының хеседы аша ул тайпылмас.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "таяна"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "һәм хеседы аша"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Югарының"
+    },
+    {
+      "surface": "בל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "тайпылмас"
+    }
+  ],
+  "timestamp": "2026-10-05T00:44:35.036125362Z",
+  "model": "glm-5.3"
+}

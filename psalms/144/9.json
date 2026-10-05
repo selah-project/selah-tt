@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 144,
+  "translation": "Элоһим! Сиңа яңа җыр җырлармын, ун кыллы нәвелдә Сиңа уйнармын.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "яңа"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "җырлармын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сиңа"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "нәвелдә"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ун кыллы"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "уйнармын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сиңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:06:57.686048191Z",
+  "model": "glm-5.3"
+}

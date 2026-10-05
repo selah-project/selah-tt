@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Хесед улы — Арубботта; аңа караган Соко һәм бөтен Хефер иле.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "Арубботта"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Соко"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "һәм бөтен"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "иле"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Хефер"
+    }
+  ],
+  "timestamp": "2026-10-04T23:08:38.728823424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 34:25",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Һәм Зебулун уллары кабиләсеннән башлык — Элицафан, Парнах улы.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "кабиләсеннән"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "башлык"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Элицафан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "פרנך",
+      "gloss": "Парнах"
+    }
+  ],
+  "timestamp": "2026-10-04T22:18:36.288156925Z",
+  "model": "glm-5.3"
+}

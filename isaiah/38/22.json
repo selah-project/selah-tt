@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 38:22",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Һәм Хизкияһу әйтте: нинди билге ⟨бар⟩, ⟨мин⟩ Яһвә йортына менәчәкмен?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияһу"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нинди"
+    },
+    {
+      "surface": "אות",
+      "gloss": "билге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "менәчәкмен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:37:28.966170122Z",
+  "model": "glm-5.3"
+}

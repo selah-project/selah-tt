@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Элоһим ⟨את⟩ малай белән булды, һәм ул үсте һәм чүлдә яшәде, һәм ул укчы булып җитеште.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "малай"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "үсте"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чүлдә"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "үсеп"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "укчы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:35.563379851Z",
+  "model": "glm-5.3"
+}

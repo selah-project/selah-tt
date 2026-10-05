@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Бишенче Малкияга, алтынчы Мияминга.",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "Малкияга"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "бишенче"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "Мияминга"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "алтынчы"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:10.140643100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 41:22",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Һәм мин төшемдә күрдем, һәм менә бер сабакта җиде башак, тулы һәм яхшы.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "күрдем"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "төшемдә"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "һәм менә"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "башак"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "чыккан"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "бер сабакта"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "яхшы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:36:44.327014990Z",
+  "model": "glm-5.3"
+}

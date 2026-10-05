@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм ⟨алар⟩ аны суйды, һәм Моше ⟨את⟩ канны корбанлык өстенә тирә-якка сипте.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "суйды"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "сипте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "канны"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "корбанлык өстенә"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тирә-якка"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:42.233258580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Да, ул ⟨את⟩ кояшны күрмәде, һәм белмәде дә; моның тынычлыгы аннан артык.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "кояш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "күрмәде"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм белмәде"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белде"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "тынычлык"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "моның"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "аннан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:18.112682934Z",
+  "model": "glm-5.3"
+}

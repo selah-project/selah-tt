@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм Йицхак, аның атасы, аңа әйтте: Якына кил әле, һәм мине үп, улым.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "аның атасы"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "якына кил"
+    },
+    {
+      "surface": "נא",
+      "gloss": "әле"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "һәм үп"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мине"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:23.377936426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм Леаһ тагын бала көтте һәм Яаковка алтынчы улын туды.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "бала көтте"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тагын"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леаһ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "туды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улын"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "алтынчы"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковка"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:14.339766799Z",
+  "model": "glm-5.3"
+}

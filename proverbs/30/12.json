@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Буын бар: үз күзләрендә чисты, ләкин үз ластыннан юылмаган.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "буын"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисты"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "үз күзләрендә"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "үз ластыннан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "юылмаган"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:01.830949448Z",
+  "model": "glm-5.3"
+}

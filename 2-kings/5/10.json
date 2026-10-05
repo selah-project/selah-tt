@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 5:10",
+  "book": "2-kings",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Элиша аңа илче җибәрде, әйтеп: Бар, һәм Йорданда җиде мәртәбә юын, һәм тәнең сиңа кире кайтыр, һәм чистар.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "җибәрде"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "илче"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "юынырсың"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "мәртәбә"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Йорданда"
+    },
+    {
+      "surface": "ורחצת placeholder removed",
+      "gloss": ""
+    },
+    {
+      "surface": "וישב",
+      "gloss": "кире кайтыр"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "тәнең"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "чистар"
+    }
+  ],
+  "timestamp": "2026-10-04T23:20:39.674682625Z",
+  "model": "glm-5.3"
+}

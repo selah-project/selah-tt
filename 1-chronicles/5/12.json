@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Йоэл башлык, һәм Шафам ⟨ул⟩ икенче, һәм Йаанай һәм Шафат Башанда.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Йоэл"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "башлык"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "һәм Шафам"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "һәм Йаанай"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "һәм Шафат"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Башанда"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:27.626360910Z",
+  "model": "glm-5.3"
+}

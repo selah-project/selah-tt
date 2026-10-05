@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Йисраэлнең бөтен ирләре байрам вакытында патшага җыелдылар — ул — атманче ай.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "җыелдылар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янә"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшага"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ирләре"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлнең"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "байрамда"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ай"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "җиденче"
+    }
+  ],
+  "timestamp": "2026-10-05T02:07:53.026988148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Чөнки Син явызлыкны теләүче Эл түгел; начарлык Син янында тормаячак.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "теләүче"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явызлыкны"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "Син янында тормаячак"
+    },
+    {
+      "surface": "רע",
+      "gloss": "начарлык"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:30.894857053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Шулай ук әгәр икәү ятсалар, аларга җылы була; ә берсәгә ул ничек җылыныр?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "шулай ук"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ятсалар"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "икәү"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "һәм җылы"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ә берсәгә"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ничек"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "җылыныр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:23.061296789Z",
+  "model": "glm-5.3"
+}

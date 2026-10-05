@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Улым, йөрәгеңне миңа бир, һәм күзләрең минем юлларымны яратсын.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "бир"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "йөрәгеңне"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "һәм күзләрең"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "юлларымны"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "яратсыннар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:13.462799688Z",
+  "model": "glm-5.3"
+}

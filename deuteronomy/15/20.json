@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 15:20",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Аны Яһвәнең, Элоһимеңнең алдында ел саен Яһвә сайлаган җирдә ашарсың, син һәм йортың.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоһимең"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "аны ашарсың"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ел саен"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "җирдә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нинди"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "сайлар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "һәм йортың"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:34.744754799Z",
+  "model": "glm-5.3"
+}

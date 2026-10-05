@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Хецрон өчен — Һецрони нәселе, Карми өчен — Карми нәселе.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "Хецрон өчен"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "нәселе"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "Һецрони"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "Карми өчен"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "нәселе"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "Карми"
+    }
+  ],
+  "timestamp": "2026-10-04T22:14:55.637130334Z",
+  "model": "glm-5.3"
+}

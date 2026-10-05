@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 136,
+  "translation": "Зур яктырткычларны ясаганга, чөнки Аның хеседы мәңге.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "ясаганга"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "яктырткычларны"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "зур"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Аның хеседы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:25.678731498Z",
+  "model": "glm-5.3"
+}

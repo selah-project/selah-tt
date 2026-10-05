@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Шулай диде Яһвә, Элоһимем: көт ⟨את⟩ суйыла торган көтүне.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһимем"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "көт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "суйыла торган көтүне"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "көтүне"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "суйыла торган"
+    }
+  ],
+  "timestamp": "2026-10-05T00:39:36.470411258Z",
+  "model": "glm-5.3"
+}

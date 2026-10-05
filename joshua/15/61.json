@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Чүлдә: Бәет-Һаһарәбә, Миддин һәм Сәкаха.",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "чүлдә"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бәет"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Һаһарәбә"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Миддин"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "һәм Сәкаха"
+    }
+  ],
+  "timestamp": "2026-10-04T22:36:48.354099792Z",
+  "model": "glm-5.3"
+}

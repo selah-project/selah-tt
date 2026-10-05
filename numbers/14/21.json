@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Ләкин Мин яшим, һәм Яһвәнең даны ⟨את⟩ бөтен җирне тулдырачак.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ләкин"
+    },
+    {
+      "surface": "חי",
+      "gloss": "яшим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "тулдырачак"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "дан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен җирне"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    }
+  ],
+  "timestamp": "2026-10-04T22:11:11.167589388Z",
+  "model": "glm-5.3"
+}

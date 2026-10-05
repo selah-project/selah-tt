@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Золым иясен көнләмә һәм аның юлларыннан берсен дә сайлама.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "өндәмә"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "көнләмә"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "золым иясен"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "золым"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм өндәмә"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "сайлама"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "барысыннан да"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "аның юлларыннан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:55.494931353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Бүгенге көндә эшләнгәнчә, Яһвә боерган — сезнең өчен ярдәм清晰 cleanness... ",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "никадәр"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшләде"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "боерган"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "эшләргә"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "каплану китерергә"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "сезнең өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:20.268533824Z",
+  "model": "glm-5.3"
+}

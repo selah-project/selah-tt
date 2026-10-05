@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 47,
+  "translation": "Машыйга, Корах улларына, мәзмун.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Машыйга"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмун"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:57.925527721Z",
+  "model": "glm-5.3"
+}

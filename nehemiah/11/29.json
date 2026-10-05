@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "һәм Эн-Риммонда, һәм Цорада, һәм Ярмутта",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "һәм Эн-Риммонда"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Риммон"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "һәм Цорада"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "һәм Ярмутта"
+    }
+  ],
+  "timestamp": "2026-10-05T01:54:48.839344009Z",
+  "model": "glm-5.3"
+}

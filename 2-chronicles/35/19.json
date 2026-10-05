@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 35,
+  "translation": "Йошияһу патшалыгының унсигезенче елында бу Песах эшләнде.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "сигезенче…ун"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "елында"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "патшалыгының"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошияһу"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "эшләнде"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-05T02:17:51.087504389Z",
+  "model": "glm-5.3"
+}

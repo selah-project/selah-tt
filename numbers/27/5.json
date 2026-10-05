@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм Моше аларның хөкемен Яһвә алдына китерпresenterде.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "китерпresenterде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аларның хөкеме"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "аларның хөкеме"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T02:24:30.800898268Z",
+  "model": "glm-5.3"
+}

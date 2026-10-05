@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Яһвә сандыгы Плиштиләр илендә җиде ай булды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Булды"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандыгы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "илендә"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштиләр"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ай"
+    }
+  ],
+  "timestamp": "2026-10-04T22:49:59.964523329Z",
+  "model": "glm-5.3"
+}

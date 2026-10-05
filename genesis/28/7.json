@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "һәм Яаков әтисенә һәм әнисенә колак салып, Падан-Арамга киткән.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "колак салган"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "әтисенә"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әтисенә"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "әнисенә"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "киткән"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Падан"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арамга"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:37.529205668Z",
+  "model": "glm-5.3"
+}

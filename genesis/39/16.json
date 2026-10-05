@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 39,
+  "translation": "Һәм ул аның өс кимен янына салып куйды, аның хуҗасы үз өенә кергәнче.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "салып куйды"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "өс кимен"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "янына"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кергәнче"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "керү"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "хуҗасы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "әле"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "өе"
+    }
+  ],
+  "timestamp": "2026-10-04T21:36:07.863799393Z",
+  "model": "glm-5.3"
+}

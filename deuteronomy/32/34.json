@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Минем янда сакланмаганмы бу, минем хәзинәләремдә мөһерләнмәгәнме?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "-мы"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бу"
+    },
+    {
+      "surface": "כמוס",
+      "gloss": "сакланмаган"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "минем янда"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "мөһерләнмәгән"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "минем хәзинәләремдә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:30:46.114912785Z",
+  "model": "glm-5.3"
+}

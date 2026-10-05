@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Йехоньяның, әсирнең, уллары: улы Шеалтиэл.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Йехонья"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "әсир"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Шеалтиэл"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "улы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:13.103551979Z",
+  "model": "glm-5.3"
+}

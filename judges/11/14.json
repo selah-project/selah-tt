@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Йифтаһ тагын да илчеләр җибәрде Аммон балалары патшасына.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "һәм өстәде"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тагын да"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Йифтаһ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "һәм җибәрде"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "илчеләр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балалары"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммон"
+    }
+  ],
+  "timestamp": "2026-10-04T22:44:30.967557350Z",
+  "model": "glm-5.3"
+}

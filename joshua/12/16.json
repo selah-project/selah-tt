@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Маккәдаһ патшасы, бер; Бәйт-Эл патшасы, бер.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Маккәдаһ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бәйт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Эл"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-04T22:35:14.409855233Z",
+  "model": "glm-5.3"
+}

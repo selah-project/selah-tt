@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм шулай булыр: әгәр бер өйдә ун кеше калса, алар үләр.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Һәм шулай булыр"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "калса"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "өйдә"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "алар үләр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:31:29.335661923Z",
+  "model": "glm-5.3"
+}

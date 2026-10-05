@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Һәм Яһвә миңа әйтте: бу халык өчен яхшылык сорап дога кылма.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "<юк>"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "дога кылма"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "яхшылык сорап"
+    }
+  ],
+  "timestamp": "2026-10-04T23:51:35.438594868Z",
+  "model": "glm-5.3"
+}

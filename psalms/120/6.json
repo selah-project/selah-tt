@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 120,
+  "translation": "Бик озак торды минем җаным тынычлыкны күрә алмаучы белән.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Бик озак"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "торды"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨минем⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җаным"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "күрә алмаучы"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынычлыкны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:04.737111309Z",
+  "model": "glm-5.3"
+}

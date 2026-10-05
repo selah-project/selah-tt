@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Ул чакта син цедекне һәм хөкемне һәм турылыкны аңларсың, һәр яхшы юлны.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ул чакта"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "аңларсың"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "һәм хөкем"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "һәм турылык"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "юл"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:46.895128548Z",
+  "model": "glm-5.3"
+}

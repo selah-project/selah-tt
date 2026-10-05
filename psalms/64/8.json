@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 64,
+  "translation": "Ә Элоһим аларны ук белән кинәт атар — шунда ук аларның яралары булыр.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "һәм атар"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ук"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "кинәт"
+    },
+    {
+      "surface": "היו",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "аларның яралары"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:44.815432585Z",
+  "model": "glm-5.3"
+}

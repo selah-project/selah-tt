@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Һәм ул бала көтте һәм улын тудырды; һәм ул ⟨את⟩ аның исемен Эр дип куйды.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "бала көтте"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улын"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "куланды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аның исемен"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "аның исемен"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    }
+  ],
+  "timestamp": "2026-10-04T21:35:55.968238088Z",
+  "model": "glm-5.3"
+}

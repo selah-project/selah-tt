@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Йиһошуа ⟨את⟩ халык башлыкларына боерды, әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "һәм боерды"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йиһошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халык башлыклары"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "башлыклары"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T22:32:30.674678818Z",
+  "model": "glm-5.3"
+}

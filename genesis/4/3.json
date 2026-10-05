@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм көннәр ахырында Каен җирнең җимешеннән Яһвәгә минха китерде.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ахырында"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көннәр"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кетерде"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каен"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "җимешеннән"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "җирнең"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:29.739437484Z",
+  "model": "glm-5.3"
+}

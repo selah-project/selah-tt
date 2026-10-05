@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм алар җанеңә тормыш булырлар, һәм муеныңа ягымлылык.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "һәм булырлар"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тормыш"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "җанеңа"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "һәм ягымлылык"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "муеныңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:49.539025774Z",
+  "model": "glm-5.3"
+}

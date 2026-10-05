@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Цедек һәм хеседне куып торучы — тормыш, цедек һәм дан таба.",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "куып торучы"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "һәм хесед"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "таба"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тормыш"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "һәм дан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:54.949752364Z",
+  "model": "glm-5.3"
+}

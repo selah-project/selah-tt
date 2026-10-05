@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Кайда — бу юл, анда яктылык яши? Ә караңгылык — аның урыны кайда?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "юл"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "яши"
+    },
+    {
+      "surface": "אור",
+      "gloss": "яктылык"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ә караңгылык"
+    },
+    {
+      "surface": "אי",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "זה",
+      "gloss": "аның"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "урыны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:28:12.442006506Z",
+  "model": "glm-5.3"
+}

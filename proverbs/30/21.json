@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Өч нәрсә астында җир калтырый, һәм дүртенче астында ул күтәрә алмый:",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "калтырый"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "һәм астында"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "алыра алмый"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "күтәрә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:46.493229246Z",
+  "model": "glm-5.3"
+}

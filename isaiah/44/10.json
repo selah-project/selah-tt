@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 44,
+  "translation": "Кем Эл ясады һәм коелган потны, файда бирмәс өчен?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ясады"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "һәм пот"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "коелган"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "өчен түгел"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "файда бирер"
+    }
+  ],
+  "timestamp": "2026-10-04T23:41:01.935373183Z",
+  "model": "glm-5.3"
+}

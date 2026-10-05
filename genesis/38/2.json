@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 38:2",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Һәм Яһуда анда Кенаан кешесенең кызын күрде — аның исеме Шуа; һәм ул аны алды һәм аңа керде.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһуда"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызын"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешесенең"
+    },
+    {
+      "surface": "כנעני",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "аның исеме"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Шуа"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "алды"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "керде"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T21:35:55.968015416Z",
+  "model": "glm-5.3"
+}

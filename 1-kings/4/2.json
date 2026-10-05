@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм болар аның башлыклары: Азарйаһу, Садок улы, коһен.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Һәм болар"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "башлыклары"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аның"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨аның⟩"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Азарйаһу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Садок"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коһен"
+    }
+  ],
+  "timestamp": "2026-10-04T23:09:13.138048028Z",
+  "model": "glm-5.3"
+}

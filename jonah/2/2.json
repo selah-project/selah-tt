@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Йона балык эченнән үз Элоһимы Яһвәгә дога кылды.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "дога кылды"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "үз Элоһимы"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "эченнән"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "балык"
+    }
+  ],
+  "timestamp": "2026-10-05T00:32:52.921981754Z",
+  "model": "glm-5.3"
+}

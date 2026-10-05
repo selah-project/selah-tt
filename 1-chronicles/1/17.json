@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Шемның уллары: Эйлам, Ашур, Арпахшад, Луд һәм Арам. Арамның уллары: Өц, Хул, Гетер һәм Мешек.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шемның"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлам"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "Арпахшад"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "Луд"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "Өц"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "Хул"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "Гетер"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "Мешек"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:19.897107533Z",
+  "model": "glm-5.3"
+}

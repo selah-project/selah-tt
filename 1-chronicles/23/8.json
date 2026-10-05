@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Лаадан уллары: башы Йеһиел, һәм Зетам, һәм Йоел — өчәү.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Лаадан"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "башы"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Йеһиел"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "һәм Зетам"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "һәм Йоел"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "өчәү"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:11.661372037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 115,
+  "translation": "Ә Элоһимыбыз күкләрдә, теләгән барысын да эшләде.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Ә Элоһимыбыз"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "күкләрдә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "теләгән"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшләде"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:03.213628262Z",
+  "model": "glm-5.3"
+}

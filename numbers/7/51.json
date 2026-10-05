@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "бер үгезе, көтү улларыннан, бер тәкә, бер беренче ел бәрәне, үзгә корбан өчен.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "үгезе"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "көтү"
+    },
+    {
+      "surface": "איל",
+      "gloss": "тәкә"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "бәрән"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "беренче ел"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "үзгә корбан өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T22:08:04.275970350Z",
+  "model": "glm-5.3"
+}

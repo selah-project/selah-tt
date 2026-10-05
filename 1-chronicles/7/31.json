@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "һәм Бериа уллары: Хевер һәм Малкиэл; ул Бирзот атасы.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Бериа"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "Хевер"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "һәм Малкиэл"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "Бирзот"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:51.060715317Z",
+  "model": "glm-5.3"
+}

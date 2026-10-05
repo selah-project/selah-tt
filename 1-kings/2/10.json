@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Давид аталары белән ятты һәм Давид шәһәрендә күмелде.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ятты"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "аталары"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "һәм күмелде"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шәһәрендә"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-04T23:08:47.721028285Z",
+  "model": "glm-5.3"
+}

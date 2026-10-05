@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "һәм Шемида — Шемидай нәселе; һәм Хефер — Хефри нәселе.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "һәм Шемида"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "нәселе"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "Шемидай"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "һәм Хефер"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "нәселе"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "Хефри"
+    }
+  ],
+  "timestamp": "2026-10-04T22:15:50.671845584Z",
+  "model": "glm-5.3"
+}

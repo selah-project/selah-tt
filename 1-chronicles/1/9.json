@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Куш уллары: Сева, Һәвила, Савта, Раама һәм Савтеха. Һәм Раама уллары: Шева һәм Дедан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "Сева"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "Һәвила"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "Савта"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "Раама"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "Савтеха"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "Раама"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "Дедан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:07.341025117Z",
+  "model": "glm-5.3"
+}

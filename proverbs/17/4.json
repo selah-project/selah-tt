@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Яман кеше явыз иреннәргә колак сала, ялганчы һәлакәт теленә колак аса.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "яман"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "колак сала"
+    },
+    {
+      "surface": "על",
+      "gloss": "янына"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "иреннәр"
+    },
+    {
+      "surface": "און",
+      "gloss": "явызлык"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "колак аса"
+    },
+    {
+      "surface": "על",
+      "gloss": "янына"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тел"
+    },
+    {
+      "surface": "הות",
+      "gloss": "һәлакәт"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:30.686670229Z",
+  "model": "glm-5.3"
+}

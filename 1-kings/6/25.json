@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "һәм ун амыш булган икенче керуб — ике керубка бер үлчәм һәм бер формa.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "һәм ун"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "амыш"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керуб"
+    },
+    {
+      "surface": "השני",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "үлчәм"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "һәм формa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "икенче ике"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "керублар"
+    }
+  ],
+  "timestamp": "2026-10-04T23:10:57.171964267Z",
+  "model": "glm-5.3"
+}

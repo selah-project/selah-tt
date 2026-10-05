@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Элоһимны түбәнәйтмә, һәм халкыңның башлыгын каргама.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһимны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "түбәнәйтмә"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "һәм башлыгын"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "халкыңның"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "каргама"
+    }
+  ],
+  "timestamp": "2026-10-04T21:47:12.244045872Z",
+  "model": "glm-5.3"
+}

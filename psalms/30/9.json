@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Сиңа, эй Яһвә, мин өнлим, һәм Адонайга ялварнам.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Сиңа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "мин өнлим"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм — ка"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ялварнам"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:30.558615507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Киң җанлы низаг кабузадыр, ә Яһвәгә таянган майлы булыр.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "киң җанлы"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "кабузадыр"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "низаг"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ә таянган"
+    },
+    {
+      "surface": "על",
+      "gloss": "−га"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "майлы булыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:36.546593222Z",
+  "model": "glm-5.3"
+}

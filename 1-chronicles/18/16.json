@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "һәм Аһитуб улы Цадок һәм Эвйатар улы Авимелех каһиннәр булдылар һәм Шавша язучы булды",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Аһитуб"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Эвйатар"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "каһиннәр"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "Шавша"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "язучы"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:43.590925353Z",
+  "model": "glm-5.3"
+}

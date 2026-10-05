@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Кем сафны бозауга чыгара ала? Бердәнбер ⟨юк⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "чыгара ала"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "сафны"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "бозаудан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бердәнбер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:20:44.949037898Z",
+  "model": "glm-5.3"
+}

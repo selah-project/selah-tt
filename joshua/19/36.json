@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "һәм Адама, һәм Рама, һәм Хацор.",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "һәм Адама"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "һәм Рама"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "һәм Хацор"
+    }
+  ],
+  "timestamp": "2026-10-04T22:37:57.803432763Z",
+  "model": "glm-5.3"
+}

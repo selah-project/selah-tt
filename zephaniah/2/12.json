@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Сез дә, Кушылар, Минем кылычым тишкәннәр — шулар.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "дә"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Сез"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Кушылар"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "тишкәннәр"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "Минем кылычым"
+    },
+    {
+      "surface": "המה",
+      "gloss": "шулар"
+    }
+  ],
+  "timestamp": "2026-10-05T00:36:29.567870721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 55,
+  "translation": "Ашкынып качарга теләр идем җилдән, давылдан.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "ашкыныр идем"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "качарга"
+    },
+    {
+      "surface": "לי",
+      "gloss": "үземә"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "җилдән"
+    },
+    {
+      "surface": "סעה",
+      "gloss": " dawullын"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "давылдан"
+    }
+  ],
+  "timestamp": "2026-10-05T00:50:33.074646430Z",
+  "model": "glm-5.3"
+}

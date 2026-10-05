@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Мизмар, җыр — өйнең башлануына багышлануы, Давидка.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мизмар"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "башлануына багышлануы"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "өйнең"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидка"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:44.397628287Z",
+  "model": "glm-5.3"
+}

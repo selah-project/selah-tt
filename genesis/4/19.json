@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Ламех үзенә ике хатын алды: беренчесенең исеме Ада, һәм икенчесенең исеме Цилла.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "үзенә"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Ламех"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ике"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "שם",
+      "gloss": "исеме"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "беренчесенең"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "һәм исеме"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "икенчесенең"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "Цилла"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:21.184168460Z",
+  "model": "glm-5.3"
+}

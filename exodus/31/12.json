@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Һәм Яһвә Мошеға әйтте, дип:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Һәм... әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип:"
+    }
+  ],
+  "timestamp": "2026-10-05T02:21:39.398429816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм Авраһам ⟨את⟩ кулын сузды һәм ⟨את⟩ пәчәвне алды, ⟨את⟩ улын сую өчен.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "сузды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кулын"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "кулы"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пәчәвне"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "пәчәв"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "сую өчен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "улын"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "улы"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:31.734519861Z",
+  "model": "glm-5.3"
+}

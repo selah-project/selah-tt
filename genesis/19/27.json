@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм Авраһам иртә булып, Яһвә ⟨את⟩ йөзе алдында торган урынга барды.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "иртә булып китте"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "иртә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "урынга"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "урынга"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "турында"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "торган"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яһвә йөзен"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:28:16.755147939Z",
+  "model": "glm-5.3"
+}

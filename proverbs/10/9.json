@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Тамырык белән йөрүче имин йөри, ә юлларын бөгүче фаш ителер.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "йөрүче"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "тамырык белән"
+    },
+    {
+      "surface": "йלך",
+      "gloss": "йөри"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "имин"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "юлларын бөгүче"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "юлларын"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "фаш ителер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:48.531289088Z",
+  "model": "glm-5.3"
+}

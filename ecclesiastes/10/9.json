@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Таш күчерүче ⟨аның⟩ белән яраланыр; агач яручы аннан зыян күрер.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "күчерүче"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "таш"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "яраланыр"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "аның белән"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "яручы"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "агач"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "зыян күрер"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аннан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:29.012987494Z",
+  "model": "glm-5.3"
+}

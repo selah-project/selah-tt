@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Бу кешеләрдән, бу явыз буыннан бер ир дә ⟨את⟩ яхшы җирне күрмәс — мин аталарыгызга бирергә ант иткән җирне.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "күрер"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бер ир"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "кешеләрдән"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "буын"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "яхшы җирне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ант иттем"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "бирергә"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "аталарыгызга"
+    }
+  ],
+  "timestamp": "2026-10-04T22:20:08.899584813Z",
+  "model": "glm-5.3"
+}

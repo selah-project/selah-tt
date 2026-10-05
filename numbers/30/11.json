@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Әгәр хатын ире йортында нәзер алса, яки ант белән җаны өстенә бәйләм салса,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Әгәр"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йортында"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ире"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "нәзер алса"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "бәйләм салса"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "бәйләм"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "җаны"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ант белән"
+    }
+  ],
+  "timestamp": "2026-10-04T22:18:04.139874760Z",
+  "model": "glm-5.3"
+}

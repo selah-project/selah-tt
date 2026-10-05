@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 118,
+  "translation": "Яһвә миңем, куркамыйм — кеше миңа ни эшләр икән?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ма"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "куркамыйм"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "эшләр"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:30.075290904Z",
+  "model": "glm-5.3"
+}

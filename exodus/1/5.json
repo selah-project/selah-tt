@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Яаковның санынан чыккан барлык җан — җитмеш җан; ә Йосеф Мицраимда иде.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "чыккан"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "сан"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковның"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "җитмеш"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ә Йосеф"
+    },
+    {
+      "surface": "היה",
+      "gloss": "иде"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Мицраимда"
+    }
+  ],
+  "timestamp": "2026-10-04T21:40:03.956882328Z",
+  "model": "glm-5.3"
+}

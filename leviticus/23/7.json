@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Беренче көндә изге җыелыш сезнең өчен булыр; барлык хезмәт эшен дә эшләмәссез.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "көндә"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "беренче"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "изге җыелыш"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "изге"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезнең өчен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "эшен"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "хезмәт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "эшләмәссез"
+    }
+  ],
+  "timestamp": "2026-10-04T22:03:04.467530373Z",
+  "model": "glm-5.3"
+}

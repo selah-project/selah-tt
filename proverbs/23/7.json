@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Чөнки ул үз җанында исәпли; шулай ук ул: Аша һәм эч, дияр сиңа, ә аның йөрәге сиңа юк.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "кебек"
+    },
+    {
+      "surface": "שער",
+      "gloss": "исәпли"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "үз җанында"
+    },
+    {
+      "surface": "кן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "аша"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "һәм эч"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "дияр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "һәм аның йөрәге"
+    },
+    {
+      "surface": "בל",
+      "gloss": "юк"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:51.316282885Z",
+  "model": "glm-5.3"
+}

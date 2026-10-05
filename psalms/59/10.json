@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 59,
+  "translation": "Көчем, сиңа тотынам, чөнки Элоһим ⟨ул⟩ минем калкам.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Көчем"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "тотамын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "минем калкам"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:01.656371100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 94,
+  "translation": "Яһвә кешенең уйларын белә, чөнки алар хәвәл.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белә"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "уйларын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хәвәл"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:44.099016524Z",
+  "model": "glm-5.3"
+}

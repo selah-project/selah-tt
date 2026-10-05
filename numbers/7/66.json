@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "numbers 7:66",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Унынчы көнне Дан балалары өчен әмир — Әмишаддай улы Аһиезер.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ундынчы"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "әмир"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "балалары өчен"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Аһиезер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "Әмишаддай"
+    }
+  ],
+  "timestamp": "2026-10-04T22:08:54.599596413Z",
+  "model": "glm-5.3"
+}

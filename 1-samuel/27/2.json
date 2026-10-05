@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Давид торды һәм үзе һәм аның белән булган алты йөз ир Аһиш янына — Маох улы, Гат патшасы — күчте.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "торды"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "күчте"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "үзе"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "һәм алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ир"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "булган"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "аның белән"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Аһиш"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Маох"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гат"
+    }
+  ],
+  "timestamp": "2026-10-04T22:58:15.869836717Z",
+  "model": "glm-5.3"
+}

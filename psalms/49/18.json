@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 49,
+  "translation": "Чөнки үлгәндә ⟨ул⟩ барысын да алмас; аның даны аның артыннан төшмәс.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "−ма"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "үлгәндә"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алмас"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "барысын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "−мәс"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "төшмәс"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "аның артыннан"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "аның даны"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:40.020241284Z",
+  "model": "glm-5.3"
+}

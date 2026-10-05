@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 2:8",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Патша җавап бирде һәм әйтте: мин чынлап шиксез беләмен: вакытны сез җиясез, чөнки күрәсез: минем сүзем төгәл.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "җавап бирде"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "патша"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "מן",
+      "gloss": "чынлап"
+    },
+    {
+      "surface": "יציב",
+      "gloss": "шиксез"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "беләмен"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "мин"
+    },
+    {
+      "surface": "די",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "вакытны"
+    },
+    {
+      "surface": "אנתון",
+      "gloss": "сез"
+    },
+    {
+      "surface": "זבנין",
+      "gloss": "җиясез"
+    },
+    {
+      "surface": "כל",
+      "gloss": ""
+    },
+    {
+      "surface": "קבל",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "די",
+      "gloss": ""
+    },
+    {
+      "surface": "חזיתון",
+      "gloss": "күрәсез"
+    },
+    {
+      "surface": "די",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אזדא",
+      "gloss": "төгәл"
+    },
+    {
+      "surface": "מני",
+      "gloss": ""
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "сүзем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:39:58.753684841Z",
+  "model": "glm-5.3"
+}

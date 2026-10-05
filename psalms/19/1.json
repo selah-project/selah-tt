@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Җитәкчегә. Давид мәдхие.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "җитәкчегә"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхия"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-05T00:44:33.681858914Z",
+  "model": "glm-5.3"
+}

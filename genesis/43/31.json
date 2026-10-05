@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 43,
+  "translation": "Ул йөзен юды, чыкты, үзен тыяды һәм әйтте: Икмәк китерегез.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "юды"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "йөзен"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "үзен тыяды"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "китерегез"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк"
+    }
+  ],
+  "timestamp": "2026-10-04T21:38:01.984896212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Чокырда минем тормышымны кискеннәр, һәм минә таш ташладылар.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "кискеннәр"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "чокырда"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "тормышымны"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "һәм ташладылар"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "בי",
+      "gloss": "минә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:15.927333514Z",
+  "model": "glm-5.3"
+}

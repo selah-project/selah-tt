@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 76,
+  "translation": "Анда Ул укларның ялкынын ватты — калкан, кылыч һәм сугыш. Села.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Анда"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Ул ватты"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "ялкыннарын"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "укларның"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "калкан"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "һәм кылыч"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "һәм сугыш"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-05T00:54:19.894070326Z",
+  "model": "glm-5.3"
+}

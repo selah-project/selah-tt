@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Елга өч тапкыр барлык ир-атларың Яһвәнең — Йисраэл Элоһимының — ⟨את⟩ йөзен күрер.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "тапкыр"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "елга"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "күрер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "ир-атларың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "йөзен"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзен"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Адон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһимы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-04T21:51:17.019847734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Чөнки зина кылган хатын ⟨төшә⟩ икмәк кисәгенә кадәр, ә ирнең хатыны кадерле җан аулый.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "зина кылган"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "кисәге"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "һәм хатыны"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ирнең"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "кадерле"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "аулый"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:02.220036946Z",
+  "model": "glm-5.3"
+}

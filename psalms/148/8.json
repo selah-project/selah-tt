@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 148,
+  "translation": "Ут һәм боздан кар һәм пар, давыл рухы — Аның сүзен үтәүче.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ут"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "һәм боздан"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "кар"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "һәм пар"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "давыл"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "үтәүче"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Аның сүзен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:09.399371996Z",
+  "model": "glm-5.3"
+}

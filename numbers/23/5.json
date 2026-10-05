@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Һәм Яһвә Билгам авзына сүз куйды һәм әйтте: Балакка кире кайт һәм болай дип сөйлә.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "куйды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "авзына"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билгам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "кире кайт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "һәм болай"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "сөйлә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:14:55.388357810Z",
+  "model": "glm-5.3"
+}

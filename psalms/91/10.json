@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 91,
+  "translation": "Сиңа начарлык очрамас, һәм бәла сиңа чатырыңа якынлашмас.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "очрамас"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "начарлык"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "һәм бәла"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "якынлашмас"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "синең чатырыңа"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:54.417157177Z",
+  "model": "glm-5.3"
+}

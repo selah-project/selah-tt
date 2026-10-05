@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Күкләрдән Яһвә караны, ⟨את⟩ бөтен кешеләр улларын күрде.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "күкләрдән"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "караны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен кешеләр улларын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларын"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кешеләр"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:10.960994258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 10:23",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Акылсыз өчен явыз уй эшләү — көлке, ә хикмәт аңлы кешегә — аңлау.",
+  "tokens": [
+    {
+      "surface": "כשחוק",
+      "gloss": "көлке кебек"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "акылсыз өчен"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "эшләү"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "явыз уй"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ә хикмәт"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "кешегә"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "аңлау"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:24.269774597Z",
+  "model": "glm-5.3"
+}

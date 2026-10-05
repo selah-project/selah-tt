@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Шәһәрдә хәрабәлек калыр, һәм капка ватыклык белән бәрелер.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "калыр"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шәһәрдә"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "хәрабәлек"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "һәм ватыклык"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "бәрелер"
+    },
+    {
+      "surface": "שער",
+      "gloss": "капка"
+    }
+  ],
+  "timestamp": "2026-10-04T23:34:10.567637112Z",
+  "model": "glm-5.3"
+}

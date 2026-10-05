@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Ә егет берни дә белмәде; Йеһонатан белән Давид кенә ⟨את⟩ эшне белделәр.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "егет"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белмәде"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "берни дә"
+    },
+    {
+      "surface": "אך",
+      "gloss": "кенә"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йеһонатан"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "белделәр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эшне"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "эшне"
+    }
+  ],
+  "timestamp": "2026-10-04T22:55:26.954104117Z",
+  "model": "glm-5.3"
+}

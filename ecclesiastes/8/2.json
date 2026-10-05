@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Мин ⟨аңа⟩ әйтәм: патшаның авызын сакла, Элоһим алдындагы ант буенча.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "פי",
+      "gloss": "авызын"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "сакла"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "буенча"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ант буенча"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "анты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:51.693178746Z",
+  "model": "glm-5.3"
+}

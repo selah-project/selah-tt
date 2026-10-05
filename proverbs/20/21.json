@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 20:21",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Башта тиз алынган мирас — аның ахыры фатихалы булмас.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "мирас"
+    },
+    {
+      "surface": "מבחלת",
+      "gloss": "тиз алынган"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "башта"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "һәм аның ахыры"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "фатихалы булмас"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:27.792701550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Синең майларыңның исе яхшы, синең исемең — түгелгән май; шуңа күрә кызлар сине яраталар.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "исе"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "майларыңның"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "түгелгән"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "исемең"
+    },
+    {
+      "surface": "על",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "кызлар"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "сине яраталар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:29:05.689211841Z",
+  "model": "glm-5.3"
+}

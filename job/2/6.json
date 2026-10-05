@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Яһвә Сатанга әйтте: менә ул кулыңда, тик ⟨את⟩ аның җанын сакла.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кә"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Сатан"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "менә ул"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "кулыңда"
+    },
+    {
+      "surface": "אך",
+      "gloss": "тик"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аның җанын"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "аның җанын"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "сакла"
+    }
+  ],
+  "timestamp": "2026-10-05T01:17:51.340567242Z",
+  "model": "glm-5.3"
+}

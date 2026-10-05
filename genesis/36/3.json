@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "һәм ⟨את⟩ Босмат — Йишмаелнең кызы, Наваётның сеңлесе.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Босмат"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Босмат"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Йишмаелнең"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "сеңлесе"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Наваётның"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:24.120318035Z",
+  "model": "glm-5.3"
+}

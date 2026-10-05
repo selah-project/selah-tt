@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Болар — бөек хайваннар, дүртәү: дүрт патша җирдән торачаклар.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "Болар"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "хайваннар"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ки⟩"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "алар"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "патша"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "торачаклар"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨дан⟩"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-05T01:43:48.798209325Z",
+  "model": "glm-5.3"
+}

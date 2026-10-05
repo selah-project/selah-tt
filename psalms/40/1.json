@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Җитәкчегә, Давидның мәзмүре.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "җитәкчегә"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидның"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмүре"
+    }
+  ],
+  "timestamp": "2026-10-05T00:48:22.691662070Z",
+  "model": "glm-5.3"
+}

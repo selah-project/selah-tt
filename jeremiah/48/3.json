@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Хоронимнан кычкыру тавышы — талау һәм бөек ваткылык.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "тавышы"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "кычкыру"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "Хоронимнан"
+    },
+    {
+      "surface": "שד",
+      "gloss": "талау"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ваткылык"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    }
+  ],
+  "timestamp": "2026-10-05T00:02:41.434967403Z",
+  "model": "glm-5.3"
+}

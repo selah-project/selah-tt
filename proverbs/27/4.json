@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Яманлык ачуда һәм ташкын аруда, ләкин кем баса ала көнчеллек алдында?",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "яманлык"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ачу"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "һәм ташкын"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ару"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ләкин кем"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "баса ала"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "көнчеллек"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:12.432816811Z",
+  "model": "glm-5.3"
+}

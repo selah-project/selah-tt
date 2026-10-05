@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ни өчен зарлансын тере кеше, ир-ат үз гөнаһы өчен?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ни өчен"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "зарлансын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тере"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ир-ат"
+    },
+    {
+      "surface": "על",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "үз гөнаһы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:31:54.620146770Z",
+  "model": "glm-5.3"
+}

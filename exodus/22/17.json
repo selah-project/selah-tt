@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Тылсымчы хатынны тере калдырма.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "тылсымчы хатынны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "тугыл"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "тере калдырма"
+    }
+  ],
+  "timestamp": "2026-10-04T21:47:50.280246023Z",
+  "model": "glm-5.3"
+}

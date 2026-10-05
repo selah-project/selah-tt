@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Матәм йортына бару мәҗлес йортына барудан яхшырак, чөнки бу — бөтен кешеләрнең ахыры, һәм тергә буны үз йөрәгенә куярга тиеш.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшырак"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "бару"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йортына"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "матәм"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "барудан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йортына"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "мәҗлес"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ахыры"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кешеләрнең"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "һәм тере"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "куярга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "йөрәгенә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:53.542303056Z",
+  "model": "glm-5.3"
+}

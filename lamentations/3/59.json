@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Син күрдең, эй Яһвә, минем зулымны; Син минем эшемне хөкем кыл.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Син күрдең"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "минем зулымны"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "хөкем кыл"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "минем эшемне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:09.049487853Z",
+  "model": "glm-5.3"
+}

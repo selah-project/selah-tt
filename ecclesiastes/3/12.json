@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Мин беләм: аларда яхшылык юк, бары тик шатланырга һәм яхшылык эшләргә, үз гомерләрендә.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "беләм"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшылык"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аларда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бары тик"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "шатланырга"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "һәм эшләргә"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшылык"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "үз гомерләрендә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:17.904734627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Кара, моны таптым, диде Коһелет, берсен беренә кушып, хисапны табарга.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "кара"
+    },
+    {
+      "surface": "זה",
+      "gloss": "моны"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "таптым"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "диде"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Коһелет"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "берсен"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "беренә"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "табарга"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "хисапны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:57.932664490Z",
+  "model": "glm-5.3"
+}

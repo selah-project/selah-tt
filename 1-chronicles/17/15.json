@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Бу барча сүзләр буенча һәм бу барча күрәзә буенча шулай итеп Нәтан Давидкә сөйләде.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "барча…буенча"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сүзләр"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "һәм барча…буенча"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "күрәзә"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай итеп"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нәтан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…кә"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-05T02:02:22.284407713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Теләндерелгән апасы белән — әтисенең кызы яки әнисенең кызы — булып ятучы. Һәм бөтен халык әйтер: Әмин.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Теләндерелгән"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ятучы"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "апасы"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "әтисенең"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "әнисенең"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "һәм әйтер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Әмин"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:37.930205633Z",
+  "model": "glm-5.3"
+}

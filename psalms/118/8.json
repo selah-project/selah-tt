@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 118,
+  "translation": "Яһвәга сыену кешегә таянырга караганда яхшы.",
+  "tokens": [
+    {
+      "surface": "Туба",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "лахасот",
+      "gloss": "сыенуга"
+    },
+    {
+      "surface": "байһвәһ",
+      "gloss": "Яһвәга"
+    },
+    {
+      "surface": "миботеах",
+      "gloss": "таянудан"
+    },
+    {
+      "surface": "баадам",
+      "gloss": "кешегә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:30.075569594Z",
+  "model": "glm-5.3"
+}

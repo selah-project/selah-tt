@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 49,
+  "translation": "Күзләр шәрабтан кызыл балкый, һәм тешләр сөттән ак.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "кызыл балкый"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "күзләр"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "шәрабтан"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "һәм ак"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "тешләр"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "сөттән"
+    }
+  ],
+  "timestamp": "2026-10-04T21:40:13.591976856Z",
+  "model": "glm-5.3"
+}

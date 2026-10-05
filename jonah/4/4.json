@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Яһвә әйтте: Яхшымы сиңа шулай ачыуланып яну?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "Яхшымы"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ачыуланып яну"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-05T00:33:13.864032029Z",
+  "model": "glm-5.3"
+}

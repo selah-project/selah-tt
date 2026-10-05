@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 102,
+  "translation": "Ыңгырым тавышыннан сөякләрем итемә ябышты.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "тавышыннан"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "ыңгырым"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ябышты"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "сөякләрем"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "итемә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:58:49.867838902Z",
+  "model": "glm-5.3"
+}

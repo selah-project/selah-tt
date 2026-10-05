@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Чөнки ун цемедлык üzм бакчасы бер бат бирер, һәм бер хомер орлык бер эфа бирер.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ун"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "цемедлык"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "üzм бакчасы"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "бирер"
+    },
+    {
+      "surface": "בת",
+      "gloss": "бер бат"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "һәм орлык"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "хомер"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "бирер"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "эфа"
+    }
+  ],
+  "timestamp": "2026-10-04T23:30:01.100003177Z",
+  "model": "glm-5.3"
+}

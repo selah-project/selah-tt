@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Ноһа — дүртенче, һәм Рафа — бишенче.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "Ноһа"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "дүртенче"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "һәм Рафа"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "бишенче"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:30.020277571Z",
+  "model": "glm-5.3"
+}

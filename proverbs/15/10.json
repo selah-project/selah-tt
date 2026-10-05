@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Юлны ташлаучы өчен тәрбия авыр, һәм төзәтүне күрә алмаучы үләр.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "тәрбия"
+    },
+    {
+      "surface": "רע",
+      "gloss": "авыр"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ташлаучы өчен"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "юлны"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "күрә алмаучы"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "төзәтүне"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "үләр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:56.187464400Z",
+  "model": "glm-5.3"
+}

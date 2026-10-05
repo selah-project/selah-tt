@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Шуңа күрә Яһвәнең ачуы бу җиргә янды, аңа бу китапта язылган ⟨את⟩ бөтен каргышны китерү өчен.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "янды"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ачуы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җиргә"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "бу"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "китерү өчен"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен каргышны"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "каргышны"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "язылган"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "китапта"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T22:29:54.018337464Z",
+  "model": "glm-5.3"
+}

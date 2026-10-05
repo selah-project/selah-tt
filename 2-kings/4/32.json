@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Элиша өйгә керде — һәм менә бүләр үлгән, үз түшәгендә яткан.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "керде"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "өйгә"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "һәм менә"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "бүләр"
+    },
+    {
+      "surface": "מת",
+      "gloss": "үлгән"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "яткан"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "үз түшәгендә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:20:23.087432599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм мин беләм: Мицраим патшасы сезне көчле кул булмаганча китәргә бирмәс.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "һәм мин"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "беләм"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…мас"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бирмәс"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "сезне"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшасы"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "китәргә"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "булмаганча"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "кул"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "көчле"
+    }
+  ],
+  "timestamp": "2026-10-04T21:41:59.238984812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәм хәзер, Яһвә, Син ⟨Ул⟩ Элоһимсең, һәм колаңңа бу яхшылык турында сөйләдең.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Һәм хәзер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ул⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "һәм сөйләдең"
+    },
+    {
+      "surface": "על",
+      "gloss": "турында"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "колаңңа"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "яхшылык"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-05T02:02:09.716117299Z",
+  "model": "glm-5.3"
+}

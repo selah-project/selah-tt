@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Эл хөкемне бозамы, яки Шаддай цедекне бозамы?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "бозамы"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкемне"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "яки"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "бозамы"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедекне"
+    }
+  ],
+  "timestamp": "2026-10-05T01:19:08.101877623Z",
+  "model": "glm-5.3"
+}

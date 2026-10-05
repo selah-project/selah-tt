@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Чөнки мин атама ул идем, йомшак һәм бердәнбер анам күз алдында.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "идем"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "атама"
+    },
+    {
+      "surface": "רך",
+      "gloss": "йомшак"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "һәм бердәнбер"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "күз алдында"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "анам"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:45.887013322Z",
+  "model": "glm-5.3"
+}

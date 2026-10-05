@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Һәм Моаб халыктан бетереләчәк, чөнки ул Яһвә каршы зурланды.",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "Һәм бетереләчәк"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "халыктан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "על",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "зурланды"
+    }
+  ],
+  "timestamp": "2026-10-05T00:03:46.639689627Z",
+  "model": "glm-5.3"
+}

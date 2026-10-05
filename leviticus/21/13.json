@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм ⟨ул⟩ үз бетлеге булган хатынны алыр.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "һәм ⟨ул⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "үз бетлеги булган"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алыр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:01:59.473443187Z",
+  "model": "glm-5.3"
+}

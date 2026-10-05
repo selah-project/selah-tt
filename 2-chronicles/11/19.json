@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм ул аңа уллар тудыры: ⟨את⟩ Йәушны, һәм ⟨את⟩ Шәмарьяны, һәм ⟨את⟩ Zaһамны.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "тудыры"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уллар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йәушны"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Йәушны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Шәмарьяны"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Шәмарьяны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zaһамны"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaһамны"
+    }
+  ],
+  "timestamp": "2026-10-05T02:09:20.059642664Z",
+  "model": "glm-5.3"
+}

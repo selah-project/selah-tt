@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 96,
+  "translation": "Яһвәгә яңа җыр җырлагыз, Яһвәгә җырлагыз, бөтен җир.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "җырлагыз"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "яңа"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "җырлагыз"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-05T00:57:59.624661617Z",
+  "model": "glm-5.3"
+}

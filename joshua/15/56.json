@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "һәм Йизреел, һәм Йокдеам, һәм Заноах,",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "һәм Йизреел"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "һәм Йокдеам"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "һәм Заноах"
+    }
+  ],
+  "timestamp": "2026-10-04T22:36:46.246396428Z",
+  "model": "glm-5.3"
+}

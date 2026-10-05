@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Барысы да аңлаучанга ачык, һәм дөрес таныганнарга туры.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "барысы да"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "ачык"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "аңлаучанга"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "дөрес"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "таныганнарга"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белем"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:49.881810358Z",
+  "model": "glm-5.3"
+}

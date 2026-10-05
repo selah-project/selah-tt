@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Чөнки Яһвәнең өлеше — ⟨Аның⟩ халкы; Яаков — мирасның үлчәү бавы.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "өлеш"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "халкы"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "үлчәү бавы"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "мирасның"
+    }
+  ],
+  "timestamp": "2026-10-04T22:30:26.492669501Z",
+  "model": "glm-5.3"
+}

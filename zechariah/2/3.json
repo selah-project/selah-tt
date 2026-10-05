@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм Яһвә миңа дүрт һөнәрче күрсәтте.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "миңа күрсәтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "һөнәрче"
+    }
+  ],
+  "timestamp": "2026-10-05T00:38:29.342623755Z",
+  "model": "glm-5.3"
+}

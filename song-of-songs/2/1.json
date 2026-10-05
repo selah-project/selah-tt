@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Мин — Шарон ⟨чәчәге⟩, үзәннәр сусан чәчәге.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "чәчәге"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Шарон"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "сусан чәчәге"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "үзәннәр"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:33.299845970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Яһвә Давиднең күрүчесе Гадка сөйләде, эйтеп:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "һәм сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "күрүче"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "эйтеп"
+    }
+  ],
+  "timestamp": "2026-10-05T02:02:44.393136033Z",
+  "model": "glm-5.3"
+}

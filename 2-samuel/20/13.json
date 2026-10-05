@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 20:13",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Ул юлдан алынгач, бар ир Йоав артыннан Шеба, Бикри улы артыннан куып бару өчен узды.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "…гач"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "алынды"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "юл"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "узды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ир"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артыннан"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "куып бару өчен"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артыннан"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеба"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "Бикри"
+    }
+  ],
+  "timestamp": "2026-10-04T23:05:44.919025585Z",
+  "model": "glm-5.3"
+}

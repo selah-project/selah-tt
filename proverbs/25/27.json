@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Күп бал ашау яҡшы түгел, һәм үз даныңны өйрәнү — ⟨ул⟩ дан түгел.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ашау"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "бал"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "күп"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яҡшы"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "һәм өйрәнү"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "аларның даны"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:12.062803442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм аңа ⟨את⟩ хөсәен кидерде, һәм хөсәенә ⟨את⟩ Уримны һәм ⟨את⟩ Тумимны куйды.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "куйды"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аңа өстеннән"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хөсәенне"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хөсәенне"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "куйды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эченә"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хөсәенә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уримны"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Уримны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Тумимны"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Тумимны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:57:55.192419207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Йеһошуа Ярденнан алган ⟨את⟩ ун ике ташны Гилгалда бастырып куйды.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ун ике ташны"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ташны"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "алган"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−нан"
+    },
+    {
+      "surface": "һәйрдн",
+      "gloss": "Ярденнан"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "бастырып куйды"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеһошуа"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Гилгалда"
+    }
+  ],
+  "timestamp": "2026-10-04T22:32:17.645489784Z",
+  "model": "glm-5.3"
+}

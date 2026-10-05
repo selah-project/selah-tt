@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Бабил йөге — аны Йәшәяһу, Амоц улы күрде.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "йөк"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабил"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Йәшәяһу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Амоц"
+    }
+  ],
+  "timestamp": "2026-10-04T23:32:04.224437909Z",
+  "model": "glm-5.3"
+}

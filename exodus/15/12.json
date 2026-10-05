@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Уң кулыңны суздың — җир аларны йотты.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "суздың"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "уң кулыңны"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "йотты"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-04T21:43:56.978388672Z",
+  "model": "glm-5.3"
+}

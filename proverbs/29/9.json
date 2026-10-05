@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Акыллы ир ⟨את⟩ акылсыз ир белән судлаша, һәм ачулана, һәм көлә, һәм тынычлык юк.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ир"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "акыллы"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "судлаша"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "акылсыз ир"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ир"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "акылсыз"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "һәм ачулана"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "һәм көлә"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "һәм юк"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "тынычлык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:35.525948794Z",
+  "model": "glm-5.3"
+}

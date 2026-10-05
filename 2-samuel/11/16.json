@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Йоав шәһәрне күзәткәндә, ул ⟨את⟩ Урияны батыр ирләр булган урынга куеп куйды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "күзәткәндә"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шәһәрне"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "куеп куйды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урияны"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "урынга"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "−"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "белгән"
+    },
+    {
+      "surface": "כי",
+      "gloss": "−"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ирләр"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "батыр"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    }
+  ],
+  "timestamp": "2026-10-04T23:02:32.272980361Z",
+  "model": "glm-5.3"
+}

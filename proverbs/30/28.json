@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Кесерткән куллар белән тотыла, ә ул патша сараенда яши;",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "кесерткән"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "куллар белән"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "тотыла"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ә ул"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "сараенда"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:55.177502493Z",
+  "model": "glm-5.3"
+}

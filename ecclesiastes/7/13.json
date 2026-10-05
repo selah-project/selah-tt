@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Элоһимның ⟨את⟩ эшен кара: чөнки ⟨את⟩ Аның бөггәнен кем түзә ала?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "кара"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эшен"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "эшен"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһимның"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "түзә ала"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "түзә ала"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аның бөггәнен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Аның"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "бөггәнен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:39.434401216Z",
+  "model": "glm-5.3"
+}

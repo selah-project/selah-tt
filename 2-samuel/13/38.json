@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм Абшалом качты һәм Гешурга китте, һәм анда өч ел булды.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "һәм Абшалом"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "качты"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "китте"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Гешурга"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ел"
+    }
+  ],
+  "timestamp": "2026-10-04T23:02:05.940827751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Рувен яшәсен һәм үлмәсен, һәм аның ирләре санлы булсын.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "яшәсен"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувен"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "һәм ... үлмәсен"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "үлмәсен"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булсын"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "аның ирләре"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "санлы"
+    }
+  ],
+  "timestamp": "2026-10-04T22:31:11.719976409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 78,
+  "translation": "Куәтлеләр икмәген һәр ир ашады, аш-су җибәрде аларга туйганчы.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "икмәген"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "куәтлеләр"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ашады"
+    },
+    {
+      "surface": "איש",
+      "gloss": "һәр ир"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "аш-су"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "җибәрде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "туйганчы"
+    }
+  ],
+  "timestamp": "2026-10-05T00:55:01.347993697Z",
+  "model": "glm-5.3"
+}

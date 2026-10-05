@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Аны җәберләп хакимлек итмә, үз Элоһимеңнән куркыгың.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "-мә"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "хакимлек ит"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "җәберләп"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "куркыгың"
+    },
+    {
+      "surface": "מאלהигך",
+      "gloss": "үз Элоһимеңнән"
+    }
+  ],
+  "timestamp": "2026-10-04T22:04:00.334370289Z",
+  "model": "glm-5.3"
+}

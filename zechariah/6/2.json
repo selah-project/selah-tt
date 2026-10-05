@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Беренче arbада кызыл атлар, ә икенче arbада кара атлар.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "арбада"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "беренче"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "атлар"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "кызыл"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "ә арбада"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "икенче"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "атлар"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "кара"
+    }
+  ],
+  "timestamp": "2026-10-05T00:38:42.889160043Z",
+  "model": "glm-5.3"
+}

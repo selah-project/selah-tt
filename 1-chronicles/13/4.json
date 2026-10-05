@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм бөтен җыен шулай эшләргә диде, чөнки сүз бөтен халыкның күзләрендә туры булды.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Һәм диделәр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "җыен"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "эшләргә"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "туры булды"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "күзләрендә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халыкның"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:22.645716564Z",
+  "model": "glm-5.3"
+}

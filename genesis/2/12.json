@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм ул җирнең алтыны яхшы; анда бдолах һәм шоһам ташы бар.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "алтыны"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "бдолах"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ташы"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "шоһам"
+    }
+  ],
+  "timestamp": "2026-10-04T21:23:31.307974903Z",
+  "model": "glm-5.3"
+}

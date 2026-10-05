@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм Лаван ⟨את⟩ урынның бөтен ирләрен җыены һәм зияфәт ясады.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "җыены"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен ирләрен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ирләрен"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "урынның"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ясады"
+    },
+    {
+      "surface": "мשתה",
+      "gloss": "зияфәт"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:31.573610777Z",
+  "model": "glm-5.3"
+}

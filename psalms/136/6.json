@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 136,
+  "translation": "Җирне сулар өстенә җәеп торганга, чөнки Аның хеседы мәңге.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "җәеп торганга"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "המים",
+      "gloss": "сулар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Аның хеседы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:25.678593062Z",
+  "model": "glm-5.3"
+}

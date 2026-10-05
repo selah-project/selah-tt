@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Гершунлыларның аталар йорты башлыгы — Лаэл улы Элиясаф.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "Һәм башлыгы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорты"
+    },
+    {
+      "surface": "אב",
+      "gloss": "аталар"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "Гершунлыларның"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Элиясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Лаэл"
+    }
+  ],
+  "timestamp": "2026-10-04T22:06:20.817319976Z",
+  "model": "glm-5.3"
+}

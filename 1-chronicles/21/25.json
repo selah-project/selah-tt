@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Давид урын өчен Арнанны шекел алтын түләне — авырлыгы алты йөз шекел.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "түләне"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "Арнанны"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "урын өчен"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "шекел"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "авырлыгы"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:41.733784749Z",
+  "model": "glm-5.3"
+}

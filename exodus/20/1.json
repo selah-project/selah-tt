@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Һәм Элоһим ⟨את⟩ бөтен бу сүзләрне әйтте, болай дип:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен бу сүзләрне"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сүзләрне"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "болай дип"
+    }
+  ],
+  "timestamp": "2026-10-04T21:46:07.738567984Z",
+  "model": "glm-5.3"
+}

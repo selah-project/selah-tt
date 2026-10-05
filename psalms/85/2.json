@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 85,
+  "translation": "Яһвә, Син Үз илеңне риза кылдың, Яаковның әсирлеген бордың.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "риза кылдың"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "Үз илеңне"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "бордың"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "әсирлеген"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковның"
+    }
+  ],
+  "timestamp": "2026-10-05T00:56:36.656762070Z",
+  "model": "glm-5.3"
+}

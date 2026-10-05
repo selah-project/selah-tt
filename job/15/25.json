@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 15:25",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Чөнки ул Элгә каршы кулын суза һәм Шаддайга каршы үзен көчле итә.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "суза"
+    },
+    {
+      "surface": "אל",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "кулын"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм каршы"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "үзен көчле итә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:21:58.432335599Z",
+  "model": "glm-5.3"
+}

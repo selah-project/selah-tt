@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм әгәр бу сүз хакыйкать булса — кыз өчен тугралык билгеләре табылмаса —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "һәм әгәр"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "хакыйкать"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булса"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "табылмаса"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "тугралык билгеләре"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "кыз өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:23.713020431Z",
+  "model": "glm-5.3"
+}

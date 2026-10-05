@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Гидеон, Йоаш улы, сугыштан кире кайтты — Херес калкулыгыннан.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "кире кайтты"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидеон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "сугыштан"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "калкулыктан"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "Херес"
+    }
+  ],
+  "timestamp": "2026-10-04T22:42:56.486876493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Бер тол хатынны да, бер ятимне дә рәнҗетмәгез.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бер"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "тол хатынны"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "бер ятимне дә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "рәнҗетмәгез"
+    }
+  ],
+  "timestamp": "2026-10-05T02:22:05.048860062Z",
+  "model": "glm-5.3"
+}

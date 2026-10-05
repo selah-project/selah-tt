@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Элоһим — изге хөкем итүче, һәм Эл һәр көн ачулана.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "хөкем итүче"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "изге"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "һәм Эл"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ачулана"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:16.734937634Z",
+  "model": "glm-5.3"
+}

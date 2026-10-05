@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм аның белән берничә көн яшәрсең, абыгыңның ачуланып беткәнче.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "яшәрсең"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "аның белән"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "берничә"
+    },
+    {
+      "surface": "עד",
+      "gloss": "беткәнче"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хәтле"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "килеп бетәр"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ачуы"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "абыгыңның"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:31.165068245Z",
+  "model": "glm-5.3"
+}

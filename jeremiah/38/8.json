@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Һәм Эвед-Мелек патша сараеннан чыкты һәм патшага сөйләде, әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "хезмәтчесе"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Эвед-Мелек"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "сараеннан"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "патшага"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшага"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-05T00:00:41.896683232Z",
+  "model": "glm-5.3"
+}

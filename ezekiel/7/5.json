@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Шулай ди Адонай Яһвә: Бәла, бердәнбер бәла — мә, ул килә.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ди"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Бәла"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бердәнбер"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бәла"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мә"
+    },
+    {
+      "surface": "באה",
+      "gloss": "килә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:07:41.064421944Z",
+  "model": "glm-5.3"
+}

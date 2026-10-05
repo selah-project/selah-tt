@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм ул миңа әйтте: кеше улы, зинһар, диварны тиш. Мин диварны тиштем, һәм менә бер ишек.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "тиш"
+    },
+    {
+      "surface": "נא",
+      "gloss": "зинһар"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "диварны"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "һәм тиштем"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "диварны"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "һәм менә"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ишек"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    }
+  ],
+  "timestamp": "2026-10-05T00:08:21.546852423Z",
+  "model": "glm-5.3"
+}

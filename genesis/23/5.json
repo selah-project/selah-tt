@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Һәм Хет уллары Авраһамга җавап бирделәр, аңа әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "җавап бирделәр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраһам"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:38.090454849Z",
+  "model": "glm-5.3"
+}

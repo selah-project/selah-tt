@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 1:43",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Исәпләнгәннәре Нафтали коленыннан: илле өч мең дүрт йөз.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "исәпләнгәннәре"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "коленыннан"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "өч"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:35.202441118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Двора җырлады, һәм Барак, Авиноам улы, шул көнне әйтеп:",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "җырлады"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Двора"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "һәм Барак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Авиноам"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T22:41:25.841003611Z",
+  "model": "glm-5.3"
+}

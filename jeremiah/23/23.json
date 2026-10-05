@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Якындагы Элоһиммын Мин, — Яһвә сүзе, — әллә ерактагы Элоһим түгелме?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "Элоһиммын"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "якындагы"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "әллә түгелме"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ерактагы"
+    }
+  ],
+  "timestamp": "2026-10-04T23:54:29.962397614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Утай, Әммиһуд улы, Ғомри улы, Имри улы, Бани улы — Перец улларыннан, Яһүдә улы.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "Утай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Әммиһуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Ғомри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Имри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларыннан"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "בן",
+      "gloss": "у"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яһүдә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:57.129674830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Һамат та аңа чиктәш; Цор һәм Цидон — чөнки ⟨алар⟩ бик хәким.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "һәм ... та"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Һамат"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "чиктәш була"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "һәм Цидон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хәким"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    }
+  ],
+  "timestamp": "2026-10-05T00:39:14.598587105Z",
+  "model": "glm-5.3"
+}

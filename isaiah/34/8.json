@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Чөнки Яһвәгә үч алу көне бар, Сион эше өчен түләүләр елы.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көне"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "үч алу"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "елы"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "түләүләр"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "эше өчен"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    }
+  ],
+  "timestamp": "2026-10-04T23:38:19.222659511Z",
+  "model": "glm-5.3"
+}

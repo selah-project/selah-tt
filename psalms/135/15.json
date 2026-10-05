@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 135,
+  "translation": "Халыкларның потлары — көмеш һәм алтын, кеше кулларының эше.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "потлары"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "халыкларның"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "көмеш"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "һәм алтын"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "эше"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "кулларының"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:58.223921819Z",
+  "model": "glm-5.3"
+}

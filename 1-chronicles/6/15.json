@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Шимаа аның улы, Хаггија аның улы, Асаја аның улы.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "Шимаа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "Хаггија"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асаја"
+    },
+    {
+      "surface": "בנо",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:20.646980101Z",
+  "model": "glm-5.3"
+}

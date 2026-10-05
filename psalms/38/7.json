@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Бөгелдем, бик каты иелдем; көн буе монлы-караңгы булып йөрдем.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "бөгелдем"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "иелдем"
+    },
+    {
+      "surface": "עד",
+      "gloss": "бик"
+    },
+    {
+      "surface": "мאד",
+      "gloss": "каты"
+    },
+    {
+      "surface": "כל",
+      "gloss": "көн буе"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "монлы-караңгы"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "йөрдем"
+    }
+  ],
+  "timestamp": "2026-10-05T00:48:02.434092483Z",
+  "model": "glm-5.3"
+}

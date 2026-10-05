@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм ул ⟨את⟩ үз ашамын Яһвәгә, очрашу чатыры ишеге алдына китерер: ашам булып бер тәкә.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "китерер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үз ашамын"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "үз ашамын"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ишеге"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатыры"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "очрашу"
+    },
+    {
+      "surface": "איל",
+      "gloss": "тәкә"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ашам"
+    }
+  ],
+  "timestamp": "2026-10-04T22:02:12.445988795Z",
+  "model": "glm-5.3"
+}

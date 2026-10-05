@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 147,
+  "translation": "Ул йолдызларның санын саный, барысына исемнәр куша.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "саный"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "санын"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "йолдызларның"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "барысына"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "исемнәр"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "куша"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:17.355816588Z",
+  "model": "glm-5.3"
+}

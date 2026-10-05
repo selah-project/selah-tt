@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 132,
+  "translation": "Чөнки Яһвә Цыйонны сайлады, аны үзенә тору урыны итеп теләде.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "сайлады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Цыйонны"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "теләде"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "тору урыны итеп"
+    },
+    {
+      "surface": "לו",
+      "gloss": "үзенә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:34.971429358Z",
+  "model": "glm-5.3"
+}

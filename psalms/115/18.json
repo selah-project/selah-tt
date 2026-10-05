@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 115,
+  "translation": "Ә ⟨без⟩ Яһны алкыйбыз — хәзердән үк һәм мәңгегә. Алкыйбыз, Яһ!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "ә без"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "алкыйбыз"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "хәзердән"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "һәм кадәр"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "алкыйбыз (әйтегез)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:18.839291927Z",
+  "model": "glm-5.3"
+}

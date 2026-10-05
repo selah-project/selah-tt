@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Кенаан ⟨את⟩ Цидонны, беренче туганын, һәм ⟨את⟩ Хетны тудырды.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "һәм Кенаан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цидонны"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Цидонны"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "беренче туганын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Хетны"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хетны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:19.105950061Z",
+  "model": "glm-5.3"
+}

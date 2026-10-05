@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Йөз танып ⟨аера⟩ — яхшы түгел, һәм икмәк телеме өчен гөмер җинаять кыла.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "танып"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "һәм өчен"
+    },
+    {
+      "surface": "פת",
+      "gloss": "тели"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "икмәк"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "җинаять кыла"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "гөмер"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:09.091811752Z",
+  "model": "glm-5.3"
+}

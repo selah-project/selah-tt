@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 33:16",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Аның кылган бөтен гөнаһлары аңа хәтерләнмәс; хөкем һәм цедек кылды — яшәр-яшәр.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "гөнаһлары"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кый"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "кылган"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תזכרנה",
+      "gloss": "хәтерләнмәс"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкем"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "һәм цедек"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылды"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "яшәр"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "яшәр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:19:24.216428451Z",
+  "model": "glm-5.3"
+}

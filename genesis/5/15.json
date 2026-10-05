@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Маһалалел алтмыш биш ел яшәде һәм ⟨את⟩ Йаредны тудырды.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Маһалалел"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ел"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "алтмыш"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йаредны"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Йаредны"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:17.105049434Z",
+  "model": "glm-5.3"
+}

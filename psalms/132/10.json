@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 132,
+  "translation": "Синең хезмәтчең Давид өчен Машиаһыңның йөзен кире борма.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "хезмәтчең"
+    },
+    {
+      "surface": "אל",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "кире борма"
+    },
+    {
+      "surface": "פני",
+      "gloss": "йөзен"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Машиаһыңның"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:35.410083510Z",
+  "model": "glm-5.3"
+}

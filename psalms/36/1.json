@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Җитәкчегә, Яһвәнең колына, Давидка.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Җитәкчегә"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "колына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидка"
+    }
+  ],
+  "timestamp": "2026-10-05T00:47:05.113016642Z",
+  "model": "glm-5.3"
+}

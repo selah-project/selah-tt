@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм Мошенең кайнатасы аңа әйтте: Сиңа эшләгән эш — яхшы түгел.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "кайнатасы"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошенең"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "эш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшләгән"
+    }
+  ],
+  "timestamp": "2026-10-04T21:46:24.172726125Z",
+  "model": "glm-5.3"
+}

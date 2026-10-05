@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Кешегә — йөрәк тәртипләре, ә Яһвәдән — телнең җавабы.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "кешегә"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "тәртипләре"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ә Яһвәдан"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "җавабы"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "телнең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:11.961879282Z",
+  "model": "glm-5.3"
+}

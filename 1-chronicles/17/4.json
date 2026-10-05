@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Бар һәм минем колым Давидка әйт: Яһвә сүзе: Минем өчен яшәү йортын сен төзә алмыйсың.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Бар"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "һәм әйт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ел"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидка"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "минем колым"
+    },
+    {
+      "surface": "כה",
+      "gloss": "болай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Алмыйсың"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "төзә"
+    },
+    {
+      "surface": "לי",
+      "gloss": "минем өчен"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "йорт"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "яшәү"
+    }
+  ],
+  "timestamp": "2026-10-05T02:02:02.167817528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "һәм Аттай ⟨את⟩ Натанны тудырды, һәм Натан ⟨את⟩ Забадны тудырды.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "һәм Аттай"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Натанны"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натанны"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "һәм Натан"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Забадны"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Забадны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:24.170016678Z",
+  "model": "glm-5.3"
+}

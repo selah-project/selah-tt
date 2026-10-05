@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Чөнки боерык — чырак, һәм Тора — яктылык, һәм тәрбия кисәтүләре — тормыш юлы.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "נר",
+      "gloss": "чырак"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "боерык"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "һәм Тора"
+    },
+    {
+      "surface": "אור",
+      "gloss": "яктылык"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "һәм юлы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тормыш"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "кисәтүләр"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тәрбия"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:10.815557667Z",
+  "model": "glm-5.3"
+}

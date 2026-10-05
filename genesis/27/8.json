@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Ә хәзер, улым, мин сиңа нәрсә кушканымны тыңла.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ә хәзер"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңла"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "тавышымны"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "нәрсә…ны"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "кушканым"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "сиңа"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:09.741411404Z",
+  "model": "glm-5.3"
+}

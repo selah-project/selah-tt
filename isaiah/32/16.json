@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм хөкем чүлдә яшәр, ә цедек уңдырышлы кырда утырыр.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "һәм яшәр"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чүлдә"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкем"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ә цедек"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "уңдырышлы кырда"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "утырыр"
+    }
+  ],
+  "timestamp": "2026-10-04T23:35:50.545768794Z",
+  "model": "glm-5.3"
+}

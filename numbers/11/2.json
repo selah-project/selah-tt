@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм халык Мошега кычкырынды, һәм Моше Яһвәгә дога кылды, һәм ут сүенде.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "һәм кычкырынды"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тагын"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошега"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "һәм дога кылды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тагын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "һәм сүенде"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ут"
+    }
+  ],
+  "timestamp": "2026-10-04T22:10:10.647666588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Шулай даими булды: болыт аны каплый иде, һәм төнлә ут күренеше.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "даими"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "болыт"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "аны каплый иде"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "һәм күренеше"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ут"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "төнлә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:09:43.530840662Z",
+  "model": "glm-5.3"
+}

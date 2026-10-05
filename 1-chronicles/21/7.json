@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм бу эш Элоһим күзләренә яман булды, һәм Ул ⟨את⟩ Йисраэлне сукты.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "яман булды"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "күзләренә"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "על",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "эш"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "сукты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлне"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлне"
+    }
+  ],
+  "timestamp": "2026-10-05T02:01:55.944847172Z",
+  "model": "glm-5.3"
+}

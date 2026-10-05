@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Җыенга әйт: әйтеп, Корахның, Датанның һәм Авiramның Мишканы тирәсеннән күтәрелегез.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "әйт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Җыенга"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "җыен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "күтәрелегез"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "тирәсеннән"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Мишканы"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корахның"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Датанның"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "Авiramның"
+    }
+  ],
+  "timestamp": "2026-10-04T22:11:31.986224249Z",
+  "model": "glm-5.3"
+}

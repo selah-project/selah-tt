@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Яһвә мәңгегә утыра, Үз тәхетен хөкем өчен беркетте.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "һәм Яһвә"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңгегә"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "утыра"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "беркетте"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "хөкем өчен"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "Үз тәхетен"
+    }
+  ],
+  "timestamp": "2026-10-05T00:43:02.105983547Z",
+  "model": "glm-5.3"
+}

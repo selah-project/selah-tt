@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 100,
+  "translation": "Тәбрикләү җыры. Яһвәгә тавыш күтәрегез, бөтен җир!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "җыры"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "тәбрикләү"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "тавыш күтәрегез"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:25.533599484Z",
+  "model": "glm-5.3"
+}

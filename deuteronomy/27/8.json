@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм ташлар өстенә бу Тораның барлык сүзләрен ⟨את⟩ яхшы итеп ачык язаир.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "язаярсың"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ташлар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тораның барлык сүзләрен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сүзләрен"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тораның"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ачык язаир"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "яхшы итеп"
+    }
+  ],
+  "timestamp": "2026-10-05T02:26:34.262704250Z",
+  "model": "glm-5.3"
+}

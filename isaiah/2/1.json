@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Сүз, Йишаьяһу, Амот улы, аны Йеһуда һәм Йерушалаим турында күрде.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Сүз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "יישעיהו",
+      "gloss": "Йишаьяһу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Амот"
+    },
+    {
+      "surface": "על",
+      "gloss": "турында"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеһуда"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "һәм Йерушалаим"
+    }
+  ],
+  "timestamp": "2026-10-04T23:29:24.484961721Z",
+  "model": "glm-5.3"
+}

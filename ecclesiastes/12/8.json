@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Хава, хаваларның хавасы, — диде Коһелет, — барысы да хава.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "хава"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "хавалар"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Коһелет"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "барысы да"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хава"
+    }
+  ],
+  "timestamp": "2026-10-05T01:37:23.379175900Z",
+  "model": "glm-5.3"
+}

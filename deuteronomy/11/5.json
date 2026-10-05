@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "һәм ни кылган ул сиңа чүлдә, сиңа монда җиргә килгәнче <⟨את⟩ note: no at>",
+  "tokens": [],
+  "timestamp": "2026-10-04T22:22:53.618258999Z",
+  "model": "glm-5.3"
+}

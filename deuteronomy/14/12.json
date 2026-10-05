@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Әммә болар — алардан ашамый торганнарыгыз: бөркет, парсы һәм әзния.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "әммә болар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "——"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ашамый"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "торганнарыгыз"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "бөркет"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "парсы"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "әзния"
+    }
+  ],
+  "timestamp": "2026-10-05T02:25:57.653300893Z",
+  "model": "glm-5.3"
+}

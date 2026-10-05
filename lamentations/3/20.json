@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Хәтерләсәң, хәтерләсәң, һәм минем өстемә басыла минем җаным.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "хәтерләсәң"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "хәтерләсәң"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "һәм басыла"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "минем өстемә"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "минем җаным"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:06.830237566Z",
+  "model": "glm-5.3"
+}

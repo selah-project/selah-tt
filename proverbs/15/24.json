@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Тормыш юлы аңлы кеше өчен өскә таба, Шеолдан, астан, тайпылу өчен.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "юл"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тормыш"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "өскә таба"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "аңлы кешегә"
+    },
+    {
+      "surface": "למען",
+      "gloss": "өчен"
+    },
+    {
+      "surface": "סור",
+      "gloss": "тайпылу"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Шеолдан"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "аста"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:48.128387388Z",
+  "model": "glm-5.3"
+}

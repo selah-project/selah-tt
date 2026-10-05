@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм Лаванның ике кызы бар иде: оланың исеме Лея, һәм кечесенең исеме Раһел.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "һәм Лаванның"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ике"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "שם",
+      "gloss": "исеме"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "оланың"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лея"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "һәм исеме"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "кечесенең"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Раһел"
+    }
+  ],
+  "timestamp": "2026-10-04T21:32:05.905445198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Рухны саклаучы чәчмәс, һәм болытларга карап торучы урыр түгел.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "саклаучы"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "чәчмәс"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "һәм карап торучы"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "болытларга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "урыр"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:39.764580883Z",
+  "model": "glm-5.3"
+}

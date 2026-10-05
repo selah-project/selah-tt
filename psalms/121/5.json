@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 121,
+  "translation": "Яһвә — сине саклаучың, Яһвә — синең күләгәң, уң кулың өстендә.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "сине саклаучың"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "синең күләгәң"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кул"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "уң кулың"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:12.763581761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Яман кеше күкрәктән ришвә ала — хөкем юлларын бозыр өчен.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "ришвә"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "күкрәктән"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "яман кеше"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ала"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "бозыр өчен"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "юлларын"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:52.943293786Z",
+  "model": "glm-5.3"
+}

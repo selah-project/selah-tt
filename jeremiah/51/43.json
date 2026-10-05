@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 51:43",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 51,
+  "translation": "Аның шәһәрләре хәрабә булдылар — коры җир, чүллек, анда бөтен ир дә яшәмәс, һәм анан адәм улы да үтмәс.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "булдылар"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "аның шәһәрләре"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "хәрабәгә"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "коры"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "һәм чүллек"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "яшәр"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "анда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ир"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм юк"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "үтәр"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "анан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адәм"
+    }
+  ],
+  "timestamp": "2026-10-05T02:38:05.443975981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Ахмак ул — атасына ачу, һәм тудырган анасына ачылык.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "ачу"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "атасына"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ул"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ахмак"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "һәм ачылык"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "тудырган анасына"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:32.453514806Z",
+  "model": "glm-5.3"
+}

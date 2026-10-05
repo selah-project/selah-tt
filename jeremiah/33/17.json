@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Чөнки Яһвә сүзе: Давид өйдә Йисраэл тәхетендә утыручы кеше өзелмәячәк.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "өзелмәячәк"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид өчен"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "утыручы"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстендә"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тәхет"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өй"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-04T23:58:26.752765714Z",
+  "model": "glm-5.3"
+}

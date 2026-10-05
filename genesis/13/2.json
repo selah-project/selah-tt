@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм Аврам мал-туар, көмеш һәм алтын ягыннан бик бай булды.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "һәм Аврам"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "авыр ⟨булды⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бик"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "мал-туарда"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "көмештә"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "һәм алтында"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:45.896725639Z",
+  "model": "glm-5.3"
+}

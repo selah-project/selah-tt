@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 65,
+  "translation": "Сиңа тынлык ⟨белән⟩ мактыйлар, Элоһим, Сионда, һәм сиңа ант түләнер.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "тынлык"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "мактау"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Сионда"
+    },
+    {
+      "surface": "вלך",
+      "gloss": "һәм сиңа"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "түләнер"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ант"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:27.473787251Z",
+  "model": "glm-5.3"
+}

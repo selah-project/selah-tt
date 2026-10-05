@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм аның туганы Һелемнең уллары: Цофах, Йимна, Шелеш һәм Амал.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "Һелем"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "аның туганы"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Цофах"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "һәм Йимна"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "һәм Шелеш"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "һәм Амал"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:19.852342996Z",
+  "model": "glm-5.3"
+}

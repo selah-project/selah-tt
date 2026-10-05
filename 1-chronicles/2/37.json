@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "һәм Забад ⟨את⟩ Эфлалны тудырды, һәм Эфлал ⟨את⟩ Оведны тудырды.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "һәм Забад"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эфлалны"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Эфлал"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "һәм Эфлал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оведны"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овед"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:58.289662721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 2:9",
+  "book": "jonah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Буш ялганнарга тотынучылар үз хеседеннән баш тарталар.",
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": " totынучылар"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "буш"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ялганнарга"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "үз хеседеннән"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "баш тарталар"
+    }
+  ],
+  "timestamp": "2026-10-05T00:32:32.397502135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Улым, алар юлында барма, аяк аягыңны алар сукмагыннан тый.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨барма⟩"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "юлда"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ белән алар",
+      "marks": "алар юлы"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "тый"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "аягыңны"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "алар сукмагыннан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:33.255044345Z",
+  "model": "glm-5.3"
+}

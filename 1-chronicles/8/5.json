@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "һәм Гера, һәм Шефуфан, һәм Һурам.",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "һәм Гера"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "һәм Шефуфан"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "һәм Һурам"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:30.905334987Z",
+  "model": "glm-5.3"
+}

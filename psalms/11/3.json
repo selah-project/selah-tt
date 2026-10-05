@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Чөнки нигезләр җимерелә — гадел нәрсә эшләсен?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "нигезләр"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "җимерелә"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гадел"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "эшләсен"
+    }
+  ],
+  "timestamp": "2026-10-05T00:43:28.256824630Z",
+  "model": "glm-5.3"
+}

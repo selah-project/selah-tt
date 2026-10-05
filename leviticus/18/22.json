@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм ⟨את⟩ ир кеше белән хатын белән яткан кебек ятма — ләгънәт ул.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ир кеше"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ир кеше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ятма"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ятма"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "... белән яткан кебек"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ләгънәт"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T22:00:22.675067019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм каһиннәрдән: Йедаья, һәм Йеһоярив, һәм Яхин.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "һәм ... дан"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "каһиннәрдән"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедаья"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "һәм Йеһоярив"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "һәм Яхин"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:06.449101325Z",
+  "model": "glm-5.3"
+}

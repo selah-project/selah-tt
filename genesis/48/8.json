@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 48,
+  "translation": "Йисраэл Йосыфның улларын ⟨את⟩ күрде һәм әйтте: Болар кемнәр?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йосыфның улларын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларын"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосыфның"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кемнәр"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    }
+  ],
+  "timestamp": "2026-10-04T21:39:30.125101362Z",
+  "model": "glm-5.3"
+}

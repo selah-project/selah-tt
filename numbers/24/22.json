@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Әмма Кейн юк ителер; кайчанга кадәр Ашур сине әсир итәр?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "әмма"
+    },
+    {
+      "surface": "אם",
+      "gloss": "тик"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "юк ителергә"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Кейн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кайчан"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "сине әсир итәр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:14:41.755141058Z",
+  "model": "glm-5.3"
+}

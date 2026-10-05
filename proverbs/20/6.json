@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Күп кеше үзенең хеседен игълан итә, ә тоғры кешене кем табар?",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "күп"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "игълан итә"
+    },
+    {
+      "surface": "איש",
+      "gloss": "үзенең"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседен"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ә кеше"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "тоғры"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "табар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:15.445993779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Ул аларга мәҗлес ясады, һәм алар ашадылар һәм эчтеләр.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ясады"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "мשתה",
+      "gloss": "мәҗлес"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ашадылар"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "эчтелә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:05.361944769Z",
+  "model": "glm-5.3"
+}

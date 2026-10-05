@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Һәм яңгыр җир өстенә кырык көн һәм кырык төн булды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "яңгыр"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "һәм кырык"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "төн"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:58.745635118Z",
+  "model": "glm-5.3"
+}

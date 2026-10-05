@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Һәм ир яки хатын — әгәр аларның тән тиресендә таплар, ак таплар булса,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "һәм ир"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булса"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "тиресендә"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "аларның тән"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "таплар"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "таплар"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ак"
+    }
+  ],
+  "timestamp": "2026-10-04T21:58:52.048346855Z",
+  "model": "glm-5.3"
+}

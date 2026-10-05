@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәр вакытта дус яратып тора, ә туган бәлагә ⟨туган⟩ булып тора.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вакытта"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "яратып тора"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "дус"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "ә туган"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "бәлагә"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "туган булып тора"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:23.302642443Z",
+  "model": "glm-5.3"
+}

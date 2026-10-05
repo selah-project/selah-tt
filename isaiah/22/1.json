@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Йөк: күрәзә үзәне. Сиңа ни булды инде, ни өчен мендең тулысынча түбәләргә?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Йөк"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "үзән"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "күрәзә"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "инде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ни өчен"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "мендең"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "тулысынча"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "түбәләргә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:33:51.437455205Z",
+  "model": "glm-5.3"
+}

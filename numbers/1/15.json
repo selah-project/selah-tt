@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Нафтали кабиләсеннән — Аһира, Эйнан улы.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "Нафтали кабиләсеннән"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Аһира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Эйнан"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:45.696696168Z",
+  "model": "glm-5.3"
+}

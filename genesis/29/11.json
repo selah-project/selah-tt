@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм Яаков Раһелне үпте, һәм ⟨את⟩ тавышын күтәрде һәм елады.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "үпте"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Раһелне"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "күтәрде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тавышын"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "тавышын"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "елады"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:41.519818198Z",
+  "model": "glm-5.3"
+}

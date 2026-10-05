@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Сиңа тиңнәр юк, Яһвә; Син бөексиң, һәм Синең исемең батырлыкта бөек.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "тиңнәр юк"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "Сиңа тиң"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөексиң"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "һәм бөек"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "исемең"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "батырлыкта"
+    }
+  ],
+  "timestamp": "2026-10-04T23:49:55.991333314Z",
+  "model": "glm-5.3"
+}

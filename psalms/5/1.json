@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Көйчегә, نәһилот өстенә, Давид мәдхие.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Көйчегә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "нәһилот"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхие"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:43.474658399Z",
+  "model": "glm-5.3"
+}

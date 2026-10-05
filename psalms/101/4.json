@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 101,
+  "translation": "Ҡыйыш йөрәк миңардан читләшер: явызлыкны белмәсмен.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ҡыйыш"
+    },
+    {
+      "surface": "יסוף",
+      "gloss": "читләшер"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "миңардан"
+    },
+    {
+      "surface": "רע",
+      "gloss": "явызлыкны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "−"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "белмәсмен"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:12.633101939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Яһвә Цеваот сүзе — йөрәгегезне юлларыгызга китерегез.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "китерегез"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "йөрәгегезне"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "юлларыгызга"
+    }
+  ],
+  "timestamp": "2026-10-05T00:37:20.701916206Z",
+  "model": "glm-5.3"
+}

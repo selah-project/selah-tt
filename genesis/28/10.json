@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Һәм Яаков Беэр-Шевадан чыгып, Һаранга таба китте.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "чыгып"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "Беэр-Шевадан"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Беэр-Шева"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "китте"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "Һаранга таба"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:49.799610601Z",
+  "model": "glm-5.3"
+}

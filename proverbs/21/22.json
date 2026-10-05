@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Көчлеләр шәһәренә хаким менә һәм аның таянычының көчен төшерә.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "шәһәренә"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "көчлеләр"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хаким"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "һәм төшерә"
+    },
+    {
+      "surface": "עז",
+      "gloss": "көчен"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "таянычының"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:54.950039296Z",
+  "model": "glm-5.3"
+}

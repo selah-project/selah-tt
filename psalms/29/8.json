@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Яһвәнең тавышы чүлне калтырата, Яһвә Кадеш чүлен калтырата.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "тавышы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "калтырата"
+    },
+    {
+      "surface": "мדבר",
+      "gloss": "чүлне"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "калтырата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "мדбр",
+      "gloss": "чүлен"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:21.745562102Z",
+  "model": "glm-5.3"
+}

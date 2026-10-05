@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Яһвәгә әйттем: Адонай, Син; минем яхшылыгым Синнән башка ⟨юк⟩.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "әйттем"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "минем яхшылыгым"
+    },
+    {
+      "surface": "בל",
+      "gloss": "юк"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Синнән башка"
+    }
+  ],
+  "timestamp": "2026-10-05T00:43:21.423382034Z",
+  "model": "glm-5.3"
+}

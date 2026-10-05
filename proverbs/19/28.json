@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 19:28",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Белһалигал шаһиде хөкемне мыскыллый, һәм явызлар авузы җәлеге йота.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "шаһиде"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "белһалигал"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "мыскыллый"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкемне"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "һәм авузы"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "явызлар"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "йота"
+    },
+    {
+      "surface": "און",
+      "gloss": "җәлеге"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:34.212796701Z",
+  "model": "glm-5.3"
+}

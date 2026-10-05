@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Аһ! Канатлар сылкынуы ил, кайсы Куш елгалары артында!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Аһ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ил"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "сылкыну"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "канатлар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "артында"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "елгалары"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    }
+  ],
+  "timestamp": "2026-10-05T02:35:07.147838387Z",
+  "model": "glm-5.3"
+}

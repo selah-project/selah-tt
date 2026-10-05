@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Цедек юлында йөрим, хөкем юллары уртасында.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "юлында"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "йөрим"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "уртасында"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "юллары"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:48.636470076Z",
+  "model": "glm-5.3"
+}

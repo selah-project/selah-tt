@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 56,
+  "translation": "Курккан көнне мин Сиңа таянамын.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "курккан"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мин"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сиңа"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "таянамын"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:46.277206846Z",
+  "model": "glm-5.3"
+}

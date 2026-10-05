@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Һәм Шаул әйтте: Тыңла әле, Аһитув улы. Ә ул әйтте: Менә мин, хуҗам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "тыңла"
+    },
+    {
+      "surface": "נא",
+      "gloss": "әле"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Аһитув"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "менә мин"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "хуҷам"
+    }
+  ],
+  "timestamp": "2026-10-04T22:55:49.660210396Z",
+  "model": "glm-5.3"
+}

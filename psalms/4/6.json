@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Цедек корбаннарын чалагыз һәм Яһвәгә таяныгыз.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "чалагыз"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "корбаннарын"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "һәм таяныгыз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ялгынына⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәгә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:41:29.526808330Z",
+  "model": "glm-5.3"
+}

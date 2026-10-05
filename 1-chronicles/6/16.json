@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм болар — Дәвид җыр хезмәтенә, Яһвәнең өенә куйганнар, сандык тынычланганнан соң.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "һәм болар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "кујды"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Дәвид"
+    },
+    {
+      "surface": "על",
+      "gloss": "... өчен"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "хезмәтенә"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "тынычланганнан соң"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "сандык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:58:20.647234973Z",
+  "model": "glm-5.3"
+}

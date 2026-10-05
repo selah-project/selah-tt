@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Кешенең йөрәгендәге кайгы аны баса, ә яхшы сүз аны шатландыра.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "кайгы"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "йөрәгендәге"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешенең"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "баса"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ә сүз"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "шатландыра"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:06.086127417Z",
+  "model": "glm-5.3"
+}

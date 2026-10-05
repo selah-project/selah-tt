@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 5:1",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Яһвә Мошега әйтте: ⟨әйтеп⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨әйтеп⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T22:08:20.160759750Z",
+  "model": "glm-5.3"
+}

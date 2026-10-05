@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Көмеш ⟨дип⟩ кире кагылган дип атадылар аларны, чөнки Яһвә аларны кире каккан.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "көмеш"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "кире кагылган"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "атадылар"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "кире каккан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "аларны"
+    }
+  ],
+  "timestamp": "2026-10-04T23:47:47.864329156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм әгәр бер гер синең белән җирегездә яшәсә, аны кыерсытмагыз.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Һәм әгәр"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "яшәсә"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "белән ⟨את⟩"
+    },
+    {
+      "surface": "גר",
+      "gloss": "гер"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "җирегездә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "кыерсытмагыз"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    }
+  ],
+  "timestamp": "2026-10-04T22:02:17.276211172Z",
+  "model": "glm-5.3"
+}

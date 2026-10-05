@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Син аны таяк белән суксаң, аның җаны Шеолдан коткарылыр.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таяк белән"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "аны суксаң"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "аның җаны"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Шеолдан"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "коткарылыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:31.961157727Z",
+  "model": "glm-5.3"
+}

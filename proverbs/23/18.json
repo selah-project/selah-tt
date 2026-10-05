@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Чөнки чыннан ахыр бар, һәм өметең киселмәс.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אם",
+      "gloss": "чыннан"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ахыр"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "һәм өметең"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "киселмәс"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:04.927041087Z",
+  "model": "glm-5.3"
+}

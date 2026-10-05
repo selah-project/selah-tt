@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 60,
+  "translation": "Кем мине ныгытылган шәһәргә китерер? Кем мине Эдомга җитәкер?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кем"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "китерер"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шәһәргә"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ныгытылган"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кем"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "җитәкер"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомга"
+    }
+  ],
+  "timestamp": "2026-10-05T00:51:54.522869874Z",
+  "model": "glm-5.3"
+}

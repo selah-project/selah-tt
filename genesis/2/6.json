@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм җирдән пар өскә менеп, ⟨את⟩ бөтен туфрак өслеген суландыра иде.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "һәм пар"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "менеп"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−дан"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "суландыра иде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен туфрак өслеген"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "פני",
+      "gloss": "өслеген"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "туфракның"
+    }
+  ],
+  "timestamp": "2026-10-04T21:23:35.903672365Z",
+  "model": "glm-5.3"
+}

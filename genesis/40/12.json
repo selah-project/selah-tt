@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Һәм Йосыф аңа әйтте: Менә аңлатмасы: өч ботак — ул өч көн.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосыф"
+    },
+    {
+      "surface": "זה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "аңлатмасы"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ботак"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ул"
+    }
+  ],
+  "timestamp": "2026-10-04T21:35:50.517293301Z",
+  "model": "glm-5.3"
+}

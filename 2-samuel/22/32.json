@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 22,
+  "translation": "Чөнки кем Эл, Яһвәдән башка? Һәм кем кыя, безнең Элоһимнән башка?",
+  "tokens": [
+    {
+      "surface": "кי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "башка"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәдән"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "һәм кем"
+    },
+    {
+      "surface": "צור",
+      "gloss": "кыя"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "башка"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "безнең Элоһимнән"
+    }
+  ],
+  "timestamp": "2026-10-04T23:07:12.084331866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Җыелыгыз, әйе, җыелыгыз, эй, теләнмәгән ыруг!",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "җыелыгыз"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "әйе, җыелыгыз"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "эй, ыруг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "теләнмәгән"
+    }
+  ],
+  "timestamp": "2026-10-05T02:40:37.203220474Z",
+  "model": "glm-5.3"
+}

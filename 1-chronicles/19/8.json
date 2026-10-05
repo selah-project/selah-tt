@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм Давид ишетте һәм Йоабны ⟨את⟩ һәм бөтен батырлар гаскәрен ⟨את⟩ җибәрде.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ишетте"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "җибәрде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоабны"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоаб"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бөтен батырлар гаскәрен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "гаскәр"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "батырлар"
+    }
+  ],
+  "timestamp": "2026-10-05T02:02:50.309675143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Барысы бергә Сиддим үзәненә — ул тоз диңгезе — килеп җыелдылар.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "барысы"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "җыелдылар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үзәненә"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "үзән"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Сиддим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ים",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "тоз"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:55.069740567Z",
+  "model": "glm-5.3"
+}

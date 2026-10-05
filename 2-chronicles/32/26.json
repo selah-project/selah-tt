@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 32:26",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм Яһизкияһу йөрәге түбәләнүендә түбәнчелек күрсәтте, үзе һәм Йерушалаим яшәүчеләре, һәм Яһвә ачусы алар өстенә Яһизкияһу көннәрендә килмәде.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "tübänçelek kürsättе"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Яһизкияһу"
+    },
+    {
+      "surface": "בגבה",
+      "gloss": "tübälänüendä"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yöräge"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "üzе"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "häм yäşäwçeläre"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалаим"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "häм… tügе"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kilмäde"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "alar östenä"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "açу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "könnärendä"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Яһизкияһу"
+    }
+  ],
+  "timestamp": "2026-10-05T02:16:52.156644386Z",
+  "model": "glm-5.3"
+}

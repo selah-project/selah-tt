@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Мишманна — дүртенче, Йирмья — бишенче.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "Мишманна"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "дүртенче"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Йирмья"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "бишенче"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:29.415897088Z",
+  "model": "glm-5.3"
+}

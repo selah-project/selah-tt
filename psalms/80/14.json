@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 80,
+  "translation": "Урман дуңгызы аны бөлгән, һәм кыр хайваннары аны көтә.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "аны бөлгән"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "дуңгызы"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "урман"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "һәм хайваннары"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "кыр"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "аны көтә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:55:52.405345451Z",
+  "model": "glm-5.3"
+}

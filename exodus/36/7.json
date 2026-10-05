@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Һәм мал бөтен эшне эшләргә җитәрлек булды һәм артып та калды.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "דים",
+      "gloss": "җитәрлек"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "эшне"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "эшләргә"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "һәм артып калды"
+    }
+  ],
+  "timestamp": "2026-10-04T21:54:02.882797760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 46,
+  "translation": "Җитәкчегә, Корах улларына, аламот өстенә — җыр.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "җитәкчегә"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "аламот"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:36.594269242Z",
+  "model": "glm-5.3"
+}

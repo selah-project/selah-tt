@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Яһвә Мошега әйтте: Бу Әбарим тавына мен һәм ⟨את⟩ Мин Йисраэл улларына биргән җирне кара.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "таба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "таба"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тавына"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Әбарим"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "һәм кара"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "җирне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ки⟩"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Мин биргән"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "улларына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:31.492744548Z",
+  "model": "glm-5.3"
+}

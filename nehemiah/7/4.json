@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Ә шәһәр киң колачлы һәм бөек иде, ләкин халык аның эчендә аз иде, һәм төзелгән өйләр юк иде.",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "шәһәр"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "киң"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "колачлы"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "аның эчендә"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "өйләр"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "төзелгән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:53:04.542291039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Болар — Эсав уллары, һәм болар аларның бәкләре; ул — Эдом.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "һәм болар"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "аларның бәкләре"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:25.986879065Z",
+  "model": "glm-5.3"
+}

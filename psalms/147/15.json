@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 147,
+  "translation": "Ул җир буйлап Үз әмерен җибәрә, Ул сүзе бик тиз йөгерә.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Җибәрүче"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "Үз әмерен"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир буйлап"
+    },
+    {
+      "surface": "עד",
+      "gloss": "бик"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "тиз"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "йөгерә"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "сүзе"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:14.727790772Z",
+  "model": "glm-5.3"
+}

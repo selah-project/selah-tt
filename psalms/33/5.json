@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 33,
+  "translation": "Цедекны һәм хөкемне ярата; җир Яһвәнең хеседы белән тулы.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ярата"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедекны"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "һәм хөкемне"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хеседы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-05T00:46:37.208576941Z",
+  "model": "glm-5.3"
+}

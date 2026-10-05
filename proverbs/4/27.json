@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Уңга да, сулга да авышма, аягыңны явызлыктан читләштер.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-ма"
+    },
+    {
+      "surface": "תט",
+      "gloss": "авыш"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "уңга"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "сулга да"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "читләштер"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "аягыңны"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "явызлыктан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:07:54.863093100Z",
+  "model": "glm-5.3"
+}

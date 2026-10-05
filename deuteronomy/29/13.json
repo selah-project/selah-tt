@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Һәм Мин ⟨את⟩ бу килешүне һәм ⟨את⟩ бу антын түгел тик ⟨את⟩ сезнең белән генә кисәм.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ сезнең белән"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "генә (сез генә)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "кисәм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бу килешүне"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "килешүне"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ һәм",
+      "marks": "бу антын"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "антын"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T22:29:29.550948130Z",
+  "model": "glm-5.3"
+}

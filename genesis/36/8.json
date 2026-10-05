@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 36,
+  "translation": "Һәм Эсәв Сеир тавында яшәде; Эсәв — ул Эдом.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсәв"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тавында"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсәв"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "— ул"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:22.707393372Z",
+  "model": "glm-5.3"
+}

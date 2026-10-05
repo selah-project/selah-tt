@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Даннан — Аһиэзер, Аммишаддай улы.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "Даннан"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Аһиэзер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "Аммишаддай"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:38.921953760Z",
+  "model": "glm-5.3"
+}

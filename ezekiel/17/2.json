@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Әй, кеше улы, төшенчәле җавап әйт һәм Йисраэл йортына мәсәл әйт:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "төшенчәле җавап әйт"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "төшенчәле җавап"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "һәм мәсәл"
+    },
+    {
+      "surface": "משל",
+      "gloss": "мәсәл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йортына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T00:12:41.161750886Z",
+  "model": "glm-5.3"
+}

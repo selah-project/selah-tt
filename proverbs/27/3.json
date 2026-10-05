@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Таш авыр һәм ком йөкле, ләкин акылсызның ачуы алардан икесеннән дә авыр.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "авыр"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "һәм йөкле"
+    },
+    {
+      "surface": "החול",
+      "gloss": "ком"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ләкин ачу"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "акылсызның"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "авыр"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "икесеннән дә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:12.432694509Z",
+  "model": "glm-5.3"
+}

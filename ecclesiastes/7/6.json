@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Чөнки казан астындагы кыргавылларның янар тавышы кебек — шулай ахмакның көлүе дә; бу да һавалык.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "тавышы кебек"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "кыргавылларның"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астындагы"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "казан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "көлүе"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ахмакның"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "да"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "һавалык"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:35.287491643Z",
+  "model": "glm-5.3"
+}

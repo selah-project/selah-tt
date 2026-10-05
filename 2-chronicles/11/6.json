@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм ⟨ул төзеде⟩ ⟨את⟩ Бейт-Лехемны, ⟨את⟩ Этамны һәм ⟨את⟩ Текоганы.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "һәм ⟨ул төзеде⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бейт-Лехемны"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Лехем"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Этамны"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Этам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Текоганы"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Текога"
+    }
+  ],
+  "timestamp": "2026-10-05T02:08:24.242057050Z",
+  "model": "glm-5.3"
+}

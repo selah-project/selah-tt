@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 45,
+  "translation": "Тыңла, кыз, һәм кара, колагыңны сал; халкыңны һәм атай йортыңны оныт.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Тыңла"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кыз"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "һәм кара"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "сал"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "колагыңны"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "оныт"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "халкыңны"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "йортыңны"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атай"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:17.111117161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 29:11",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Аның аша кешенең аягы үтмәс, һәм терлекнең аягы аның аша үтмәс, һәм кырык ел буе ул яшәнмәс.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "үтмәс"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аның аша"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "аяк"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "һәм аягы"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "терлек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "үтмәс"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аның аша"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм түгел"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "яшәнмәс"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    }
+  ],
+  "timestamp": "2026-10-05T00:18:34.414017071Z",
+  "model": "glm-5.3"
+}

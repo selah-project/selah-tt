@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Үзеңә хатын алма, һәм сиңа уллар да, кызлар да булмасыннар бу урында.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "алма"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм ... булмасыннар"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "булмасыннар"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уллар"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "һәм кызлар"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "бу урында"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T23:51:53.848929862Z",
+  "model": "glm-5.3"
+}

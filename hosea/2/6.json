@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Һәм ⟨את⟩ аның улларына рәхим итмәммен, чөнки алар зина уллары.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "аның уллары"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "аның улларына"
+    },
+    {
+      "surface": "לא",
+      "gloss": "итмәммен"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "рәхим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "зина"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    }
+  ],
+  "timestamp": "2026-10-05T00:26:25.087129847Z",
+  "model": "glm-5.3"
+}

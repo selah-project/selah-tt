@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Һәм күзең шәфкать күрсәтмәсен: җан җан өчен, күз күз өчен, теш теш өчен, кул кул өчен, аяк аяк өчен.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "һәм ... түгел"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "шәфкать күрсәтмәсен"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "күзең"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җан"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "җан өчен"
+    },
+    {
+      "surface": "עין",
+      "gloss": "күз"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "күз өчен"
+    },
+    {
+      "surface": "שן",
+      "gloss": "теш"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "теш өчен"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кул"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "кул өчен"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "аяк"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "аяк өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T22:25:26.521177319Z",
+  "model": "glm-5.3"
+}

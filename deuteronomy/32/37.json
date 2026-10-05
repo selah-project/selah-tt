@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Һәм ул әйтәр: Кайда аларның аллалары, ул кыя — аңа сыенганнар?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Һәм ул әйтәр"
+    },
+    {
+      "surface": "אי",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "аларның аллалары"
+    },
+    {
+      "surface": "צור",
+      "gloss": "кыя"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "аңа сыенганнар"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T02:27:00.770964096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм аннан соң каһиннәр, ⟨⟩ түгәрәк ирләре, ныгыттылар.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "һәм аннан соң"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "ныгыттылар"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "каһиннәр"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ирләре"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "түгәрәк"
+    }
+  ],
+  "timestamp": "2026-10-05T01:51:21.583501439Z",
+  "model": "glm-5.3"
+}

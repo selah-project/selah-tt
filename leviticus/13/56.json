@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "һәм әгәр каһин караса һәм мена, юылганнан соң зарар тоныкланган булса, ул аны киемнән, яки тиредән, яки арыштан, яки үрүдән өзәр.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "һәм әгәр"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "караса"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "каһин"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "һәм мена"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "тоныкланган"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "зарар"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "соң"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "юу"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "зарарны"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "өзәр"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "къем"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "העור",
+      "gloss": "тире"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "арыш"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "үрү"
+    }
+  ],
+  "timestamp": "2026-10-04T22:00:06.644838595Z",
+  "model": "glm-5.3"
+}

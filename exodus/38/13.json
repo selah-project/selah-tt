@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 38,
+  "translation": "Һәм көнчыгыш якта, кояш чыгышы ягында, илле ама.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "Һәм … якта"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "көнчыгыш"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "кояш чыгышы ягында"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ама"
+    }
+  ],
+  "timestamp": "2026-10-04T21:53:27.115167599Z",
+  "model": "glm-5.3"
+}

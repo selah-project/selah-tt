@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Буны мин йөрәгемә кайтарам, шуңа күрә өмет итәмен.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Буны"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "кайтарам"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "לבי",
+      "gloss": "йөрәгемә"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "шуңа күрә"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "өмет итәмен"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:39.350784549Z",
+  "model": "glm-5.3"
+}

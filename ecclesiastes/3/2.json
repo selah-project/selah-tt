@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Туарга вакыт, һәм үләргә вакыт; утыртырга вакыт, һәм утыртылганны йолып алырга вакыт.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "вакыт"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "туарга"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "һәм вакыт"
+    },
+    {
+      "surface": "למות",
+      "gloss": "үләргә"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вакыт"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "утыртырга"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "һәм вакыт"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "йолып алырга"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "утыртылган"
+    }
+  ],
+  "timestamp": "2026-10-05T01:34:21.145792162Z",
+  "model": "glm-5.3"
+}

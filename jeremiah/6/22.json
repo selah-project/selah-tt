@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 6:22",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Яһвә шулай әйтте: Менә төньяк иленнән халык килә, һәм җир читләреннән бөек милләт уяныр.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Менә"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "בא",
+      "gloss": "килә"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…иленнән"
+    },
+    {
+      "surface": "צפон",
+      "gloss": "төньяк"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "һәм милләт"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бөек"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "уяныр"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "читләреннән"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    }
+  ],
+  "timestamp": "2026-10-04T23:48:36.040404560Z",
+  "model": "glm-5.3"
+}

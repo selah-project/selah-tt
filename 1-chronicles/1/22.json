@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "һәм ⟨את⟩ Эйбалны, һәм ⟨את⟩ Авимаэлны, һәм ⟨את⟩ Шебаны.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Эйбал"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Эйбал"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Авимаэл"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Авимаэл"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Шеба"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шеба"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:43.076026510Z",
+  "model": "glm-5.3"
+}

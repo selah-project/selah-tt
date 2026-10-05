@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Һәм Дина, Ләәнең кызы — ул аны Яаковка тудырган — җирнең кызларын күрергә чыкты.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Дина"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Ләә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "тудырган"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковка"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "күрергә"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "кызларын"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирнең"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:45.052783081Z",
+  "model": "glm-5.3"
+}

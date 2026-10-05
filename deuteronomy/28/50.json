@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Халык — каты йөзле, картның йөзенә карый алмый торган, һәм яшькә рәһимлек кылмый торган.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "халык"
+    },
+    {
+      "surface": "עז",
+      "gloss": "каты"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "йөзле"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "күтәрмәс"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "картка"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "һәм яшькә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "рәһимлек кылмый"
+    }
+  ],
+  "timestamp": "2026-10-04T22:29:47.319327486Z",
+  "model": "glm-5.3"
+}

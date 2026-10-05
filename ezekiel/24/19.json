@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм халык миңа әйтте: син безгә ачыкламассыңмы әйе, бу нәрсә безгә була, син шулай эшләгәч?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "әйе"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ачыкламассыңмы"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эшләгәч"
+    }
+  ],
+  "timestamp": "2026-10-05T00:15:15.199503950Z",
+  "model": "glm-5.3"
+}

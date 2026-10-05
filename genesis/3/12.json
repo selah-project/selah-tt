@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Кеше әйтте: Миңа янәшә куючы хатының — ул миңа шул агачтан бирде, һәм мин ашадым.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "шуны"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "куючы"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "миңа янәшә"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "бирде"
+    },
+    {
+      "surface": "ли",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-тан"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "агач"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ашадым"
+    }
+  ],
+  "timestamp": "2026-10-04T21:23:30.342476391Z",
+  "model": "glm-5.3"
+}

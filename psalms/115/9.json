@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 115,
+  "translation": "Эй Йисраэл, Яһвәгә таян: аларга ярдәм һәм калкан — ⟨Ул⟩.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "эй Йисраэл"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "таян"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "аларга ярдәм"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "һәм калкан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ул⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T01:02:23.592539519Z",
+  "model": "glm-5.3"
+}

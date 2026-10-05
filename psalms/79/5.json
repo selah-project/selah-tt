@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 79,
+  "translation": "Кадәр, әйе, кайчан, Яһвә? Син ачуланырмың мәңге? Нәфрәтең ут кебек янырмы?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кайчан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ачуланырмың"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "תבעър",
+      "gloss": "янырмың"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "кебек"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ут"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "нәфрәтең"
+    }
+  ],
+  "timestamp": "2026-10-05T00:56:14.344230066Z",
+  "model": "glm-5.3"
+}

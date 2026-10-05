@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 62,
+  "translation": "Тик Элоһимга тынычлан, җаным, чөнки Аңардан килә өметем.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "тик"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элоһимга"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "тынычлан"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җаным"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Аңардан"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "өметем"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:16.381368886Z",
+  "model": "glm-5.3"
+}

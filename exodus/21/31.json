@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Яки ул малайны сөзә, яки кызны сөзә — аңа бу хөкем буенча эшләнер.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "בן",
+      "gloss": "малайны"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "сөзә"
+    },
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызны"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "сөзә"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "хөкем буенча"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "эшләнер"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-04T21:48:03.066411850Z",
+  "model": "glm-5.3"
+}

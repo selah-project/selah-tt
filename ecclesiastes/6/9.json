@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Күзләрнең күрүе нефешнең йөрүеннән яхшырак; шулай ук бу һәвәл һәм рухның явызлыгы.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "күрү"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "күзләрнең"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "йөрүеннән"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефешнең"
+    },
+    {
+      "surface": "גם",
+      "gloss": "шулай ук"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "һәвәл"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "һәм явызлыгы"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухның"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:13.256014369Z",
+  "model": "glm-5.3"
+}

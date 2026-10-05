@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Булган нәрсә ерак, һәм тирән-тирән — кем аны таба ала?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "ерак"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нимә"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "булган"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "һәм тирән"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "тирән"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "аны табар"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:42.983995256Z",
+  "model": "glm-5.3"
+}

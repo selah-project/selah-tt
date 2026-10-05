@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 41,
+  "translation": "Көй җитәкчесенә. Давид мәдхиясе.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "көй җитәкчесенә"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхия"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиднең"
+    }
+  ],
+  "timestamp": "2026-10-05T00:48:31.199612853Z",
+  "model": "glm-5.3"
+}

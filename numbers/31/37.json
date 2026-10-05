@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Һәм Яһвәгә салым сарыклардан — алты йөз җитмеш биш булды.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "салым"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "מן",
+      "gloss": "‑дан"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "сарыклар"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "וושבעים",
+      "gloss": "һәм җитмыш"
+    }
+  ],
+  "timestamp": "2026-10-04T22:17:17.072402176Z",
+  "model": "glm-5.3"
+}

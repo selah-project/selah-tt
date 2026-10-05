@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Ира әл-Йитри, Гареб әл-Йитри.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "әл-Йитри"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гареб"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "әл-Йитри"
+    }
+  ],
+  "timestamp": "2026-10-04T23:07:18.683900501Z",
+  "model": "glm-5.3"
+}

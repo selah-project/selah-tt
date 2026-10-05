@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Яки терек ит кире кайтса һәм акка әверелсә, ул кахин янына килер.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "яки"
+    },
+    {
+      "surface": "כי",
+      "gloss": "икан"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "кире кайтса"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ит"
+    },
+    {
+      "surface": "החי",
+      "gloss": "терек"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "әверелсә"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "акка"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "килер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "кахин"
+    }
+  ],
+  "timestamp": "2026-10-04T21:58:40.226574690Z",
+  "model": "glm-5.3"
+}

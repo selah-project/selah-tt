@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Бер үк нәрсә ул, шуңа күрә әйттем: төгәлне һәм явызны ⟨את⟩ ул бетерә.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Бер үк"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "על",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "әйттем"
+    },
+    {
+      "surface": "תם",
+      "gloss": "төгәлне"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "һәм явызны"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "бетерә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:19:43.581484221Z",
+  "model": "glm-5.3"
+}

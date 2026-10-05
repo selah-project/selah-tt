@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм елан хатынга әйтте: Үләрсез түгел, үлмәячексез.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "елан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эшкә"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "хатынга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үләрсез"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "үлмәячексез"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:11.965255611Z",
+  "model": "glm-5.3"
+}

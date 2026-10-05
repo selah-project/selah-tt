@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Бинйамин кабиләсеннән — Элидад, Кислон улы.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "кабиләсеннән"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинйамин"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "Элидад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "Кислон"
+    }
+  ],
+  "timestamp": "2026-10-04T22:18:31.913149374Z",
+  "model": "glm-5.3"
+}

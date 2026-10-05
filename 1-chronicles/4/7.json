@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Хелаһ уллары: Церет, Йицһар һәм Этнан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Хелаһ"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "Церет"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "Йицһар"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "һәм Этнан"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:09.875720472Z",
+  "model": "glm-5.3"
+}

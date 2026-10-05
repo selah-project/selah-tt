@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм агынтылы кеше утырган һәр өзәнге пычрак булыр.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Һәм һәр"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "өзәнге"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "керә"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "утырган"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аның өстенә"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "агынтылы"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "пычрак булыр"
+    }
+  ],
+  "timestamp": "2026-10-04T22:00:48.945169832Z",
+  "model": "glm-5.3"
+}

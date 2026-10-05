@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Һәм Сарапың гомере йөз егерме җиде ел булды — Сарапың гомеренең еллары.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "булды"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "гомере"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сарапың"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "егерме"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ел"
+    },
+    {
+      "surface": "שני",
+      "gloss": "еллары"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "гомеренең"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сарапың"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:39.105588782Z",
+  "model": "glm-5.3"
+}

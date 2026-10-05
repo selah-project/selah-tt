@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Көйәүче өчен, гиттит өстенә, Давид мәзмүре.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Көйәүче өчен"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "гиттит"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мәзмүр"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид өчен"
+    }
+  ],
+  "timestamp": "2026-10-05T00:42:20.574918740Z",
+  "model": "glm-5.3"
+}

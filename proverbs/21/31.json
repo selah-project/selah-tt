@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Ат сугыш көне өчен әзерләнә, ә котылу Яһвәдән.",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "ат"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "әзерләнә"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "көне өчен"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "сугыш"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "ә Яһвәдән"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "котылу"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:42.121472977Z",
+  "model": "glm-5.3"
+}

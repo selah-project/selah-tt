@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 29,
+  "translation": "Бер бәрән өчен бер омер, җиде бәрәнгә ⟨һәрберсенә⟩.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "омер"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "омер"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "бәрән өчен"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "җиде өчен"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "бәрән"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:00.081384147Z",
+  "model": "glm-5.3"
+}

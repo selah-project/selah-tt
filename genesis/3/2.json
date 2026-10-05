@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм хатын еланга әйтте: Бакча агачларының җимешеннән без ашыйбыз.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эшкә"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "еланга"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "җимешеннән"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "агачларының"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "бакча"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ашыйбыз"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:11.962434421Z",
+  "model": "glm-5.3"
+}

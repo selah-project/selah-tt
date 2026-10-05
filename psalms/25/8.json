@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Яһвә яхшы һәм туры ⟨е⟩, шуңа күрә ул гөнаһлыларны юлда өйрәтә.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "һәм туры"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "על",
+      "gloss": "шуңа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "күрә"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "өйрәтә"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "гөнаһлыларны"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "юлда"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:27.601719854Z",
+  "model": "glm-5.3"
+}

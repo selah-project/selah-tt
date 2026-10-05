@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "Небо уллары, илле ике.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Небо"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "илле"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ике"
+    }
+  ],
+  "timestamp": "2026-10-05T01:46:09.914108423Z",
+  "model": "glm-5.3"
+}

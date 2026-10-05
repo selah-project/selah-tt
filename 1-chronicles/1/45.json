@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Йовав үлде, һәм аның урынына Теймани иленнән Һушам патша булды.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "һәм үлде"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "һәм патша булды"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "аның урынына"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "Һушам"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "иленнән"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Теймани"
+    }
+  ],
+  "timestamp": "2026-10-05T01:56:16.203850720Z",
+  "model": "glm-5.3"
+}

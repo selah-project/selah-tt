@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Һәм Шеломо ⟨את⟩ өйне төзеде һәм аны тәмамлады.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "төзеде"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өйне"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "өйне"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "аны тәмамлады"
+    }
+  ],
+  "timestamp": "2026-10-04T23:10:42.222082880Z",
+  "model": "glm-5.3"
+}

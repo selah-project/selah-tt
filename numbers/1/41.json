@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 1:41",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Исәпләнгәннәре Ашер коленыннан: кырык бер мең биш йөз.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "исәпләнгәннәре"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "коленыннан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "кырык"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мең"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    }
+  ],
+  "timestamp": "2026-10-04T22:05:35.201966507Z",
+  "model": "glm-5.3"
+}

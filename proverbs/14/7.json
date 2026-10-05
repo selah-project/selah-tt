@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Ахмак кешедән читкә кит, әмма аңларга теләсәң — белем иреннәрен ⟨белмисең⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "кит"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "читкә"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "кешедән"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ахмак"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "әмма ⟨түгел⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "⟨белмисең⟩"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "иреннәрен"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "белем"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:29.884158497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Миңа каршы сиңа башка илаһлар булмаслык:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "булмаслык… түгел"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булмаслык"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "илаһлар"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "על",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Миңа йөз"
+    }
+  ],
+  "timestamp": "2026-10-04T21:46:07.738923017Z",
+  "model": "glm-5.3"
+}

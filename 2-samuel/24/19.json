@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм Давид Гад сүзе буенча, Яһвә кушканча, менеп барды.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "һәм менеп барды"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "сүзе буенча"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кушканча"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "кушты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:07:53.321505498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм аны сак астына куйдылар, Яһвә авызы белән аларга аңлату өчен.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "куйдылар аны"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "сак астына"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "аңлату өчен"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "על",
+      "gloss": "буенча"
+    },
+    {
+      "surface": "פי",
+      "gloss": "авызы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:04:13.578442298Z",
+  "model": "glm-5.3"
+}

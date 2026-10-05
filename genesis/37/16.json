@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 37,
+  "translation": "Ул әйтте: Мин ⟨את⟩ абыйларымны эзлим. Зинһар, миңа әйткелә, алар кайда көтәләр.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "абыйларымны"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "абыйларымны"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мин"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "эзлим"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "әйткелә"
+    },
+    {
+      "surface": "נא",
+      "gloss": "зинһар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "көтәләр"
+    }
+  ],
+  "timestamp": "2026-10-04T21:34:55.127455997Z",
+  "model": "glm-5.3"
+}

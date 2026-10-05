@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм кич булды, һәм иртә булды — бишенче көн.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кич"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "иртә"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "бишенче"
+    }
+  ],
+  "timestamp": "2026-10-04T21:23:41.240385729Z",
+  "model": "glm-5.3"
+}

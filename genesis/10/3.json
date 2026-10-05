@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Гомер уллары: Ашкеназ, Рифат һәм Тогарма.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ашкеназ"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "Рифат"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "Тогарма"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:48.133721102Z",
+  "model": "glm-5.3"
+}

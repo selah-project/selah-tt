@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Эцернең уллары: Билһан, һәм Зааван, һәм Йаакан. Дишонның уллары: Уц һәм Аран.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Эцернең"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Билһан"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "һәм Зааван"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "һәм Йаакан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дишонның"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "һәм Аран"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:57.112769318Z",
+  "model": "glm-5.3"
+}

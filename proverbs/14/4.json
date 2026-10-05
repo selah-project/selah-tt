@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Өгезләр булмаганда ашлык абзары буш, ә күп уңыш — өгезнең көче белән.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "булмаганда"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "өгезләр"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "ашлык абзары"
+    },
+    {
+      "surface": "בר",
+      "gloss": "буш"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ә күп"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "уңыш"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "көче белән"
+    },
+    {
+      "surface": "שור",
+      "gloss": "өгезнең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:11:36.382165146Z",
+  "model": "glm-5.3"
+}

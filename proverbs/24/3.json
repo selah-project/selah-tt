@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Хикмәт белән йорт төзелә, һәм аң белән ул ныгый.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "хикмәт белән"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "төзелә"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йорт"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "һәм аң белән"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "ныгый"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:48.124291937Z",
+  "model": "glm-5.3"
+}

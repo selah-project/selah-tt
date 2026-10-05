@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Улыңны тәрбиялә, чөнки өмет бар; ә аны үтерергә ⟨аңа⟩ җанлы эшләмә.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "тәрбиялә"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "улыңны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "өмет"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ә ... түгел"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "аны үтерергә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "күтәрмә"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "җаныңны"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:33.564711614Z",
+  "model": "glm-5.3"
+}

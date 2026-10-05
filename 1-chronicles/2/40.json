@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 2,
+  "translation": "һәм Элъаса ⟨את⟩ Сисмайны тудырды, һәм Сисмай ⟨את⟩ Шаллумны тудырды.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "һәм Элъаса"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сисмайны"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Сисмай"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "һәм Сисмай"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаллумны"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллум"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:58.291383053Z",
+  "model": "glm-5.3"
+}

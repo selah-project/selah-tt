@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Кан өстенә ашамассыз; тылсымламассыз һәм фал ачмассыз.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ашамассыз"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "тылсымламассыз"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм … түгел"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "фал ачмассыз"
+    }
+  ],
+  "timestamp": "2026-10-04T22:02:10.600320667Z",
+  "model": "glm-5.3"
+}

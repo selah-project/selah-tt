@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 18:24",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Һәм Микайәһу әйтте: Менә син шул көнне күрерсең, качып бүлмәдән бүлмәгә керерсең.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Һәм әйтте"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Микайәһу"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "Менә син"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "күрерсең"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көнне"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "шул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "керерсең"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "бүлмәдән"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "бүлмәгә"
+    },
+    {
+      "surface": "להחבא",
+      "gloss": "качып"
+    }
+  ],
+  "timestamp": "2026-10-05T02:11:24.854986735Z",
+  "model": "glm-5.3"
+}

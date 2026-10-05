@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Тарбияне каты тотып ал, аны өзә күрмә; сакла ⟨аны⟩, чөнки ул — синең тормышың.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "каты тотып ал"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "тарбияне"
+    },
+    {
+      "surface": "אל",
+      "gloss": "күрмә"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "өзә"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "сакла"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "синең тормышың"
+    }
+  ],
+  "timestamp": "2026-10-05T01:08:31.751383048Z",
+  "model": "glm-5.3"
+}

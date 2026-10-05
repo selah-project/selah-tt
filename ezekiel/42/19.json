@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 42,
+  "translation": "Диңгез рухына борылды, үлчәде — биш йөз үлчәү камышы, үлчәү камышы белән.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "борылды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухына"
+    },
+    {
+      "surface": "הים",
+      "gloss": "диңгез"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "үлчәде"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "үлчәү камышы"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "камышы белән"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "үлчәү"
+    }
+  ],
+  "timestamp": "2026-10-05T00:23:10.052614081Z",
+  "model": "glm-5.3"
+}

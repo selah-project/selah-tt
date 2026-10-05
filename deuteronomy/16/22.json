@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм үзеңә багана куярға ярамый — аны Яһвә, Элоһимең яратмый.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "һәм ... ярамый"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "куярға"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "багана"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "яратмый"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоһимең"
+    }
+  ],
+  "timestamp": "2026-10-04T22:25:29.751268142Z",
+  "model": "glm-5.3"
+}

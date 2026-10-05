@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Җыр белән туй эчмиләр, аны эчүчеләргә исерткеч ачы була.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "җыр белән"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "эчмиләр"
+    },
+    {
+      "surface": "יין",
+      "gloss": "туй"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "ачы була"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "исерткеч"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "аны эчүчеләргә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:34:10.566730010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Чит кешенең һәм ятимнең хөкемен тайгылдырма, һәм тол хатынның киемен өләшкә алма.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "тайгылдырма"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "хөкем"
+    },
+    {
+      "surface": "גר",
+      "gloss": "чит кешенең"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ятимнең"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "һәм юк"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "өләшкә алма"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "кием"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "тол хатынның"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:22.924168634Z",
+  "model": "glm-5.3"
+}

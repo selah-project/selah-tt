@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Мәтушелах яшәде җиде һәм сиксән ел һәм йөз ел, һәм ⟨את⟩ Ламекны аталык итте.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Мәтушелах"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "җиде"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "һәм сиксән"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "һәм йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "аталык итте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ламекны"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Ламек"
+    }
+  ],
+  "timestamp": "2026-10-04T21:24:52.426995559Z",
+  "model": "glm-5.3"
+}

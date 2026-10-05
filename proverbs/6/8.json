@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "җәен үз икмәген әзерли, уңыш вакытында үз ашамлыгын җыя.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "әзерли"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "җәен"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "икмәген"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "җыя"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "уңыш вакытында"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "ашамлыгын"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:49.994355397Z",
+  "model": "glm-5.3"
+}

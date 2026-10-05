@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Шифа бирүче тел — тормыш агачы, һәм аңа икылык рухта сыну.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "шифа бирүче"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тел"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "агачы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тормыш"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "һәм бозыклык"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сыну"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "рухта"
+    }
+  ],
+  "timestamp": "2026-10-05T01:12:09.730612445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "кәҗә тәкәләреннән берәү, гөнаһ корбаны өчен",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "тәкә"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "кәҗә тәкәләреннән"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "берәү"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "гөнаһ корбаны өчен"
+    }
+  ],
+  "timestamp": "2026-10-05T02:23:23.025661265Z",
+  "model": "glm-5.3"
+}

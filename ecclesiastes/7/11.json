@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Хикмәт мирас белән яхшы, һәм көн күрүчеләргә өстенлек ул.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "עם",
+      "gloss": "белән"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "мирас"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "һәм өстенлек"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "күрүчеләргә"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "көн"
+    }
+  ],
+  "timestamp": "2026-10-05T01:35:27.286045247Z",
+  "model": "glm-5.3"
+}

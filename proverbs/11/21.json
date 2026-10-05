@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Кул кулга ⟨әмма⟩ явыз азат ителмәс, ә цадикларның орлыгы коткарылыр.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "кул"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "кулга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-мас"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "азат ителмәс"
+    },
+    {
+      "surface": "רע",
+      "gloss": "явыз"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ә … орлыгы"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "цадикларның"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "коткарылыр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:28.159333064Z",
+  "model": "glm-5.3"
+}

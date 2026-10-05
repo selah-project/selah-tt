@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Микаһның уллары: Питон, Мелек һәм Таһреа.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Микаһның"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Питон"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "һәм Мелек"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "һәм Таһреа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:32.477997617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Ят кешедән таләп итәрсең, ә синеке булган ⟨את⟩ туганыңнан кулыңны ташлар.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ят кешедән"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "ят кешедән"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "таләп итәрсең"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ә"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булган"
+    },
+    {
+      "surface": "לך",
+      "gloss": "синеке"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ туганыңнан"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "туганыңнан"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "ташлар"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "кулны"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:33.405537686Z",
+  "model": "glm-5.3"
+}

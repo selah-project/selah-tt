@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "һәм Циклаг, һәм Мадманна, һәм Сансанна,",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "һәм Циклаг"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "һәм Мадманна"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "һәм Сансанна"
+    }
+  ],
+  "timestamp": "2026-10-04T22:36:40.762096800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 12,
+  "translation": "Үзеңә саклан, ләкин ләвины барлык көннәреңдә җиреңдә ташлама.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "саклан"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ләкин"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ташлама"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ләвины"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ләви"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барлык"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "көннәреңдә"
+    },
+    {
+      "surface": "על",
+      "gloss": "−да"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "җиреңдә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:24:50.113061116Z",
+  "model": "glm-5.3"
+}

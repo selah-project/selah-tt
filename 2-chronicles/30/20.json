@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм Яһвә Хизкияһуга колак салды һәм ⟨את⟩ халыкны дәвалады.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Һәм колак салды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Хизкияһуга"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизкияһу"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "һәм дәвалады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халыкны"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халыкны"
+    }
+  ],
+  "timestamp": "2026-10-05T02:16:48.173436967Z",
+  "model": "glm-5.3"
+}

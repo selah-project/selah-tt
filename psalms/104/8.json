@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 104,
+  "translation": "Таулар менә, үзәннәр төшә — Үзең аларга билгеләгән урынга.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "менә"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "таулар"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "төшә"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "үзәннәр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "урынга"
+    },
+    {
+      "surface": "זה",
+      "gloss": "шул"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "билгеләгән"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T00:59:29.244981665Z",
+  "model": "glm-5.3"
+}

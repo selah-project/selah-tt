@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Һәм аның исеме Йисраэлдә шулай дип аталыр: Итеге суздырылганнык өе.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "аталыр"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "аның исеме"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлдә"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өе"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "суздырылганнык"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "итеге"
+    }
+  ],
+  "timestamp": "2026-10-04T22:27:12.861351512Z",
+  "model": "glm-5.3"
+}

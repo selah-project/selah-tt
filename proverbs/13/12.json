@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Озына сузылган өмет йөрәкне авырта, ә килә торган теләк — тормыш агачы.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "өмет"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "озына сузылган"
+    },
+    {
+      "surface": "мחלה",
+      "gloss": "авырта"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәкне"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "агачы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тормыш"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "теләк"
+    },
+    {
+      "surface": "באה",
+      "gloss": "килә торган"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:33.895016981Z",
+  "model": "glm-5.3"
+}

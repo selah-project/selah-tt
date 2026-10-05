@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 14,
+  "translation": "Әкәмәкләр гөнаһ белән мыскыллыйлар, ә турылар арасында риза юк.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Әкәмәкләр"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "мыскыллыйлар"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "гөнаһ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ә … арасында"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "турылар"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "риза"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:29.468667010Z",
+  "model": "glm-5.3"
+}

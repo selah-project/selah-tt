@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Син, улым, тыңла һәм хәким бул, һәм йөрәгеңне юлга юнәлт.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "тыңла"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "һәм хәким бул"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "һәм юнәлт"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "юлга"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "йөрәгеңне"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:18.539431642Z",
+  "model": "glm-5.3"
+}

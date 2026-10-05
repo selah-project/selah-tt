@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Күз күтәрү һәм ки йөрәк — явызларның不育 сөрендәге — гөнаһ.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "күтәрү"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "күз"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "һәм ки"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "נר",
+      "gloss": "сөрендәге"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "явызларның"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "гөнаһ"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:35.729577642Z",
+  "model": "glm-5.3"
+}

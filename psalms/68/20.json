@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 68,
+  "translation": "Алкышлы Адонай — көн дә безгә йөкли; безнең коткарылышыбыз — ⟨ул⟩ Эл. Селаһ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Алкышлы"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дә"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "йөкли"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "коткарылышыбыз"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селаһ"
+    }
+  ],
+  "timestamp": "2026-10-05T00:53:31.140426249Z",
+  "model": "glm-5.3"
+}

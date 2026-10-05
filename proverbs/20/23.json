@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Таш һәм таш — Яһвә өчен жиренеч нәрсә, һәм алдакчы тарту яхшы түгел.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "жиренеч нәрсә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "һәм таш"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "һәм тартулары"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "алдакчы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:27.793054067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Яһвә сүзе Хаггай пәйгамбәр кулы аша килде, дип:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "кулы аша"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Хаггай"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пәйгамбәр"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип"
+    }
+  ],
+  "timestamp": "2026-10-05T00:37:29.313309983Z",
+  "model": "glm-5.3"
+}

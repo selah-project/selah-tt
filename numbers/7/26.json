@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "бер алтын ⟨авырлыгы⟩ ун шекел булган кәгез-чүмеч, төтетү әтире белән тулган.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кәгез-чүмеч"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулган"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "төтетү әтире"
+    }
+  ],
+  "timestamp": "2026-10-05T02:23:52.726737226Z",
+  "model": "glm-5.3"
+}

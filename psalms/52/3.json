@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 52,
+  "translation": "Ни өчен явызлык белән мактанасың, көчле? Элнең хеседы бөтен көн ⟨тора⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ни өчен"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "мактанасың"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "явызлык белән"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "көчле"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн"
+    }
+  ],
+  "timestamp": "2026-10-05T02:41:38.770884169Z",
+  "model": "glm-5.3"
+}

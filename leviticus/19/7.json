@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Әгәр ул өченче көндә ашалса — ул эчәркәй нәрсә, кабул ителмәс.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "бары ашалса"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ашалса"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "көндә"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "өченче"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "эчәркәй нәрсә"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "кабул ителмәс"
+    }
+  ],
+  "timestamp": "2026-10-04T22:00:43.614266996Z",
+  "model": "glm-5.3"
+}

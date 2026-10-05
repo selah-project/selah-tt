@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 19,
+  "translation": "Кил, ⟨את⟩ атабызга шәраб эчikerйик һәм аның белән ятык, һәм атабыздан орлык саклыйк.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "кил"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "эчерик"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атабызга"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "атабызга"
+    },
+    {
+      "surface": "יין",
+      "gloss": "шәраб"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "ятык"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "аның белән"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "саклыйк"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "атабыздан"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "орлык"
+    }
+  ],
+  "timestamp": "2026-10-04T21:28:50.209286343Z",
+  "model": "glm-5.3"
+}

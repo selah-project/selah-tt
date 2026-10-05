@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "бер алтын кулы-чүмеч, ун шекел, төтетү әтірләре белән тулы.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кулы-чүмеч"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тулы"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "төтетү әтірләре"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:28.174293388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм ул винодан эчте һәм исерде, һәм үз чатырының эчендә яшинде.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "эчте"
+    },
+    {
+      "surface": "мן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "היין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "исерде"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "яшинде"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "эчендә"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "үз чатыры"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:13.030436985Z",
+  "model": "glm-5.3"
+}

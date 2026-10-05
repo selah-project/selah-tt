@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 24:3",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Үз мәсәлен күтәреп әйтте: Билгам сүзе, Беор улының сүзе, күзе ачык ирнең сүзе.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "күтәреп әйтте"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "үз мәсәлен"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билгам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "улының"
+    },
+    {
+      "surface": "בער",
+      "gloss": "Беор"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "һәм сүзе"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ирнең"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "ачык"
+    },
+    {
+      "surface": "העין",
+      "gloss": "күзе"
+    }
+  ],
+  "timestamp": "2026-10-04T22:15:09.176310799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Аһуд ⟨את⟩ сул кулын сузды, һәм уң саныннан кылычны алып, аны аның корсагына кнады.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "сузды"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Аһуд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кул"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кул"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "сул"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кылыч"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "өстеннән"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "сан"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "уң"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "кнады"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "корсагына"
+    }
+  ],
+  "timestamp": "2026-10-04T22:40:54.884096520Z",
+  "model": "glm-5.3"
+}

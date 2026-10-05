@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 76,
+  "translation": "Һәм Шаләмда Аның чатыры, һәм Аның яшәве Цийонда.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "Шаләмда"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "Аның чатыры"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "һәм Аның яшәве"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Цийонда"
+    }
+  ],
+  "timestamp": "2026-10-05T00:54:19.893920364Z",
+  "model": "glm-5.3"
+}

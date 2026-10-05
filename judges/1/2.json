@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм Яһвә әйтте: Йеһудаһ менер; менә, Мин ⟨את⟩ җирне аның кулына бирдем.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеһудаһ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "менер"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "менә"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "бирдем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "җирне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "аның кулына"
+    }
+  ],
+  "timestamp": "2026-10-04T22:39:59.115033002Z",
+  "model": "glm-5.3"
+}

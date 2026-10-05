@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Аларның мәхәббәте дә, нәфрәте дә, көнчелеге дә инде юкка чыккан; һәм кояш астында эшләнгән бары нәрсәдә дә аларга мәңге өлеш юк.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "мәхәббәте"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "нәфрәте"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "көнчелеге"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "инде"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "юкка чыккан"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "һәм өлеш"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "инде"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бары … дә"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nərsədə"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "эшләнгән"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "кояш"
+    }
+  ],
+  "timestamp": "2026-10-05T01:36:14.226911148Z",
+  "model": "glm-5.3"
+}

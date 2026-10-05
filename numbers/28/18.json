@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Беренче көндә изге җыелыш булыр; хезмәт эшенең барысын да эшләмәсгез.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "көн"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "беренче"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "җыелыш"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "изге"
+    },
+    {
+      "surface": "כל",
+      "gloss": "барысын"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "эш"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "хезмәт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "юк"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "эшләмәсгез"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:27.538015655Z",
+  "model": "glm-5.3"
+}

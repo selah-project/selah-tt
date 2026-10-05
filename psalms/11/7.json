@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Чөнки Яһвә цедек, цедеклыкны ул ярата; турылар Аның йөзен күрер.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "цедеклыкны"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ярата"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "турылар"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "күрер"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "Аның йөзен"
+    }
+  ],
+  "timestamp": "2026-10-05T00:42:58.798480766Z",
+  "model": "glm-5.3"
+}

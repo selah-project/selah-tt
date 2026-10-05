@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Күзен кысучы кайгы бирә, ә акылсызның иреннәре ⟨ул⟩ егылыр.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "кысучы"
+    },
+    {
+      "surface": "עין",
+      "gloss": "күзен"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бирә"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "кайгы"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ә акылсызның"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "иреннәре"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "егылыр"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:55.579950892Z",
+  "model": "glm-5.3"
+}

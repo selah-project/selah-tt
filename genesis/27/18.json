@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Һәм ул атасы янына килде һәм әйтте: Атай! Ә атасы әйтте: Мондам; син кемсең, улым?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "килде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Атай"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Мондам"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кем"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "син"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улым"
+    }
+  ],
+  "timestamp": "2026-10-04T21:31:47.103504513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Һәм ул Яһвәгә ышанды, һәм ⟨бу⟩ аңа цедек буларак хисапланды.",
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "һәм ышанды"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "һәм хисапланды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    }
+  ],
+  "timestamp": "2026-10-04T21:26:44.969438042Z",
+  "model": "glm-5.3"
+}

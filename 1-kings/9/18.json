@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм ⟨את⟩ Баалатны, ⟨את⟩ Тамарны чүлдә, җирдә.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Баалатны"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Баалат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Тамарны"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамар"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чүлдә"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "җирдә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:12:14.906400376Z",
+  "model": "glm-5.3"
+}

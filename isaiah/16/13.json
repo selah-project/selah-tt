@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Менә бу сүз, кайсын Яһвә Моабка әйтте ⟨борынган заманнан бирле⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "менә бу"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сүз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсын"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "борынган заманнан бирле"
+    }
+  ],
+  "timestamp": "2026-10-04T23:32:39.896712270Z",
+  "model": "glm-5.3"
+}

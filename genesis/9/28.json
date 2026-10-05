@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм Туфаннан соң Ной өч йөз ел һәм илле ел яшәде.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "яшәде"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ной"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "соң"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Туфаннан"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "өч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ел"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "һәм илле"
+    },
+    {
+      "surface": "шнה",
+      "gloss": "ел"
+    }
+  ],
+  "timestamp": "2026-10-04T21:25:10.289748925Z",
+  "model": "glm-5.3"
+}

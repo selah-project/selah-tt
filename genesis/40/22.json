@@ -1,0 +1,22 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Әмма ⟨את⟩ ипичеләр башлыгын асты; Йосеф аларга нәрсә ачып сөйләгән булса, шулай булды.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ипичеләр башлыгын"
+    },
+    {
+      "surface": "шר placeholder",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T21:35:24.728626687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Әгәр аңа кыз юк икән, ⟨את⟩ аның мирасын аның ир туганнарына бирерсез.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Әгәр"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кыз"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "бирерсез"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аның мирасын"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "аның мирасын"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "аның ир туганнарына"
+    }
+  ],
+  "timestamp": "2026-10-04T22:16:31.492202814Z",
+  "model": "glm-5.3"
+}

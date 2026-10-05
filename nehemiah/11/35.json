@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Лод, һәм Оно, һөнәрчеләр үзәне.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "һәм Оно"
+    },
+    {
+      "surface": "גי",
+      "gloss": "үзән"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "һөнәрчеләрнең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:55:02.862583140Z",
+  "model": "glm-5.3"
+}

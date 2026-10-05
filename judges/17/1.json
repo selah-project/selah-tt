@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Һәм Эфраим тавыннан бер кеше булды, аның исеме Микаһу.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "булды"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бер кеше"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "тавыннан"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "һәм аның исеме"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Микаһу"
+    }
+  ],
+  "timestamp": "2026-10-04T22:46:25.610243334Z",
+  "model": "glm-5.3"
+}

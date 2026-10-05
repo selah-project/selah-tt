@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Шуңа күрә йөрәгебез авырый, боларга күрә күзләребез карарды.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "шуңа күрә"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "היה",
+      "gloss": "булды"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "авырый"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "йөрәгебез"
+    },
+    {
+      "surface": "על",
+      "gloss": "боларга күрә"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "карадылар"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "күзләребез"
+    }
+  ],
+  "timestamp": "2026-10-05T02:45:42.535995385Z",
+  "model": "glm-5.3"
+}

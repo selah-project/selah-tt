@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Мин сиптем урыным өстенә мүр, аһалот агачы һәм кинамон.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "сиптем"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "урынем"
+    },
+    {
+      "surface": "מר",
+      "gloss": "мүр"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "аһалот агачы"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "һәм кинамон"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:48.736044306Z",
+  "model": "glm-5.3"
+}

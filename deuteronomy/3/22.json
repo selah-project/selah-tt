@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Алардан курыкмагыз, чөнки Яһвә, Элоһимеғез, ⟨ул⟩ сезнең өчен сугыша.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "корыкма"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": " алардан курыкмагыз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоһимеғез"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ул⟩"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "сугыша"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезнең өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T22:19:41.751515201Z",
+  "model": "glm-5.3"
+}

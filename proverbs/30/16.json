@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Шеол һәм ябык аналык, су белән туямаган җир, һәм «Җитә» демәгән ут.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "һәм ябык"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "аналык"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "җир"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "туямаган"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "һәм ут"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "демәгән"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Җитә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:16:22.972534039Z",
+  "model": "glm-5.3"
+}

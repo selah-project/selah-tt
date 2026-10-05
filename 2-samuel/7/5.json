@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Бар һәм минем колым Давидка әйт: шулай диде Яһвә: синме миңа тору өчен өй төзиячәксең?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "һәм әйт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−га"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "колам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−га"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כה",
+      "gloss": "шулай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "синме"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "төзиячәксең"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "өй"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "тору өчен"
+    }
+  ],
+  "timestamp": "2026-10-04T23:01:43.662362842Z",
+  "model": "glm-5.3"
+}

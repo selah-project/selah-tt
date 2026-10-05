@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Һаман күрде, ки Мордехай аңа тез чүгәрми һәм баш имми, һәм Һаман ачудан тулды.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "күрде"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Һаман"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехай"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "тез чүгәрми"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "баш имми"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "тулды"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Һаман"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ачу"
+    }
+  ],
+  "timestamp": "2026-10-05T02:46:20.325136970Z",
+  "model": "glm-5.3"
+}

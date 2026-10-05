@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Мин, хикмәт, хәйләкәрлек белән торам, һәм асыл-укышны табам.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хикмәт"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "торам"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "хәйләкәрлек"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "һәм белем"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "асыл-укыш"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "табам"
+    }
+  ],
+  "timestamp": "2026-10-05T02:44:22.684619065Z",
+  "model": "glm-5.3"
+}

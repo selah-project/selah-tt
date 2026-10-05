@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 32,
+  "translation": "Чөнки Мин ⟨את⟩ кулымны күккә күтәрәм һәм әйтәм: Мин мәңге яшим.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "күтәрәм"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨аларга⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "күк"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "кулымны"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "һәм әйтәм"
+    },
+    {
+      "surface": "חי",
+      "gloss": "яшим"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-05T02:27:30.327927834Z",
+  "model": "glm-5.3"
+}

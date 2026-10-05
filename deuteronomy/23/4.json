@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 23:4",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Аммонлы һәм Моавлы Яһвә җыенына кермәс; унынчы буынына кадәр алар Яһвә җыенына мәңге кермәс.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "кермәс"
+    },
+    {
+      "surface": "עמוני",
+      "gloss": "Аммонлы"
+    },
+    {
+      "surface": "ומואבי",
+      "gloss": "һәм Моавлы"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "җыенына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "גם",
+      "gloss": "хәтта"
+    },
+    {
+      "surface": "דור",
+      "gloss": "буыны"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "унынчы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "кермәс"
+    },
+    {
+      "surface": "להם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "җыенына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кадәр"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-04T22:28:01.549142086Z",
+  "model": "glm-5.3"
+}

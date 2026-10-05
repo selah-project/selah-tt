@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "tt",
+  "chapter": 7,
+  "translation": "Яһвә бу турыда үкенде; бу дә булмаячак, диде Адонай Яһвә.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "үкенде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "על",
+      "gloss": "бу турыда"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бу"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дә"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "булмаячак"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "булмаячак"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "диде"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:32:16.290350793Z",
+  "model": "glm-5.3"
+}

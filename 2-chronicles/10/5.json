@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм аларга әйтте: Тагы өч көн, аннан минем яныма кайтыгыз; һәм халык китте.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "тагы"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "өч"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көн"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "кайтыгыз"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "минем яныма"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "һәм китте"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    }
+  ],
+  "timestamp": "2026-10-05T02:09:43.355416132Z",
+  "model": "glm-5.3"
+}

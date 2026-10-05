@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 31,
+  "translation": "Ә мин Сиңа таяндым, эй Яһвә; мин әйттем: Син минең Элоһим ⟨сың⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ә мин"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Сиңа"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "таяндым"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "мин әйттем"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "минең Элоһим"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:41.301696318Z",
+  "model": "glm-5.3"
+}

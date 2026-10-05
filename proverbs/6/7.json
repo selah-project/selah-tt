@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Кайсы өчен аның өстендә җитәкче, күзәтүче һәм хаким юк;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аның өстендә"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "җитәкче"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "күзәтүче"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "һәм хаким"
+    }
+  ],
+  "timestamp": "2026-10-05T02:43:49.994104227Z",
+  "model": "glm-5.3"
+}

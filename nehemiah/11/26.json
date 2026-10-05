@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм Йешуада, һәм Моладада, һәм Бейт-Палетта.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "һәм Йешуада"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "һәм Моладада"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "һәм Бейт-…та"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "Палет"
+    }
+  ],
+  "timestamp": "2026-10-05T01:54:24.503076302Z",
+  "model": "glm-5.3"
+}

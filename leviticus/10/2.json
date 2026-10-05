@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Һәм Яһвә яныннан ут чыкты һәм аларны теләп җибәрде, һәм алар Яһвә алдында үлделәр.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ут"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "яныннан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "теләп җибәрде"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "аларны"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "үлделәр"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T21:58:26.761925602Z",
+  "model": "glm-5.3"
+}

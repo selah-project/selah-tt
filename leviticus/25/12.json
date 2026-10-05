@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Чөнки йовель ул — изге булыр сезгә; кырдан ⟨את⟩ аның уңышын ашаргә кирәк.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "йовель"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ул"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "изге"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "кырдан"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ашаргә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аның уңышын"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "аның уңышы"
+    }
+  ],
+  "timestamp": "2026-10-05T02:23:39.272763462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Һәм Яһвә фәрештәсе Йеһошуага шаһитлек итте, дип әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "һәм шаһитлек итте"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "фәрештә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "Йеһошуага"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "дип әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-05T00:39:18.925127079Z",
+  "model": "glm-5.3"
+}

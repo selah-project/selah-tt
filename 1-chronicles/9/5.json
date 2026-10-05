@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 9,
+  "translation": "Һәм шилонлылардан: Асайа ⟨туа⟩ беренче һәм аның уллары.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "һәм ... дан"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "шилонлылардан"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асайа"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "беренче туа"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "һәм аның уллары"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:26.556805796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "Һәм Моца ⟨את⟩ Бинеаны тудырды; Рафа аның улы, Эләса аның улы, Ацел аның улы.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "һәм Моца"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тудырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бинеаны"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Бинеаны"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "Рафа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Эләса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Ацел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "аның улы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:59:08.608017664Z",
+  "model": "glm-5.3"
+}

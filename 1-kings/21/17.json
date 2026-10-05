@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 21,
+  "translation": "Һәм Яһвә сүзе Тишбелы Элийаһуга килде, әйтеп:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эшәп"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элийаһуга"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Тишбелы"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T23:17:38.582357293Z",
+  "model": "glm-5.3"
+}

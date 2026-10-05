@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Сайланган көмеш — гадел кешенең теле, ә явызларның йөрәге — бик ким.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "көмеш"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "сайланган"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тел"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гадел"
+    },
+    {
+      "surface": "לב",
+      "gloss": "йөрәк"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "явызларның"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "бик ким"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:28.972900212Z",
+  "model": "glm-5.3"
+}

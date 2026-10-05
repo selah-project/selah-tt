@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Мин бөтен халкым өчен көлке булдым, аларның җыры — көн буе.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "булдым"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "көлке"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "халкым өчен"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "аларның җыры"
+    },
+    {
+      "surface": "כל",
+      "gloss": "көн буе"
+    },
+    {
+      "surface": "היום",
+      "gloss": "көн буе"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:00.001069434Z",
+  "model": "glm-5.3"
+}

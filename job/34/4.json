@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 34:4",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Хөкем сайлыйк үзебезгә, беләйек araбызда нәрсә яхшы.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "хөкем"
+    },
+    {
+      "surface": "נבחרה",
+      "gloss": "сайлыйк"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "үзебезгә"
+    },
+    {
+      "surface": "נדעה",
+      "gloss": "беләйек"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "araбызда"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "яхшы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:26:28.118063197Z",
+  "model": "glm-5.3"
+}

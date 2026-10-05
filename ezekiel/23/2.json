@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Кеше улы, ике хатын булды, бер аналы кызлар.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "хатын"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кызлары"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ана"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бер"
+    },
+    {
+      "surface": "היו",
+      "gloss": "булды"
+    }
+  ],
+  "timestamp": "2026-10-05T00:16:02.567538647Z",
+  "model": "glm-5.3"
+}

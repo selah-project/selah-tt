@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 26:18",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 26,
+  "translation": "Парбарга, көнбатышка дүрт, юл буйлап ике, Парбарга.",
+  "tokens": [
+    {
+      "surface": "לפרבר",
+      "gloss": "Парбарга"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "көнбатышка"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дүрт"
+    },
+    {
+      "surface": "למסלה",
+      "gloss": "юл буйлап"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "לפרבר",
+      "gloss": "Парбарга"
+    }
+  ],
+  "timestamp": "2026-10-05T02:04:33.619829222Z",
+  "model": "glm-5.3"
+}

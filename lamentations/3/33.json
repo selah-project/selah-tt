@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Чөнки Ул йөрәгеннән рәнҗетмәде, кешеләр улларын кайгыртмады.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "рәнҗетмәде"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "үз йөрәгеннән"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "һәм кайгырттмады"
+    },
+    {
+      "surface": "בני",
+      "gloss": "улларын"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кешенең"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:17.331749904Z",
+  "model": "glm-5.3"
+}

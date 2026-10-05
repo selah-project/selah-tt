@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 60,
+  "translation": "Безгә бәладан ярдәм бир, әмма юкка чыгышлы кешенең коткаруы.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "бир"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ярдәм"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "бәладан"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "әмма юкка чыгышлы"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "коткаруы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кешенең"
+    }
+  ],
+  "timestamp": "2026-10-05T00:51:29.926416195Z",
+  "model": "glm-5.3"
+}

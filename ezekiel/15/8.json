@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 15:8",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "һәм Мин ⟨את⟩ җирне түбән итәм, чөнки алар хыянәт иттеләр — Адонай Яһвә сүзе.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "һәм Мин куям"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "җирне"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирне"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "түбән итеп"
+    },
+    {
+      "surface": "יען",
+      "gloss": "чуңа"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "хыянәт иттеләр"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "хыянәт"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:12:15.404592830Z",
+  "model": "glm-5.3"
+}

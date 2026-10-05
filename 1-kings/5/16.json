@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 5,
+  "translation": "Һәм Шеломо Һирамга җибәрде, әйтеп:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "һәм җибәрде"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Һирамга"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-04T23:10:14.113694613Z",
+  "model": "glm-5.3"
+}

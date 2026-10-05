@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 120,
+  "translation": "Яһвә, ⟨җан⟩ымны ялган иреннәрдән, хәйләкәр телдән коткар.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "коткар"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨җан⟩ым"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "иреннәрдән"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ялган"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "телдән"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "хәйләкәр"
+    }
+  ],
+  "timestamp": "2026-10-05T01:04:13.386081447Z",
+  "model": "glm-5.3"
+}

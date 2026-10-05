@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "һәм язарсың аларны өйеңнең ишек баганаларына һәм капкаларыңа.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "һәм язарсың"
+    },
+    {
+      "surface": "על",
+      "gloss": "…на"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "ишек баганаларына"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "өйеңнең"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "һәм капкаларыңа"
+    }
+  ],
+  "timestamp": "2026-10-04T22:23:07.392506336Z",
+  "model": "glm-5.3"
+}

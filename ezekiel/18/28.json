@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 18:28",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 18,
+  "translation": "Ул күрә һәм үз кылган бөтен баш күтәрүләреннән борыла — яшәр, үлмәс.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "Ул күрә"
+    },
+    {
+      "surface": "וישוב",
+      "gloss": "һәм борыла"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "баш күтәрүләреннән"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "үз кылган"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылса"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "яшәр"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "яшәр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "үлмәс"
+    }
+  ],
+  "timestamp": "2026-10-05T00:14:08.231782584Z",
+  "model": "glm-5.3"
+}

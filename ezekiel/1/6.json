@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Һәм һәркайсына дүрт йөз, һәм һәркайсына дүрт канат ⟨бар⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "һәм дүрт"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "йөз"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "берәүгә"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "һәм дүрт"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "канат"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "берәүгә"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T00:06:11.387880954Z",
+  "model": "glm-5.3"
+}

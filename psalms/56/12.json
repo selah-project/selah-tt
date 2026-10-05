@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 56,
+  "translation": "Элоһимда мин таяндым, куркырмын: кеше миңа нәрсә эшли ала?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Элоһимда"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "мин таяндым"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "куркырмын"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "эшли ала"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    }
+  ],
+  "timestamp": "2026-10-05T00:50:47.260499191Z",
+  "model": "glm-5.3"
+}

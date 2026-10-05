@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Һәм Сисрага хәбәр иттеләр, чөнки Барак, Абиноам улы, Тавор тавына менгән.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "хәбәр иттеләр"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "Сисрага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "менгән"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Барак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Абиноам"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тавы"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Тавор"
+    }
+  ],
+  "timestamp": "2026-10-04T22:41:08.356991001Z",
+  "model": "glm-5.3"
+}

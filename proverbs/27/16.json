@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Аны яшергән — җилне яшергән, һәм аның уң кулының мае үзен иғлан итә.",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "аны яшергән"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "яшергән"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "җил"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "һәм май"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "уң кулының"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "үзен иғлан итә"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:32.845754532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 4:33",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Ишеткәнме халык Элоһим тавышын ут эченнән сөйләшкәнне, син ишеткән кебек, һәм исән калган?",
+  "tokens": [
+    {
+      "surface": "השמע",
+      "gloss": "ишеткәнме"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "קול",
+      "gloss": "тавышын"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "сөйләшкәнне"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "эченнән"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ут"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кебек"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ишеттең"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "һәм исән калды"
+    }
+  ],
+  "timestamp": "2026-10-04T22:21:54.792100198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Һәм ⟨את⟩ Гатны, ⟨את⟩ Марешаны һәм ⟨את⟩ Зифны.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Гатны"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Марешаны"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Мареша"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Зифны"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Зиф"
+    }
+  ],
+  "timestamp": "2026-10-05T02:08:24.242344470Z",
+  "model": "glm-5.3"
+}

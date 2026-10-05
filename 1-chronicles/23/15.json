@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Мошенең уллары: Гершом һәм Элиэзер.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уллары"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошенең"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "һәм Элиэзер"
+    }
+  ],
+  "timestamp": "2026-10-05T02:03:30.697955369Z",
+  "model": "glm-5.3"
+}

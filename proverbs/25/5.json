@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Патша алдыннан явызны алырга, һәм аның тәхете цедектә ныгыр.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "алырга"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "явызны"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдыннан"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "һәм ныгыр"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "цедектә"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "аның тәхете"
+    }
+  ],
+  "timestamp": "2026-10-05T01:15:09.227581253Z",
+  "model": "glm-5.3"
+}

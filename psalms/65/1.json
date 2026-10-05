@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 65,
+  "translation": "Көй җитәкчесенә мизмор, Давидка, җыр.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "көй җитәкчесенә"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидка"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:27.473531541Z",
+  "model": "glm-5.3"
+}

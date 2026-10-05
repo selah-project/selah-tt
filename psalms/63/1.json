@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 63,
+  "translation": "Давид мәдхие, ул Йеһудә чүлендә булган чакта язылган.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхие"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ул булган чакта"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чүлендә"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеһудә"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:34.978565193Z",
+  "model": "glm-5.3"
+}

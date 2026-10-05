@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Үзегезгә халыктан ун ике кеше алыгыз — кабиләдән бер кеше, кабиләдән бер кеше.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "алыгыз"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "үзегезгә"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−дан"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халыктан"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ун"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ике"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бер"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "кабиләдән"
+    }
+  ],
+  "timestamp": "2026-10-04T22:32:42.079105433Z",
+  "model": "glm-5.3"
+}

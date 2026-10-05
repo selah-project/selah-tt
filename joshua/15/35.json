@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "tt",
+  "chapter": 15,
+  "translation": "Ярмут, һәм Адулам, Соко һәм Азека.",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "Ярмут"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "һәм Адулам"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Соко"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "һәм Азека"
+    }
+  ],
+  "timestamp": "2026-10-04T22:36:53.215306479Z",
+  "model": "glm-5.3"
+}

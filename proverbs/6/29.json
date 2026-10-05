@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 6:29",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Шулай ук күршесенең хатыны янына керүче — аңа кагылучы һәркем җәзасыз калмаячак.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "шулай ук"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "керүче"
+    },
+    {
+      "surface": "אל",
+      "gloss": "янына"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "хатыны"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "күршесенең"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "җәзасыз калмаячак"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәркем"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "кагылучы"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аңа"
+    }
+  ],
+  "timestamp": "2026-10-05T01:09:37.136990607Z",
+  "model": "glm-5.3"
+}

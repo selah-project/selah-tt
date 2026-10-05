@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 92,
+  "translation": "Мәдхия, җыр — Шаббат көненә.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Мәдхия"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "көненә"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шаббат"
+    }
+  ],
+  "timestamp": "2026-10-05T00:58:10.084737474Z",
+  "model": "glm-5.3"
+}

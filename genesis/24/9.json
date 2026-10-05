@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "tt",
+  "chapter": 24,
+  "translation": "Һәм кол ⟨את⟩ кулын Авраһам — үз хуҗасы — санлы астына куйды һәм аңа бу эш турында ант итте.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "куйды"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кулын"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "кулын"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астына"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "санлы"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраһам"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "хуҗасы"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ант итте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аңа"
+    },
+    {
+      "surface": "על",
+      "gloss": "турында"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "эш"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    }
+  ],
+  "timestamp": "2026-10-04T21:29:56.459100436Z",
+  "model": "glm-5.3"
+}

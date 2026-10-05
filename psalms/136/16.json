@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 136,
+  "translation": "Үз халкын чүлдә алып баргангa, чөнки аның хеседе мәңге.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "алып баргангa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Үз халкын"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чүлдә"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мәңге"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "аның хеседе"
+    }
+  ],
+  "timestamp": "2026-10-05T01:05:28.623586336Z",
+  "model": "glm-5.3"
+}

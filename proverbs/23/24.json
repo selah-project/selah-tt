@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Гаделнең атасы бик шатланыр, хәким тудырган аның белән сөенер.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "бик"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "шатланыр"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гаделнең"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "тудырган"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "хәким"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "һәм сөенер"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аның белән"
+    }
+  ],
+  "timestamp": "2026-10-05T01:14:19.240206212Z",
+  "model": "glm-5.3"
+}

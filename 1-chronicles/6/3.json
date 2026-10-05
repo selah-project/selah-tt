@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Кеһат уллары: Амрам, Йицһар, Хеврон һәм Уззиэл.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм уллары"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеһат"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "һәм Йицһар"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "һәм Хеврон"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "һәм Уззиэл"
+    }
+  ],
+  "timestamp": "2026-10-05T01:57:50.447568722Z",
+  "model": "glm-5.3"
+}

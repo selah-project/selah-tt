@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "tt",
+  "chapter": 6,
+  "translation": "Яһвә сине алкышлыйсын һәм сине саклыйсын.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "сине алкышлыйсын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "һәм сине саклыйсын"
+    }
+  ],
+  "timestamp": "2026-10-04T22:07:30.258614519Z",
+  "model": "glm-5.3"
+}

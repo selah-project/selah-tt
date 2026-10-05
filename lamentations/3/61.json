@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "tt",
+  "chapter": 3,
+  "translation": "Ишеттең ⟨Син⟩ аларның мыскылларын, эй Яһвә, бар уйларын миңа каршы.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "Ишеттең"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "мыскылларын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "уйларын"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "миңа каршы"
+    }
+  ],
+  "timestamp": "2026-10-05T01:32:26.273168617Z",
+  "model": "glm-5.3"
+}

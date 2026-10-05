@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 4,
+  "translation": "Чөнки Даннан хәбәр тавышы ишетелә, һәм Эфраим тавыннан бәла игълан ителә.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Чөнки"
+    },
+    {
+      "surface": "קול",
+      "gloss": "тавышы"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "хәбәрче"
+    },
+    {
+      "surface": "мדן",
+      "gloss": "Даннан"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "һәм игълан ителә"
+    },
+    {
+      "surface": "און",
+      "gloss": "бәла"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "тавыннан"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    }
+  ],
+  "timestamp": "2026-10-04T23:47:53.264965801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 20,
+  "translation": "Хесед һәм хаклык патшаны саклый, һәм хесед аның тәхетен терәзли.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "һәм хаклык"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "саклый"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "патшаны"
+    },
+    {
+      "surface": "וסעד",
+      "gloss": "терәзли"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "хесед белән"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "аның тәхeten"
+    }
+  ],
+  "timestamp": "2026-10-05T01:13:16.952976930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 13,
+  "translation": "Мин ⟨את⟩ билбауны Яһвә сүзе буенча алдым һәм аны белемә кидердем.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "алдым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "билбау"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "билбау"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "сүзе буенча"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "кидердем"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "белемә"
+    }
+  ],
+  "timestamp": "2026-10-04T23:52:00.983886986Z",
+  "model": "glm-5.3"
+}

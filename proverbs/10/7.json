@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 10,
+  "translation": "Гаделнең хатирәсе бәрәкәткә ⟨кала⟩, ә явызларның исеме черый.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "хатирәсе"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "гаделнең"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "бәрәкәткә"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "һәм исеме"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "явызларның"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "черый"
+    }
+  ],
+  "timestamp": "2026-10-05T01:10:13.450634687Z",
+  "model": "glm-5.3"
+}

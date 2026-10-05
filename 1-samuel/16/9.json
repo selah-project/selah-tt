@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "tt",
+  "chapter": 16,
+  "translation": "Һәм Ишай Шамманы үткәрде, һәм ⟨ул⟩ әйтте: Моны да Яһвә сайламады.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "үткәрде"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ишай"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шамманы"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "моны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "сайлады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-04T22:53:05.065912712Z",
+  "model": "glm-5.3"
+}

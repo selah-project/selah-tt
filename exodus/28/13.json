@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 28,
+  "translation": "Һәм син алтыннан кыек урыннар ясарсың.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "һәм ясарсың"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "кыек урыннар"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтыннан"
+    }
+  ],
+  "timestamp": "2026-10-04T21:49:42.402240574Z",
+  "model": "glm-5.3"
+}

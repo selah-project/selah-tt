@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 44,
+  "translation": "Уян, ни өчен йоклыйсың, Әй Адонай? Күтәрел, безне мәңге ташлама!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Уян"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ни өчен"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "йоклыйсың"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Күтәрел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ма"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ташлама"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мәңге"
+    }
+  ],
+  "timestamp": "2026-10-05T00:49:02.438826785Z",
+  "model": "glm-5.3"
+}

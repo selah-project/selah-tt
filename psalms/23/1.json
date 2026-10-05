@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 23,
+  "translation": "Давид мәдхиясе. Яһвә — минем көтүчем, мин җитешмәячәкмен.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мәдхия"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидкә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "минем көтүчем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "җитешмәячәкмен"
+    }
+  ],
+  "timestamp": "2026-10-05T00:45:02.644509187Z",
+  "model": "glm-5.3"
+}

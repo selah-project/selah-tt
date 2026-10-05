@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 59,
+  "translation": "Ә син, Яһвә, аларга көләрсең, барча милләтләрне мыскылларсың.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ә син"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "көләрсең"
+    },
+    {
+      "surface": "למו",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "мыскылларсың"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "барча"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "милләтләрне"
+    }
+  ],
+  "timestamp": "2026-10-05T00:52:01.656116299Z",
+  "model": "glm-5.3"
+}
