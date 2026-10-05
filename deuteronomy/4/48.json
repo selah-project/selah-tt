@@ -8,7 +8,7 @@
   "translation": "Арнон инеше ярындагы Ароердан башлап Сион тавына кадәр — ул Хермон.",
   "tokens": [
     {
-      "surface": "мערער",
+      "surface": "מערער",
       "gloss": "Ароердан"
     },
     {
@@ -20,35 +20,35 @@
       "gloss": "−да"
     },
     {
-      "surface": "шфат",
+      "surface": "שפת",
       "gloss": "ярында"
     },
     {
-      "surface": "нхл",
+      "surface": "נחל",
       "gloss": "инешенең"
     },
     {
-      "surface": "арнон",
+      "surface": "ארנן",
       "gloss": "Арнон"
     },
     {
-      "surface": "въд",
+      "surface": "ועד",
       "gloss": "кадәр"
     },
     {
-      "surface": "hr",
+      "surface": "הר",
       "gloss": "тавына"
     },
     {
-      "surface": "шйън",
+      "surface": "שיאן",
       "gloss": "Сион"
     },
     {
-      "surface": "hva",
+      "surface": "הוא",
       "gloss": "ул"
     },
     {
-      "surface": "хермон",
+      "surface": "חרמון",
       "gloss": "Хермон"
     }
   ],

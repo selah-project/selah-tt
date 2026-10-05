@@ -8,60 +8,60 @@
   "translation": "Ул ялны күрде — чөнки яхшы, һәм ⟨את⟩ җирне — чөнки аныклы; һәм ул җилкәсен иеп йөк күтәрергә, һәм салым түләүче кол булды.",
   "tokens": [
     {
-      "surface": "вайар",
+      "surface": "וירא",
       "gloss": "күрде"
     },
     {
-      "surface": "менуха",
+      "surface": "מנחה",
       "gloss": "ялны"
     },
     {
-      "surface": "ки",
+      "surface": "כי",
       "gloss": "чөнки"
     },
     {
-      "surface": "тов",
+      "surface": "טוב",
       "gloss": "яхшы"
     },
     {
-      "surface": "ваэт",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
       "marks": "җирне"
     },
     {
-      "surface": "hаарец",
+      "surface": "הארץ",
       "gloss": "җирне"
     },
     {
-      "surface": "ки",
+      "surface": "כי",
       "gloss": "чөнки"
     },
     {
-      "surface": "наама",
+      "surface": "נעמה",
       "gloss": "аныклы"
     },
     {
-      "surface": "вайет",
+      "surface": "ויט",
       "gloss": "иеп"
     },
     {
-      "surface": "шхамо",
+      "surface": "שכמו",
       "gloss": "җилкәсен"
     },
     {
-      "surface": "лисбол",
+      "surface": "לסבל",
       "gloss": "йөк күтәрергә"
     },
     {
-      "surface": "вайхи",
+      "surface": "ויהי",
       "gloss": "булды"
     },
     {
-      "surface": "лемас",
+      "surface": "למס",
       "gloss": "салым түләүче"
     },
     {
-      "surface": "овед",
+      "surface": "עבד",
       "gloss": "кол"
     }
   ],
