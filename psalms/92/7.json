@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "tt",
   "chapter": 92,
-  "translation": "Хайван кеше буны белми, һәм ахмак буны аңламый —",
+  "translation": "Милты ише белми, һәм ахмак буны аңламый —",
   "tokens": [
     {
       "surface": "איש",
-      "gloss": "кеше"
+      "gloss": "иш"
     },
     {
       "surface": "בער",
-      "gloss": "хайван"
+      "gloss": "милты"
     },
     {
       "surface": "לא",
-      "gloss": "не"
+      "gloss": "түгел"
     },
     {
       "surface": "ידע",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "не"
+      "gloss": "түгел"
     },
     {
       "surface": "יבין",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "זאת",
-      "gloss": "буны"
+      "gloss": "бу"
     }
   ],
-  "timestamp": "2026-10-05T00:58:17.659114942Z",
+  "timestamp": "2026-10-05T03:23:10.156566667Z",
   "model": "glm-5.3"
 }

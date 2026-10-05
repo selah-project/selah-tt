@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "tt",
+  "chapter": 40,
+  "translation": "Һәм Яһвә давылдан ⟨את⟩ Ийовка җавап бирде һәм әйтте:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "җавап бирде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ийов"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "дан"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "давыл"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    }
+  ],
+  "timestamp": "2026-10-05T03:28:58.840887107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Хикмәт тышта кычкыра, киң урыннарда үз тавышын бирә.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Хикмәт"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "тышта"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "кычкыра"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "киң урыннарда"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бирә"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "үз тавышын"
+    }
+  ],
+  "timestamp": "2026-10-05T03:23:44.840700135Z",
+  "model": "glm-5.3"
+}

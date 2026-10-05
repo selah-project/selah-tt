@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 11:11",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 11,
+  "translation": "Әмма җир, сез анда күчеп үтәсез аны тотарга, — таулар һәм үзәннәр иле, күкнең яңгырыннан су эчә.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "әмма җир"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сез"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "күчеп үтәсез"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "аны тотарга"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "иле"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "таулар"
+    },
+    {
+      "surface": "ובקעת",
+      "gloss": "һәм үзәннәр"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "яңгырыннан"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күкнең"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "эчә"
+    },
+    {
+      "surface": "מים",
+      "gloss": "су"
+    }
+  ],
+  "timestamp": "2026-10-05T03:09:35.984059441Z",
+  "model": "glm-5.3"
+}

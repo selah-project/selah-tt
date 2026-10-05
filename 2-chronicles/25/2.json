@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "tt",
+  "chapter": 25,
+  "translation": "Һәм ул Яһвә күзләрендә турыны эшләде, тик тулы йөрәк белән түгел.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "һәм ул эшләде"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "турыны"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "күзләрендә"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "רק",
+      "gloss": "тик"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "йөрәк белән"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "тулу"
+    }
+  ],
+  "timestamp": "2026-10-05T03:27:03.720766088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 17,
+  "translation": "Тәнбия аңлы кешегә төшәр, акмакка йөз сукмактан дәүрәк.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "төшәр"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "тәнбия"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "аңлы кешегә"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "сукмактан"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "акмакка"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "йөз"
+    }
+  ],
+  "timestamp": "2026-10-05T03:23:44.956855765Z",
+  "model": "glm-5.3"
+}

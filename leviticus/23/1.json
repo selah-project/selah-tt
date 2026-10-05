@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "tt",
   "chapter": 23,
-  "translation": "Һәм Яһвә Мошеga сөйләде, әйтеп:",
+  "translation": "Һәм Яһвә Мошега сөйләде, әйтеп:",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "һәм сөйләде"
+      "gloss": "сөйләде"
     },
     {
       "surface": "יהוה",
@@ -17,17 +17,17 @@
     },
     {
       "surface": "אל",
-      "gloss": "га"
+      "gloss": "…га"
     },
     {
       "surface": "משה",
-      "gloss": "Моше"
+      "gloss": "Мошега"
     },
     {
       "surface": "לאמר",
       "gloss": "әйтеп"
     }
   ],
-  "timestamp": "2026-10-04T22:03:15.483872781Z",
+  "timestamp": "2026-10-05T03:06:17.312632823Z",
   "model": "glm-5.3"
 }

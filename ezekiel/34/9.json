@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "tt",
+  "chapter": 34,
+  "translation": "Шуңа күрә, көтүчеләр, Яһвә сүзен тыңлагыз.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Шуңа күрә"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "көтүчеләр"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "тыңлагыз"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүзен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    }
+  ],
+  "timestamp": "2026-10-05T03:20:50.527394296Z",
+  "model": "glm-5.3"
+}

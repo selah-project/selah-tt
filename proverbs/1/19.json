@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 1,
+  "translation": "Шулай ук һәр бәцаә талаучының юллары — ⟨ул⟩ ⟨את⟩ үз хуҗасының җанын ала.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Шулай ук"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "юллары"
+    },
+    {
+      "surface": "כל",
+      "gloss": "һәр"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "бәцаә талаучының"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "бәцаə"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үз хуҗасының җанын"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "җанын"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "үз хуҗасының"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ала"
+    }
+  ],
+  "timestamp": "2026-10-05T03:23:44.840448755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 8,
+  "translation": "пән ашарсың һәм тукарсың, яхшы өйләр төзәрсең һәм аларда яшәрсең.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "пән"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ашарсың"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "һәм тукарсың"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "һәм өйләр"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "яхшы"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "төзәрсең"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "һәм яшәрсең"
+    }
+  ],
+  "timestamp": "2026-10-05T03:09:33.072936721Z",
+  "model": "glm-5.3"
+}

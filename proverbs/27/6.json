@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 27:6",
+  "book": "proverbs",
+  "lang": "tt",
+  "chapter": 27,
+  "translation": "Яратучының яралары тугры, ә дошманның үбүләре мул.",
+  "tokens": [
+    {
+      "surface": "נאמנים",
+      "gloss": "тугры"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "яралары"
+    },
+    {
+      "surface": "אוהב",
+      "gloss": "яратучының"
+    },
+    {
+      "surface": "ונעתרות",
+      "gloss": "мул"
+    },
+    {
+      "surface": "נשיקות",
+      "gloss": "үбүләре"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "дошманның"
+    }
+  ],
+  "timestamp": "2026-10-05T03:23:47.323363686Z",
+  "model": "glm-5.3"
+}
