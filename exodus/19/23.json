@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "⟨идең⟩",
+      "rationale": "Татар теленә хәбәр өчен тәмамлык кушымчасы өстәлде, яһүдчәдә юк"
+    },
+    {
+      "kind": "substitution",
+      "subject": "шаһитлек итеп боердıң",
+      "rationale": "העדתה — 'кабатлап әйтеп, шаһитлек итеп кисаттең'; татарча бер генә төгәл сүз юк"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגבל",
+      "rationale": "'Тавына чик билгелә' (гранича билгелә) — яһүдчә 'канат кебек бораулап чик салу' дигән сурәт"
+    }
+  ],
+  "translation": "Һәм Моше Яһвәгә әйтте: Халык Синай тавына менә алмый, чөнки Син безгә шаһитлек итеп боерган идең: тавына чик билгелә һәм аны изгеләндер.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "d3f8c58ce946d810c85bb639329856b761441c47b4524f33bdf3d4f6dc20c92e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/exodus\/19\/23-23.1791264347042.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…мый"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ала"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халык"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "менәргә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тау"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Син"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "шаһитлек итеп боердıң"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "диеп"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "чик билгелә"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тавы"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тавы"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "һәм аны изгеләндер"
+    }
+  ],
+  "timestamp": "2026-10-06T05:25:47.044675009Z",
+  "model": "glm-5.3"
+}

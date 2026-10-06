@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "tt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל תמעיטי",
+      "rationale": "Литерально: 'азайту түгел' — ‘аз итмә’, ягъни күп савыт өен дигәнне аңлата."
+    },
+    {
+      "kind": "crux",
+      "subject": "שאלי",
+      "rationale": "'Сора' — ‘үтенеп ал\/бурычка ал’ дигән урында тәрҗемәчеләр бүленгән (KJV 'borrow', BSB 'ask')"
+    },
+    {
+      "kind": "you",
+      "subject": "тол хатынга",
+      "rationale": "Элиша боерыгы турыдан-туры аңа әйтелгән, хатын-кыз җөмлә формалары (לכי, שאלי, תמעיטי)."
+    }
+  ],
+  "translation": "Һәм ул әйтте: Бар, үзеңә читтән, бөтен күршеләреңнән ⟨את⟩ буш савыт-савытлар сорап ал, азайтып түгел.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "740f3a2fca15228766fb9a17845819e267ff0d6a53893a001a8e557236a2f78c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/2-kings\/4\/3-3.1791264361801.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Һәм ул әйтте"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "sorap ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "үзеңә"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "савыт-савытлар"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−дан"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "читтән"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "буш савыт-савытлар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "күршеләреңнән"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "савыт-савытлар"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "буш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ма"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "азайтып"
+    }
+  ],
+  "timestamp": "2026-10-06T05:26:01.804949751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "тикшермәсмен",
+      "rationale": "אפקד — 'карып җитү\/җавап бирү': тикшерүме, җазаламымы, хисап сорамымы — тәрҗемәчеләр бүленә"
+    },
+    {
+      "kind": "substitution",
+      "subject": "минем җаным",
+      "rationale": "נפשי — җан\/тән җаны, түгел; 'җаным' иң якын татарча форма"
+    }
+  ],
+  "translation": "Болар өченме аларны тикшермәсмен, — Яһвә сүзе; әгәр андый халыктан үч алмаса минем җаным?",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "3b1e95491ef564e4abcd5d43592fd0d851fbda788754af57e54bdc9f48870583",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/jeremiah\/9\/7-8.1791264396349.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "болар өченме"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "болар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "тикшермәсмен"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аларны"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сүзе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אם",
+      "gloss": "әгәр"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "халыктан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кебек"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "андый"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгел"
+    },
+    {
+      "surface": "תתнקם",
+      "gloss": "үч алмаса"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "минем җаным"
+    }
+  ],
+  "timestamp": "2026-10-06T05:26:36.359029889Z",
+  "model": "glm-5.3"
+}

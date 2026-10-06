@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "каппорет",
+      "rationale": "הכפרет — Яратылыштагы 25:17 дәге өстәлекнең капкачы; татарча «каппорет» дип әйтелеш буенча калды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "керувим",
+      "rationale": "כרבים — керубим дигән сүзнең татарча язылышы, тәрҗемә ителми."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ике керувим",
+      "rationale": "Сан күрсәтелгән: ике фигура, каппоретның ике очы."
+    }
+  ],
+  "translation": "Һәм ике керувимны алтыннан эшләрсең, суккан эш белән эшләрсең ⟨аларны⟩, каппоретның ике очыннан.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "3903d9ecfa473bbc6d6817534f8fa918544fc81c41a14bd88d4b0353e8984ed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/exodus\/25\/18-18.1791264380530.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "һәм эшләрсең"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "керувим"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "суккан эш"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "эшләрсең"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларны (керувимнарны)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ике"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "очларыннан"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "каппорет"
+    }
+  ],
+  "timestamp": "2026-10-06T05:26:20.536874740Z",
+  "model": "glm-5.3"
+}

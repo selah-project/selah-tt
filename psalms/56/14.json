@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "Сорау рәвешендә ('коткармассыңмы?') ялынымы, әллә раслау ('шулай ук коткардың') — КЙВ сорау, BSB раслау."
+    },
+    {
+      "kind": "substitution",
+      "subject": "җан",
+      "rationale": "נפש — 'сулыш, тере көч', 'җан' түгел идеаль тәңгәллек."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨тагын⟩",
+      "rationale": "הלא сорау\/раслау кисәткече; татарча аңлар өчен 'тагын' өстәлде."
+    }
+  ],
+  "translation": "Чөнки Син ⟨את⟩ җанымны үлемнән коткардың, ⟨тагын⟩ аякларымны егылыудан, Элоһим йөзендә, тереләр яктысында йөрү өчен.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "098d8e15d3cef2d415d26b18fe89ceb1d30b996c29031ad7db1a12441e73b8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/psalms\/56\/14-14.1791264344725.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "Син коткардың"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "җанымны"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "үлемнән"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨тагын⟩"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "аякларымны"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "егылыудан"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "йөрү өчен"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "йөзендә"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "באור",
+      "gloss": "яктысында"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "тереләр"
+    }
+  ],
+  "timestamp": "2026-10-06T05:25:44.728435846Z",
+  "model": "glm-5.3"
+}

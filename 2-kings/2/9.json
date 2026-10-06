@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 2:9",
+  "book": "2-kings",
+  "lang": "tt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "hebrew direct-preposition rendered as bare dative; tatar case suffix covers it"
+    },
+    {
+      "kind": "crux",
+      "subject": "пи шенаим",
+      "rationale": "'ики-авыз' (double mouth\/portion) — ике өлешме, ике тапкыр күбрәкме, өлкән угъл өлеше (башланган тәртип буенча) — тәрҗемәчеләр аерыла"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פי שנים",
+      "rationale": "literal 'авыз ике' — татарча 'ике-авыз' дип сакланды; 'өлеш' мәгънәсе татар укучысына ачык түгел"
+    },
+    {
+      "kind": "invitation",
+      "subject": "сора",
+      "rationale": "Элијаһу Элишаны ачык сорaуга чакыра"
+    }
+  ],
+  "translation": "Һәм булды, алар чыгып үткәч, Элијаһу Элишаға әйтте: Синең яннаңнан алынганчы мин сиңа нәрсә эшлим, сора. Һәм Элиша әйтте: Зинһар, рухыңнан ике-авыз миңа булсын.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "6e586b79570d3d35b8c7286761dd2f9465b33baab7103f58e018d31a9a2f1929",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/2-kings\/2\/9-9.1791264375590.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Һәм булды"
+    },
+    {
+      "surface": "כעברם",
+      "gloss": "алар үткәч"
+    },
+    {
+      "surface": "ואליהו",
+      "gloss": "Элијаһу"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "әйтте"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "сора"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нәрсә"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "эшлим"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "алдыннан"
+    },
+    {
+      "surface": "אלקח",
+      "gloss": "алынганчы"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "синең яннаңнан"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "булсын"
+    },
+    {
+      "surface": "נא",
+      "gloss": "зинһар"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ике-авыз"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ике"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "рухыңнан"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "миңа"
+    }
+  ],
+  "timestamp": "2026-10-06T05:26:15.596658911Z",
+  "model": "glm-5.3"
+}

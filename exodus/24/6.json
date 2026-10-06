@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чүлмәкләр",
+      "rationale": "אגנות — чукып уеп ясалган чүлмәкләр; татарча бер сүз белән төгәл туры килми"
+    },
+    {
+      "kind": "crux",
+      "subject": "сипте",
+      "rationale": "זרק: JPS 'чөеп ыргытты' — тәбәррик итеп түгү; KJV\/ASV 'сипте' — җилкәү"
+    }
+  ],
+  "translation": "Һәм Моше канның яртысын алды һәм аны чүлмәкләргә куйды, ә канның яртысын корбанлыкка сипте.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "16c6aa7c6ff2bc3b236a526c83360d4025f0c4493aece013161a6f16df925693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/exodus\/24\/6-6.1791264343312.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "яртысын"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "канның"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "куйды"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "чүлмәкләргә"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ә ... яртысын"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "канның"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "сипте"
+    },
+    {
+      "surface": "על",
+      "gloss": "өстенә"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "корбанлыкка"
+    }
+  ],
+  "timestamp": "2026-10-06T05:25:43.314514569Z",
+  "model": "glm-5.3"
+}

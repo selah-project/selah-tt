@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 37:18",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בית הכלא",
+      "rationale": "TUÇ 'төрмә йорты' — бирелгән сүзгә 'йорт' сүзе сакланды, татарча 'төрмә' дип тә әйтелә"
+    },
+    {
+      "kind": "substitution",
+      "subject": "салдыгыз",
+      "rationale": "נתתם 'бирдегез' — татарча 'салдыгыз' (төрмәгә салу) табигыйрак"
+    }
+  ],
+  "translation": "Һәм Йирмәяһу патша Цидкияһуга әйтте: Ни гөнаһ кылдым сиңа, һәм хезмәтчеләреңә, һәм бу халыкка, чөнки сез мине төрмә йортына салдыгыз?",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "248b3ac8201947199cd4e54ede8710c1ea295cafc633a2b9e1ea0c79cf7de4c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/jeremiah\/37\/18-18.1791264356311.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "һәм әйтте"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмәяһу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "патша"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патшага"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкияһуга"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "гөнаһ кылдым"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сиңа"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "һәм хезмәтчеләреңә"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "һәм халыкка"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "נתתם",
+      "gloss": "салдыгыз"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ мени",
+      "marks": "мени"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йортына"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "төрмә"
+    }
+  ],
+  "timestamp": "2026-10-06T05:25:56.317831955Z",
+  "model": "glm-5.3"
+}

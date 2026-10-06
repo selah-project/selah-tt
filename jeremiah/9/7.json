@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 9:7",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "һөҗүм",
+      "rationale": "ארבו — 'аның кувылы\/тоткалыгы', яшерен көтү торган урын; рольне түгел, рәсемне сакларга тырышылды"
+    },
+    {
+      "kind": "idiom",
+      "subject": "суюче ук",
+      "rationale": "חץ שוחט — хайван сыймаслык түгел, кырып салу укы; татарча хәтердә суюче ук дип калды"
+    }
+  ],
+  "translation": "Суюче ук — аларның теле, мәкер сөйләде аның авызы белән; тынычлыкны ⟨את⟩ үз иптәшенә сөйләр, ә үз эчендә аңа һөҗүм урнаштыра.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "3b1e95491ef564e4abcd5d43592fd0d851fbda788754af57e54bdc9f48870583",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/jeremiah\/9\/7-8.1791264396349.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חץ",
+      "gloss": "ук"
+    },
+    {
+      "surface": "שוחט",
+      "gloss": "суюче"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "аларның теле"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "мәкер"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "аның авызы белән"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынычлыкны"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үз иптәшенә"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "үз иптәшенә"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "сөйләр"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "ә үз эчендә"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "урнаштыра"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "һөҗүм"
+    }
+  ],
+  "timestamp": "2026-10-06T05:26:36.355480907Z",
+  "model": "glm-5.3"
+}

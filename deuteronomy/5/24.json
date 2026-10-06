@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 5:24",
+  "book": "deuteronomy",
+  "lang": "tt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "вәхаи — һәм ул исән кала",
+      "rationale": "Борьба: 'кеше тере кала' (димәк, гаҗәп), яки шартлы 'тере кала икән' (KJV\/BSB аерыла)."
+    },
+    {
+      "kind": "elision",
+      "subject": "את (һөҗҗәт түгел, 'белән' предлогы)",
+      "rationale": "Бу את (H854) — 'белән' предлогы, DOM билгесе түгел; ⟨את⟩ итеп сакланмый."
+    }
+  ],
+  "translation": "Һәм сез әйттегез: Менә, Яһвә Элоһимебез безгә ⟨את⟩ Үз данын һәм ⟨את⟩ Үз бөеклеген күрсәтте, һәм ⟨את⟩ Аның тавышын ут эченнән ишеттек; бүген без күрдек, чөнки Элоһим кеше ⟨את⟩ белән сөйләшә — һәм ул исән кала.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "6b27e523e7c7ac60ba1b5d4f45792c0027d4fade516556a720befd39c3c21113",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/deuteronomy\/5\/24-24.1791264366240.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמרו",
+      "gloss": "һәм сез әйттегез"
+    },
+    {
+      "surface": "הן",
+      "gloss": "менә"
+    },
+    {
+      "surface": "הראנו",
+      "gloss": "безгә күрсәтте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоһимебез"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Үз данын"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "Үз данын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Үз бөеклеген"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "Үз бөеклеген"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "һәм ⟨את⟩",
+      "marks": "Аның тавышын"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "Аның тавышын"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ишеттек"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "эченнән"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ут"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүген"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "без күрдек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнка"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "сөйләшә"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоһим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ белән"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "кеше"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "һәм ул исән кала"
+    }
+  ],
+  "timestamp": "2026-10-06T05:26:06.247692864Z",
+  "model": "glm-5.3"
+}

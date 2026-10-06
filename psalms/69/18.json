@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "tt",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тар",
+      "rationale": "צר literally 'cramped\/narrow'; 'distress' is the figurative role, the spatial picture is kept"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ул⟩",
+      "rationale": "Tatar requires a subject pronoun Hebrew omits"
+    },
+    {
+      "kind": "you",
+      "subject": "Яһвәгә",
+      "rationale": "direct plea of the psalmist to God as servant to master"
+    }
+  ],
+  "translation": "Һәм колыңнан йөзеңне яшермә, чөнки миңа тар ⟨ул⟩; ашык, миңа җавап бир.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "857f0a3175b2830c2a493144c91a56e78110124e814269cad2fa03ce873b711a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/psalms\/69\/18-18.1791264369209.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "һәм ... өчен"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "яшермә"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "йөзеңне"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "колыңнан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чөнки"
+    },
+    {
+      "surface": "צר",
+      "gloss": "тар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миңа"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ашык"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "миңа җавап бир"
+    }
+  ],
+  "timestamp": "2026-10-06T05:26:09.212739970Z",
+  "model": "glm-5.3"
+}

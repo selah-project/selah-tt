@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 9:14",
+  "book": "ezra",
+  "lang": "tt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התעבות",
+      "rationale": "KJV\/JPS 'the peoples that do these abominations' (verb interpretation) vs literal 'peoples of the abominations'; татарча тугры тәрҗемәдә генә тотылды."
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד כלה",
+      "rationale": "'хәтле бетерүгә кадәр' — бетерү фигыле татарча хәл фигыле итеп бирелде."
+    },
+    {
+      "kind": "you",
+      "subject": "Эзраның тавышы",
+      "rationale": "Гыйбадәт китерүче Эзра Яһвәгә мөрәҗәгать итә (контекст буенча)."
+    }
+  ],
+  "translation": "Әйтергә кирәкме, без яңадан кайтып Синең боерыкларыңны бозарга һәм бу жиркенечле халыклар белән туганлашырғамы? Әллә Син безгә ачуланмассыңмы — бөтенләй беткәнче, бер калдык та, бер котылу да калмаслык?",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "5721f68f99f9b79a2b45eb72ded5d2adee249144ca8fa4291830cdb587a1da46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/ezra\/9\/14-14.1791264397555.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנשוב",
+      "gloss": "кайтырgamы"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "бозарга"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "боерыкларыңны"
+    },
+    {
+      "surface": "ולהתחתן",
+      "gloss": "һәм туганлашырга"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "халыклар белән"
+    },
+    {
+      "surface": "התעבות",
+      "gloss": "жиркенечле"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "әллә... түгел"
+    },
+    {
+      "surface": "תאнף",
+      "gloss": "ачуланмассыңмы"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "безгә"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хәтле"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "бөтенләй беткәнче"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "юк"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "калдык"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "һәм котылу"
+    }
+  ],
+  "timestamp": "2026-10-06T05:26:37.560810939Z",
+  "model": "glm-5.3"
+}

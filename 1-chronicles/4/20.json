@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 4:20",
+  "book": "1-chronicles",
+  "lang": "tt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "генеалогия",
+      "rationale": "Тукумы исемлекләре — үлчәү predicates буенча саналу корылы."
+    }
+  ],
+  "translation": "Һәм Шимонның уллары: Амнон, Ринна, Бен-Һанан һәм Тулон; һәм Йишиның уллары: Зохет һәм Бен-Зохет.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "8d215cc8c379b01f4b87293f7477f5ebbb26d2a6279b362710eb27c1b925dfbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/1-chronicles\/4\/20-20.1791264386316.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "һәм ... уллары"
+    },
+    {
+      "surface": "שימון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Амнон"
+    },
+    {
+      "surface": "ורנה",
+      "gloss": "һәм Ринна"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Һанан"
+    },
+    {
+      "surface": "ותולון",
+      "gloss": "һәм Тулон"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "һәм ... уллары"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Йиши"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "Зохет"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "һәм Бен-"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "Зохет"
+    }
+  ],
+  "timestamp": "2026-10-06T05:26:26.321081919Z",
+  "model": "glm-5.3"
+}

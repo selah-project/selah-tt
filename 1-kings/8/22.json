@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 8:22",
+  "book": "1-kings",
+  "lang": "tt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "каратып",
+      "rationale": "ивритта 'күкләргә таба' дигән яктыртучы сүз юк, татарча ачыклык өчен өстәлде"
+    },
+    {
+      "kind": "substitution",
+      "subject": "корбан",
+      "rationale": "מזבח — 'корбан утыртылган урын'; татарча бер сүз белән 'корбан' дип алынды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השמים",
+      "rationale": "күк сүзе икелек (dual) формада — 'күкләр'; татарча 'күкләргә' дип сакланды"
+    }
+  ],
+  "translation": "Һәм Шеломоһ Яһвәнең корбан алдында, бөтен Йисраэл җыены каршында басып торды һәм кулучыкларын күкләргә каратып җәйде.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "50267ebda67ca6f48e7d1e87a895770b2493b2942563212d0c0fb9da60483b34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/1-kings\/8\/22-22.1791264353918.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "басып торды"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоһ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "корбан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвәнең"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "каршында"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бөтен"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "җыены"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "җәйде"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "кулучыкларын"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "күкләргә"
+    }
+  ],
+  "timestamp": "2026-10-06T05:25:53.924144145Z",
+  "model": "glm-5.3"
+}

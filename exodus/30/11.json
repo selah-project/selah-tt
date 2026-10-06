@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "tt",
+  "chapter": 30,
+  "translation": "Һәм Яһвә Мошега сөйләде, әйтеп:",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "1832392c0567406345f25c422bffcfadad1e50bfbe0cf31312bcf354e90acf23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/exodus\/30\/11-11.1791264340785.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сөйләде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-гә"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-06T05:25:40.786751374Z",
+  "model": "glm-5.3"
+}

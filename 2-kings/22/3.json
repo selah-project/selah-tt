@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 22:3",
+  "book": "2-kings",
+  "lang": "tt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "оныгын",
+      "rationale": "ивелә булмаган икенче בן өчен татарча «оныгын» кулланылды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "унсигезенче ел",
+      "rationale": "патшалык еллары исәпкә алына"
+    }
+  ],
+  "translation": "Һәм Йошияһу патшаның унсигезенче елында булды: патша язучы Шафанны, Ацальяһу улын, Мешуллам оныгын, Яһвә йортына җибәрде, әйтеп:",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "9e9c0809985971640ae13d206ab1be068d6ecc9c3b0f2330cc79576bdd5d6a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/2-kings\/22\/3-3.1791264355285.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "һәм булды"
+    },
+    {
+      "surface": "בשמנה",
+      "gloss": "сигезенче"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "елында"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "патшаның"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошияһу"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "җибәрде"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "патша"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шафанны"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улын"
+    },
+    {
+      "surface": "אצליהו",
+      "gloss": "Ацальяһу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "оныгын"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешуллам"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "язучы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "йортына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    }
+  ],
+  "timestamp": "2026-10-06T05:25:55.291663438Z",
+  "model": "glm-5.3"
+}

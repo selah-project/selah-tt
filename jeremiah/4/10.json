@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 4:10",
+  "book": "jeremiah",
+  "lang": "tt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השא השאת",
+      "rationale": "נשא — 'алдадың' (KJV, JPS) versus YLT 'оныттың'; инфинитив абсолют белән катал: 'тәмам алдадың'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "җан",
+      "rationale": "נפש — 'җан\/сулыш\/терелек'; 'җан' якын, ләкин тамыр мәгънәсе — сулыш алу терелеге."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השא השאת",
+      "rationale": "Инфинитив абсолют + фигыль тезмәсе: 'алдаудан алдадың' — көчәйтү, татарча 'тәмам алдадың' белән бирелде."
+    }
+  ],
+  "translation": "Һәм мин әйттем: Аһ, Адонай Яһвә! Чынлап та, тәмам алдадың ⟨את⟩ бу халыкны һәм Йерушалаимны, әйтеп: Сезгә тынычлык булыр, — ә кылыч җанга җитә.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "421b8b49ff3722bd5cfeebdaeab5b92a9df6ba27c6e9c6037e1826cab19157d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/jeremiah\/4\/10-10.1791264350238.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Һәм мин әйттем"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Аһ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яһвә"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "чынлап та"
+    },
+    {
+      "surface": "השא",
+      "gloss": "алдауҙан"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "алдадың"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "халыкка"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бу"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "һәм Йерушалаимга"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "әйтеп"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынычлык"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "булыр"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сезгә"
+    },
+    {
+      "surface": "ונגעה",
+      "gloss": "һәм җитә"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хәтле"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "җан"
+    }
+  ],
+  "timestamp": "2026-10-06T05:25:50.240816346Z",
+  "model": "glm-5.3"
+}

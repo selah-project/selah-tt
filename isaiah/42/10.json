@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "tt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "җырлагыз",
+      "rationale": "Күмәк боерык белән чакыру: бөтен җир, диңгез һәм утраулар Яһвәгә яңа җыр җырларга чакырыла."
+    },
+    {
+      "kind": "substitution",
+      "subject": "утраулар",
+      "rationale": "איים — 'яшәүгә яраклы урын, яр буйлары'; татарча 'утраулар' таррак, әмма гадәти әдәби сайланыш."
+    }
+  ],
+  "translation": "Яһвәгә яңа җыр җырлагыз, Аның мактауы җирнең чигеннән: диңгезгә төшүчеләр һәм аның тулылыгы, утраулар һәм аларның яшәүчеләре.",
+  "provenance": {
+    "system-sha256": "3dea1dce527763d8c886eedb3b211e59b5ffe0dbe7e725e5c989709538336afc",
+    "user-sha256": "4a62f18cea52a3ebbd03a8bafbbb02f2bc7636f77efb43461ecddd7fa9b9d372",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/tt\/isaiah\/42\/10-10.1791264361010.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "җырлагыз"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яһвәгә"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "җыр"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "яңа"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "Аның мактауы"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "чигеннән"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "җирнең"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "төшүчеләр"
+    },
+    {
+      "surface": "הים",
+      "gloss": "диңгезгә"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "һәм аның тулылыгы"
+    },
+    {
+      "surface": "איים",
+      "gloss": "утраулар"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "һәм аларның яшәүчеләре"
+    }
+  ],
+  "timestamp": "2026-10-06T05:26:01.015713813Z",
+  "model": "glm-5.3"
+}
