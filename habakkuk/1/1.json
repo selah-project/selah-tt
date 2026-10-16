@@ -5,7 +5,7 @@
   "book": "habakkuk",
   "lang": "tt",
   "chapter": 1,
-  "translation": "Йөк — Хәбәккүк пәйгамбәр күргән авырлык.",
+  "translation": "Йөк — Хәбәккүк нәби күргән авырлык.",
   "tokens": [
     {
       "surface": "המשא",
@@ -25,9 +25,16 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пәйгамбәр"
+      "gloss": "нәби"
     }
   ],
   "timestamp": "2026-10-05T00:35:52.124619041Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пәйгамбәр": "нәби"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tt",
   "chapter": 29,
-  "translation": "Чөнки сез әйттегез: Яһвә безгә Бабилдә пәйгамбәрләр китәрде.",
+  "translation": "Чөнки сез әйттегез: Яһвә безгә Бабилдә нәбиләр китәрде.",
   "tokens": [
     {
       "surface": "כי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "пәйгамбәрләр"
+      "gloss": "нәбиләр"
     },
     {
       "surface": "בבלה",
@@ -37,5 +37,12 @@
     }
   ],
   "timestamp": "2026-10-04T23:57:45.797442700Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пәйгамбәрләр": "нәбиләр"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

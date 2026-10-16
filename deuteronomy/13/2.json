@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "tt",
   "chapter": 13,
-  "translation": "Әгәр силәр арасыгызда пәйгамбәр яки төш күрүче торып, сиңа билге яки могҗиза бирсә,",
+  "translation": "Әгәр силәр арасыгызда нәби яки төш күрүче торып, сиңа билге яки могҗиза бирсә,",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "пәйгамбәр"
+      "gloss": "нәби"
     },
     {
       "surface": "או",
@@ -57,5 +57,12 @@
     }
   ],
   "timestamp": "2026-10-04T22:24:52.460879466Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пәйгамбәр": "нәби"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

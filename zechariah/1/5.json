@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "tt",
   "chapter": 1,
-  "translation": "Аталарыгыз — алар кайда? Ә пәйгамбәрләр мәңге яшиләрме?",
+  "translation": "Аталарыгыз — алар кайда? Ә нәбиләр мәңге яшиләрме?",
   "tokens": [
     {
       "surface": "אבותיכם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והנבאים",
-      "gloss": "Ә пәйгамбәрләр"
+      "gloss": "Ә нәбиләр"
     },
     {
       "surface": "הלעולם",
@@ -33,5 +33,12 @@
     }
   ],
   "timestamp": "2026-10-05T00:37:43.847587729Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пәйгамбәрләр": "нәбиләр"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tt",
   "chapter": 29,
-  "translation": "Һәм каһин Цефанья бу ⟨את⟩ хатны пәйгамбәр Йирмәяһуның колагына укыды.",
+  "translation": "Һәм каһин Цефанья бу ⟨את⟩ хатны нәби Йирмәяһуның колагына укыды.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -42,9 +42,16 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пәйгамбәр"
+      "gloss": "нәби"
     }
   ],
   "timestamp": "2026-10-04T23:57:43.890060354Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пәйгамбәр": "нәби"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

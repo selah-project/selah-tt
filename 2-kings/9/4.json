@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "tt",
   "chapter": 9,
-  "translation": "Һәм яшь егет — яшь егет, пәйгамбәр — Рамот Гиладка китте.",
+  "translation": "Һәм яшь егет — яшь егет, нәби — Рамот Гиладка китте.",
   "tokens": [
     {
       "surface": "וילך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пәйгамбәр"
+      "gloss": "нәби"
     },
     {
       "surface": "רמת",
@@ -33,5 +33,12 @@
     }
   ],
   "timestamp": "2026-10-04T23:21:32.950707337Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пәйгамбәр": "нәби"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

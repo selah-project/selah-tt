@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "tt",
   "chapter": 28,
-  "translation": "Һәм Хананья пәйгамбәр шул ук елда, җиденче айда үлде.",
+  "translation": "Һәм Хананья нәби шул ук елда, җиденче айда үлде.",
   "tokens": [
     {
       "surface": "וימת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пәйгамбәр"
+      "gloss": "нәби"
     },
     {
       "surface": "בשנה",
@@ -37,5 +37,12 @@
     }
   ],
   "timestamp": "2026-10-04T23:56:10.266416746Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пәйгамбәр": "нәби"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }
